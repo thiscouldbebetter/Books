@@ -2,4 +2,10 @@ The plates for the following articles are of a different format than the majorit
 
 Bouchonnier
 Brasserie
+Charpenterie - Plate 10 is a duplicate of plate 9.  The original plate 10 seems to be missing.  The filenames for subsequent plates seem to be off by one.
+Charpenterie - The legend for the second set of plates, which should be 27-30, instead describes all the remaining plates, up to 51.
+Chimie - Link from umich.edu page to ARTFL is wrong.
+Draperie - Link from umich.edu page to ARTFL is wrong.
+
+
 
