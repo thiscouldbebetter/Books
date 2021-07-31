@@ -1,0 +1,35 @@
+
+Géométrie souterreine contenant une Planche.
+
+
+L'Usage & la description de la plupart des figures de cette Planche se trouvent à l'article de la Géométrie souterreine dans le septieme Volume de l'Encyclopédie.
+
+Fig. 1. Niveau ; c'est un demi-cercle de cuivre divisé en degrés & quarts de degrés, il s'adapte à la fig. 5.
+
+2. Boussolle dont la circonférence est divisée en vingt-quatre parties qu'on appelle heures.
+
+3. Plan du cadran de la même boussolle.
+
+4. Maniere de faire usage du niveau fig. 1. pour mesurer l'inclinaison de la ligne A C, ou l'angle C A B, qu'elle fait avec la verticale.
+
+5. Gemou ou support des instrumens fig. 1. & 2. Sa douille H reçoit le boulon d'un pié de graphometre.
+
+6. Instrument nommé trace-ligne, auquel on adapte la boussolle fig. 2. après l'avoir séparée de sa suspension.
+
+7. Profil d'une galerie. A B le bure ou puits dont il faut déterminer la profondeur, en se servant du niveau fig. 1. Les angles x C D, y D E seront mesurés avec cet instrument. On mesurera à la chaîne les hipothenuses C D, D E; & résolvant les triangles rectangles, on obtiendra les côtés verticaux C x, D y, qui étant ajoutés à la profondeur du puits, donneront la profondeur totale de la mine.
+
+8. Démonstration des triangles qu'il faut observer & résoudre pour déterminer la direction d'une galerie dans laquelle on ne peut pas faire usage de la boussolle, son aiguille étant troublée par l'action d'une mine de fer.
+
+9. Maniere de tracer une ligne droite a b à-travers un terrein impraticable, ou plutôt de trouver les deux extrémités & la direction à chaque extrémité de la ligne que l'on suppose traverser le terrein.
+
+10. Opérations à faire pour déterminer quel point de la surface de la terre répond au-dessus d'un point donné dans une des galeries souterreines de la mine.
+
+11. Fait voir la maniere de tracer une ligne droite sur un terrein inégal & incliné à l'horison.
+
+12. Maniere de tracer la communication d'une mine à une autre.
+
+13. Maniere de communiquer d'un point sur la surface de la terre à un point donné dans l'intérieur de la mine.
+
+14. Maniere de déterminer un point de la mine qui correspondra à un point donné au-dessus.
+
+15. Application des principes établis ci-dessus à un cas particulier.

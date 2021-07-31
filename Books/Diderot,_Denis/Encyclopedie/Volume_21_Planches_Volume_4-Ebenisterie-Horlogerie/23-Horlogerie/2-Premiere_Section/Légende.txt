@@ -1,0 +1,1152 @@
+
+
+PREMIERE SECTION.
+Comme la partie de l'Horlogerie a été successivement augmentée, & qu'il convenoit de rapprocher les unes des autres les Planches qui contiennent des matieres ou des ouvrages de même espece, on a pris le parti d'intercaler les nouvelles Planches dans les anciennes ; mais pour ne pas troubler l'ordre des numéros sous lesquels elles étoient citées, & par lesquels ces anciennes Planches sont fréquemment désignées dans l'Encyclopédie, on a coté les nouvelles du même numéro que les anciennes qu'elles suivent, en les distinguant par 1. suite, 2. suite, 3. suite, &c. de telle ou telle Planche ; & pour prévenir toute confusion, on a ajouté à chaque Planche un nouveau caractere ou une nouvelle signature à l'angle inférieur & extérieur de chacune, composée des lettres de l'alphabet dans leur ordre naturel, répétées autant de fois qu'il a été nécessaire, ainsi qu'il est marqué dans la table suivante.
+Numéros des Nouvelle cote ou Matiere que contiennent Planches. signature. les Planches. Pl. I. A. B. suite. Réevil. C. D. suite. Pl. II. E. 2. suite. Horloge horisontale. F. 3. suite. G. 4. suite. Pl. III. H. Pendule à ressort. Pl. IV. I. Pendule à secondes. Pl. V. K. Différens échappemens. Pl. VI. L. Pendule à quarts & répétition. Pl. VII. M. Développemens de la répétition. Pl. VIII. N. Pendule d'équation, de M.Julien le Roy. O. Cadrature de la pendule précédente. P. suite. Pendule à équation, par Dauthiau. Q. 2. suite. Pendule à équation, par M. Berthoud. R. 3. suite. Pendule à équation, par le sieur Rivaz. Pl. IX. S. 4. suite. Montre à équation, cadrature du sieur Rivaz. T. 5. suite. Pendule à équation & à secondes concentriques. V. 6. suite. Pendule à équation, par le sieur Amiraud. X. 7. suite. Pendule à équation, à cadran mobile, par M. Berthoud. Y. 8. suite. Pendule à équation, par le sieur le Bon. Z. 9. suite. Suite de la pendule de la Planche précédente. A A. Montre ordinaire & ses développemens. B B. suite. Montre à roue de rencontre. C C. 2. suite. Développemens de la montre à roue de rencontre. Pl. X. D D. 3. suite. Montre à réveil & montre à secondes concentriques, marquant les mois & les quantiemes. E E. 4. suite. Montre à répétition, à échappement, à cylindre. F F. 5. suite. Cadrature de la montre à répétition. G G. 6. suite. Montre à équation, à répétition, & à secondes concentriques. Pl. XI. H H. Différentes répétitions. Pl. XII. I I. Suspensions & différens outils. Pl. XIII. K K. Tour d'horloger & différens outils. Pl. XIV. L L. Différens outils. Pl. XV. M M. Différens outils. Pl. XVI. N N. Différens outils. Pl. XVII. O O. Différens outils. P P. Outil pour mettre les roues droites en cage. Pl. XVIII. Q Q. suite. Machine à tailler les fusées, par Renault de Chaalons. R R. 2. suite. Autre machine à tailler les fusées, par le sieur le Lievre. Pl. XIX. S S. Démonstrations des engrenages. Pl. XX. T T. Pl. XXI. V V. Machine à fendre les roues de montres & pendules, par le sieur Sulli. Pl. XXII. X X. Pl. XXIII. Y Y. Pl. XXIV. Z Z. Pl. XXV. A A A. Machine à fendre les roues de montres & pendules, par le sieur Hulot. Pl. XXVI. B B B. Pl. XXVII. C C C. Carillon en perspective. Pl. XXVIII. D D D. Développemens du carillon. Pl. XXIX. E E E. Pyrometre.
+
+
+L'Horlogerie peut être considérée comme étant la science des mouvemens ; car c'est par elle que le tems, l'espace, & la vîtesse, sont exactement mesurés, & par consequent toutes les sciences qui ont rapport au mouvement lui sont en quelque sorte subordonnées.
+
+Mais sans s'arrêter à cette dénomination générale, nous pouvons dire que l'objet principal & essentiel de l'Horlogerie est de diviser & subdiviser le tems en très-petites parties égales, & de les mesurer.
+
+Que l'utilité d'une mesure de tems se manifeste dans toutes les sciences ou arts qui ont pour objet le mouvement ; par exemple, dans l'Astronomie, pour annoncer le retour des astres sur l'horison, apprécier l'inégalité de leur course, & même perfectionner la Chronologie.
+
+C'est pour cela que les Horlogers ont imaginé les spheres mouvantes qui représentent l'etat du ciel, où tous les astres se meuvent dans le rapport de leur vîtesse relative pour un grand nombre d'années. Voyez Sphere mouvante.
+
+Dans la Navigation, pour mesurer la vîtesse du vaisseau, & déterminer sa route. Voyez Loch, & l'article Sillage.
+
+Dans la Méchanique, pour distribuer à propos & avec économie la force, & le tems qu'elle emploie dans les machines pour produire les plus grands effets, voyez Méchanique, où l'on perd toujours en tems ce que l'on gagne en force.
+
+C'est par le moyen d'une mesure du tems que l'on peut juger de l'intervalle toujours variable, qu'il y a du sommeil au réveil.
+
+Enfin si l'on parvient jamais à trouver la mesure du tems sur mer comme sur terre, le fameux problème des long tudes sera résolu, & la Navigation, comme la Géographie, sera perfectionnée.
+
+L'Horlogerie emploie diverses machines pour mesurer le tems ; les plus connues sont les pendules & les montres.
+
+L'on pourroit y comprendre bien d'autres machines qu'on a faites pour mesurer le tems par le moyen de l'eau, de l'air, du feu, & de la terre, &c. On peut voir sur cela le Traité des horloges élementaires de Dominique Martinelli Spolette, italien, imprimé à Venise en 1663, traduit en françois.
+
+Mais comme tous ces moyens sont imparfaits, en comparaison de ceux qu'on emploie dans les pendules & dans les montres, on les a tous abandonnés, & par cette raison nous ne nous y arrêterons pas.
+
+Nous nous bornerons seulement à dire tout simplement & en abrégé, ce que c'est que l'Horlogerie ; ce qu'elle renferme d'essentiel ; comment elle divise & mesure le tems ; quelles sont les principales difficultés qu'elle trouve dans la pratique & dans la théorie ; enfin quelles sont aussi celles qui lui échappent, & qui jusqu'à présent n'ont pû lui être assujetties.
+
+Pour dire ce que c'est que l'Horlogerie, il faut commencer par ce qu'on y fait. Ainsi notre premier objet va être la pratique, qui consiste à forger, limer, tourner toutes sortes de matieres, à acquérir le coup-d'oeil juste pour juger avec intelligence de toutes les formes qu'on est obligé de donner à de certaines pieces, dont la délicatesse ne sauroit être soumise à aucune mesure ; ensorte qu'on ne doit entendre par bon praticien capable d'une bonne exécution, que celui qui peut joindre à un travail assidu des dispositions naturelles, comme une bonne vue, & un tact très-délicat.
+
+Les mains, les outils, les instrumens, les machines, sont tous moyens différens que les Horlogers emploient dans leurs ouvrages. Les mains commencent, les outils aident, les instrumens perfectionnent, & les machines abregent le tems.
+
+L'Horlogerie fait usage de tous les métaux. La premiere opération est de les forger pour les durcir : c'est ce que les Horlogers entendent par écrouir. Mais sans entrer dans le détail de ce que c'est que l'enclume & le marteau, je dirai que pour bien faire cette opération, il faut que la force des coups soit d'autant plus grande, que la matiere est plus molle & susceptible d'extension, & frapper les coups de marteau sur la piece, du centre à la circonférence, en diminuant la force des coups.
+
+L'usage & l'expérience du marteau donnent le sentiment qu'il faut avoir en tenant la piece à forger d'une main & le marteau de l'autre ; il faut, dis-je, que le sentiment des deux mains concoure à faire ensorte que chaque coup de marteau corresponde au point de contact ; & à sentir que toutes les parties soient également durcies, également tendues, & dans le même plan.
+
+L'or est de tous les métaux celui qui est le plus susceptible d'extension, néanmoins il peut se durcir & acquerir beaucoup d'élasticité; après lui l'argent, le cuivre, & l'étain. Le plomb ne m'a jamais paru se durcir au marteau, quelque précaution que j'aye pû prendre, & s'il montre quelque signe d'élasticité, c'est plutôt au sortir de la fonte qu'après avoir été forgé.
+
+L'Horlogerie n'emploie que peu de matieres pures. Le cuivre jaune qu'elle emploie ordinairement est un mélange de cuivre rouge avec la calamine fondus ensemble, nommé laiton.
+
+L'or, l'argent, sont aussi alliés avec du cuivre, ce qui procure à tous les métaux une qualité plus aisée pour les travailler : c'est par ce mélange que la matiere devient plus seche & moins grasse ; ce qui fait qu'elle se durcit plutôt au marteau, qu'elle se lime, perce, & coupe mieux.
+
+Le mercure n'étant point malléable, l'on ne s'en sert que pour dorer les ouvrages en en formant un amalgame avec de l'or pur.
+
+Le fer, cette noble & précieuse matiere, sans laquelle l'on ne tireroit point d'utilité d'aucune autre, est la base par laquelle tous les arts exercent leur empire.
+
+Tous les arts en font usage, & l'Horlogerie en particulier ne sauroit s'en passer. Aussi peut-on dire que cet art a plus contribué à perfectionner ce métal qu'aucun autre, par la précision, la dureté, la délicatesse qu'elle exige dans la plûpart de ses parties.
+
+L'on ne fait guere usage du fer pur que pour les grosses horloges ; mais pour l'horlogerie moyenne & en petit, il faut qu'il soit converti en acier. Il faut même pour cette derniere qu'il soit le plus parfait, sans quoi il est impossible de faire une bonne montre.
+
+Le fer converti en acier est très-différent des autres métaux ; car ayant la qualité commune de se durcir au marteau, il en a de plus une admirable & particuliere, celle de se durcir très-promptement par le moyen du feu : car si l'on fait chauffer vivement un morceau d'acier jusqu'à ce qu'il devienne d'un rouge couleur de charbon allumé, qu'on le retire, & qu'on le plonge subitement dans l'eau froide (alors c'est ce que l'on appelle de l'acier trempé) ; dans cet état il est si dur qu'il n'est plus possible de lui faire supporter le marteau ; il se casseroit & se briseroit comme du verre.
+
+Mais comme l'on a besoin de travailler l'acier après qu'il est trempé, on en diminue la dureté par le moyen suivant.
+
+On le blanchit en le frottant de pierre ponce, ou de telle autre capable de lui ôter la croute noire que la trempe lui a donnée. Ensuite on le met sur un feu doux, & à mesure que l'acier s'échauffe, il passe successivement d'une couleur à une autre dans l'ordre suivant: un jaune paille jusqu'à un plus foncé, rouge, violet, bleu, couleur d'eau ou verdâtre, jusqu'à grisâtre ou blanchâtre, après quoi l'on ne remarque plus rien dans sa couleur, qui reste sensiblement la même.
+
+Faire passer son acier par ces différentes couleurs que le feu lui donne, c'est ce qu'on appelle revenir ou donner du recuit ; ainsi jaune, rouge, violet, &c. sont des degrés de ramollissement plus ou moins grands, selon qu'on le desire, & suivant les effets auxquels on le destine.
+
+On appelle avoir trop fait revenir son acier, lorsqu'on le laisse passer de la couleur où on le souhaite à une des suivantes ; & lorsque la chaleur est assez grande pour lui faire passer toutes ses couleurs & reprendre celle de charbon allumé; si on le laisse refroidir, c'est ce qu'on appelle alors de l'acier récuit ou détrempé.
+
+Il y a plusieurs sortes d'acier qui different à la trempe. Les uns deviennent plus durs que d'autres par le même degré de chaleur ; de même aussi lorsqu'on veut leur donner du recuit ou ramollissement, il arrive que les uns le sont plus à la couleur jaune, que d'autres à la couleur bleue : d'où il suit que les bons praticiens qui veulent les connoître en font diverses épreuves.
+
+De même que l'on a besoin de durcir l'acier, il faut aussi quelquefois le rendre mou pour le travailler avec facilité, & cette opération consiste à le faire rougir lentement jusqu'à ce qu'il atteigne la couleur du charbon allumé; alors il faut le laisser refroidir & le feu s'éteindre, en se consumant le plus lentement aussi qu'il sera possible, & couvrant le tout de cendres.
+
+L'acier ayant donc la qualité de se durcir plus que les autres métaux, est celui par cette raison, qui acquiert le plus la qualité d'élastique : c'est pourquoi l'on en fait usage pour les ressorts de montres & de pendules ; & cette qualité leur tient lieu de poids pour les animer & les faire marcher. Voyez Ressort moteur.
+
+Quand on sait ainsi forger ou écrouir toutes sortes de matieres, il faut prendre une piece préparée par le marteau pour la limer & lui donner la figure dont on a besoin : cette opération a deux parties.
+
+La premiere, on met la piece à l'étau, & l'on prend une lime convenable, la tenant par les deux extrémités, la pointe de la main gauche & le manche de la main droite. On la pousse en l'appuyant sur l'ouvrage pour la faire mordre de la main droite sur la gauche, & on la retire sans appuyer. L'on continue alternativement jusqu'à ce qu'on ait ôté toute la matiere excédente à la figure que l'on veut donner.
+
+Pour bien limer il faut savoir faire prendre à la lime un mouvement rectiligne, sans lequel il est impossible de bien dresser un ouvrage. Ce mouvement rectiligne est si difficile, qu'il n'y a que la grande pratique qui le donne aux uns, tandis que d'autres le prennent presque naturellement.
+
+La seconde partie de l'opération requise pour bien limer est de prendre à la main la piece dégrossie, ou avec la tenaille. Alors la main droite tient la lime, & fait elle seule, toujours par un mouvement rectiligne, la fonction que les deux mains faisoient.
+
+Avoir le tact & le sentiment délicat pour produire ces mouvemens avec facilité sur de grandes comme sur de petites surfaces, c'est ce qu'on entend par bien manier la lime, & avoir une bonne main.
+
+A l'usage de la lime succede celui du tour. La piece qu'il faut tourner étant préparée pour être mise sur le tour, & l'archet étant ajusté pour faire tourner la piece, l'on présente l'instrument tranchant, en faisant ensorte que le point d'attouchement fasse à-peu-près un angle de quarante-cinq degrés sur le prolongement ou rayon sur lequel il agit.
+
+La délicatesse de la main pour bien tourner, consiste à savoir présenter son burin en faisant l'angle indiqué, de ne l'appuyer ni trop ni trop peu, lorsqu'il commence à couper, ce que l'expérience apprendra mieux que ce que l'on diroit ici.
+
+Enfin étant parvenu à savoir forger, limer, & tourner toutes sortes de matieres, l'on est en état de commencer une piece d'horlogerie.
+
+Pour-lors il en faut prendre une pour modele, la copier, en commençant par les pieces les plus aisées, & successivement finir par les plus difficiles. Voyez le développement d'une montre, Pl. X. & suivantes.
+
+On verra facilement que les pieces les plus aisées sont celles qui contiennent le moteur, & qui successivement communiquent jusqu'au régulateur, qui se trouve être la derniere & la plus difficile.
+
+Si après une suite de pratique & d'expériences l'on est enfin capable d'une exécution précise & délicate, alors seulement l'on peut commencer à raisonner avec son ouvrage & se faire une théorie.
+
+La théorie dont il est question est infiniment subtile, car elle tient à ce que les mathématiques ont de plus profond sur la science des mouvemens ; & ce qui la rend encore plus difficile, c'est qu'elle est dépendante d'une parfaite exécution, & qu'il n'y a rien de si difficile que de les réunir l'une & l'autre pour en faire une bonne application : par conséquent il est impossible de dire tout ce qu'il faudroit sur ce sujet. Nous nous bornerons donc à exposer les principes essentiels dont il est à propos de faire usage dans la mesure du tems.
+
+On distingue dans la nature deux sortes de quantité ; l'une qu'on nomme quantité continue, & qui n'est autre chose que l'espace ou l'étendue ; l'autre quantité successive, qui n'est autre chose que la durée ou le tems. Mais ces deux quantités très-distinctes en elles-mêmes, ont cependant une telle connexion entre elles, qu'on ne peut mesurer l'une que par le moyen de l'autre, leurs propriétés étant absolument les mêmes. En effet, on ne peut mesurer le tems qu en parcourant de l'espace ; & au contraire on ne peut mesurer de l'espace qu'en employant du tems à le parcourir. La comparaison de ces deux quantités fournit l'idée du mouvement : celui-ci renferme nécessairement celle d'une force ou cause du mouvement, par conséquent de l'espace parcouru, & d'un tems employé à le parcourir. Cest de ces deux dernieres idées qu'on tire celle de la vîtesse. L'on sait que la vîtesse est égale à l'espace divisé par le tems, ou le tems est le quotient de l'espace divisé par la vîtesse ; d'où il suit que le rapport inverse de l'espace à la vîtesse est la véritable mesure du tems. Si l'on conçoit un corps en mouvement, de telle sorte qu'il parcoure en tems égaux des espaces égaux sur une ligne droite, & qu'on divise cette ligne en parties égales, l'on aura bien des parties égales de tems ; mais pour peu que la vîtesse du corps fût sensible & que le tems à mesurer fût grand, il parcourroit bien-tôt une si grande étendue qu'elle seroit inapplicable à aucune machine ; de sorte qu'il faut substituer au mouvement rectiligne un mouvement circulaire, ou bien des portions circulaires répétées, tel qu'un poids suspendu qui décrit des arcs de cercle: & en rendant ces mouvemens alternatifs ou réciproques sur eux-mêmes, ils acquierent le nom de vibrations ou d'oscillations: de sorte qu'un corps qui parcourt le même espace en suivant ces mouvemens, n'a pas moins la propriété de mesurer le tems. Alors le tems sera égal à l'espace multiplié par le nombre des vibrations, ce qui est évidemment l'espace répété divisé par la vîtesse ; d'où il suit qu'on peut à la formule ordinaire du substituer celle-ci ; & par-conséquent on pourra tirer des vibrations toutes les analogies qu'on tire ordinairement de l'espace & du tems.
+
+Mais puisqu'il est question de mesurer le tems par le moyen des vibrations ou oscillations, il faut voir si dans la nature il n'y auroit point quelque moyen qui pût remplir cet objet, afin de le mettre en pratique: car l'on peut bien croire que les moyens qu'elle nous fournira seront infiniment plus parfaits, plus constans qu'aucuns de ceux qu'on pourroit retirer de l'art : il s'en présente de deux sortes, la pesanteur & l'élasticité.
+
+La pesanteur détermine les oscillations toutes les fois qu'on suspendra un corps à l'extrémité d'un fil, & que l'autre extrémité sera attachée à une voute ou à une hauteur quelconque. Le poids étant en repos tiendra le fil dans sa verticale, par-conséquent dans la direction de sa pesanteur ; & si par quelque moyen l'on retire le poids de la verticale & qu'on l'abandonne à la seule pesanteur, non-seulement elle le ramenera dans la verticale ou ligne de repos, elle le fera encore passer de l'autre côté & remonter à la même hauteur d'où il étoit descendu. Comme la pesanteur agira également dans la seconde oscillation comme dans la premiere, il suit qu'il continuera sans fin ses oscillations si rien ne s'oppose à son mouvement. Mais comme l'on ne peut faire faire ces oscillations que dans un milieu résistant, & que le point de suspension éprouve un frottement, il suit que les oscillations diminueront sensiblement d'étendue, & qu'enfin ce corps s'arrêtera : c'est pourquoi il faut avoir recours à une méchanique capable de lui renouveller le mouvement : c'est l'objet de l'échappement dans les pendules.
+
+Mais si la pesanteur nous fournit des oscillations pour les pendules, l'élasticité les fournira pour les montres. Car que l'on se représente une corde tendue, & qu'on vienne par quelque moyen à tirer cette corde de son repos, l'élasticité non-seulement la ramenera dans cette ligne, elle la fera encore passer de l'autre côté, & elle continuera ses allées & venues alternativement, en perdant sensiblement de l'étendue de ses vibrations, jusqu'à ce qu'enfin elle s'arrête. Si la puissance élastique étoit aussi constante que la pesanteur, & que rien ne s'opposât à son mouvement, la corde continueroit sans fin ses vibrations : mais le milieu qui resiste au poids, resiste également aux vibrations de la corde : nous faisons dans l'un & l'autre cas abstraction des frottemens.
+
+Les Physiciens ayant découvert les lois de la pesanteur, ont déterminé les tems où un corps suspendu, tel que le pendule simple, acheve une de ses oscillations. Voyez Accélération. De-là ils ont établi une théorie infiniment profonde, qui détermine tous les tems dans lesquels un corps suspendu à des hauteurs quelconques & de différente figure, acheve ses oscillations. Voyez sur cela l'ouvrage de M. Huyghens, sur le mouvement des pendules.
+
+Non seulement ils ont déterminé les tems des oscillations d'un corps qui parcourt des espaces égaux en tems égaux ; ils ont encore découvert la courbe, où un corps, en vertu de la pesanteur, peut parcourir des espaces très-inégaux, toujours en tems égaux. Voyez Cicloide & Brachystocrone.
+
+Enfin les Physiciens ont déterminé qu'un poids quelconque qui tombe par une chûte libre, en vertu de la pesanteur, emploie une seconde de tems à tomber de quinze piés, & que ce même corps suspendu à un fil de trois piés huit lignes & demie, emploie également une seconde à achever une de ses oscillations, ce qui sert de point fixe pour calculer tous les tems des différentes hauteurs d'où un corps peut descendre. Voyez Descente & Chute.
+
+De même que les Physiciens ont établi la théorie des oscillations des corps suspendus, ils ont aussi établi la théorie des vibrations des cordes tendues.
+
+L'on sait que les vibrations des cordes sont d'autant plus promptes qu'elles sont plus légeres, plus courtes, & que les forces ou les poids qui les tendent sont plus grands, & réciproquement elles sont d'autant plus lentes qu'elles ont plus de masse, de longueur, & que les forces ou poids qui les tendent sont moindres.
+
+La maniere d'ébranler les cordes soit qu'on les pince, soit qu'on les frotte, ne change rien au tems de leurs vibrations. Les espaces que la corde parcourt par les vibrations sont d'autant plus grands, que les vibrations sont plus lentes, & réciproquement.
+
+Il en est de même des balanciers avec leurs ressorts spiraux. Leurs vibrations sont d'autant plus promptes que le balancier est plus petit, qu'il a moins de masse, & que son ressort spiral est plus fort ; & réciproquement elles sont d'autant plus lentes que le balancier est plus grand, plus pesant, & son ressort spiral plus foible. La maniere d'ébranler les balanciers pour leur faire faire des vibrations ne change rien, ou presque rien, au tems de leurs vibrations.
+
+Les arcs que les balanciers décrivent par leurs vibrations sont d'autant plus grands qu'elles sont plus lentes, & réciproquement.
+
+L'on sait que la loi de la pesanteur fait les tems des oscillations des pendules, en raison inverse des racines quarrées des longueurs du pendule. L'on sait de même que, par la loi de l'élasticité, on détermine les tems des vibrations des cordes, en raison inverse de la racine quarrée des poids qui les tendent. Oi je trouve au balancier avec son spiral la même propriété qu'à la corde vibrante. Il s'ensuit donc qu'on peut avoir un régulateur élastique, comme le pendule l'est par la pesanteur. J'ai fait plusieurs comparaisons de la formule des cordes vibrantes avec celle du balancier ; mais comme ceci ne s'adresseroit qu'au géometre, il me convient d'autant plus de leur laisser le plaisir de suivre eux-mêmes ces comparaisons, qu'ils y peuvent mettre une élégance dont je ne me sens pas capable.
+
+La nature ayant donc fourni le moyen de mesurer de petites parties de tems avec une exactitude presque parfaite, il est de l'habileté de l'horloger de ne point s'en écarter & de savoir en faire usage sans troubler ni altérer l'uniformité de ses opérations.
+
+Mais un poids suspendu qui fait quelques oscillations s'arrêtera bien-tôt, si on ne cherche les moyens de l'entretenir en mouvement : c'est-là le point qui a donné aissance à l'Horlogerie.
+
+De très-simple que se trouvoit la mesure du tems, elle va devenir très-compliquée, & par-conséquent d'autant moins exacte,
+
+1°. Que le méchanisme qui agit sur le pendule sera moins parfait pour entretenir la constance dans l'étendue, les arcs qu'il peut décrire étant abandonnés à sa seule pesanteur.
+
+2°. Que l'on multipliera le poids & les roues pour faire aller plus long-tems les pendules sans avoir besoin de les monter.
+
+3°. Que l'on voudra leur faire faire le plus d'effets, comme de sonner les heures & les quarts, de montrer les variations du soleil, le quantieme du mois, de la lune, &c.
+
+Malgré toutes ces multiplications d'effets, une pendule qui est animée par le moyen d'un poids, & qui est reglée par un pendule qui bat les secondes, mesure encore le tems avec beaucoup d'exactitude. Mais cette justesse est bien-tôt altérée, lorsque pour quelques commodités d'ornemens, l'on vient à supprimer les poids & raccourcir le pendule au point de ne lui faire battre que les demies, les tiers ou quarts de secondes, &c. telles sont les pendules d'appartement.
+
+Par une suite de commodités, l'on a bien-tôt voulu porter la mesure du tems dans la poche : voilà l'origine des montres. Mais combien n'a-t-on pas perdu de la justesse & de la précision?
+
+Au pendule qui faisoit ses oscillations en vertu de la pesanteur (voyez Régulateur), on a substitué un balancier avec son ressort spiral infiniment moins régulier. Voyez Vibration.
+
+Au poids constant qui entretenoit le pendule en mouvement, l'on a substitué un ressort sujet à mille imperfections, à casser, à se rendre, & à des inégalités auxquelles on ne remédie qu'en partie. Voyez Ressort moteur.
+
+Au poids constant des pendules en place dans la position la plus avantageuse pour toute la méchanique des mouvemens, & dans une température à-peu près egale, l'on substitue alternativement de les porter par toutes sortes de secousses, & de les mettre en repos dans différentes positions & températures.
+
+Enfin à une exécution aisée on en a substitué une infiniment difficile, & l'on peut dire que les obstacles se multiplient ici autant que le volume des montres diminue, & que leur composition augmente. V. Montre.
+
+Mais ne peut-on pas faire cette question? Si l'exécution & la théorie des montres est si difficile, pourquoi en voit-on quelquefois de mal faites qui vont bien, tandis que l'on en voit de bien faites qui vont mal? C'est une vérité qu'il n'est pas possible de révoquer en doute, & qui mérite un éclaircissement, moins pour l'honneur des artistes que pour la honte des ignorans.
+
+L'on sait que pour construire une excellente montre il faut, comme je l'ai déjà dit, réunir à une supérieure exécution une théorie des plus subtiles. Manque-t-on le plus petit objet dans le détail & la précision qu'il demande, la montre va mal : pour cela est-on en droit d'en conclure qu'elle est mauvaise? Non assurément ; il suffira même pour la corriger de la remettre à l'artiste qui l'a construite, il est plus en état qu'aucun autre d'y remédier. Il suffit pour cela qu'il fasse une exacte revision des parties, qu'il prenne le soin de la voir marcher quelque tems ; alors quelque subtil que soit le défaut, il n'échappera point à son intelligence.
+
+Il s'en faut bien qu'il en soit ainsi de la mauvaise montre qui va bien : c'est à la concurrence de ses défauts en tout genre qu'elle doit sa justesse apparente, il suffiroit même d'en corriger un seul pour la voir mal aller.
+
+Mais comme il se trouve une cause commune qui fait généralement varier toutes les montres, mais bien plus les mauvaises que les bonnes, indépendamment de leur construction & de leur exécution, il est bon que j'en donne une idée telle que l'expérience me l'a souvent fournie, d'autant plus que cette cause n'a pû être assujettie à aucune juste estimation, ni par le physicien, ni par le praticien : c'est la derniere difficulté que je me suis proposé de faire connoître dans cet article.
+
+Dans toutes sortes de machines composées, telle qu'une montre bien ou mal faite, il y a plusieurs mobiles, qui se communiquent le mouvement en vertu d'une premiere cause ou force motrice.
+
+Dans cette communication il se présente deux resistances ; l'une qui résulte dans la masse du mobile, & l'autre dans le dégagement des parties qui étant appliquées sur le mobile pour lui communiquer le mouvement, pénetrent un peu ce mobile par l'inégalité des surfaces des parties antérieure & postérieure qui lui servent de point d'appui.
+
+C'est de cette pénétration réciproque des parties insensibles de la surface que résulte la resistance qu'on appelle le frottement.
+
+Mais comme l'on ne connoit absolument point la nature des matieres ni le tissu des surfaces, l'on ne peut connoître celle des frottemens ; c'est pourquoi l'on n'a pû jusqu'à présent, avec les raisonnemens les plus subtils & les expériences les plus exactes, établir aucune théorie générale qui détermine exactement la mesure de cette resistance.
+
+Mais supposé qu'on trouve par quelques moyens la valeur de cette résistance ; ce qui pourroit suffire à presque toutes les machines en général, seroit encore bien-loin de l'être à l'Horlogerie en particulier : car ce ne seroit pas assez de savoir combien cette resistance épuiseroit de force, il faudroit encore y faire entrer le tems employé à l'épuiser.
+
+Ainsi dans différentes machines, les effets peuvent bien être les mêmes & les parties de tems varier, sans que cela tire à conséquence pour le résultat de la machine.
+
+Mais dans l'Horlogerie, les plus petites parties de tems doivent être toutes égales entre elles ; d'où il suit que cet art exige nécessairement deux connoissances dans le frottement : 1°. la force nécessaire à le vaincre: 2°. le tems qu'elle y emploie. Ces deux causes qui se combinent de tant de façons différentes, sont la source d'une infinité de variations qui se rencontrent dans l'Horlogerie.
+
+Pour donner une idée de la difficulté d'établir aucune théorie sur le frottement, relativement à l'Horlogerie, il faut savoir que d'après les expériences les plus exactes & souvent répétées (toutes choses d'ailleurs égales dans les surfaces frottantes, au-moins autant que la vue seule peut le faire connoître, & sans appercevoir aucune différence assignable, quoiqu'il soit fort probable qu'il y en avoit en effet): l'on trouve, dis-je, par des expériences répétées, des résultats qui different entre eux ; c'est- à-dire qu'il faut quelquefois plus ou moins de force pour vaincre le même frottement : & par la même raison on voit aussi de la différence dans le tems employé à le vaincre : ensorte que l'on ne peut par aucun raisonnement ni par l'expérience, estimer précisément cette resistance, ni le tems employé à la vaincre.
+
+Tout ce qu'on pourroit avancer de plus positif sur cette matiere, d'après ces mêmes expériences, c'est que les variations que le frottement présente, soit dans la force, soit dans le tems, se trouvent entre de certaines limites qui sont d'autant plus étroites, que les surfaces frottantes sont moins étendues, plus dures, plus polies, & qu'elles paroissent avoir le moins changé d'état : & c'est précisément le cas où se trouve une montre bien faite.
+
+Et au-contraire, les variations sont d'autant plus grandes, que les surfaces sont plus étendues, moins dures & moins polies, & par-conséquent plus sujettes à recevoir des changemens ; & c'est le cas où les mauvaises montres se trouvent.
+
+Mais quoique les variations d'une mauvaise montre soient très-grandes, rien n'empêche rigoureusement, que par une suite de ces mêmes variations, il ne s'en puisse trouver quelquefois qui aillent bien pendant un certain tems : & bien-loin qu'une telle montre puisse être imitée dans cette régularité momentanée, la cause en est tellement compliquée qu'elle tient au résultat d'un enchaînement de défauts multipliés par le frottement, qui, se compensant les uns par les autres, produisent cette heureuse combinaison que toute la science de l'horloger ne sauroit prévoir ni assigner : ensorte qu'on ne peut regarder cela que comme un effet du hasard, aussi n'arrive-t-il que rarement.
+
+Si d'un autre côté l'on joint les principales causes morales, qui font quelquefois trouver bonne une mauvaise montre, l'on verra que pour l'ordinaire elles consistent en ce que la montre coutant peu, le propriétaire en exige moins de régularité, & ne prend pas même le soin de la suivre sur une bonne pendule. S'il lui arrive de la comparer au méridien, & qu'elle s'y trouve juste, il conclut que sa montre est parfaite, dans le tems même que, pour l'être, elle devroit paroître autant avancer ou retarder sur le soleil qu'il a lui même de ces erreurs en différens tems de l'année. L'oubli quelquefois de les monter est encore avantageux aux mauvaises montres, parce que cela fournissant l'occasion de remettre à l'heure, les erreurs ne s'accumulent pas.
+
+Il suit de tout cela, que le peu d'intelligence qu'elles exigent, & qui se borne à faire qu'elles n'arrêtent pas, contribue à les multiplier. C'est en quoi beaucoup d'horlogers font tellement consister toute leur science, que la plûpart n'ayant fait aucune preuve de capacité, ignorent parfaitement que les montres varient, & ils se contentent même dans leur pratique, de copier autant qu'ils le peuvent les habiles artistes, sans pénétrer les vues qui les ont dirigés dans leurs pénibles recherches ; & par une suite des fatalités humaines, ils moissonnent souvent avec facilité ce que les autres ont semé avec beaucoup de peine.
+
+Il suit encore que l'Horlogerie est peut-être de tous les arts celui où l'ignorance devroit être le moins tolérée ; 1°. parce qu'une mauvaise montre ne remplit aucun but, puisqu'on ne peut compter sur elle pour savoir l'heure ; 2°. parce qu'il est trop facile de faire marcher la plus mauvaise montre pendant quelque tems, & que l'épreuve de quelques mois est équivoque & ne prouve rien : enfin parce qu'un mauvaise montre peut avoir l'apparence d'une bonne, & que par cela même il est trop aisé de tromper le public, sur-tout si l'on fait attention que pour les vendre avec plus de facilité, l'on y fait graver impunément les noms des plus habiles artistes, ce qui devient funeste à l'art en général & à l'artiste en particulier Un objet de cette importance, qui intéresse le public, ne pourroit il en être une de considération de la part du gouvernement?
+
+Il suit enfin de toutes ces réflexions, que pour avoir de la bonne horlogerie, il faut absolument s'adresser directement aux habiles artistes, si l'on veut être assuré de n'être point trompé.
+
+Il ne sera peut-être pas hors de place de tracer ici l'historique de la perfection de l'Horlogerie en France, où elle s'est rendue si supérieure depuis quarante ans, qu'elle s'est acquise la plus haute réputation chez l'étranger même, qui la préfere actuellement à toute autre, parce qu'elle l'emporte véritablement par la bonté & par le goût.
+
+Sous le regne de Louis XIV. tous les arts furent perfectionnés, l'Horlogerie seule en fut exceptée, soit qu'on n'y pensât pas, soit que le préjugé où l'on étoit alors de la bonté des ouvrages d'Angleterre, sur-tout de ceux de méchanique, fût encore trop fort, elle resta dans un état de médiocrité qui ne la fit pas rechercher.
+
+La régence fut l'époque de son changement Law, cet ingénieux ministre des finances, se proposa de perfectionner l'Horlogerie, & de conserver à la France par ce moyen, des sommes qu'elle faisoit passer en Angleterre en retour de la sienne. Dans ce dessein il attira beaucoup d'Anglois, il en forma une fabrique dont M. de Suly, qui avoit pour l'Horlogerie plus de génie que de talens, fut nommé directeur. Mais cette fabrique étoit trop bien imaginée pour que la jalousie angloise la laissât long-tems subsister. Bien-tôt elle rappella ses sujets. La plûpart s'en retournerent, & ne laisserent après eux que l'émulation établie par la concurrence. Julien le Roi parut, qui avoit de son côté pour cet art plus de talens que de génie. Il fut connu de Suly, en fut protégé, encouragé, & devint tellement amateur des bons ouvrages, que dès-lors il n'employa plus que de bons ouvriers, ou de ceux qui montroient des dispositions à le devenir. Il prit de l'horlogerie françoise & angloise ce qu'il y avoit de bon. Il supprima de celle-ci les doubles boîtes, les timbres, & tous les secrets employés pour rendre les ouvrages plus difficiles à être démontés & réparés ; de l'autre ces vains ornemens qui embellissent l'ouvrage sans le rendre meilleur : enfin il composa, si l'on peut dire ainsi, une horlogerie mixte, en la rendant plus simple dans ses effets, plus aisée dans sa construction, & plus facile à être réparée & conservée. Et si son génie fut moins propre aux inventions tendantes à rendre les montres plus justes, il ne s'est pas moins acquis beaucoup de célébrité par l'amour de son art, son application à faire des recherches, & par quelques heureuses tentatives.
+
+L'on peut distinguer cinq parties essentielles dans l'Horlogerie.
+
+1°. La force motrice de la pesanteur ou du ressort.
+
+2°. Les engrenages qui transmettent cette force sur le régulateur.
+
+3°. L'échappement & son méchanisme pour entretenir le mouvement avec le moins de force sur le régulateur.
+
+4°. Le régulateur & sa figure pour l'intensité de sa puissance.
+
+5°. La quantité de vibrations qu'on doit donner aux montres.
+
+A s'en rapporter même à l'éloge fait par le fils du célebre auteur françois dont on vient de parler, n'est-il pas surprenant qu'il n'ait fait aucunes découvertes ni perfectionné aucun de ces objets?
+
+Les Génévois se sont distingués dans le nombre d'habiles ouvriers qu'il a occupés : ils se perfectionnoient plus dans un an à Paris, qu'ils n'auroient fait en dix ans à Londres, car l'on sait que les Anglois se font autant d'honneur de faire mystere de tout, que les François de n'en faire de rien.
+
+Ce regne, qui ne le cede point au précédent sur le progrès des beaux-arts, a de plus l'avantage d'avoir produit toutes sortes de pieces d'Horlogerie, qui ont mérité l'approbation de l'académie royale des Sciences, tant par la beauté de l'exécution, que par la théorie qui a conduit l'artiste.
+
+
+PLANCHE Iere. cotée A. Réveil à poids.
+Fig. 1. Élévation antérieure du réveil, où l'on voit le grand cadran sur lequel les heures sont marquées à l'ordinaire, & le petit cadran concentrique particulier au réveil.
+
+Le réveil est monté pour sonner à six heures, ce que l'on connoît par le chiffre 6 du petit cadran qui est sous la queue de l'aiguille des heures, lorsque le chiffre 6 du petit cadran qui tourne avec l'aiguille des heures sera arrivé vis-à-vis du X I I, la détente fera son effet.
+
+Au-dessus du grand cadran on voit le timbre ou la cloche suspendue dans la croix dont les bras retombent sur les quatre piliers couronnés de vases qui forment la cage du réveil ; dans l'intérieur du timbre on apperçoit le marteau indiqué par des lignes ponctuées.
+
+Fig. 1. bis. Au bas de la Planche représentation perspective des principales pieces qui constituent le réveil. W Z longue tige concentrique au cadran. S g cadran du réveil. f canon de ce cadran. X Z roue de cadran à laquelle est appliquée la piece qui leve la détente ; cette piece est adhérente au canon du petit cadran. B b roue moyenne ou des minutes. z pignon de la longue tige.
+
+I. poulie dont la cavité est garnie de pointes pour retenir la corde à laquelle le poids & le contrepoids sont suspendus. K partie de la corde à laquelle le poids est suspendu. i i autre partie de la même corde, à laquelle est attaché le contrepoids. h h roue d'échappement du réveil. O P les palettes. M N le marteau. S R T la détente. S R le bras de la détente qui passe dans la cadrature. T l'autre bras qui arboute contre la cheville V de la roue du réveil.
+
+
+Suite de la Planche premiere, cotée B.
+Fig. 2. Profil ou coupe de tout le réveil, & d'une partie de la boîte sur laquelle il est posé, dans l'intérieur de laquelle les poids ont environ six piés de descente.
+
+La cage du réveil & du mouvement est formée par trois plans verticaux, 7, 9, 10, 11, 6, 8; & par deux plans horisontaux paralleles, dans lesquel les plans verticaux sont assemblés à tenons & clavettes. La partie 7, 9, 10, 11, contient le rouage du mouvement ; & la partie 10, 11, 6, 8 celui du réveil : le rouage du mouvement est composé de trois roues, non compris celle d'échappement. a a grande roue du mouvement. e e poulie dont l'intérieur est garni de pointes pour retenir la corde ; la poulie est montée à canon sur l'axe de la roue : entre la poulie & la roue est le rochet d'encliquetage adhérant à la poulie, le cliquet demeurant à la roue. G poids qui fait aller le mouvement. ff contre-poids. z pignon de la roue de longue tige. b roue de longue tige ou des minutes, laquelle fait un tour en une heure. y pignon de la roue de champ. C roue de champ. x pignon de la roue de rencontre ou d'échappement. d cette roue. 5, 4 verge. 3, 3 les palettes. 4, 4, 4 la fourchette, s s, s s soie qui suspend le pendule. AE la lentille & son écrou pour regler le mouvement. Dans la cadrature : on voit la chaussée 1, la roue de renvoi 2: 2 marque aussi le pignon qui engrene dans la roue des heures. Z roue des heures. X cheville qui agit sur la détente pour lâcher le réveil. S g cadran du réveil. f éguille des heures. W extrémité de la longue tige & la goutte qui retient l'aiguille des minutes.
+
+Du reveil. I poulie qui reçoit la corde qui suspend les poids du réveil. K poids du réveil. l ressort tenant lieu d'encliquetage. h h roue d'échappement ou de rencontre. O P les palettes. M N le marteau : le timbre est supposé coupé par la moitié pour laisser voir l'intérieur. 6 T R S la détente.
+
+3. Calibre du rouage du mouvement. A a grande roue sur laquelle est projettée la poulie & le rochet. E e la poulie. F le cliquet & son ressort fixés à la grande roue. G corde du poids. ff corde du contre-poids. B b roue de longue tige ou roue moyenne. z son pignon. C c roue de champ. y son pignon. d roue de rencontre. x son pignon.
+
+4. Toutes les pieces du reveil & sa détente projettés sur & postérieurement à la platine intermédiaire. 10, 11 la platine qui sépare le mouvement & le réveil. X Z piece qui porte la cheville. X la cheville ; cette piece est concentrique aux cadrans. S R bras de la détente qui passe dans la cadrature. R T bras postérieur de la détente. II la poulie qui reçoit la corde des poids. K le poids. i i le contre-poids. H h la roue d'échappement ou du réveil.
+
+
+PLANCHE II. cotée C.
+Plan d'un horloge horisontal sonnant les quarts & les heures.
+
+La cage formée de six barres A B, C D, E F, E'F', G H, I K est divisée en trois parties qui contiennent chacune un rouage ; la division du milieu contient le rouage du mouvement, celle à gauche contient le rouage de la sonnerie des quarts, & celle qui est à droite de la sonnerie des heures.
+
+On a eu attention de marquer par les mêmes lettres les objets correspondans dans les Planches suivantes, qui contiennent le développement de l'horloge. Du mouvement.
+
+Le mouvement, dont le milieu doit répondre au centre du cadran, est composé d'un tambour ou cylindre P sur lequel s'enroule la corde P P qui suspend le poids moteur ; sur le cylindre est fixée la roue de remontoir ; près le pivot 3 la roue de remontoir engrene dans un pignon placé sur la tige. 2, 1 l'extrémité, 1 est terminée en quarré pour recevoir la clé qui sert à remonter l'horloge.
+
+L'autre extrémité du cylindre S porte un rochet, dont les dents reçoivent le cliquet fixé sur la premiere roue du mouvement ; cette roue qui est près le pivot 4 de l'axe 3, 4 du tambour, laquelle fait un tour en une heure, porte une roue de champ 25, 26, dont les dents sont inclinées de quarante-cinq degrés, pour engrener dans la roue de renvoi 25, 26, dont on parlera ci-après.
+
+La grande roue engrene dans un pignon fixé sur la tige Q de la roue moyenne, & cette derniere dont le pignon fixé sur la tige de la roue d'échappement R; 5, 6 sont les pivots de la roue moyenne, & 7, 8 sont ceux de la roue d'échappement.
+
+La roue 25, 26, fixée sur la grande roue, engrene dans la roue de renvoi 26, 27, du même nombre de dents, & aussi inclinées à son axe sous l'angle d'environ quarante-cinq degrés, pour qu'elle fasse de même son tour en une heure ; l'arbre ou tige 28, 29 de cette roue terminé quarrément en 29, porte par le quarré l'aiguille des minutes, & aussi un pignon 30 qui mene la roue de renvoi 31, 31: cette roue porte un pignon qui mene la roue de cadran 33, 33, laquelle porte l'aiguille des heures, ce qui compose la cadrature portée d'une part par un pont 28, & d'autre part par la traverse L M fixée aux extrémités des longues barres qui forment la cage du mouvement ; les autres extrémités des mêmes barres portent aussi une traverse N O, sur laquelle, & la partie correspondante de la longue barre A B portent les coqs auquel le pendule est suspendu, ainsi que l'on voit dans la Planche suivante.
+
+Le nombre de vibrations du pendule, lequel bat les secondes, est de 3600 en une heure, les nombres du rouage étant ceux qui suivent en commençant par l'échappement composé de trente dents, distribuées sur deux roues, comme on le voit en R. vibrations en une heure. De la sonnerie des quarts.
+
+Le rouage de la sonnerie des quarts renfermé dans la division F F G H est composé de deux roues, deux pignons & un volant. S est le tambour sur lequel s'enroule la corde. S S extrémité de la corde à laquelle le poids moteur est suspendu ; au tambour est fixé la roue de remontoir qui engrene dans le pignon de remontoir fixé sur la tige 9, 10; l'extrémité 9 de cette tige est quarrée pour recevoir la clé avec laquelle on remonte le rouage.
+
+L'autre extrémité du tambour bordée d'un rochet s'applique à la premiere roue du rouage du côté du pivot 12 de l'axe du tambour ; cet axe porte de l'autre côté 11 le limaçon des quarts sur lequel porte la détente, & la grande roue porte de chaque côté huit chevilles pour lever les bascules des marteaux ; ces chevilles sont entretenues ensemble par des couronnes ; la seconde tige 13, 14, porte un pignon de dix aîles qui engrene dans la roue de cent dents dont on vient de parler ; il porte aussi une roue T de quatre-vingt dents ; cette derniere roue engrene dans le pignon V de dix aîles fixés sur la tige 16, 15, u du volant r, r r dont l'usage est de modérer la vîtesse du mouvement du rouage. Δ, δ, δ sont les bascules qui levent les marteaux pour frapper les quarts ; elles roulent sur la tige ff, 61 ; c'est aux extrémités Δ que sont attachées les chaînes ou fils-de-fer qui tirent les marteaux ; on expliquera l'effet des détentes après avoir parlé de la sonnerie des heures avec laquelle elles communiquent. De la sonnerie des heures.
+
+Le rouage de la sonnerie des heures renfermé dans la division E'F'IK, est de même composé de deux roues, deux pignons, & un volant.
+
+Le tambour X sur lequel s'enroule la corde X X est terminé d'un côté par une roue de remontoir du côté du pivot 19; cette roue engrene dans un pignon fixé sur la tige 17, 18 du remontoir, à l'extrémité 17 duquel on applique la clé qui sert à remonter le rouage ; l'autre côté du tambour terminé par un rochet s'applique à la grande roue qui est près le pivot 20; cette roue qui a quatre-vingt dents porte huit chevilles d'un seul côté, entretenues ensemble par une couronne ; ces chevilles levent l'extrémité δ δ de la bascule δ δ Δ Δ du marteau qui sonne les heures.
+
+La grande roue de quatre-vingt dents engrene dans un pignon de dix aîles fixé sur la tige 21, 22; cette tige porte aussi une roue Y de quatre-vingt dents ; cette derniere roue engrene dans un pignon Z de dix aîles fixés sur la tige 24, 23, z qui porte le volant s, s s lequel sert à modérer la vîtesse de rouage pendant que l heure sonne. 42, n n est la tige sur laquelle roule la bascule δ δ Δ Δ qui tire le marteau des heures par son extrémité Δ Δ.
+
+L'axe 20, 19 porte extérieurement en 19 un pignon qui y est assemblé à quarré; ce pignon conduit la roue q qui porte le chaperon ou roue de compte des heures pour l'effet des détentes. Voyez la figure 16 dans la quatrieme suite de la Pl. II.
+
+
+PLANCHE II. 1. suite, cotée D.
+Fig. 2. Élévation du rouage du mouvement vû du côté de la sonnerie des quarts.
+
+3. Élévation & coupe du rouage du mouvement vû du côté de la sonnerie des heures, la barre E'F'(Planche précédente), qui sépare les deux rouages étant supprimée pour mieux laisser voir la roue d'échappement, la fourchette, la suspension A a B b, & une partie du pendule B b, C c, D d.
+
+4. Elévation de la cadrature sur laquelle on a projetté en lignes ponctuées le pont qui suspend la roue de renvoi 30; postérieurement à la roue est le pignon qui mene la roue de renvoi. 33, 31 cette roue. 32, 32 pignon fixé à la roue de renvoi ; ce pignon engrene dans la roue de cadran 33, 33, qui porte l aiguille des heures.
+
+5. Un des deux ponts pour porter le coq de la suspension.
+
+6. Autre pont pour porter le coq de la suspension.
+
+7. Le coq de la suspension vû par-dessus.
+
+
+PLANCHE II. 2. suite, cotée E.
+8. Élévation du rouage de la sonnerie des quarts vû du côté extérieur. 1, 2, 3, 4 le limaçon des quarts ; il y a une éminence à l'extrémité de la part qui fait sonner les quarts pour élever la détente des heures.
+
+9. Élévation & coupe du même rouage vû du même côté, après que l'on a ôté la barre antérieure, le limaçon des quarts, la roue de remontoir, le volant & la détente m.
+
+10. Élévation & coupe du même rouage vû du côté de la cage du mouvement, la barre E F (Pl. II.) étant supprimée.
+
+11. Portion d'une des barres qui servent de cage, dessinée sur une échelle double servant à faire voir comment les trous sont rebouchés avec des bouchons qui sont fixés par une vis. d est le trou, e est la vis.
+
+12. Le bouchon en plan & en perspective. a petit trou conique pour recevoir l'extrémité de la vis terminée en cône, ce qui empêche le bouchon dans le trou duquel roule un pivot, de tourner & de changer de place. b la vis qui s'implante dans le milieu de l'épaisseur de la barre. c le bouchon en perspective.
+
+Cet ajustement permet de démonter telle piece de l'horloge que l'on veut sans démonter la cage ni les autres pieces, les trous qui reçoivent les bouchons étant assez grands pour laisser passer les tiges, que l'on sort facilement par ce moyen hors de la cage ; d'ailleurs les trous des bouchons venant à s'user, leur renouvellement est facile & peu dispendieux.
+
+
+PLANCHE II. 3. suite, cotée F.
+13. Élévation du rouage de la sonnerie des heures, vû du côté du mouvement.
+
+14. Élévation & coupe du rouage de la sonnerie des heures vû du côté du remontoir, la barre I K du plan (Pl. II.) étant supprimée.
+
+15. Élévation extérieure du rouage de la sonnerie des heures vû du côté du chaperon & du volant.
+
+
+PLANCHE II. 4. suite, cotée G.
+16. Toutes les détentes en perspective & en action.
+
+17. Le pendule composé qui sert de régulateur à l'horloge.
+
+18. Coulant de la fourchette pour mettre l'horloge en échappement.
+
+
+PLANCHE III. cotée H. Pendule à ressort.
+Cette Planche & son explication ont été tirées du livre de M. Thiout.
+
+Les pendules à ressort sont beaucoup en usage ; elles sonnent ordinairement l'heure & la demie, & vont quinze jours sans être remontées : anciennement on les faisoit aller un mois ; mais comme elles manquoient ordinairement de force, c'est ce qui en a fait quitter l'usage pour s'en tenir à cette construction, qui a néanmoins un défaut, c'est qu'il n'est pas possible qu'un ressort qui doit faire cinq tours pour quinze jours les puisse faire également ; ce qui procure de l'inégalité à proportion que le ressort se développe : pour y remédier quelques-uns ont adapté une fusée à ces sortes de pendules.
+
+La figure 8. représente les roues dans leurs positions respectives. R est le barillet du mouvement, dans lequel est contenu un ressort qui fait ordinairement huit tours & demi. Le profil du même barillet est q figure 9; il engrene dans un pignon de 14 de la roue S. Cette roue engrene dans la roue T qu'on appelle roue à longue tige, parce que sa tige passe à la cadrature pour porter la roue de minutes B fig. 7. qui fait par conséquent son tour par heure. V est la roue de champ qui engrene dans la roue de rencontre X; cette roue est tenue par la potence A fig. 10, & la contre-potence B. La verge de palette C passe au-travers le nez de potence pour être maintenue par le talon D, & un coq attaché avec deux vis sur la platine de derriere ; on n'a pas cru nécessaire de le représenter ici, on le vera dans d'autres pieces. On trouvera à l'article Échappement les effets de celui-ci. On a déjà dit que la roue B fig. 7. faisoit son tour par heure : cette roue porte un canon qui entre à frottement sur la tige de la roue T fig. 8. L'aiguille des minutes est placée quarrément au bout du canon de cette roue B ; elle engrene dans la roue de renvoi qui est de même nombre. Cette roue porte à son centre un pignon de 6. Elle est placée sur la platine, & tenue avec le coq 13. Comme cette roue fait aussi son tour par heure, son pignon de 6 engrene dans une roue de cadran de 72, qui n'est pas représentée, & qui fait son tour en douze heures, parce que 6 fois 12 font 72. Cette roue de cadran porte un canon sur lequel est ajusté à frottement l'aiguille des heures ; & pour que cette roue de cadran ne charge pas la roue de minutes B, on place à son centre le pont marqué 9 qui porte un canon sur lequel se meut la roue de cadran.
+
+La sonnerie commence aussi par le barillet Q pareil à celui du mouvement. Le ressort fait le même nombre de tours que celui du mouvement : il engrene dans le pignon de la roue P qui fait son tour en douze heures, Un des pivots de l'arbre de cette roue passe la platine sur lequel est placé quarrément la roue de compte I fig. 13. La roue P engrene dans la roue de chevilles O, qui engrene à son tour dans la roue d'étoquiau M, & successivement M dans K & K dans L, qui est le pignon du volant.
+
+Avant que d'expliquer les effets de la sonnerie, il est à propos de parler des principales considérations que l'on doit avoir lorsque l'on veut composer le calibre de la piece.
+
+Quand on veut faire le calibre du mouvement, on doit considérer deux choses principales ; la premiere, le tems qu'on veut qu'il aille sans remonter ; la seconde, quelle longueur ou veut donner au pendule par rapport à la hauteur de la boîte.
+
+Pour la premiere, si on veut, par exemple, que la pendule aille quinze jours, la pratique enseigne qu'un ressort doit avoir huit tours & demi.
+
+On s'en tient donc à ce nombre de tours dans lesquels on en choisit six des plus égaux que l'on fixe dans le barillet par le moyen d'une palette fig. 12. qu'on ajoute fixément sur l'arbre & sur le barillet. On place excentriquement une roue mobile & dentée de cinq dents ; on examine ensuite combien il y a d'heures en dix-huit jours ; si on fait faire un tour au barillet en trois fois 24 heures, trois tours feront neuf jours, & six tours dix-huit jours ; pour cet effet on donne un nombre aux dents du barillet proportionné à la force qui lui est communiquée. Celui de quatre-vingt-quatre est très-convenable ; un plus grand nombre feroit des dents trop fines qui pourroient se casser ; en donner moins on perd un avantage à l'engrenage ; enfin donnant quatre-vingt quatre au barillet & quatorze au pignon, ce pignon fera six tours pendant que le barillet en fera un. Si on donne encore quatre-vingt-quatre à la roue S & qu'elle engrene dans un pignon de sept, cette roue S se trouvera faire son tour en douze heures, parce que la roue T le fait toutes les heures, & que 7 est compris 12 fois dans 84.
+
+Ce nombre est convenable pour la durée du tems, c'est dire, que les six tours du ressort feront aller la pendule dix-huit jours. Maintenant pour avoir égard à la longueur du pendule, on trouve, par exemple, que celle de cinq pouces trois lignes peut contenir dans la boîte qu'on veut employer. On voit à la table de longueurs de pendules, qu'un pendule de cette longueur donne 9450 vibrations, on donne un nombre aux roues T, V, & X qui puisse approcher de ce nombre de vibrations. Si on donne à la roue T 78, pignon 6, à celle V 66, pignon 6, & 33 à la roue de rencontre, ces nombres multipliés l'un par l'autre donnent 9438 vibrations, ce qui en fait 12 de moins que la table demande ; mais cela change peu la longueur du pendule, & ne mérite pas qu'on on tienne compte.
+
+Voilà ce qu'il est nécessaire de savoir pour la composition d'un mouvement que l'on peut varier autant que l'on veut, soit pour n'aller que trente heures, huit ou quinze jours, un mois, & même un an ; ce qui ne dépend que des roues & des nombres que l'on place avant la roue à longue tige qui fait son tour par heure.
+
+Les roues placées après les roues à longue tige ne peuvent déterminer que la longueur du pendule, il n'y a ordinairement que la roue de champ & la roue de rencontre, à-moins qu'on ne veuille un pendule fort court : en ce cas on est obligé de se servir de trois roues, qui avec celle à longue tige, en font quatre, parce qu'autrement les dentures seroient trop fines, & il n'y auroit pas assez de solidité. De la sonnerie.
+
+Quand on fait le plan d'une sonnerie, tel que celle de la figure 8. on suit, pour la durée de la remonte, le même principe qui vient d'être dit ; mais au-lieu de prendre pour point fixe une roue qui fait son tour par heure, on en prend une qui fait son tour en douze. On se sert du même nombre pour le barillet & le pignon de 14 comme au mouvement ; par cette disposition la seconde roue faisant un tour en douze heures, on place quarrément sur son pivot le chaperon, ce qui lui donne l'avantage de n'avoir point de balotage, comme ont celles qui sont menées par une roue & un pignon, qui ont outre cela plusieurs défauts.
+
+Après qu'on a fixé la roue P à ne faire son tour qu'en douze heures, on cherche à donner le nombre convenable au reste de la sonnerie ; pour cet effet on dit, en douze heures combien frappe-t-elle de coups? on trouvera quatre-vingt-dix, y compris les demies. Si on donne dix chevilles à la roue O, il faudra qu'elle fasse neuf tours en douze heures, parce que 9 fois 10 font 90; il est facile ensuite de donner un nombre à la roue P, & un pignon à la roue O, tel que la roue P fasse un tour pendant que la roue O en fera neuf. Si on donne à la roue 72, il faudra un pignon de huit, parce que huit fois neuf font 72; ensuite on donne, par exemple, à la roue de cheville, 60, & on la fait engrener dans un pignon de 6, qui porte une roue qui fait son tour par coups de marteau : c'est la roue appellée d'étoquiau, qui porte une cheville pour l'arrêt de la sonnerie.
+
+Le nombre de la roue K est indéterminé, on lui donne celui qui est convenable pour la proportion de la denture & la durée de la distance des coups que la sonnerie frappe ; elle porte aussi une cheville. Cette roue engrene dans un pignon de 6, sur la tige duquel est le volant L à frottement, par un petit ressort qui appuie dessus. Quand la sonnerie est montée, le rouage est retenu par une cheville M, qui appuie sur le crochet F de la détente, fig. 15. parce que le bras G est entré dans une des entailles faite à la roue de compte, figure 13.
+
+Quand on leve la détente, fig. 15. le rouage se trouvant dégagé, ne tend qu'à tourner ; les chevilles de la roue O rencontrent une palette que la verge de marteau A Y, fig. 7. porte ; ce qui lui fait frapper autant de coups qu'il passe de cheville. Cette verge est chassée par le ressort 6.
+
+Si le bras G de la détente, figure 16. est entré, par exemple, dans l'entaille 12 de la roue de compte I, & qu'on la leve, elle retombera dans la même entaille, & la sonnerie ne frappera qu'un coup, parce qu'il n'y aura qu'une cheville de la roue O qui pourra passer ; ce coup est compté pour midi & demi. Si on leve la détente une seconde fois, elle ne sonnera encore qu'un coup compté pour une heure, la levant une troisieme fois, elle frappera encore un coup, compté pour une heure & demie ; & si on la leve une quatrieme fois, la hauteur entre 1 & 2 soutiendra la détente, la sonnerie frappera deux coups, parce qu'elle est empêchée par cette hauteur de retomber pour arrêter la cheville N M, l'entaille 2 est assez grande pour sonner la demie ; la hauteur de 2 à 3 est assez distante pour laisser frapper trois heures, & enfin la distance de 11 à 12 est assez grande pour sonner douze heures ; on comprendra aisément que les distances de la roue de compte sont proportionnées aux heures qui doivent sonner, & que chaque entaille a assez d'espace pour les demies.
+
+Maintenant pour faire agir cette sonnerie d elle-même, on place deux chevilles sur la roue de minutes B, fig. 7. qui leve doucement le détentillon C D, & qui fait lever en même tems la détente E jusqu'à ce qu'elle laisse passer la cheville M que le crochet F, fig. 15. retient ; pour-lors le rouage tourne, mais il est retenu dans le moment par le bras H, fig. 14. contre lequel se rencontre la cheville K de la roue volante. Pendant ce délai le détentillon continue de lever jusqu'à ce que l'aiguille des minutes arrive sur 30 ou 60 du cadran ; pour-lors le détentillon se dégage de la cheville & tombe : c'est pour-lors que la sonnerie se trouve dégagée, & qu'elle frappe jusqu'à ce que la détente rencontre une entaille de la roue de compte, qui permet au crochet F, fig. 15. de retenir la roue d'étoquiau par la cheville M.
+
+Les rochets 7 & 8, fig. 7. sont placés quarrément sur les arbres des barillets. Leur usage est de retenir les ressorts quand on les remonte par le moyen des cliquets. Quoique cette sonnerie soit très-solide, quand elle est bien exécutée, on la peut encore rendre plus sure, en mettant un cercle sur la roue d'étoquiau en place de cheville. S'il arrivoit quelque inégalité à la roue de compte, qui donnât occasion de laisser rentrer la détente trop tôt, le cercle la retiendroit ; ce qui empêcheroit la sonnerie de mécompter. Toutes les sonneries à roues de compte sont faites sur ce principe.
+
+Il y en a d'autres où la roue de compte est menée par un pignon de rapport placé sur le bout du pivot de la roue de cheville ; cette méthode est la moins bonne d'autres different dans le nombre des chevilles, dans la forme des détentes & de leurs positions, & enfin dans la levée des marteaux ; mais toutes ces variétés reviennent au même, excepté qu'elles ne sont pas aussi simples que celle-ci.
+
+La sonnerie des quarts differe par sa roue de compte, qui fait ordinairement son tour par heure, & n'a que trois ou quatre entailles. Les sonneries des quarts different aussi par les marteaux ; ordinairement il n'y en a que deux, d'autres en ont jusqu'à une douzaine.
+
+
+PLANCHE IV. cotée I.
+Fig. 17. Représentation perspective d'une pendule à secondes, propre pour les observations astronomiques, du chassis qui lui sert de support, & du thermometre de compensation, qui corrige l'effet du chaud & du froid sur le pendule.
+
+18. Le rouage de la pendule dont voici les nombres, en commençant par la roue d'échappement qui a trente dents, & finissant par celle du barillet.
+
+18. n°. 2. Cadrature de la pendule.
+
+18. n°. 3. Profil de la cadrature.
+
+
+PLANCHE V. cotée K.
+Fig. 19. Démonstration.
+
+20. Échappemens à deux leviers.
+
+21. Échappement à repos des pendules à secondes, par M. Graham.
+
+22. Échappement à repos des montres, par M. Graham. 23.
+
+24. Échappement à roue de rencontre.
+
+25. Échappement à ancre, du docteur Hook.
+
+26. Échappement à deux verges ou leviers, par M. Julien le Roy.
+
+27. Foliot ou ancien échappement.
+
+
+PLANCHE V I. cotée L.
+Cette Planche & son explication ont été tirées du livre de M. Thiout. Pendule à quarts.
+
+Cette pendule est faite sur le même principe que celle de la Planche III. la pendule va également dix-huit jours. Le barillet C est pour la sonnerie des heures, & celui B pour celle des quarts. Il n'y a point de différence dans les effets, excepté que celle des heures ne sonne point de demie ; ce qui fait qu'il y a un petit changement au nombre des dents, comme on le verra ci- après.
+
+La sonnerie des quarts est aussi sur le même principe. La roue de cheville I M a deux grands pivots qui passent les platines ; celui de la platine de derriere porte quarrément la roue de compte, figure 30. & celui qui passe à la cadrature porte le chaperon T, fig. 29. Les deux marteaux sont placés sur deux tenons à côté, pour que la double bascule M les puisse faire lever l'un après l'autre pour sonner les quarts ; ces marteaux ne sont pas représentés ici. On dispose les dix chevilles placées sur la roue 1, de maniere que le même marteau frappe toujours le premier ; pour cet effet on met six chevilles d'un côté & quatre de l'autre.
+
+Sur la roue de minute N, fig. 29. sont placées quatre chevilles pour lever à chaque quart le détentillon N O P qui leve à son tour la détente.
+
+Quand les quatre quarts sonnent, le chaperon S T porte une cheville qui leve le détentillon S R Q pour détendre la sonnerie des heures après que les quatre quarts sont frappés : X est la verge du marteau des heures.
+Nombres du calibre représentés par la fig. 28. Bas de la Planche.
+
+Calibre de la répétition ordinaire, & la même répétition vue en perspective.
+
+Fig. 31. Est le plan ou calibre des roues qui composent la répétition. A B C D E sont les roues du mouvement pareilles au calibre du mouvement à quinze jours. Pl. III. F G H I sont les roues qui servent à la répétition : les trois roues G H I ne servent qu'à regler la distance des coups qui frappent, comme il est absolument nécessaire d'en avoir dans toutes les sonneries quelles qu'elles soient : voici les nombres.
+
+Le cercle F porte douze chevilles d'un côté pour faire sonner les douze heures, & trois chevilles de l'autre pour faire sonner les trois quarts par le moyen de trois bascules placées sur une même tige, comme celle K; deux de ces bascules sont montées sur des canons pour qu'elles se meuvent séparément l'une de l'autre, & la troisieme est fixée sur la tige, pour qu'elles puissent toutes les trois lever les verges de marteaux séparément l'une de l'autre, comme elles sont représentées à la fig. 32.
+
+Le cercle F est rivé sur son arbre, de même qu'un petit rochet, à une distance d'environ six lignes. Le cercle extérieur présente la grandeur d'une roue qui est jointe contre le rochet ; elle porte un cliquet & son ressort, comme il est marqué. L'arbre passe au-travers d'un petit barillet fixé à la platine, dans lequel est un ressort ; l'arbre ayant un crochet, enveloppe le ressort autour de lui ; de-sorte que quand on tire le cordon V, figure 32. on fait tourner l'arbre à gauche, sans que la roue dentée tourne, & quand on quitte le cordon, le petit rochet donne dans le cliquet, & oblige le rouage de tourner, & les marteaux frappent, de sorte que l'arbre de ce cercle porte le cercle des chevilles, l'heure & les quarts justes.
+
+Toutes les machines sont placées sur la cage A B, fig. 32. où elles sont représentées en perspective. Le plan de cette cadrature avec le développement des pieces sont contenues dans la Plan- che suivante, & elles sont marquées des mêmes lettres.
+
+Avant que de dire les effets de cette méchanique, il est à propos de faire voir la forme & le développement de chaque piece marquée sur la Planche VII.
+
+
+PLANCHE VII. cotée M. Suite de la Planche précédente, ou developpement de la répetition ordinaire.
+Fig. 33. T est la roue de chaussée, & t est son profil. Cette roue, comme on sait, fait son tour par heure, & porte l'aiguille des minutes. Sur cette roue T t est placé fixément le limaçon des quarts Q & q. Sur ce limaçon est joint la surprise R & r, qui est tenue avec une virole 4 & 4, on dira l'usage de cette surprise dans la suite. X & x est la roue de renvoi qui porte un pignon pour mener la roue du cadran Y & y, comme on l'a dit ailleurs ; car toutes les pieces d'horlogerie qui marquent les minutes ont des roues de renvoi ; ce qui doit suffire pour qu'il ne soit plus besoin d'en parler par la suite, que dans des cas particuliers. A est une étoile qui fait son tour en douze heures, & a son profil. Z & z est le sautoir ou valet qui fait changer promptement une dent de l'étoile à chaque heure. Sur l'étoile A est placé fixément le limaçon des heures B. D est le rateau. E est un pignon qui le fait mouvoir. G est une poulie qui porte une cheville, & g e i est le profil. M L est la main, m l est le profil : cette main étant démontée forme la piece M N. O est un ressort, le profil est m o: le bras des quarts qui fait partie de la main est L & l.
+
+34. La platine qui porte les tiges sur quoi toutes les pieces sont montées. On voit leurs places indiquées par les lignes ponctuées qui y répondent. La fig. 34. n°. 2. est le profil des fig. 23. & 34. Sur la platine de la fig. 34. sont deux ressorts, ce qu'il est nécessaire de savoir avant que d'expliquer leurs effets.
+
+Maintenant il faut mettre ces pieces chacune à leur place, & faire voir comme elles agissent les unes avec les autres. On a dit ci-dessus que l'arbre de la premiere roue pouvoit tourner séparément de sa roue & avec sa roue, & qu'il portoit un cercle garni de quinze chevilles pour lever les bascules des marteaux. Cet arbre porte quarrément la poulie G E & le pignon E qui engrene dans le rateau D des heures. Quand on tire le cordon on fait avancer le bras H vers le limaçon B qui est gradué spiralement en douze degrés. Le plus profond est pour douze heures, & la partie la plus élevée est pour une heure ; de-sorte que quand on tire le cordon on fait passer autant de chevilles que l'enfonçure du limaçon le permet, c. à d. si le degré le plus profond se présente, la sonnerie frappera douze coups, & si c est la portée la plus élevée, la sonnerie ne frappera qu'un coup, deux coups si c'est le second degré, ainsi des autres jusqu'à douze. On a dit que l'étoile A fait son tour en douze heures, par le moyen d'une cheville que la surprise R porte à l'endroit K. Comme cette cheville fait un tour par heure, & que l'étoile a douze dents, elle en rencontre une toutes les heures, de-sorte que l'étoile avec le valet Z saute douze fois.
+
+Cette façon de faire mouvoir l'étoile a deux avantages. Le premier est de faire changer si promptement le limaçon, qu'il n'est pas possible de le faire manquer dans l'instant de son changement. Le second est de faire à son tour sauter la surprise R pour que le bras du guide des quarts L M ne puisse retomber aux trois quarts, comme il étoit l'instant auparavant ; les quarts sont reglés par le moyen du limaçon Q & de la main M qu'on appelle guide des quarts. Quand on tire, par exemple, le cordon V, on fait, comme il a été dit, tourner la poulie G; la cheville I qu'elle porte se dégage des doigts, & le guide des quarts tombe sur le limaçon Q qui est partagé en quatre parties. Si la plus haute se présente, la cheville I entre dans l'entaille la moins profonde de la main ; la roue est retenue par ce moyen avant que les chevilles alent pû parvenir à lever les marteaux, ce qui fait que la sonnerie ne frappe point de quarts, parce qu'il n'y a pas encore un quart que l'heure est accomplie ; & quand il y a un quart, le limaçon présente une partie assez profonde pour que l'entaille 2 de la main reçoive la cheville ; ce qui fait que la roue de cheville faisant plus de chemin, un marteau frappe un quart. Si le limaçon présente sa troisieme partie, sa cheville entre dans les doigts 3, & le marteau frappe deux coups pour la demie, & quand c'est la partie la plus profonde du limaçon, les marteaux frappent trois coups pour les trois quarts. Tant que les deux limaçons ne changent pas, la sonnerie sonne toujours la même quantité. Quand le limaçon des quarts a fait son tour, il entraîne avec lui l'étoile A qui saute par le moyen du valet Z, & de la même action la surprise R avance pour remplir le vuide du lima- çon, afin que le guide des quarrs ne puisse retourner dans l'entaille des trois quarts ; ce qui fait que si on veut tirer le cordon dans le moment de ce changement, la répétition ne sonnera que l'heure, & point de quart.
+
+Pour que la cheville I sorte aisément des doigts de la main, elle se meut au point N, & est remise par un ressort qui est fixé sur le bras L; un autre ressort est fixé sur la platine pour faire agir le bras L qui emporte sur lui la main M, qui a par ce moyen deux mouvemens, celui de se mouvoir sur son plan, lorsqu'il faut que la cheville sorte des doigts, & celui de suivre le bras coudé L.
+
+PLANCHE VIII. cotée N.
+Fig. 35. Thermometre de compensation.
+
+36. Pendule composé.
+
+37. Cadrature d'une pendule d'équation de M. Julien 38. le Roy, décrite au mot Équation.
+
+
+PLANCHE IX. cotée O.
+Fig. 39. Fausse plaque de la pendule d'équation, représentée dans la Planche précédente, vûe par le côté opposé au cadran.
+
+40. La même fausse plaque vûe par le côté du cadran.
+
+41. Roue annuelle vûe du côté de la gravure.
+
+Ces figures sont décrites au mot Équation. Suites de la Planche IX. cotée O.
+
+
+35. A. 1 suite, cotée P. Pendule à équation, par Dauthiau.
+
+37. A. 2. suite, cotée Q. Pendule à équation, par M. Ferdinand Berthoud.
+
+38. A. 3. suite, cotée R. Pendule à équation, du sieur Rivaz.
+
+39. A. 4. suite, cotée S. Cadran de la montre à équation à secondes concentriques, marquant le quantieme du mois, & le mois de l'année.
+40. A. La baste vûe du côté opposé au cadran.
+
+41. A. Cadrature de la montre à équation.
+
+36. A. Cadrature du sieur Rivaz.
+
+42. A. Bissextile, par M. Berthoud.
+
+
+5. suite, cotée T. Pendule d'équation à secondes concentriques, marquant les mois & quantiemes des mois, les années bissextiles ; cette pendule va treize mois sans être remontée.
+
+6. suite, cotée V. Pendule à équation, par le sieur Amirauld.
+Toutes les suites de la Pl. IX. sont décrites à l'article Équation.
+
+
+PLANCHE IX. 7. suite, cotée X. Pendule à équation, à cadran mobile, par F. Berthoud.
+Cette Planche & son explication ont été tirées du livre de M. Ferdinand Berthoud.
+
+Si au centre du cadran A B d'une pendule ordinaire, on ajoute un cercle ou cadran E E, divisé en 60 parties, & gradué comme le cercle des minutes du grand cadran, & que ce cercle concentrique soit mobile, tandis que le grand cadran est fixe, & qu'enfin on attache sur l'aiguille du tems moyen, une autre aiguille ou index diamétralement opposé c, & de longueur propre à marquer sur le cercle mobile : on voit que selon que l'on fera tourner en avant ou en arriere le cadran mobile, la petite aiguille, dont le mouvement est uniforme, pourra y indiquer le tems vrai ou apparent, & cela par un moyen très-simple, puisqu'il suffira de regler le chemin du cercle mobile d'après les tables de l'équation du tems.
+
+La fig. 1. Pl. XI. 7. suite, représente la face ou cadran de cette pendule. A B est le cadran des heures & minutes: il est fixé par quatre vis sur la fausse plaque C D: celle-ci porte quatre faux piliers qui servent à arrêter la plaque & le cadran, avec la cage du mouvement (cette disposition est la même que dans les pendules ordinaires.) E E est le cercle ou cadran mobile des minutes du tems vrai, il est concentrique au grand cadran : ce cadran mobile représenté de profil, fig. 3. est rivé sur un canon qui entre juste dans le trou de la fausse plaque, & qui peut y tourner librement ; le bout inférieur de ce canon entre dans un pont E, fig. 2. attaché à l'autre côté de la fausse plaque : ce canon roule de cette maniere dans le trou de la fausse plaque & dans celui du pont, comme dans une cage. Sur ce canon entre à frottement le pignon F vû de profil, fig. 4. Ce pignon s'arrête avec le canon, au moyen d'une cheville qui entre à frottement dans l'épaisseur du pignon & du canon. Le pignon F ainsi fixé sur le canon du cercle mobile, empêche celui-ci de sortir, lui laissant seulement la liberté de rouler sur lui-même : le rateau G I qui engrene dans le pignon F, porte le bras H, dont le bout porte une cheville qui pose sur la courbe ou ellipse K K, attachée sous la roue L, qui fait sa révolution en 365 jours.
+
+L'usage de cette courbe est de produire la variation du cercle mobile, ce qu'il est aisé de voir, car ce cercle va & vient sur lui-meme, selon que l'ellipse oblige le bras H de s'écarter ou de se rapprocher du centre de la roue annuelle : or le bras H entraîne le rateau G, celui-ci le pignon F & le cadran mobile.
+
+On taille l'ellipse de maniere que le cadran puisse parcourir un peu plus de sa demi-révolution, ce qui répond à l'écart total du tems vrai & du tems moyen ; cet écart est de 30 minutes 50 secondes.
+
+Pour faire appuyer continuellement le bras H sur l'ellipse & ôter le jeu de l'engrenage, l'auteur a pratiqué sur le pignon F une rainure ou poulie, comme on le voit fig. 4. laquelle est entourée par la corde N, fig. 2. dont un bout tient à la poulie, & l'autre est attaché au ressort M N: c'est l'action de ce ressort qui fait appuyer le bras H sur l'ellipse.
+
+Le rateau G est mobile en I sur une broche attachée à la plaque.
+
+La fig. 10 représente le plan du mouvement. A est la grande roue qui porte le tambour ou cylindre, lequel est entouré par la corde qui porte le poids qui fait marcher la pendule : ce cylindre est vû en perspective, fig. 6.
+
+La fig. 7. représente la roue A vûe en plan, avec le ressort de l'encliquetage que doit former le rochet G du tambour ou cylindre. Pour cet effet, l'axe du cylindre entre dans le trou qui est au centre de cette roue, & le bord du cylindre s'emboîte fort juste dans une rainure faite à la roue. Par le jeu de l'encliquetage la roue & le cylindre peuvent tourner séparément l'un de l'autre, lorsqu'on remonte le poids, comme on l'a déjà expliqué. Nous n'avons représenté ici cette partie que pour en mieux faire voir la disposition. La fig. 8. est ce qu'on appelle la clavette: elle sert à retenir & assembler la roue, fig. 7. & le cylindre, fig. 6.
+
+La roue A (fig. 10.) reste trois jours à faire une révolution, ce qu'il est aisé de voir par le nombre de dents des roues, dont la derniere E est celle d'échappement, & fait un tour par minute.
+
+Sur la roue A est fixée une petite roue a, qui a 24 dents ; celle-ci engrene dans la roue F de 96 dents, & qui reste par ce moyen douze jours à faire une révolution.
+
+L'axe de cette roue F porte un pignon de 12, lequel engrene dans la roue annuelle L fig. 2. Cette roue porte 365 dents ; & comme le pignon de 12 fait un tour en douze jours, chaque dent répond à un jour : ainsi la roue L reste un an à faire sa révolution par un mouvement continu.
+
+La roue annuelle L, fig. 1. est graduée, comme on le voit, de maniere qu'elle marque les mois de l'année & les quantiemes du mois qui paroissent sur le cadran par une ouverture faite à la plaque, & sont montrés par un index.
+
+La roue annuelle est percée de douze trous, dont chacun se présente chaque mois au-dessous de l'ouverture de la platine en e, pour laisser passer la clé qui sert à remonter le mouvement. L'axe de cette même roue annuelle porte deux pivots, dont l'un entre dans un trou fait à la fausse plaque, comme on le voit en H fig. 1. & l'autre entre dans un trou fait à une plaque portée par la platine de devant du mouvement, ce qui forme une cage à la roue annuelle : l'aiguille a, fig. 1. est celle des heures ; elle marque à l'ordinaire sur le grand cadran.
+
+Le bout b de l'aiguille c b, est celui qui marque le tems moyen sur le grand cadran : le bout opposé c est l'aiguille du tems vrai, laquelle marque sur le cadran mobile. On voit par cette situation du cadran & des aiguilles, qu'il est maintenant deux heures vingt-deux minutes & demie au tems moyen, tandis qu'il est deux heures trente minutes au soleil : le soleil avance donc de sept minutes & demie, ce qui forme l'équation du 22 Septembre, indiquée par la roue annuelle. L'aiguille gf est celle des secondes.
+
+Pour avoir la facilité de remettre la pendule au jour du mois & à l'équation, lorsqu'on l'a laissée arrêter, on a fait passer le pivot du pignon a qui conduit la roue annuelle à-travers la plaque, & limé quarrément l'excédent, de maniere à le faire mouvoir avec une clé; ce quarré se voit en d, fig. 1. Il faut que ce pignon puisse tourner séparément de la roue, fig. 10. ce qui est facile, comme on le voit, fig. 9. où a b représente le profil du pignon, & F celui de la roue. La roue s'applique contre l'assiette b du pignon, près de laquelle elle est retenue par la clavette c, dont la pression produit un frottement qui assemble la roue contre le pignon, de-sorte qu'ils se meuvent ensemble, à-moins qu'on ne les fasse tourner séparément par l'action de la main, lorsqu'on veut faire tourner la roue annuellement en avant ou en- arriere.
+
+Cette équation est, sans contredit, la meilleure que l'on ait imaginée jusqu'à ce jour : aussi l'auteur s'est-il fort attaché à la disposer de la maniere la plus avantageuse pour les pendules & pour les montres, d'autant plus qu'elle est applicable à toutes sortes de pieces.
+
+
+8. suite, cotée Y. Pendule à équation, du sieur le Bon.
+
+9. suite, cotée Z. Suite de la pendule d'équation, du sieur le Bon.
+
+PLANCHE X. cotée AA. Montre ordinaire & ses développemens.
+La montre est une petite horloge portative que les hommes mettent dans le gousset & les femmes à leur ceinture.
+
+Montre simple, est celle qui montre l'heure & les minutes.
+
+Montre à répétition, celle qui répete l'heure & les quarts, lorsque l'on pousse le bouton ; elle est dite à timbre lorsqu'il y en a un ; & lorsqu'il n'y en a point, elle est dite à sourdine.
+
+Montre à horloge, celle qui sonne d'elle-même l'heure & les quarts.
+
+Montre à réveil, celle qui a une sonnerie, que l'on peut mettre dans le cas de sonner à une heure déterminée pour se réveiller.
+
+Montre à trois parties, celle qui sonne elle-même, & & qui joint encore la répétition.
+
+Montre à quatre parties, celle qui aux trois précédentes joint encore le réveil.
+
+Montre à équation, celle qui montre les erreurs du soleil.
+
+Montre à quantieme, celle qui montre le quantieme du mois, de la lune, les jours de la semaine, & les mois de l'année.
+
+Montre de carrosse, celle qui est environ trois fois plus grosse que les autres montres. Elle est pour l'ordinaire à sonnerie, & sert pour courir la poste, en la suspendant dans la chaise.
+
+Montre à secondes, celle qui porte une aiguille de secondes, qui avance de seconde en seconde, comme les pendules dites à secondes. Cette invention fut trouvée en 1754. Voyez Frottement, Horlogerie, où cette montre est décrite & le jugement de l'académie rapporté.
+
+Avant cette époque les montres qu'on nommoit montres à secondes, ne les battoient point. La plûpart d'entre elles faisoient un certain nombre de battemens par seconde, qui n'étoient point l'aliquote de la minute ; de sorte qu'elle ne se trouvoit que rarement d'accord. L'époque de la montre qui bat les secondes a été aussi celle des montres à longs termes pour les remonter. Avant ce tems l'on avoit bien fait des montres à huit jours, mais elles ne valoient rien parce qu'elles manquoient totalement de force, mais comme par cette invention l'on réduit prodigieusement la force motrice, il suit qu'il a été possible d'en faire aller un mois, six mois, un an.
+
+A l'égard de cette derniere espece, j'en a fait une que j'ai présentée à l'académie, & j'ai démontré par un mémoire sur les révolutions des roues, le moyen le plus simple de faire aller un an une piece sans être remontée : on va rapporter ici le jugement de l'académie. Extrait des registres de l'académie royale des Sciences, du 10 Mai 1758.
+
+« Nous, commissaires nommés par l'académie, avons examiné une montre du sieur Romilly, horloger, citoyen de Genève, construite pour aller 378 jours sans être remontée.
+Cette montre est à secondes & à répétition. Les secondes y sont excentriques. Son mouvement est composé comme dans les montres ordinaires, d'un barillet, de cinq roues, & de quatre pignons. Son balancier bat les secondes. Sa fusée porte huit tours trois quarts de chaîne. La roue de fusée a 96 dents qui engrenent dans un pignon de 8. La seconde roue est aussi de 96 dents qui engrenent dans un pignon de 6. La troisieme porte 108 dents qui engrenent dans un pignon de 6. La quatrieme est aussi de 108 dents qui engrenent dans un pareil pignon de 6. Enfin la roue d'échappement a 30 dents, dont chacune fait faire deux vibrations au balancier, ensorte que cette roue fait son tour en une minute. Il est facile de voir que cette montre doit faire 32669200 vibrations d'une seconde, & qu'elle doit en conséquence marcher 378 jours pendant les huit tours trois quarts que la roue de fusée doit faire avant qu'il soit nécessaire de la remonter.
+
+Le ressort de cette montre n'est pas beaucoup plus fort que ceux de quelques montres qui ne vont que 30 heures. L'horloger a été obligé de faire les roues très-légeres, & de rendre toutes les pieces & engrenages de son mouvement extrèmement réguliers, pour ménager autant qu'il est possible l'action de la force motrice, qui seroit bien-tôt épuisée dans une montre faite avec moins de soin. Il faut observer que celle-ci faisant dans un tems donné cinq fois moins de vibrations que la plûpart des montres ordinaires, elle n'auroit besoin, toutes choses égales d'ailleurs, que d'une force motrice cinq fois plus petite ; & comme le ressort spiral de son balancier peut-être vingt-cinq fois moins roide que ceux des balanciers ordinaires de même masse, il faut pour le faire partir au doigt vingt-cinq fois moins de force que pour les montres communes.
+
+Quoique cette montre soit plus susceptible que les montres ordinaires, des inégalités causées par le froid & le chaud, & peut être aussi plus sujette à s'arrêter, on peut cependant conclure de l'exposé ci-dessus, que le sieur Romilly n'a négligé aucun des moyens nécessaires pour faire aller une montre aussi long-tems qu'on peut le desirer sans la remonter, ce qui fournit de nouvelles preuves de son adresse dans l'exécution, & de l'habileté dans la théorie de l'Horlogerie. Signé, De Montigny & Camus».
+
+Je certifie l'extrait ci-dessus conforme à son original & au jugement de l'académie, ce 11me jour de Mai 1758. Signé, Grandjean de Fouchy, secrétaire perpétuel de l'académie royale des Sciences.
+
+L'on voit par ce rapport que l'académie approuve la théorie & l'exécution de cette montre. En effet, pour perfectionner les montres & les machines en genéral, l'on ne suit guere d'autre théorie que celle qui tend à diminuer les resistances pour réduire les forces qui les animent, par-conséquent diminuer les frottemens, & leur donner un peu plus de dureté.
+
+Mais cette montre qui est faite pour aller une année avec un ressort ordinaire de vingt-quatre heures, a exigé tout ce que l'art a de plus subtil pour diviser cette force pour aller 378 jours ; ensorte qu'il ne reste sur le dernier mobile de cette montre qu'une force infiniment petite.
+
+Mais ayant donc diminué les causes méchaniques, & réduit toutes les resistances autant qu'il étoit possible & nécessaire, il est arrivé que les causes physiques du chaud & du froid ont eu d'autant plus d'accès sur elle pour la déranger, ce qui fait voir qu'il y a des bornes au-delà desquelles les frottemens étant pour-ainsi-dire échappés à la méchanique, sont diminués avec d'autant plus de force par les causes physiques. Comme j'ai fait plusieurs expériences avec cette montre, je ne crois pas inutile d'en rapporter une partie.
+
+Étant reglée à la température du quatorzieme degré du thermometre de M. de Réaumur, elle a été avec une régularité surprenante : j'ai poussé la chaleur de cinq degrés en cinq degrés jusqu'au quarante-cinquieme, la montre a continué d'aller avec une précision au-dessus des meilleures montres ordinaires. En un mot j'ai répété des expériences en différens tems pendant des cinq à six heures de suite dans toutes les positions, à plat, pendue, & en mouvement ; elle a toujours soutenu sa même régularité. Mais ce qu'il y a de fort singulier, c'est que lorsque j'ai diminué la chaleur du quatorzieme au douzieme degré, la montre a commencé à retarder huit à dix secondes par heure. Au dixieme degré elle retardoit quinze à vingt-cinq secondes ; au huitieme de trente-cinq à soixante secondes ; au sixieme de deux à trois minutes & demie ; au quatrieme elle retardoit de six & huit minutes ; & a zéro elle retardoit si considérablement qu'elle arrêtoit quelquefois au bout d'une demi-heure, & quelquefois plus tard. J'ai répété toutes ces expériences du froid ; elles ont beaucoup varié: c'est-à-dire qu'au même degré de froid elle varioit ses retards en plus & en moins. Étant remise à la température du quatorzieme, ou du vingtieme, trentieme, &c. elle étoit deux à trois heures pour se regler ; après quoi elle restoit reglée comme dans les premieres expériences.
+
+Si l'on fait un raisonnement sur les effets que la chaleur doit produire sur les montres, l'on trouvera:
+
+Que la chaleur ouvrant les pores doit permettre aux parties frottantes de se pénétrer davantage, par conséquent causer du retard. La chaleur qui dilate les métaux alonge les ressorts moteurs & réglans, ils deviennent plus foibles ; autre cause de retard.
+
+La dilatation grossit les pivots, grandit les roues & le balancier ; autre cause de retard.
+
+Le froid qui fait directement tout le contraire sur chacun de ces objets, devroit faire aussi un effet tout contraire, par-conséquent faire avancer la montre : il en est cependant arrivé tout autrement.
+
+A quoi donc en rapporterons-nous la cause?
+
+Au frottement seul. Il est certain qu'il en est l'unique cause ; car ayant fait depuis une infinité d'expériences sur les frottemens, j'ai toujours trouvé que le froid augmentoit d'autant plus les résistances que les pressions étoient plus foibles ; d'où je conclus que cette résistance se trouve augmentée en plus grande raison que toutes les causes contraires dont je viens de parler, & qui tendoient à la faire avancer. Ensorte que les montres doivent d'autant plus retarder par le froid, qu'elles sont faites pour aller plus long-tems ; que toutes choses d'ailleurs égales, celles qui vont avec le moins de force motrice sont aussi celles où le froid fait les plus grands effets : & au-contraire les montres qui vont avec beaucoup de force, bien-loin de retarder par le froid, avancent ; il est vrai qu'il s'y mêle un peu de destruction qui concourt à les faire avancer.
+
+Les montres ne sont pas seulement des machines pour mesurer le tems, elles servent encore d'ornement & de parure, font partie des bijoux, & sont une marque d'opulence. C'est la raison pour laquelle l'on enrichit les boîtes des montres par des gravures, peintures en émail, & diamants. L'on emploie aussi toutes sortes de cailloux pour les boîtes. En un mot tout ce qu'on emploie pour orner les bijoux, est employé pour les montres ; & réciproquement l'on enrichit les bijoux en y plaçant des montres. J'ai fait des montres à répétition dans des bagues, bracelets, tabatieres, au bout d'un étui, d'une pomme de canne, sur une navette, dans une pelote. L'on fait aussi des montres de fantaisie, très-petites, très-plates. J'ai fait une répétition qui n'avoit de hauteur que trois lignes ; elle étoit des plus plates qui se soient faites : & pour donner une idée de la délicatesse & de la précision qu'une telle montre exige, il suffira de dire que l'on y distingue trente-sept épaisseurs les unes sur les autres perpendiculairement, dont la plûpart ont leur jeu pour se mouvoir sans se frotter.
+
+Si ces montres n'ont pas un avantage sur les montres d'un volume ordinaire, l'on peut dire que les horlogers qui les font & qui les font bien, acquierent une telle connoissance de précision & une délicatesse d'exécution, dont il n'appartient qu'à eux seuls de se former l'idée ; car dans les ouvrages ordinaires il ne suffit pas de savoir qu'il faut une grande exactitude, il s'agit encore de la sentir.
+
+Tout ce que l'horloger doit se proposer dans ces petits ouvrages, c'est de les faire incessables, de montrer l'heure à peu de choses près, de réduire leur composition autant qu'il est possible, en sacrifiant même quelque avantage utile aux grosses montres : & pour satisfaire à cet objet il faut encore du génie & de l'adresse.
+
+Mais, dira-t-on, pourquoi donc faire des montres un sujet de fantaisie, de mode, ou de caprice? n'ont- elles pas assez de mérite par la nature de leur objet, celui de mesurer le tems? doit-on rien faire qui tende à altérer leur justesse?
+
+Eh! pourquoi la nature ne souffre-t-elle pas deux choses égales, pourquoi faut-il de la variété dans tout? Au-moins il est très-certain que ceux qui sont en état de bien faire les petits ouvrages, le sont encore plus de faire les moyens.
+
+Fig. 42. La platine des piliers vûe intérieurement ou du côté opposé au cadran.
+
+43. La même platine vûe du côté sur lequel on place le cadran.
+
+44. La petite platine vûe intérieurement ; au-dessous sont les développemens de la potence.
+
+45. La même petite platine vûe extérieurement ou du côté du coq qui recouvre le balancier ; au-dessous sont les développemens de la coulisse & de la rosette.
+
+46. La platine des piliers vûe intérieurement & garnie du barillet, de la fusée, des grandes & petites roues, moyennes, & de la roue de champ ; au-dessous sont les développemens du ressort de cadran.
+
+47. La même chose en perspective.
+
+48. Le grand ressort
+
+49. Le rouage en profil, au-dessous de chacune des roues sont les plans & développemens nécessaires.
+
+50. Calibre de montre ordinaire.
+
+51. Drageoir.
+
+51. n°. 2. fil de pignon.
+
+52. Ressort spiral & balancier.
+
+53. Calotte de répétition.
+
+54. Chaîne de montre.
+
+55. Pas d'âne.
+
+56. Embistage.
+
+
+1. suite de la Planche X. cotée B B & la 2. suite, cotée C C. Montre à roue de rencontre.
+Cette Planche & la suivante qui contient les développemens de la montre, ont été tirées du livre de M. Ferdinand Berthoud.
+
+La figure 1. représente le cadran posé sur la platine de la fig. 3. Pl. B B, avec les aiguilles ajustées sur leurs canons.
+
+La fig. 2. représente l'intérieur de la montre, c'est-à-dire, toutes les pieces qui se posent sur la platine des piliers, lorsqu'on veut les remettre en place après avoir démonté la montre.
+
+La fig. 3. fait voir l'autre côté de la même platine, avec les pieces qui sont sous le cadran, & qui servent à faire marcher les aiguilles.
+
+Les fig. 4. & 8. dans les deux Pl. B B, C C, représentent les côtés intérieurs des platines qui forment la cage dans laquelle on place le rouage de la montre.
+
+Les fig. 5. 6. Pl. B B, & les fig. 9, 10, 11, 12, 13, 14, 15, 16, 17, de la Pl. C C sont des développemens des parties de la montre. Voyez à la description de chaque partie.
+
+La fig. 7. fait voir la montre toute montée, vûe en perspective.
+
+La fig. 2. Pl. B B, représente l'intérieur de la montre. A est le tambour ou barillet dans lequel est contenu le ressort ou moteur, fig. 10. B est la roue de fusée qui communique au barillet par le moyen de la chaîne H r.
+
+La grande roue B, ou roue de fusée, engrene dans le pignon a, qui porte la roue à longue tige C: le pivot prolongé de ce pignon passe à-travers la platine, & porte la chaussée C, fig. 5. Le pignon K de cette chaussée, fig. 3. qui est le même vû, fig. 5. engrene dans la roue de renvoi E; celle-ci porte un pignon D, qui fait mouvoir la roue de cadran F, fig. 6. Le bout de la chaussée porte l'aiguille des minutes ; le bout du canon de la roue F de cadran porte l'aiguille des heures. La roue de longue tige C, fig. 2. engrene dans le pignon b que porte la petite roue moyenne D; celle-ci engrene dans le pignon c que porte la roue de champ E, vû en perspective, fig. 7. Pl. C C. cette roue engrene dans le pignon e de la roue de rencontre ou d'échappement, figure 17. laquelle roule dans les trous des pieces portées par le dessous de la platine M M, fig. 7. le dessous de cette platine est représenté, fig. 8. portant la roue de rencontre R, dont les pivots roulent dans les trous de la potence P & de la contre-potence A: l'axe de cette roue est parallele à la platine.
+
+Le balancier B se meut dans une espece de cage formée par le coq, CC, fig. 7. & par la potence P portée par le dessous de la platine M M, comme on voit, fig. 8.
+
+Le pivot supérieur a du balancier, figure 7. tourne dans le trou o du coqueret p o qui tient au coq C C, sous lequel tourne le balancier ; & le pivot inférieur tourne dans un trou fait en o à la potence P, fig. 8. qui est développée dans la fig. 13. La partie q de la potence P forme un petit hémisphere dont le trou du pivot est le centre ; le sommet de cet hémisphere n'est séparé de la plaque o p que par un petit intervalle, par lequel s introduit l'huile que l'on met aux pivots, & qui ne s'extravase jamais du trou, étant attirée par la surface de la plaque, & le sommet de l'hémisphere : cette disposition est très-essentielle pour conserver l'huile. Le coqueret o p du coq du balancier, fig. 7. est arrangé de la même maniere.
+
+La vis V sert à faire mouvoir le lardon L de la potence qui porte le trou où entre le pivot de la roue de rencontre ; ce mouvement du lardon L est pour servir à former l'échappement, & à rendre égales les chûtes de la roue de rencontre.
+
+La piece o p est une plaque d'acier qui s'attache à la potence pour recevoir le bout du pivot de la verge, fig. 14.
+
+La piece A, fig. 7. & 8. est la contre-potence qui sert à porter le pivot inférieur r de la roue de rencontre R ; le bout du pivot roule sur une plaque d'acier que porte cette contre-potence, à laquelle elle tient par le moyen d'une vis.
+
+Les fig. 14. & 15. Pl. C C, représentent le balancier avec son spiral a s. p est le piton qui fixe le bout extérieur du spiral avec la platine. R r, fig. 15. est le rateau dont le bras a est fendu pour contenir le ressort spiral: ce rateau R r sert à déterminer la longueur du spiral, & par conséquent à regler la montre, selon qu'on approche la fente a, ou qu'on l'éloigne du piton P. Si on l'approche de p, pour-lors le ressort spiral agira par une plus grande longueur ; car la longueur active du spiral ne se mesure que depuis b, au point où est fixé l'autre bout du spiral, puisque la fente du bras b empêche qu'il n'agisse de plus loin : il sera par conséquent plus lent dans ses vibrations, & la montre retardera : si au-contraire on éloigne la fente a du piton p, le ressort sera plus court, il aura par conséquent plus de vîtesse, & fera avancer la montre.
+
+Le rateau R r s'ajuste sous la piece c c, fig. 11. qu'on appelle la coulisse. La coulisse se fixe sur la platine au moyen de deux vis. Elle sert à contenir le rateau & à diriger son chemin autour du centre du balancier : le rateau est retenu sous la coulisse par une rainure faite, comme on le voit dans cette figure. On appelle coulisserie, l'assemblage formé par le rateau & la coulisse.
+
+L'anneau ou cercle B B du balancier porte en-dessous une cheville qui détermine l'étendue de ses vibrations. Pour cet effet cette cheville est arrêtée par les bouts c c de la coulisse.
+
+Pour faire mouvoir ce rateau R r, fig. 15. le quarré qui porte l'aiguille t qu'on appelle l'aiguille de rosette, porte aussi la roue S, laquelle engrene dans le rateau ; & selon qu'on tourne cette aiguille, on fait avancer ou reculer le rateau, & par-conséquent on fait avancer ou retarder la montre, comme je viens de le dire. Le chemin de cette aiguille t est marqué par le cadran R, Pl. C C, fig. 7. ce cadran qu'on appelle aussi la rosette porte des divisions qui indiquent la quantité dont on fait marcher l'aiguille.
+
+La fig. 12. Pl. C C, représente la fusée F & la roue B: voici la maniere dont elles s'ajustent ensemble. La roue f f qui est au-dessous de la fusée, est taillée en rochet, c'est-à-dire que les dents sont droites d'un côté, & inclinées de l'autre ; son usage est le même que celui des remontoirs des pendules.
+
+La roue B est appliquée contre le rochet ff de la fusée par le moyen de la virole C, laquelle entre à frottement sur l'axe de la fusée, ce qui l'empêche de s'en écarter, lui permettant seulement de tourner.
+
+Lorsque l'on remonte les montres, on sent un arrêt qui empêche de monter le ressort plus haut, & par conséquent de rien forcer : voici comment cet effet se produit. La platine N N, fig. 8. porte la piece ou bras b mobile sur le piton B. Ce bras peut seulement s'approcher ou s'éloigner de la platine : le ressort r tend continuellement à l'en éloigner. Lorsqu'on remonte la montre, la chaîne H, fig. 9. qui actuellement entoure le tambour A, s'applique dans la rainure de la fusée F, en commençant par la base & finissant au sommet ; pour lors la chaîne agit sur le bras b, & l'oblige de s'approcher de la platine ; continuant à tourner la fusée, le crochet G qu'elle porte vient arcbouter contre le bout b du bras, ce qui arrête l'effort de la main, & avertit que la montre est remontée au haut. Lorsque la fusée est entraînée par le ressort ou moteur, la chaîne s'applique de nouveau sur le barillet A, & le ressort r éloigne le bras b, qui permet au crochet G de la fusée de passer entre lui & la platine. On appelle garde-chaîne les pieces b, B r, qui empêchent de trop remonter la montre.
+
+Le ressort, fig. 10. fait voir le moteur d'une montre dans son état naturel & développé: il se met dans le barillet ou tambour A Pour le faire entrer dans le barillet on se sert d'un arbre portant un crochet qui agit sur le bout intérieur du ressort, lequel porte une ouverture pareille à celle o du bout extérieur. Ainsi, tournant cet arbre, les spires du ressort se resserrent & s'approchent, & on leur fait occuper un petit volume capable d'entrer dans le barillet A. Un bout de l'arbre a porte quarrément une roue R, fig. 9. qu'on appelle roue de vis sans fin ; elle doit être de l'autre côté du barillet ; mais comme elle n'auroit pû être vûe, on l'a représentée dessus, comme on voit, pour en mieux faire sentir l'usage ; les dents de cette roue entrent dans le pas de la vis sans fin V, fig. 4. Pl. B B: c'est au moyen de cette roue R, & de la vis V, que l'axe du barillet reste immobile, tandis que le barillet tourne & que le ressort se monte, selon que l'y oblige la fusée, & qu'il se développe ensuite par sa force naturelle, qui tend à reprendre la premiere situation. Pour cet effet un des bours r du ressort s'accroche à l'arbre immobile a, & l'autre tient au barillet A, & par conséquent celui-ci tourne, selon qu'il est entraîné par le ressort ; ainsi les spires du ressort s'enveloppent l'une sur l'autre, lorsqu'avec la fusée on fait tourner le barillet, & avec lui le bout o, & ainsi de suite, &c.
+
+Le bout extérieur du ressort est détrempé pour faire l'ouverture o, ce qui le rend sujet à fléchir près de l'endroit où il est accroché, & à frotter contre les spires de ce ressort. Pour y obvier on se sert d'une piece qu'on appelle barrette. Cette piece traverse le barillet dans son épaisseur à 60 degrés environ du point de la circonférence intérieure du barillet où est placé le crochet. Elle s'applique sur la lame du ressort à l'endroit où elle est trempée ; & c'est de ce point que l'on compte l'action du ressort : de même que celle du ressort spiral du balancier des montres se compte de la fente du rateau.
+
+La vis sans fin V porte un bout quarré, au moyen duquel on peut faire tourner l'arbre du barillet, & donner plus ou moins de tension au ressort.
+
+
+PLANCHE X. 3. suite, cotée DD. Montre à réveil.
+Cette Planche & son explication ont été tirées du livre de M. Ferdinand Berthoud.
+
+Les montres à réveil sont disposées de maniere qu'une heure étant donnée, un marteau frappe sur un timbre, & fait un bruit capable d'éveiller. Le marteau est mis en mouvement par un petit rouage particulier, sur lequel agit un ressort semblable à celui, Pl. VI. fig. 5. mais qui est plus petit. Lorsqu'on veut que le réveil frappe, on fait tourner le cadran A, fig. 1. jusqu'à ce que l'heure à laquelle on veut s'éveiller se trouve sous la pointe E de l'aiguille des heures ; on remonte le ressort du réveil & on laisse marcher la montre. Lorsque l'aiguille des heures est parvenue sur le grand cadran à l'heure marquée par l'aiguille sur le cadran A, une détente qui communique au cadran donne la liberté au petit rouage de tourner & de faire frapper le marteau sur le timbre. Il y a différens moyens mis en usage pour faire des réveils ; mais celui de tous qui est le plus simple, le plus facile à exécuter, & qui médiocrement fait est le plus solide, est celui dont on va voir la description, & que représentent les figures 1, 2, 3, 4.
+
+B est le barillet ou tambour du mouvement. A la roue de fusée. F la fusée. S la chaîne. G le crochet qui arrête contre le garde-chaîne. C la grande roue moyenne. D la petite roue moyenne. E la roue de champ ; & R, fig. 4. la roue de rencontre ou d'échappement.
+
+Les roues C & R, fig. 3. sont les roues de cadran.
+
+Voilà toutes les parties d'une montre ordinaire, semblable à celle décrite ci-devant, il n'est donc pas besoin de répéter ici cette description ; nous nous arrêterons simplement à ce qui regarde le réveil.
+
+La roue G, fig. 2. est la premiere roue de réveil ; elle est portée par l'axe m, sur lequel est fixé le rochet N, qui agit sur l'encliquetage porté par la roue G.
+
+La platine, fig. 4. s'applique sur celle, fig. 2. qui porte les piliers, ce qui forme la cage dans laquelle se meuvent les roues de la seconde figure: cette platine, fig. 4. ainsi mise, l'axe m passe dans le trou du barillet B, en-sorte que son crochet N entre dans l'oeil intérieur du ressort ou moteur du réveil contenu dans le barillet. Ainsi lorsqu'on remonte cet axe, le crochet qu'il porte tend le ressort, dont le bout extérieur est attaché au bord extérieur du barillet ; & lorsque le ressort ramene le crochet ou axe N & le rochet m, celui-ci agit sur le cliquet porté par la roue G, & l'oblige de tourner, ainsi que la roue n portée par le pignon g, & dans lequel elle engrene, & fait par-conséquent aussi tourner le pignon f: sur celui-ci est fixée la roue ou rochet R qui est posé sur l'autre côté de la platine, fig. 3. de même que la roue n: les pivots de ces roues tournent dans les trous du pont H.
+
+Les dents du rochet R d'échappement, fig. 3. agissent alternativement sur les leviers a, b, qui se communiquent le mouvement réciproquement, au moyen des dents que ces leviers a, b, portent. Le levier a est fixé & mis quarrément sur le pivot prolongé p du marteau du réveil m, fig. 5. Ce marteau est mobile, & se pose en I, fig. 2. & passe sous le barillet B du mouvement ; l'autre levier b se meut sur une broche que porte la platine, fig. 3. Ces deux leviers a & b étant mis en mouvement par le rochet R, on voit que le marteau M, fig. 2. tournera, allant & venant alternativement de côté & d'autre, & que si l'on place en M & M un corps sonore, comme par exemple un timbre, ce marteau le fera sonner avec une force relative à l'espace que le marteau parcourra, à la masse du marteau, à la force du moteur ou ressort, & enfin à la grandeur du timbre. Le bruit que doit faire un réveil dépend donc de ces différentes choses, & de la maniere dont la force du ressort se communique au moteur, &c.
+
+La piece A, fig. 3. est portée quarrément par le pivot prolongé de l'axe ou arbre m, fig. 2. Ce quarré ou pivot passe au cadran & sert à remonter le réveil : cette piece porte une dent dont l'usage est de regler le nombre de tours dont on doit remonter le ressort du réveil. La petite roue F porte trois dents, qui n'occupent qu'une moitié ou partie de la circonférence ; ensorte que si l'on fait tourner la dent de la piece A, elle entrera alternativement dans les vuides des dents de la roue F, & cela jusqu'à ce que cette roue F présente la partie où il n'y a pas de dents : pour lors la dent de la piece A ne pourra plus tourner, & ce ressort sera remonté: enfin lorsque le ressort se développera, il ne tournera qu'au point où la dent de la piece A viendra poser sur le bord de la roue.
+
+La roue F tourne sur une broche ou vis portée par la platine : le ressort ou piece G presse cette roue F, de maniere qu'elle ne tourne qu'à frottement, lorsqu'elle y est obligée par la dent de la piece A. Voyons maintenant comment le rouage & le moteur sont retenus lorsque le ressort est monté, & par quel moyen le réveil part à une heure précise à volonté.
+
+Le levier b, fig. 3. porte la partie angulaire 1, 2, dans laquelle entre l'angle d formé sur le bras de la détente d f 4, mobile en f ; le bras f 4 vient poser sur une plaque p fixée sur un canon qui entre à frottement sur celui de la roue C de cadran : cette plaque p fait donc un tour en douze heures.
+
+Pendant tout le tems que le bras f 4 appuye sur le bord de la plaque p, les leviers a & b étant retenus par l'angle d de cette détente, ne peuvent tourner, ni le marteau frapper. La plaque p a une entaille o, laquelle étant parvenue à l'extrémité 4 de la détente d f 4, sert à y laisser descendre le bras f 4, lequel pressé par le ressort q, ainsi que par le plan incliné de l'angle 1, 2, ne tend qu'à entrer dans l'entaille o, dès qu'elle se présente: pour lors le bras d s'éloigne de l'angle 1, 2 du levier, celui-ci tourne par ce moyen de côté & d'autre, selon que l'y oblige le rochet R; ainsi le marteau frappe sur le timbre.
+
+Le cadran A, fig. 2. est divisé en douze parties ; il se fixe quarrément sur le canon de la plaque p, fig. 3. laquelle tourne, comme je l'ai dit, avec la roue du cadran.
+
+L'entaille o de la plaque p se présente au bras 4 f, à l'instant que les douze heures du petit cadran se trouvent dans la ligne de six heures du grand : ainsi chaque fois que le cadran A fait un tour, si le réveil est monté, il marchera au moment que le chiffre 12 se trouvera à la ligne de six heures. Or si dans cette position on met la petite pointe de l'aiguille des heures (l'aiguille est diamétralement opposée à la grande aiguille) sur le chiffre 12 du cadran A, l'aiguille des heures marquera midi sur le grand cadran, tandis que les douze heures du petit cadran seront diamétralement opposées à celles du grand ; ainsi le réveil partira à midi, puisqu'à cet instant l'entaille o se présente au bras 4 f.
+
+Le réveil part, comme ou vient de le voir, chaque fois que le chiffre 12 se trouve avec la ligne de six heures du grand cadran ; ainsi l'heure à laquelle doit frapper le marteau dépend de l'intervalle qu'il y aura du chiffre 12 du cadran A à la pointe E de l'aiguille ; car on a vû qu'en mettant la pointe E de l'aiguille sur le chiffre 12, le réveil part, lorsque l'aiguille des heures arrive sur le midi. Si donc on met la pointe E de l'aiguille sur le chiffre 1 du cadran A, cela rétrogradera d'une heure le cadran : ainsi lorsque l'aiguille des heures sera sur midi, la pointe de l'aiguille étant sur le chiffre 1 du cadran, il faudra que l'aiguille des heures parcoure une heure du grand cadran ; pour-lors le chiffre 12 du cadran A sera dans la ligne de six heures, & le réveil partira.
+
+C'est par un semblable raisonnement qu'on verra que mettant la pointe E de l'aiguille sur le chiffre 3, lorsque l'aiguille des heures sera arrivée sur le midi, le cadran de réveil présentera le chiffre 3 à la ligne de six heures: il faudra donc que l'aiguille des heures & le cadran A parcourent encore trois heures avant que le chiffre 12 soit parvenu à la ligne de six heures, & que le réveil frappe : celui-ci partira donc lorsque l'aiguille des heures arrivera sur trois heures, & ainsi de suite pour toutes les autres heures, &c.
+
+Dans les réveils à cadran il suffit donc de mettre le chiffre qui représente l'heure à laquelle on veut être éveillé, sous la poinie E de l'aiguille : pour-lors la grande aiguille arrivée à l'heure en question, le réveil sonne.
+
+Le bras x du levier b, fig. 3. sert à empêcher le marteau M d'approcher trop près du timbre ; la fourchette P qui fait ressort, ramene le marteau dès qu'il a frappé sur le timbre ; le ressort h est celui du cadran. 5 est un cliquet qui, avec le rochet D, tient lieu de la vis sans fin, qui s'emploie communément pour fixer par l'arbre le bout intérieur du ressort de mouvement, & pour lui donner le degré de tension dont il est besoin : le ressort 3 presse le cliquet contre le rochet D. Bas de la Planche. Montre à équation, à secondes concentriques, marquant les mois & leurs quantiemes.
+
+La fig. 7. Pl. D D, représente le cadran de cette montre ; l'aiguille des secondes passe, comme dans les pendules, au-dessus des autres aiguilles : c'est une suite de la disposition de cette piece.
+
+L'aiguille des minutes est en deux parties diamétralement opposées, dont la plus grande marque les minutes du tems moyen sur le grand cadran ; & l'autre, où est gravé un soleil, marque les minutes du tems vrai sur le cadran A qui est au centre du premier. L'ouverture C faite dans le grand cadran est pour laisser paroître les mois de l'année gravés sur la roue annuelle, ainsi que les quantiemes qui le sont de cinq en cinq : l'usage de ces quantiemes est principalement pour remettre la montre lorsqu'elle a été arrêtée, ensorte que l'équation réponde exactement à celle du jour où l'on est. Pour cet effet l'étoile E, fig. 8. a un de ses rayons qui est toujours saillant en-dehors de la fausse plaque, ce qui donne la liberté de la faire tourner, & par son moyen la roue annuelle.
+
+La montre se remonte par-dessous, ce qui a permis d'appliquer au fond de la boîte un cercle de quantieme, construit comme ceux dont parle M. Thiout, traité d'Horlogerie, tom. II. pag. 387.
+
+La figure 9. représente l'intérieur de la fausse plaque, dont le dehors porte les cadrans, fig. 7. C'est dans cette plaque que sont ajustées les pieces qui forment l'équation, ou qui donnent les variations du soleil. A est la roue annuelle de 146 dents, fendue à rochet, mise immédiatement sur le cadran : elle tourne sur un canon que porte la fausse plaque ; la roue annuelle s'appuie sur le fond de la plaque ; l'ellipse B est attachée sur la roue annuelle ; elle fait mouvoir le rateau H F, qui engrene dans le pignon C; celui-ci est porté par un canon qui passe dans l'intérieur de celui de la fausse plaque : sur le canon où est fixé le pignon C, est attaché en-dehors le cadran A du tems vrai. Ainsi on voit qu'en faisant mouvoir la roue annuelle, ce cadran doit nécessairement se mouvoir, tantôt en avançant, & ensuite en se rétrogradant, suivant qu'il y est obligé par les différens rayons de l'ellipse, ce qui produit naturellement les variations du soleil : voici le moyen pour faire mouvoir la roue annuelle.
+
+Le garde-chaîne de la montre est fixé sur une tige, dont les pivots se meuvent dans les deux platines, & peut y décrire un petit arc de cercle ; un de ces pivots porte un quarré sur lequel est ajusté dans la cadrature le levier A C, fig. 8. à pié de biche. On voit dans la fig. 6. ce garde-chaîne, qui est représenté en perspective avec l'étoile & le crochet de la fusée.
+
+Lorsqu'on remonte la montre, le garde-chaîne ABC, fig. 6. fixé sur la tige & mis entre les deux platines, est soulevé par la chaîne, jusqu'à ce qu'il soit a la hauteur du crochet D de la fusee ; le crochet lui donne un petit mouvement circulaire qu'il communique au pié de biche C, fig. 8. dont l'extrémité s'engage dans l'étoile E, qui est à cinq rayons, & fait ainsi passer un de ces rayons toutes les fois que le crochet de la fusée pousse le garde-chaîne.
+
+L'étoile E est assujettie par un valet ou sautoir D qui lui fait faire la cinquieme partie d'un tour, & l'empêche de revenir en sens contraire lorsque le pié de biche se dégage ; l'axe de cette étoile porte deux palettes opposées, comme on le voit, fig. 6: ces palettes servent à conduire la roue annuelle, ensorte que deux dents de cette roue passent nécessairement en cinq jours ; ce qui lui fait faire sa revolution en 365 jours.
+
+Sur la fausse plaque, fig. 9. est attaché un ressort K L, qui sert de sautoir pour maintenir la roue annuelle, en sorte que les palettes que porte l'étoile ne puissent lui faire passer ni plus ni moins de deux dents pendant une des révolutions de cette étoile.
+
+On peut faire mouvoir la roue annuelle d'un mouvement continu, en supprimant ce garde-chaîne mobile, & en faisant de l'étoile une roue qui engrene avec une roue du mouvement, qui lui fasse faire un tour en cinq jours.
+
+Le ressort G, fig. 9. sert à presser continuellement le rateau H contre l'ellipse. Pour cet effet le bout F de ce rateau porte une cheville qui appuie sur le bord de l'ellipse ; ainsi le rateau avance & rétrograde selon que l'ellipse l'y oblige ; & celui-ci fait avancer ou rétrograder le pignon C & le cadran A, fig. 7. Or comme l'aiguille S du tems vrai se meut d'un mouvement uniforme, les variations du cadran exprimeront celles du soleil. L'aiguille S marquera donc les variations du soleil, tandis que le bout opposé indiquera les minutes du tems moyen : le ressort B, fig. 8. sert à ramener le pié de biche A C, à mesure que le crochet de la fusée rétrograde.
+
+
+PLANCHE X. 4. suite, cotée E E,
+
+& 5. suite, cotée F F. Montre à répétition avec un échappement à cylindre, selon la construction de Graham.
+Cette Planche & son explication sont tirées du livre de M. Berthoud.
+
+La fig. 1. de la Pl. E E représente le rouage du mouvement composé des roues B, C, D, E, F, & celle du rouage de la répétition a, b, c, d, e, f, qui composent le petit rouage ; toutes ces pieces sont renfermées entre les deux platines. Le ressort du mouvement est contenu dans le barillet A. B est la grande roue ou la roue de fusée. C la grande roue moyenne, dont le pivot prolongé porte la chaussée sur laquelle s'ajuste l'aiguille des minutes. D est la petite roue moyenne. E la roue de champ, & F la roue de cylindre ou d'échappement. La fusée I est ajustée sur la grande roue B, de la même maniere que nous l'avons vû: pour celle de la montre, la chaîne l'entoure de même, & tient de même au barillet. Le crochet O sert à arrêter la main, lorsque l'on a remonté la montre au haut ; il arrête sur le bout du garde-chaîne C, qui tient à l'autre platine : son effet se fait de même que celui de la montre simple. La fig. 8. représente le développement de l'échappement à cylindre. B est le balancier fixé sur le cylindre. F est la roue de cylindre, laquelle est représentée comme tendant à agir sur le cylindre & à faire faire des vibrations au balancier. On n'a pas fait mettre le spiral ni ce qu'on appelle la coulisserie, & le dessus de la platine. On appelle dessus de platine les pieces qui se mettent sur la platine du balancier, comme la rosette, le coq, & la coulisserie ; toutes ces parties étant les mêmes que celles de la montre à roues de rencontre vûe dans les Planches précédentes.
+
+Le rouage de la répétition est composé de cinq roues a, b, c, d, e, du pignon f, & de quatre autres pignons. L'effet de ce rouage est de regler l'intervalle entre chaque coup de marteau.
+
+La premiere roue a, ou grande roue de sonnerie, porte un cliquet & un ressort sur lequel agit un petit rochet mis sous le rochet R, ce qui forme un encliquetage comme celui que l'on a vû à la premiere roue de la répétition, & dont l'usage est le même, c'est-à-dire que quand on pousse le poussoir, le rochet R rétrograde, sans que la roue a tourne ; & le ressort qui est dans le barillet B ramenant le crochet R, dont l'axe g est accrochée au ressort, le petit crochet arcboute contre le cliquet, fait tourner la roue a, & le rochet R fait frapper le marteau M, dont le bras M est engagé dans les dents de ce rochet.
+
+Le ressort r attaché à la platine, fig. 2. agit sur la petite partie n du bras m, fig. 1. L'effet de ce ressort est de presser le bras m contre les dents du rochet, de-sorte que lorsque l'on fait répéter la montre, le rochet R rétrograde, & le ressort r ramene toujours le bras m, afin que les dents du rochet fassent frapper le marteau Passons maintenant à la description de la cadrature.
+
+La fig. 6. dans la Pl. F F, représente cette partie d'une répétition qu'on appelle cadrature. Elle est vue dans l'instant où l'on vient de pousser le bouton pour la faire répéter. P est l'anneau auquel tient le poussoir ; il entre dans le canon O de la boîte, & s'y meut sur sa longueur, en tendant au centre ; il porte la piece p qui est d'acier, & fixée au poussoir ; elle est limée, plate par-dessous : une plaque qui tient à la boîte sert à l'empêcher de tourner, & lui permet seulement de se mouvoir sur sa longueur : l'excédant de cette piece est pour retenir le poussoir de maniere qu'il ne puisse sortir du canon de la boîte.
+
+Le bout de la piece p agit sur le talon t de la crémaillere C C, laquelle a son centre de mouvement en y, & dont l'extrémité c fixe un bout de la chaîne s s. L'autre bout tient à la circonférence d'une poulie A, mise quarrément sur l'axe prolongé de la premiere roue du petit rouage : cette chaîne passe sur une seconde poulie B.
+
+Si donc on pousse le poussoir P, le bout c de la crémaillere parcourra un certain espace, & par le moyen de la chaîne s s, il fera tourner les poulies A, B: ainsi le rochet R, fig. 7. rétrogradera jusqu'à ce que le bras b de la crémaillere appuie sur le limaçon L: pour lors le ressort moteur de la répétition ramenant le rochet & les pieces qu'il porte, le bras m se présentera aux dents de ce rochet, & le marteau M frappera les heures, dont la quantité dépend du pas du limaçon L, qui se présente au bras b. Le limaçon L est fixé à l'étoile E, par le moyen de deux vis : ils tournent l un & l'autre sur la tige de la vis V, portée par le tout-ou-rien T R, qui se meut sur son centre T; le tout-ou-rien forme avec la platine une cage où tournent l'étoile & le lima- çon des heures. Voyons maintenant comment les quarts sont répétés.
+
+Outre le marteau M des heures, il y en a un autre N, Pl. précédente, fig. 1. dont l'axe ou pivot passe dans la cadrature, & porte la piece 5, 6, fig. 6. Le pivot prolongé du grand marteau passe aussi dans la cadrature, & porte le petit bras q: ces pieces 5, 6 & q servent à faire frapper les quarts à doubles coups. C'est-là l'effet de la piece des quarts Q, laquelle porte en F & en G des dents qui agissent sur les pieces q, 6, & font frapper le marteau : cette piece Q est entraînée par le bras K que porte l'axe du rochet R au-dessus de la poulie A, de maniere que, lorsque les heures sont répétées, le bras K agit sur la cheville G fixée sur la piece des quarts, & l'oblige de tourner & de lever les bras q & 6, & par consequent les marteaux.
+
+Le nombre des quarts que doivent frapper les marteaux est déterminé par le limaçon des quarts N, selon les enfoncemens 5, 1, 2 ou 3 qu'il présente ; la piece des quarts Q pressée par le ressort D, rétrograde ; & les dents s'engagent plus ou moins avec les bras q, 6, qui ont aussi un mouvement rétrograde, & sont ramenés par les ressorts 10 & 9: le bras K ramenant la piece des quarts, le bras m que porte cette piece, agit sur l'extrémité R du tout-ou-rien T R, dont l'ouverture x, à-travers de laquelle passe une branche fixée à la platine, permet que R parcoure un petit espace : le bras m étant parvenu à l'extrémité R; celle-ci pressée par le ressort i x, revient à son premier état, de maniere que le bras m pose sur le bout R, & que la piece des quarts ne peut rétrograder sans qu'on éloigne le tout-ou-rien. Le bras u que porte la piece des quarts sert à renverser la levée m, fig. 7. dont la partie I passe dans la cadrature ; ensorte que lorsque les heures & les quarts sont répétés, la piece des quarts continue encore à se mouvoir, & le bras u renverse la levée m de la fig. 1. Pl. E E au moyen de la cheville 1 qui passe à la cadrature, & la met par ce moyen hors de prise du rochet R, pendant tout le tems que le tout-ou-rien T R ne laissera pas rétrograder la piece des quarts ; ce qui n'arrivera que dans le cas où ayant pousse le poussoir, le bras b de la crémaillere presse le limaçon, & fasse parcourir un petit espace à l'extrémité R du tout-ou-rien ; alors la piece des quarts descendra & dégagera les levées, & les marteaux frapperont le nombre d'heures & de quarts que donnent les limaçons L & N.
+
+Le grand marteau porte une cheville 3 qui passe dans la cadrature au-travers de l'ouverture 3: le ressort agit sur cette cheville, & fait frapper le grand marteau : ce marteau porte une autre cheville 2 qui passe aussi dans la cadrature par l'ouverture 2; c'est sur celle ci qu'agit le petit talon de la levée q pour lui faire frapper les coups pour les quarts : le petit marteau porte aussi une cheville qui passe dans la cadrature par l'ouverture 4 ; c'est sur cette cheville que presse le ressort 7, pour faire frapper le marteau des quarts ; le ressort S est le sautoir qui agit sur l'étoile E.
+
+La fig. 9. Pl. F F, représente la chaussée & le limaçon N, fig. 6. vû en perspective. Le limaçon N des quarts est rivé sur le canon c de la chaussée, dont l'extrémité D porte l'aiguille des minutes : ce limaçon N porte la surprise S, dont l'effet est le même qu'à celle de la répétition en pendule ; c'est-à-dire que lorsque la cheville O de la surprise fait avancer l'étoile, & que le sautoir acheve de la faire tourner, une des dents de l'étoile vient toucher la cheville O qui porte la surprise, & fait avancer la partie Z, fig. 6. de cette surprise, ensorte que le bras Q de la piece des quarts porte dessus cette partie Z, & empêche la piece des quarts de descendre dans le pas 3 du limaçon ; ainsi la piece répete seulement l'heure. Ce changement d'une heure à l'autre se fait par ce moyen en un instant, & la piece frappe exactement les heures marquées par les aiguilles.
+
+Le canon de la chaussée c D, fig. 9. est fendu, afin qu'il puisse faire ressort sur la tige de la grande roue moyenne, sur laquelle il entre à frottement, assez doux pour pouvoir tourner aisément l'aiguille des minutes de côté & d'autre, & en avançant & reculant cette aiguille, selon qu'il en est besoin ; on met aussi à l'heure l'aiguille des heures.
+
+Il est bon de détromper ici les personnes qui croyent qu'on fait tort aux montres en faisant tourner l'aiguille des minutes en arriere : pour se convaincre que cela n'y fait rien, il suffit de remarquer la position que doivent avoir les pieces d'une cadrature de répétition, lorsqu'elle a répété l'heure, & que le moteur a ramené & écarté toutes les pieces qui communiquent aux limaçons L, N, car pour-lors il ne reste de communication entre les pieces du mouvement & celles de la cadrature, que celle de la cheville O du limaçon ou surprise, avec les dents de l'étoile E, que rien n'empêche de rétrograder. Si donc on fait tourner l'aiguille des minutes d'un tour en arriere, la cheville O fera aussi rétrograder une dent de l'étoile ; & si l'on fait répéter ensuite la montre, elle frappera toujours juste les heures & quarts marqués par les aiguilles. Mais il est à observer que si l'on tournoit les aiguilles dans le tems même qu'on fait répéter la montre, alors elles seroient empêchées : il faut donc pour toucher aux aiguilles d'une montre ou pendule à répétition, attendre qu'elle ait répété l'heure & que toutes les pieces aient repris leur situation naturelle.
+
+Il est aisé de conclure de-là que, puisqu'à une montre à répétition on peut avancer & rétrograder, selon qu'il est besoin, l'aiguille de minutes, à plus forte raison cela est-il possible dans une montre simple, où aucun obstacle ne s'y oppose.
+
+Quant à l'aiguille des heures d'une montre à répétition, on ne doit la faire tourner sans celle des minutes, que dans le cas seulement où la répétition ne frapperoit pas l'heure marquée par l'aiguille des heures ; pour-lors il faudroit remettre cette aiguille à l'heure que frappe la répétition.
+
+Lorsque le répétition se dérange d'elle-même d'avec l'aiguille des heures, c'est une preuve que le sautoir S ou la cheville O du limaçon, ne produit pas bien son effet.
+
+La roue de renvoi, fig. 12. se pose & tourne sur la broche 12, fig. 6. Cette roue engrene dans le pignon de la chaussée N; celui-ci a douze dents ; la roue, fig. 12. en a trente-six : la chaussée fait donc trois tours pendant qu'elle en fait un ; celle-ci porte un pignon qui a dix dents, qui engrene dans la roue de cadran, fig. 10. qui en a quarante : la roue, fig. 12. fait donc quatre tours pour un de la roue de cadran ; la chaussée fait par conséquent douze tours pour un de la roue de cadran : or la chaussée fait un tour par heure ; la roue de cadran reste donc douze heures à faire une révolution : c'est le canon de cette roue qui porte l'aiguille des heures. La levée m n, fig. 7. peut décrire un petit arc qui permet au rochet R de rétrograder ; & dès que le moteur le ramene, le bras 1 de la levée entraîne le marteau M.
+
+La fig. 8. représente le dessous du tout-ou-rien avec deux broches, l'une u, sur laquelle il se meut, & l'autre x, sur laquelle tourne l'étoile & le limaçon, fig. 11. le trou c de cette piece sert à laisser passer le quarré de la fusée du mouvement, lequel passe au cadran pour remonter la montre.
+
+W, fig. 6. est le ressort de cadran, c'est lui qui empêche que le mouvement ne s'ouvre.
+
+Y est un petit pont qui retient la crémaillere, & l'empêche de s'éloigner de la platine, lui permettant seulement de tourner sur elle même.
+
+Toutes les parties de la répétition se logent sur la platine, & sont recouvertes par le cadran : ainsi il faut qu'entre la platine, fig. 6. & le cadran, il y ait un intervalle qui permette le jeu de la cadrature : c'est à cet usage qu'est destinée une piece qui n'est pas ici représentée, & qu'on appelle la batte. Cette batte est une espece de cercle ou virole qui s'emboîte sur la circonférence de la platine avec laquelle elle est retenue au moyen des clés 13 & 14: la batte est recouverte par le cadran ; celui ci se fixe après la batte au moyen d'une vis.
+
+
+PLANCHE X. 6. suite cotée GG. Montre à équation, à répetition & secondes concentriques, d'un seul battement.
+Cette Planche & sa description ont été tirées du livre de M. Ferdinand Berthoud.
+
+La fig. 1. représente le plan ou calibre du rouage. A est le barillet. B la fusée, dont la roue de cinquante-quatre dents engrene-dans un pignon de douze qui porte la grande roue moyenne C de soixante-quatre dents, laquelle engrene dans un pignon de huit, qui porte la petite roue moyenne D de soixante-quatre dents, laquelle engrene dans un pignon de huit qui porte la roue de champ E de soixante dents, engrenée dans un pignon de huit que porte la roue d échappement F de trente dents : or le balancier faisant un battement par secondes, la roue d'échappement reste une minute à faire un tour ; & comme elle fait sept tours & demi pour un de la roue de champ, celle-ci reste sept minutes & demie à faire une révolution. Le pignon qui porte cette roue est prolongé & passe à la cadrature ; il engrene & mene la roue I, fig. 2. qui a 64 dents : le pignon de la roue de champ fait donc huit tours pour un de la roue I: or il emploie sept minutes & demie à faire un tour, donc la roue I emploie 8 fois 7 minutes & demie à faire sa révolution, c'est-à-dire soixante minutes ou une heure : c'est donc le canon de cette roue I qui porte l'aiguille des minutes.
+
+Les petites roues a, b, c, d, e, représentent celles du rouage de répétition.
+
+En calculant les révolutions du rouage de la montre on trouve que la roue d'échappement fait 2160 tours pour un de la fusée, lequel dure par conséquent 2160 minutes, ou trente-six heures. C'est cette même roue qui fait mouvoir la roue annuelle, & qui lui fait faire une révolution en 365 jours, ainsi que nous allons le faire voir.
+
+La figure 2. représente la disposition des parties de la répétition : elle est dessinée fort exactement d'après une piece totalement exécutée selon les mêmes dimensions.
+
+Les pieces qui concernent la répétition produisent les mêmes effets que dans les répétitions ordinaires décrites ci-devant : nous nous dispenserons donc d'entrer là-dessus dans un nouveau détail, la figure servira à en montrer la distribution.
+
+La fusée représentée, fig. 9. porte le pivot I, lequel entre dans un canon d'acier fixé sur la roue de fusée B, vûe de profil ; c'est ce canon qui forme le pivot inférieur de la fusée, & qui roule dans le trou de la platine : sur le bout prolongé 2 de ce canon, entre à frottement la petite roue ou pignon a ; ce pignon est vû en plan, fig. 2. il a douze dents & engrene dans la roue b qui en a seize ; celle-ci porte un pignon de six, qui engrene dans la roue C, qui en a trente ; celle-ci tient à frottement avec le rochet fixé sur l'axe d'un pignon de quatre dents, lequel engrene dans la roue annuelle C, fig. 3. celle-ci a 146 dents.
+
+Nous avons dit plus haut que la roue de fusée fait une révolution en trente six heures ; le pignon a qu'elle porte fait donc aussi un tour en même tems. La roue b qui le mene ayant seize dents, reste quarante-huit heures à faire une révolution ; & comme elle porte un pignon de six, qui engrene dans la roue C de trente, elle fait cinq tours pour un de la roue C; celle-ci reste donc dix jours à faire une révolution : enfin tandis que la roue annuelle A fait une révolution, le pignon 4 en fait trente-six & demi, puisque quatre dents du pignon sont contenues trente-six fois & demie dans 146 dents de la roue : or multipliant 36 & demi par 10 jours, on 2 365 jours, qui est le tems de la révolution de la roue A.
+
+La petite roue b se meut entre la platine & un petit pont.
+
+Le pivot inférieur de la roue C roule dans un trou de la platine, & le pivot superieur entre dans un trou de la batte ou fausse plaque, fig. 7. laquelle étant appliquée sur la premiere figure, recouvre toute la cadrature, & se fixe avec la platine par un petit drageoir qui la centre, & par deux vis qui entrent dans les tenons e, f ; de cette maniere la roue C se meut entre la platine & la batte, comme dans une cage ; & pours-lors le pignon 4 engrene dans la roue annuelle, & lui fait faire une révolution en 365 jours d'un mouvement uniforme.
+
+La roue annuelle vûe, fig. 11. se meut sur le centre ou canon porté par la batte vûe en perspective, fig. 7. Elle y porte à plat, de sorte qu'elle ne peut s'en écarter ; elle est retenue après la batte par le canon d'acier, fig. 15. c.
+L'intérieur de ce canon entre à frottement sur le côté extérieur du canon formé par la batte ; le côté extérieur du canon d'acier entre juste dans le trou de la roue annuelle ; le canon d'acier appuie par ce moyen sur la roue, ensorte que celle-ci ne peut s'écarter en aucune maniere du fond de la batte, ne pouvant que tourner autour de son centre.
+
+Sur la roue annuelle est fixée, par deux petites chevilles, l'ellipse, fig. 13. vûe par le dessous, & appliquée, à la roue annuelle.
+
+Le pignon ou chaussée A, figure 14. est d'acier, & percé dans son centre : le côté extérieur roule juste dans le trou du canon de la batte, figure 7. Le trou intérieur de ce pignon est de grandeur pour y laisser passer librement le canon de la roue de cadran & de l'aiguille des heures ; ce pignon ou chaussée a une petite portée qui forme un second canon, sur lequel entre à frottement la plaque F, & tellement qu'elle entre au fond de la portée, dont la hauteur est déterminée par la longueur du canon de la batte : le pignon roule de cette maniere librement & juste dans ce canon, duquel il ne peut s'écarter, étant retenu par la plaque F, qui l'arrête par le dessus de la batte. Cette plaque sert en même tems à porter le petit cadran, figure 10. qui est celui du tems vrai : il est fixé après la plaque par le canon de la plaque F, vû en perspective ; il entre dans le trou du petit cadran, ce qui le centre ; une vis sert à le fixer après la plaque : la révolution du pignon sur son canon entraine donc le petit cadran.
+
+Le petit cadran tourne fort juste dans le vuide du grand cadran, fig. 6. & passe même un peu dessous pour ne pas laisser de jour, & qu'on ne voie que l'émail. Le grand cadran porte trois piés qui entrent dans les trous de la batte, vûe par-dessus, figure 4. il se fixe avec elle par une petite vis.
+
+Nous avons déjà expliqué, en parlant de la pendule à équation, comment l'aiguille des minutes portant une aiguille opposée qui marque sur le petit cadran du tems vrai, sert à indiquer une heure différente, selon que l'on fait avancer ou rétrograder ce petit cadran, & que par ce moyen l'aiguille tournant d'un mouvement uniforme, indique un tems variable comme celui du soleil. C'est à cet usage qu'est destinée l'ellipse D E, figure 3. ce qui se fait au moyen du rateau B, qui engrene dans le pignon ou chaussée A qui porte le petit cadran. Ce rateau porte en B une piece d'acier qui forme une petite poulie, dont le fond appuie sur le bord de l'ellipse: la fig. 15. a, représente le profil du rateau, dont a est la petite poulie.
+
+L'ellipse est limée par-dessous en biseau, comme on le voit dans la fig. 13. ensorte que la petite épaisseur de la poulie s'y loge, & que le rateau se meut comme sur une rainure avec l'ellipse, dont il ne peut pas s'écarter: or la roue annuelle emportant par son mouvement l'ellipse, celle-ci oblige le rateau, pressé par le ressort F de s'approcher ou de s'écarter, selon que sa courbure l'y oblige ; ensorte qu'il arrive que tandis que la roue annuelle marche constamment du même côté, le rateau va & vient sur lui-même, & fait alternativement avancer & rétrograder le pignon, & par conséquent le petit cadran. Nous expliquerons ci-après comment on taille l'ellipse, pour que la variation du petit cadran réponde parfaitement à celle du soleil, & que l aiguille du tems vrai l'indique.
+
+Sur la roue annuelle, fig. 11. sont gravés les mois de l'année, & les quantiemes du mois, de cinq jours en cinq jours.
+
+Les mois paroissent à-travers l'ouverture faite à la batte, comme on le voit, fig. 4. ainsi qu'au grand cadran : la batte porte une petite pointe ou index, qui marque les mois qui passent par cette ouverture, & les jours de cinq en cinq. Cette gravure & l'ouverture qui la laisse voir, est sur-tout utile pour tailler l'ellipse ; mais elle est encore très-nécessaire pour remettre la montre à l'équation dans le cas où elle auroit resté quelque tems sans être remontée. Sans cette précaution il arriveroit que l'ellipse resteroit en arriere, & marqueroit l'équation du jour où la montre auroit été arrêtée ; & que pour la remettre au point qui doit correspondre au jour actuel, on ne pourroit le faire qu'en taton- nant ; c'est donc autant pour cette raison que pour faire marquer à la montre les mois de l'année, qu'est faite cette ouverture du cadran ; cependant elle a encore son mérite, dans les montres de trente heures sur tout, où on fait marquer les jours du mois dessous la boîte.
+
+Pour remettre la montre à l'équation lorsqu'on l'a laissée arrêter, on fera tourner le petit rochet C, fig. 2. Ce rochet, fixé sur l'axe du pignon, se ment à frottement, & peut tourner séparément de la roue ; comme la roue fait un tour en dix jours, l'auteur a donné dix dents au rochet ; ensorte que chaque dent, dont on l'avance ou la rétrograde, répond à un jour. Ainsi je suppose qu'on voulût amener la roue annuelle au 3 Janvier, on la feroit d'abord tourner jusqu'à ce que le 31 Décembre fût sous l'index ; & avançant ensuite le rochet de trois dents, on seroit assuré que la roue est parvenue au 3 Janvier, & que l'ellipse marqueroit exactement l'équation de ce jour.
+
+La fig. 8. représente la roue C, le rochet & le pignon 4 vû en profil. d fait voir le rochet & son pignon séparés de la roue e vûe en plan ; cette roue s ajuste contre le rochet après lequel elle est retenue par la petite clavette f qui la presse & forme un frottement, tel que cette roue ne peut tourner séparément du rochet que lorsqu'on fait tourner celui-ci à la main, il faut avoir attention de placer derriere la clavette une petite vis attachée à la roue afin de l'empêcher de sortir de sa place.
+
+La fig. 15. d représente la piece qui sert à porter le rateau : cette piece s'attache par une vis avec la batte ; elle porte une broche qui entre dans le canon du rateau.
+
+La figure 15. b représente le ressort en F, fig. 3. qui, placé après la batte, par une vis, presse le rateau, de maniere qu'il appuie continuellement contre l'ellipse.
+
+La fig. 17. représente le côté intérieur de la platine des piliers, sur laquelle est tracé le calibre d'une répétition à équation, à secondes de deux battemens, allant trente heures sans remonter. A est le barillet. B la roue de fusée qui porte soixante dents ; elle engrene dans le pignon de la grande roue moyenne C; ce pignon a dix dents. La roue C porte soixante quatre dents ; elle engrene dans le pignon de huit dents, qui porte la petite roue moyenne D de soixante dents, elle engrene dans le pignon de la roue de champ E, dont la tige prolongée porte l'aiguille des secondes ; ce pignon est de huit, la roue E a quarante-huit dents ; elle engrene dans le pignon de la roue d'échappement F qui a douze dents: & la roue quinze : cette roue fait donc faire trente vibrations au balancier à chaque révolution qu'elle fait, & comme elle fait quatre tours pour un de la roue E, elle fait 4 fois 30 vibrations ou 120 battemens, qui étant chacun de demi-seconde, la roue E reste une minute à faire son tour. Le pignon de la roue D passe à la cadrature, & conduit la roue G des minutes, fig. 12. a, b, c, d, e, sont les roues de sonnerie du petit rouage. a porte 40 dents, b 32, c 32, d 28, & e 26: celle-ci engrene dans le pignon de volant, qui est de six dents, ainsi que les autres pignons du petit rouage de sonnerie. Pendant qu'on remonte la montre, l'action du pignon sur la roue b oblige la cheville qu'elle porte, de faire avancer une dent de l'étoile C. Or comme on remonte la montre une fois par jour, & que cette roue b ne peut agir qu'une fois sur l'étoile ; celle-ci qui a dix dents, fait un tour en dix jours ; cette étoile est fixée sur l'axe d'un pignon de quatre dents, lequel engrene dans la roue annuelle de 146 dents : celle-ci fait donc un tour en 365 jours ; l'étoile C est retenue par le sautoir d.
+
+Il faut observer par rapport à cette maniere de faire mouvoir l'étoile & la roue annuelle, qu'il faut que les dents de l'étoile ne soient pas dirigées au centre de la roue qui la mene, mais plus avant du côté où se meut la cheville lorsqu'on remonte la montre ; car cette roue étant menée par l'axe de la fusée, va & revient sur elle-même ; ensorte que si la dont de l'étoile étoit dirigée au centre, la dent qui auroit avancé pendant que l'on remontoit la montre, rétrograderoit lorsque la montre marche & que la fusée revient en sens contraire ; au lieu qu'en dirigeant ces dents à-peu-près comme dans la figure 12. lorsque la fusée rétrograde, l'étoile rétrograde aussi un peu, mais pas assez pour parvenir à l'angle du sautoir.
+
+Il faut avoir attention à ne pas rendre trop fort le frottement de la roue annuelle contre la batte, il faut au contraire qu'elle tourne librement, de crainte que l'effet du sautoir ne se fasse pas, c'est-à-dire qu'il ne ramene pas l'étoile à son repos. Alors il arriveroit nécessairement que la cheville passeroit sans faire tourner l'étoile, & que la roue annuelle resteroit en arriere : il faut d'ailleurs donner une certaine force au sautoir pour assurer cet effet.
+
+On voit que le mouvement de la roue annuelle n'est point continu ; car elle n'avance de la trois cent soixante-cinquieme partie de la révolution qu'à chaque fois qu'on remonte la montre, ce qui est fait pour simplifier la conduite de la roue annuelle : il est d'ailleurs assez indifférent qu'elle marche par saut à chaque jour, ou qu'elle aille d'un mouvement continu, puisque l'équation d'un jour à l'autre ne differe que de trente secondes au plus ; mais pour contenter ceux qui pourroient souhaiter que la roue annuelle marchât d'un mouvement continu : voici le moyen dont il faut faire usage. On disposera la roue de fusée de la même maniere que celle à huit jours ; on ajustera à frottement sur le canon de cette roue un pignon de huit dents qu'on tiendra le plus petit possible ; on fera engrener ce pignon a, fig. 2. dans une roue b qui portera trente-deux dents. Or comme la fusée de la montre qui va trente heures fait un tour en six heures, cette roue b fera une révolution en vingt-quatre heures : on fixera cette roue b sur un pignon de quatre dents, lequel engrenera dans la roue C qui en aura quarante ; celle-ci restera donc dix jours à faire une révolution. Cette roue C portera un pignon de quatre dents, lequel engrenera dans la roue annuelle de cent quarante-six dents ; ce pignon devra s'ajuster à frottement & porter un rochet comme le fait celui de la montre à huit jours, afin de remettre l'équation au quantieme lorsqu'on aura laissé arrêter la montre. Le pignon de la roue b sera mobile entre la platine & le petit pont, figure 2. Calibre ou plan d'une montre à équation allant un mois, fig. 4. & 5.
+
+Dans les montres à équation qui vont un mois, il faut faire conduire la roue annuelle de la même maniere que pour celles à huit jours, à cela près que comme la roue de fusée reste cinq jours à faire son tour ; on fait engrener la petite roue que son canon porte immédiatement dans la roue qui porte le rochet fixé sur le pignon de quatre, & on supprime par-là la roue de pignon, & le pont de la roue b. On joint ici le calibre de la montre à équation d'un mois.
+
+La fig. représente l'intérieur de la platine des piliers d'une montre à un mois sans remonter, à équation, à répétition, à secondes d'un seul battement, sur lequel est tracé le calibre du rouage.
+
+A est le barillet. B la roue de fusée qui a soixante & douze dents : elle engrene dans le pignon 10 qui porte la grande roue moyenne C; celle-ci porte soixante dents, qui engrenent duns le pignon de six dents, qui porte la petite roue moyenne D: cette roue a soixante dents, & engrene dans le pignon de six dents, qui porte la roue de champ E, celle-ci porte soixante dents, elle engrene dans un pignon de six dents qui est au centre ; celui-ci porte la roue d'échappement F qui a trente dents. Or le balancier fait une vibration en une seconde ; ainsi la roue F reste une minute à faire une révolution ; c'est son axe prolongé qui porte l'aiguille des secondes ; sur la tige de la roue de champ E est chassé à force un pignon de dix dents qui passe à la cadrature, il engrene dans la roue de minute G qui a 60 dents, dont l'ajustement est pareil à celui de la pendule & de la montre à seconde.
+
+Si l'on calcule les révolutions de ce rouage, on trouve que pendant que la roue de fusée fait un tour, la roue d'échappement en fait 7200; & comme celle-ci fait un tour par minute, la roue de fusée reste 7200 minutes, qui font cinq jours, à faire une révolution: c'est le canon de cette roue qui passe à la cadrature (de la même maniere que celui de la répétition à huit jours), il porte à frottement la roue a, cette roue a porte vingt dents qui engrenent dans la roue b, qui en a quarante : celle-ci reste donc dix jours à faire une révolution ; elle s'ajuste sur l'axe d'un pignon de quatre dents, de la même maniere que celle à huit jours ; ce pignon engrenne & conduit la roue annuelle de 146 dents. La cadrature de la répétition à un mois ne differe pas de celle à huit jours. a, b, c, d, e, sont les roues du petit rouage de sonnerie ; elles ont les mêmes nombres que celles de la répétition de trente heures.
+
+
+PLANCHE XI. cottée HH.
+Fig. 57. Répétition de Julien le Roy.
+
+58. Répétition à la Stacden.
+
+59. Poussoir & plaque de répétition.
+
+60. Répétition de Sulli.
+
+61. Baste levée.
+
+62. Répétition à baste levée.
+
+
+PLANCHE XII. cottée II.
+Fig. 63. Suspension par des ressorts.
+
+64. Suspension de Graham.
+
+65. Suspension de Renault. Bas de la Planche contenant des outils.
+
+Fig. 1. Bigorne.
+
+3. Différentes sortes de tas.
+
+5. Grattoir.
+Resingles pour redresser les boîtes de montre.
+8. Scie.
+
+9. Charnons.
+
+10. Lunette de boîte de montre.
+
+11. Cuvette de boîte de montre.
+
+12. Boîte de montre.
+
+
+PLANCHE XIII. cottée KK.
+Fig. 13. Tour d'horloger.
+
+14. Une des poupées séparée du tour & garnie d'une lunette.
+
+15. La fourchette du support séparée.
+
+16. Le coulant qui reçoit la fourchette.
+
+17. Petit tour pour rouler les pivots.
+
+18. Arbre à cire.
+
+19. Fraize.
+
+20. Arbre à vis.
+
+21. Écrou de l'arbre à vis.
+
+22. Échopes.
+
+23. Arbre avec un coulant & trois cuivrots de différens diametres.
+
+24. Cuivrots.
+
+25. Cuivrots ordinaires.
+
+26. Arbre lisse.
+
+
+PLANCHE XIV. cotée LL.
+Fig. 27. Lime à dossier.
+
+27. n°. 2. Brunissoir.
+
+28. 29. Différentes limes à timbre. 30.
+
+31. Lime à lardon.
+
+32. Lime à couteau.
+
+33. Lime à feuille de sauge.
+
+34. Lime à charniere.
+
+35. Lime à arrondir.
+
+36. Lime à efflanquer.
+
+37. Lime à pivots.
+
+38. Équarrissoir.
+
+39. Alézoir.
+
+40. Fraize.
+
+41. Autre sorte de fraize.
+
+42. Outil servant pour river.
+
+43. Poinçon pour river.
+
+44. Autre lime à timbre.
+
+45. Petit équarrissoir.
+
+46. Autre petit équarrissoir.
+
+47. Foret à noyon.
+
+48. Foret.
+
+49. Fraize.
+
+50. Autre sorte de Fraize.
+
+51. Autre sorte de foret.
+
+
+PLANCHE XV. cotée MM.
+Fig. 52. Compas à quart de cercle ; une des pointes est à champignon.
+
+53. Compas élastique ou à ressort.
+
+54. Outil pour polir les faces des pignons.
+
+55. Huit de chiffre.
+
+56. Compas au tiers.
+
+57. Calibre à pignons.
+
+58. Maître-à-danser.
+
+59. Compas à verge.
+
+60. Levier pour égaler la fusée au ressort.
+
+
+PLANCHE XVI. cotée NN.
+Fig. 61. Clé pour remonter les montres.
+
+62. Outil pour polir le bout des vis.
+
+63. Échantillon.
+
+64. Arbre excentrique avec son cuivrot.
+
+65. Arbre excentrique séparé de son cuivrot.
+
+66. Bruxelles à deux pinces.
+
+67. Bruxelles d'une autre espece.
+
+68. Porte-aiguille pour goupille.
+
+69. Arbre pour mettre les ressorts dans les barillets.
+
+70. Estampe quarrée.
+
+71. Pointeau.
+
+72. Outil pour porter l'huile ou porte-huile.
+
+73. Crochet pour mettre les pivots dans leurs trous, lorsque l'on remonte une piece.
+
+74. Profil de l'outil pour les engrenages.
+
+75. L'outil à engrenages vû en perspective.
+
+76. Presse pour river.
+
+77. Outil pour mettre de niveau les pivots de la roue de rencontre.
+
+78. Outil pour retrouver la place d'un trou que l'on rebouche.
+
+79. Plan de la main.
+
+80. La main en perspective.
+
+
+PLANCHE XVII. cotée OO.
+Fig. 82. Tenailles à vis.
+
+83. Tenailles ou pincettes tranchantes.
+
+84. Tenailles à boucles.
+
+85. Autres tenailles à boucles.
+
+86. Pincettes tranchantes ou à onglet.
+
+87. Petit étau à main.
+
+88. Pincettes.
+
+89. Sorte de petit étau.
+
+90. Pincettes rondes.
+
+91. Pincettes à pointes rondes.
+
+92. Filiere.
+
+
+PLANCHE XVIII. cotee PP.
+Fig. 93. Élévation de l'outil pour placer les ressorts de pendules dans leurs barillets, vûe du côté de la manivelle & de l'encliquetage : la partie inférieure se place entre les machoires de l'étau.
+
+94. Le même outil vû du côté opposé, c'est-à-dire du côté du tourillon sur lequel s'enroule le ressort.
+
+95. Profil du même outil vû du côté qui est tourné vers l'ouvrier qui en fait usage.
+
+96. Représentation perspective de l'outil servant pour placer les ressorts de montres dans leurs barillets: Il y a de même un encliquetage du côté de la manivelle, & de l'autre bout une boîte qui reçoit le quarre de l'arbre du barillet, & sur cet arbre un ressort ployé prêt à être mis dans un barillet. Bas de la Planche.
+
+Machine de l'invention de M. Goussier pour mettre les roues de montres droites en cage, c'est-à-dire pour faire que leurs arbres ou axes soient perpendiculaires aux platines.
+
+Fig. A. La machine vûe en perspective, & garnie de la main qui tient la montre.
+
+B. Profil de la même machine : la partie inférieure qui est épaulée dans tout son pourtour, est reçue entre les machoires de l'étau, lorsque l'on se sert de cette machine.
+
+a a. Le porte-poinçon de forme trapezoïdale vû par le devant ou côté de la petite base du trapeze : on voit à la partie inférieure la vis qui assujettit le poinçon qui est représenté à côté; cette piece doit être parfaitement dressée sur toutes ses faces, & couler à frottement dans les mortaises en trapeze qu'elle traverse ; sa direction doit être perpendiculaire au plan de la base sur lequel la main est posée.
+
+b b. La même piece ou porte-poinçon vû du côté de la large face à laquelle s'applique le ressort de compression qui fait appliquer les faces obliques du trapeze sur celles des mortaises.
+
+c c. Le ressort vû en perspective ; ses deux extrémités terminées en fourchettes, embrassent les bras dans lesquels les mortaises sont pratiquées ; l'ouverture du ressort reçoit le porte-poinçon.
+
+CD. Plan de la base de la machine vûe par-dessus. L'ouverture C communique avec cinq autres ouvertures pour pouvoir excentrer à volonté la main qui porte la montre & amener tel point que l'on voudra de la surface des platines directement au-dessous du poinçon. D est la section du montant qui porte les bras.
+
+E. Écrou à oreilles servant à assujettir la main sur la base comme on voit au profil, fig. B.
+
+F. Platine de dessous de la main ; son ouverture reçoit la vis qui est placée au-dessus : cette vis après avoir traversé cette platine est reçue par l'écrou E; cette piece doit être un peu emboutie en creux afin de ne porter que par les bords : il en est de même de la face inférieure de la platine qui porte la main.
+
+G. La vis qui traverse la main placée au-dessus, & la platine F qui est au-dessous la partie non taraudée de cette vis, occupe l'épaisseur de la base C, dans les ouvertures de laquelle elle peut se promener & être fixée où l'on veut, pour excentrer la main & la montre qu'elle porte.
+
+H. La main en perspective & non garnie d'une cage de montre, comme dans la fig. A. La vis G traverse en-dessus la platine sur laquelle la main est montée & soutenue parallelement par trois piliers. Entre ces piliers sont les trois écrous à gaudrons, au moyen desquels on serre les griffes qui saisissent la platine de la montre ; les entailles des griffes doivent être dans un plan parallele à la base de la machine, afin que le porte-poinçon soit perpendiculaire aux platines des cages de montre que ces griffes reçoivent. Usage de cette machine.
+
+Supposons qu'un trou de pivot dans la petite platine d'une montre, figure A, ait été rebouché & qu'il soit question de retrouver le point où il convient de percer un nouveau trou pour le pivot, de maniere que la tige de la roue qui y sera placée, & dans le trou de l'autre platine dont on cherche le correspondant, soit perpendiculaire aux mêmes platines. On commencera par placer la grande platine dans les griffes de la main où elle sera affermie par les vis qui servent à serrer les griffes ; ensuite ayant desserré la vis E au-dessous de la base, on promenera la main sur cette base & on la fera tourner sur elle-même jusqu'à ce que le point dont on cherche le correspondant soit amené au-dessous du poinçon que l'on y fera entrer légerement. On fixera la main dans cette position en serrant l'écrou qui est au-dessous : en cet état, & ayant relevé le porte-poinçon on replacera la petite platine de la cage de la montre, sur laquelle on fera descendre le poinçon, son extrémité marquera sur cette platine le point où il convient de percer un nouveau trou de pivot, correspondant à celui de l'autre platine. La roue replacée dans la cage sera parallele & sa tige perpendiculaire aux platines.
+
+Si le trou dont on cherche le correspondant étoit dans la petite platine, on commenceroit par présenter la cage toute montée au poinçon, auquel on feroit convenir ce trou ; ayant ensuite fixé la main dans cette position, & relevé le poinçon, on ôtera la petite platine ; la grande se trouvant alors à découvert, on abaissera sur elle le poinçon, son extrémité qui s'y imprimera indiquera le point cherché: ou bien on retournera la cage, ensorte que sa petite platine soit tenue par les griffes de la main, & on procédera comme il a été dit ci-devant.
+
+
+PLANCHE XVIII. 1. suite, cotée QQ, ou figure 97.
+Machine pour tailler les susées, à droite & à gauche avec la même vis, par le sieur Regnault de Chaalons.
+
+Le dessein & la description de cette machine ont été tirés du livre de M. Thiout.
+
+Les pieces & & x marquent le chassis qui porte les pieces depuis z jusqu'en V. z V est un arbre que l'on peut tarauder à droite ou à gauche, cela ne fait rien quoique celui-ci le soit à gauche & dans le sens que sont taillées les fusées à l'ordinaire. Cet arbre est fixé sur la piece x par ses deux tenons g g qui sont la même piece que x en le faisant entrer par g ; on passe ensuite une piece en forme de canon, taraudée en-dedans y sur le même pas que la vis. On place sur la même vis une autre piece taraudée X, qui sert à déterminer le nombre de tours que l'on veut mettre sur la fusée. On passe l'arbre dans le tenon g, & après avoir placé la manivelle T dessus en m, dont le bout est quarré, on le fixe par le moyen de l'écrou n: à la piece y est jointe celle f ou petit bras par la cheville Z qui fait charniere avec elle ; & comme cette piece f est fixée au chassis par une autre cheville au point K, ce point lui sert de centre lorsque l'on tourne l'arbre. Par le moyen de la manivelle la vis fait avancer ou vers g ou vers X: la piece y ne peut tourner avec la vis & se promene seulement dessus. Ce mouvement d'aller & de venir est répété sur le grand arbre e par le moyen de la traverse a a que l'on fixe sur l'un & sur l'autre bras par les chevilles b que l'on met dans les trous dont on a besoin à proportion des hauteurs de fusée. Ce grand bras e a vers son milieu un emboîtement L, percé quarrément, dans lequel passe la piece L, dont une partie de la longueur est limée quarré; elle remplit l'emboîtement L ; l'autre partie est taraudée & passée dans un écrou N ; elle sert à faire avancer ou reculer la piece L qui, à l'autre extrémité, porte une tête fendue, dans laquelle on fixe à charniere la piece H par la cheville I, laquelle piece H porte à l'autre bout l'échoppe G, qui passe au-travers de la tête de cette piece où elle est fixée par la vis 7: l'arbre y V porte une alonge ou assiette C, percée en canon, laquelle entre dans l'arbre, & y est fixée par une cheville à l'endroit z ; c'est dessus cette assiette que l'on fait porter la base de la fusée A, dont la tige entre dans le canon B du tasseau ou assiette : cette fusée est fixée à cet endroit par l'autre vis D, pour y être taillée.
+
+Tout étant ainsi disposé, il faut considérer deux mouvemens différens au grand bras e ; par exemple, si on le fixe au chassis par une de ses extrémités & par la cheville R, & que l'on tourne la manivelle T tellement que la piece y avance vers g, & qu'alors on baisse la barre H qui porte l'échoppe G jusqu'à ce qu'elle touche la superficie de la fusée A, cette fusée se taillera dans le sens que la vis de l'arbre z V est taraudée, qui est à gauche. Si au contraire on ôte la cheville R qui servoit à fixer le grand bras e, & que l'on donne à ce grand bras pour centre de mouvement le point P en y pla- çant la vis p, dont l'assiette O arrête le grand bras, alors si vous tournez la manivelle dans le même sens que vous avez fait ci-devant, le haut du bras e ira vers W, au-lieu qu'auparavant il alloit vers d ; la piece H par conséquent ira aussi dans un sens contraire à celui qu'elle alloit auparavant. Ainsi on ne taillera la fusée que lorsque l'on tournera la manivelle de l'autre côté. Il faut observer de retourner le bec de l'échoppe G de l'autre côté quand on veut tailler à droite. La portion de cercle Q Q est pour contenir le grand bras par le bout, & passe dans un empatement fait à la piece S qui tient au chassis. On voit que le bout supérieur du bras e est fendu en fourche, dans laquelle passe la barre d pour servir de guide, lorsque l'on a ôté la vis p & remis la cheville R pour tailler à gauche.
+
+Il faut aussi que la piece F soit fendue afin de servir d'appui à la piece H lorsqu'on le fait descendre, pour que l'échoppe touche à la fusée.
+
+
+PLANCHE XVIII. 2. suite, cotée RR.
+Cette Planche représente la machine à tailler les fusées, inventée par le sieur le Lievre, & décrite au mot Fusée, tom. VII. pag. 393.
+
+Fig. 97. n°. 2. Plan général de la machine.
+
+97. n°. 3. Élévation de la machine vûe du côté du quarré où on met la manivelle.
+
+97. n°. 4. Profil de la machine vûe du côté opposé.
+
+
+PLANCHE XIX. cotée SS.
+Fig. 94. n°. 2. 95. n°. 2. 96. n°. 2. 97. n°. 2. Démonstrations relatives à la forme des 98. dentures des roues & des pignons, expliquée à l'articleDent, tom. IV. p. 840, 99. 100. 101. 841, & suivantes. 102. 103. 104. 105. 106. Figures de différentes sortes de conduites expliquées à l'articleConduite, 107. tom. III. pag. 844. 108.
+Explication des quatre Planches qui représentent la machine à fendre de M. Sulli, décrite au mot Fendre (machine à), tom. VI. pag. 486. & suivantes.
+
+
+PLANCHE XX. cotée TT.
+Vûe perspective de la machine.
+
+
+PLANCHE XXI. cotée VV.
+Plan général de la machine.
+
+
+PLANCHE XXII. cotée XX.
+Profil général de la machine.
+
+
+PLANCHE XXIII. cotée YY.
+Profil de la largeur de la machine & divers développemens.
+
+
+PLANCHE XXIV. cotée ZZ.
+Représentation perspective de la machine à fendre les roues de pendules & de montres, composée par M. Hulot, tourneur & méchanicien du roi, & décrite au mot Fendre (machine à), tom. VI. pag. 483.
+
+
+PLANCHE XXV. cotée AAA.
+Profil de la machine à fendre.
+[page 21:19:23]
+
+
+PLANCHE XXVI. cotee BBB.
+Autre vûe perspective de la même machine à fendre, & développemens de plusieurs de ses parties.
+
+
+PLANCHE XXVII. cotée CCC.
+Carillon à quinze timbres vû en perspective avec le rouage qui le fait mouvoir.
+
+
+PLANCHE XXVIII. cotée DDD.
+Fig. 1. Plan du rouage qui fait tourner le cylindre du carillon, sur lequel il y a douze airs notés.
+
+2. La fausse plaque derriere laquelle est le cadran de la pendule ; on y voit les détentes qui communiquent au carillon.
+
+3. Vûe du carillon du côté opposé au rouage qui le fait mouvoir.
+
+Ce carillon a été exécuté par le sieur Stolverk.
+
+
+PLANCHE XXIX. cotée EEE. Description du pyrometre composé pour faire les expériences de la dilatabilité des métaux.
+Cette Planche & son explication ont été tirées du livre de M. Ferdinand Berthoud.
+
+La fig. 1. représente le pyrometre renfermé dans son étuve. La fig. 2. le pyrometre séparé de son étuve. F, G, H, I, est une piece de marbre qui a cinq piés de haut, douze pouces de large, & cinq pouces d épaisseur: cette piece est percée au haut d'un trou, au-travers lequel passe le pilier A, dont la base a trois pouces de diametre, & le corps deux pouces & demi ; ce pilier est fixé avec le marbre au moyen d'un fort écrou : le corps du pilier est fendu comme un coq de pendule à secondes ; il porte deux vis qui tendent & passent au centre du pilier : ces vis servent à fixer le corps que l'on veut observer ; & si c'est un pendule, elles portent la suspension comme feroit un coq de pendule. On a formé au bout de ces vis des especes de pivots trempés & tournés avec soin ; ils passent d'abord dans le corps à observer & entrent juste dans la partie opposée du pilier, laquelle n'est point taraudée ; ce pilier sert ainsi à fixer les pendules d'une maniere solide & invariable.
+
+Après avoir suspendu un pendule à secondes au pilier A, on perce au-dessous de la lentille D un second trou dans le marbre ; au-travers ce trou passe comme dans le premier, un pilier de trois pouces de base ; il est fixé à la piece de marbre de la même maniere que le pilier A ; la base de ce second pilier s'éleve à trois pouces & demi du marbre, & sert à porter, au moyen de deux vis a & b, représentés en grand, fig. 5. le limbe de l'instrument représenté en grand, fig. 3.
+
+Au centre du limbe, fig. 3. se meut un pignon c de seize dents ; il doit être exécuté avec beaucoup de précision, & fendu sur la machine à fendre ; il se meut entre le pont g & le limbe A C; sa tige porte une aiguille m n mise d'équilibre par le contre poids n. Au haut du limbe se meut aussi, entre le limbe & le pont f, un rateau b a de quatre pouces de rayon ; il porte douze dents ; ce rateau engrene dans le pignon c de seize dents ; ce rateau est fendu sur le nombre 396: ainsi pour faire faire un tour à l'aiguille, il fait une vingt quatrieme trois quarts partie de sa révolution, ce qui répond à un angle de quatorze degrés cinquante minutes soixante & dix quatre-vingt-dix-septiemes. On trouve par ce moyen le point du rateau où la verge doit appuyer, pour qu'une demi-ligne d'alongement fasse faire un demi-tour à l'aiguille & parcourir cent quatre-vingt degrés : ce point doit être distant du centre a de trois lignes sept huitiemes. Ayant donc pris trois lignes sept huitiemes du centre du rateau avec beaucoup d'exactitude, & perce un petit trou dans lequel on a fixé une piece d'acier trempée à laquelle on a donné une courbure telle, que lorsque la verge du pendule s'alonge ou se raccourcit, ce levier m ne change pas de longueur. La piece q a sur laquelle est fixée la petite portion d'acier, se meut sur le centre du rateau par une vis de rappel e, ensorte que l'on peut par ce moyen faire changer le rateau & amener l'aiguille au degré correspondant du thermometre, sans changer la position du levier qui doit toujours être à-peu-près perpendiculaire au pendule.
+
+Les différentes divisions faites sur la piece q a, servent à produire des variations plus ou moins grandes ; il y en a une à sept lignes trois quarts du centre ; double en longueur de celle où a été fixée la petite piece d'acier, elle sert dans les cas où l'alongement des corps étant considérable, ils feroient parcourir à l'aiguille plus de 180 degrés du limbe. Pour fixer & déterminer la position du pendule sur un de ces points de division, on a fait une piece de cuivre l h, que l'on fixe au limbe par le moyen d'une forte vis i: la piece l i h se meut en coulisse, ensorte qu'on peut faire approcher son extrémité h fort près du centre du levier où sont les divisions : là cette piece est percée d'un trou dans lequel on fait passer une tige d'acier fixée au centre de la lentille du pendule que l'on veut observer.
+
+On a aussi disposé une forte piece de cuivre D, fig. 4. qui a quatre pouces de diametre, & un pouce & demi de hauteur ; elle sert à porter le limbe, lorsque l'on veut mesurer des corps de différentes longueurs : ce cylindre est ajusté avec une forte piece de fer coudée E F, qui sert à la fixer sur le marbre, au moyen d'une vis de pression G, telle que celle qui attache un étau après un établi : à travers de la piece de cuivre il y a une entaille dans laquelle se loge une partie de la piece de fer opposée à la vis ; c'est ce qui fait la pression de la base du cylindre de cuivre sur le marbre : on voit cette piece attachée au marbre en E, fig. 2.
+
+La figure 2. représente la machine toute montée avec son pendule, dont le crochet porté par la lentille vient passer sur le rateau, ensorte que si la verge s'alonge ou se racourcit, le rateau suivra le même mouvement, ce qui fera tourner le pignon & l'index ou aiguille qu'il porte ; lorsque le pendule se raccourcit, ce rateau suit son mouvement, étant ramené par le petit poids P, fig. 3. lequel tient à un fil qui s'enveloppe sur la poulie d, portée par l'axe du pignon.
+
+Pour produire les changemens de température, on 2 placé au-bas de l'étuve un poële E F a c, figure 1. lequel communique à l'étuve par un tuyau à soupape ; ce tuyau est dirigé contre une plaque de tôle recourbée, de maniere à diviser la chaleur du poële & la répandre également dans l'étuve, sans frapper un endroit plus que l'autre, ou le moins inégalement, afin d'imiter autant qu il est possible, l'effet de l'air sur les corps : cette boîte est percée dans sa longueur, d'une fenêtre qui permet de voir dans l'intérieur de l'étuve, & de remarquer quelle est la température qui y regne, ce qui est indiqué par un thermometre : cette ouverture est fermée par une glace, & permet en même tems de voir les variations de l'aiguille du thermometre.
+
+La figure 5. représente les deux vis qui servent à fixer le limbe sur la base du pilier ou cylindre, fig. 4.
+
+Il résulte des observations faites par l'auteur, que les différens métaux s'alongent dans le rapport des nombres contenus dans la table suivante.
+Noms des métaux & autres corps Nombres qui expriment le rapport mis en expérience. de leur alongement.
+Acier recuit, . . . . . 69.
+Fer recuit, . . . . . 75.
+Acier trempé, . . . . 77.
+Fer battu, . . . . . 78.
+Or recuit, . . . . . 82.
+Or tiré à la filiere, . . . 94.
+Cuivre rouge, . . . . 107.
+Argent, . . . . . . 119.
+Cuivre jaune, . . . . 121.
+Étain, . . . . . . 160.
+Plomb, . . . . . . 193.
+Le verre, . . . . . 62.
+Le mercure, . . . . . 1235.
