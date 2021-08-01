@@ -1,0 +1,352 @@
+FONTE DES CLOCHES.
+
+Contenant huit Planches, dont une double.
+
+
+PLANCHE Iere. double.
+
+TRaits de l'échantillon & diapasons.
+
+Fig. 1. Premier trait ou échantillon dans la description duquel on a employé 30 bords.
+
+2. Echelle de 16 bords.
+
+3. Second trait ou échantillon dans la description duquel on a employé 32 bords, laquelle est extraite du livre de M. Roujoux. L'échantillon est un calibre qui dans la forme de ses traits représente le profil d'une cloche, & qui étant monté sur son arbre fait l'office d'un grand compas tournant pour donner aux moules la vraie figure du dedans & du dehors d'une cloche. Cet instrument représenté par la fig. 3. de la Planche suivante, est une planche de noyer, pommier ou autre bois propre à se lisser, à laquelle on donne pour hauteur 22 bords de la cloche dont elle doit être le calibre, & 5 bords pour largeur. A deux bords de sa vive arrête à droite : on tire au trusquin une ligne fort légere d'un bout à l'autre sur laquelle on pique 14 à 15 bords en commençant en bas, dont les deux ou trois premiers sont destinés à la base des moules qu'on appelle la meule, en termes de l'art, & les 12 autres sont employés à la recherche des traits du calibre ; car les cloches doivent avoir dans leur hauteur 12 bords depuis la pince D jusqu'au point A. Traits de l'échantillon.
+
+Soit la ligne A o piquée de 12 bords moins un demi-tiers, & ce demi-tiers abaissé de o en D pour achever les 12 bords & pour faire la pince de la cloche en D: soient aussi six petites lignes ponctuées faisant équerre avec la ligne A o, savoir ; la premiere au n°. 1 & demi, la seconde au n°. 3, la troisieme au n°. 5 & demi, une au n°. 6, une autre au n°. 11, & la derniere au n°. 12 & un sixieme. La premiere, la troisieme & la derniere, à compter du point o, serviront à faire l'échantillon, & les autres à voir si l'on a bien opéré; car l'endroit du gros cordon dit le troisieme, marqué au n°. 3, doit porter deux tiers de bord dans son épaisseur ; la partie qu'on appelle le sixieme marqué au n°. 6, doit porter un tiers & un quinzieme de bord d'épaisseur, & l'épaisseur qui est au n°. 11, doit porter un tiers de bord : ces trois épaisseurs, après la preuve faite, doivent se rencontrer justes avec l'opération, si elle a été faite exactement, sans quoi il faudra recommencer.
+
+Les choses étant ainsi disposées, l'on prend au compas un demi-tiers de bord que l'on porte du n°. 1 & demi en G, & du point o en D. De cette sorte, le point G se trouvera écarté de la ligne A o d'un demi-tiers de bord, après quoi, & lorsqu'on aura ouvert le compas de l'étendue d'un bord & demi, une de ses pointes posée sur le point 5 & demi, l'autre pointe donnera sur la perpendiculaire le point H: puis le compas étant resserré à ne plus donner qu'un tiers & un quinzieme de bord, on portera cette étendue du point H en I, & pour lors H I donneront ce qu'on nomme la faussure & la fourniture ou le renflement de la cloche. Le gros bord de cloche dit la frappe.
+
+On ouvre le compas d'un bord & d'un quinzieme de bord : on pose une de ses pointes sur le point G, & de l'autre on fait le petit arc R R, puis du n°. 1 l'autre petit arc Q Q, & du point d'intersection F de ces deux arcs, comme centre, on forme l'arrondissement S, G, 1: puis on tire la diagonale F D, qui avec D, G, donnera le gros bord. Les traits du vase inférieur.
+
+On donne au compas une ouverture de 12 bords ; du point H, on va marquer un petit arc à gauche hors de la planche de l'échantillon ; du point F un autre petit arc, qui, par son intersection avec l'arc précédent, donnera le centre de la courbe H F. On ouvre ensuite le compas pour une étendue de 7 bords & demi ; & du point I, puis du point G on fait deux petits arcs hors de l'échantillon aussi à gauche, d'où, & de leur commune section comme centre, on se donne l'autre courbe IG: & voilà le vase inférieur tracé. Les traits du vase supérieur.
+
+On ouvre le compas de 32 bords ; l'ayant mis sur H & sur L, on obtient deux arcs hors de l'échantillon à gauche ; du point où ils se coupent, on forme le trait H L; ensuite, & sans en changer l'ouverture, on pose une branche sur K & sur I pour avoir pareillement deux aics & un centre commun d'où l'on tire la derniere courbe K I, & le vase supérieur est fait.
+
+4. Diapason géométrique pour trouver les diametres convenables à tous les intervalles. Table des proportions harmoniques pour deux octaves de suite avec leurs feintes ou semi-tons.
+
+Octave simple.
+
+Tout unisson est en proportion de . . 1 à 1
+La seconde majeure est en prorportion de 9 à 8
+La seconde mineure est en proportion de 10 à 9 ou de 16 à 15
+La tierce majeure est en proportion de 5 à 4
+La tierce mineure est en proportion de 6 à 5
+La quarte est en proportion de . . . 4 à 3
+La quinte est en proportion de . . . 3 à 2
+La sixieme majeure est en proportion de 5 à 3
+La sixieme mineure en proportion de . 8 à 5
+La septieme majeure en proportion de . 15 à 8
+La septieme mineure en proportion de . 9 à 5
+L'octave est en proportion de. . . . 2 à 1
+
+Double Octave.
+
+La neuvieme majeure est en proportion de 9 à 4
+La neuvieme mineure est de . . . . 32 à 15 ou de 20 à 9
+La dixieme majeure est de . . . . . 5 à 2
+La dixieme mineure est de . . . . 12 à 5
+La onzieme est en proportion de . . 8 à 3
+La douzieme est en proportion de . . 3 à 1
+La treizieme majeure est de . . . . 10 à 3
+La treizieme mineure est de . . . . 16 à 5
+La quatorzieme majeure est de . . . 15 à 4
+La quatorzieme mineure est de . . . 18 à 5
+La double octave est de . . . . . 4 à 1
+
+C'est sur cette table que tout fondeur doit ordonner son navail. Elle contient les principes d'où il doit déduire non-seulement les loix de l'élégance & du bon goût, mais celles du vrai & du nécessaire. On peut même affirmer que sans cette espece de mésochore, on ne peut trouver ni accords, ni harmonies, ni poids, ni épaisseurs, ni diametres, si ce n'est par un pur hasard. Ainsi elle est la base de tout.
+
+Pour faire usage de cette table il faut tracer 12 lignes paralleles & perpendiculaires aux deux lignes A B, C D. Ces paralleles représentent toutes le diametre d'ut aigu.
+
+Ensuite de quoi, pour trouver les diametres des 11 autres cloches, il faut diviser toutes ces perpendiculaires en la maniere qui suit.
+
+1°. On divise la ligne A C, ou son égale qui est au-dessous, en 9 parties égales, dont une partie étant portée en prolongement sur la ligne si, formera 10 parties contre 9, & en même tems la proportion de 10 à 9, qui est celle du si, seconde mineure.
+
+2°. La même ligne divisée en 8 parties égales, dont l'une étant portée au point si bémol, donnera 9 parties contre 8, & tout à la fois la proportion de 9 à 8, qui est celle de la seconde majeure.
+
+3°. La parallele suivante se divise en 5 parties, dont l'une étant portée au point la, donnera le diametre de 6 parties au lieu de 5, & formera dès-là même la raison de 6 à 5, qui appartient à la tierce mineure.
+
+4°. La parallele au-dessous étant partagée en 4 parties, & l'une de ces parties étant portée au point sol dieze, donnera la raison de 5 à 4, qui est celle de la tierce majeure ou sol dieze.
+
+5°. La ligne suivante sera divisée en 3; parties, une troisieme sera portée au point sol, ce qui donnera 4 parties pour 3 au sol naturel, & pour lors la pro portion de 4 à 3 qui est celle de la quarte.
+
+6°. Pour le fa dieze on divile la ligne A C ou son égale en cinq parties, une cinquieme partie portée deux fois au-delà du point C, donne ra avec a ligne A C le diametre du fa dieze.
+
+7°. On divise la ligne suivante en 2, dont moitié sera portée en fa, & l'on aura 3 moitiés pour 2, ou la raison par conséquent de 3 à 2 pour la quinte.
+
+8°. Pour avoir le diametre du mi naturel, on partage en 5 parties égales la ligne A C, on prend une cinquieme partie que l'on porte 3 fois au point mi, ce qui fera 8 parties au lieu de 5, & en même tems la raison de 8 à 5 pour la sixieme mineure.
+
+9°. Quant au mi bémol, on divise la ligne en 3 ; & sans changer l'ouverture du compas, on le porte deux fois jusqu'au point mi bémol, pour avoir le diametre de cette cloche, & la proportion e 5 à 3, pour la sixieme majeure.
+
+10°. Pour ce qui concerne le re, on partage en 5 parties la ligne A C. La cinquieme partie que l'on porte ensuite 4 fois au point re, donne 9 parties au lieu de 5, & la raison de 9 à 5 pour le re, septieme mineure.
+
+11°. Pour trouver le diametre de l'ut dieze, on divise en 8 la ligne A C, & l'on porte 7 fois une partie jusqu'au point ut dieze, ce qui donne 15 parties contre 8, & la proportion de 15 à 8 pour la septieme majeure.
+
+12°. Ut grave B D U T est double de la ligne de l'ut aigu A C.
+
+Fig. 5. Second diapason ou monocorde.
+
+On sera peut-être curieux de connoître la raison primitive de cette table, & pourquoi, par exemple, on met la quinte en proportion de 3 à 2, & l'octave de 2 à 1, & pour cela il faut faire un monocorde qui ne sera autre chose qu'une regle de bois divisée en 360 parties égales de deux lignes chacune ou environ, longue de cinq à six pieds. On montera cette regle d'une corde de boyau ou de laiton, de toute la longueur des 360 divisions, médiocrement tendue sur deux chevalets placés aux deux extrémités de la ligne ainsi divisée ; on fera aussi un troisieme chevalet qui sera pour glisser sous la corde à chaque numéro des 360 divisions. Il faudra aussi une seconde corde de même matiere que la piemiere, de la même longueur & épaisseur, montée de même, & accordée à l'unisson. Cette corde sera toujours frappée à vuide & dans toute son étendue, tandis que l'on frappera la premiere à droite ou à gauche du chevalet ambulant.
+
+L'instrument ainsi disposé & accordé, glissez le chevalet sous la premiere corde au n°. 180 qui en est le milieu ; frappez à droite & à gauche du chevalet ; & comme la partie de corde de la droite & la partie de la gauche sont également de 180 numéros chacune, elles vous donneront l'une & l'autre ensemble un parfait unisson, & en même tems la raison de 1 à 1.
+
+Pour rendre raison des proportions de la table, il faut un principe. Ce principe est que la parité doit être entiere par rapport aux différences proportionnelles qui se trouvent entre la seconde corde qui sonne toujours le ton grave & les parties de la premiere corde qui sonnent les tons aigus d'une part & les proportions harmoniques de la table d'autre part. Ceci dit, frappez la premiere corde aux deux côtés du chevalet ; ces deux côtés, qui sont de 180 chacun, sonneront l'ut aigu, & la seconde corde, qui est supposée de 360, sonnera l'ut grave, octave d'ut aigu ; & ce sera pour lors la proportion de 2 à 1, ou autrement deux cordes de 180 divisions contre une de 360.
+
+Poussant ensuite le chevalet au n°. 240, si vous frappez le côté 240 & la seconde corde qui est à vuide, vous aurez une quinte bien formée & tout à la fois la proportion de 3 à 2: en voici la preuve La quinte est au ton grave comme 240 est à 360; or il y a entre 240 & 360 une différence proportionnelle, qui est de 120; mais 120 se trouve trois fois compris en 360 & deux fois en 240, qui est une différence de 3 à 2, donc la quinte est aussi avec le son grave en proportion de 3 à 2.
+
+Glissez delà le chevalet au n°. 270; frappez cette partie de corde, & en même tems la corde du son grave, vous aurez une quarte, & la raison de 4 à 3 ; car la différence qui se trouve entre 360 & 270, doit se trouver la même entre le ton grave & sa quarte. Or cette différence est de 90 divisions, qui sont quatre fois comprises en 360 & trois fois en 270. La différence du ton grave à la quarte est donc de 4 à 3.
+
+La tierce majeure trouvera sa place au n°. 288, dont la différence proportionnelle jusqu'à 360 est de 72 divisions, cette différence se trouve cinq fois en 360 & quatre fois en 288: donc la différence proportionnelle du ton grave à la tierce majeure est de 5 à 4.
+
+Le n°. 300 fera la place du chevalet pour la tierce mineure, & la différence de 360 à 300 fera aussi celle de la corde entiere avec la tierce ; or cette différence, qui est de 60, se trouve comprise six fois en 360 & 5 fois en 300. La proportion harmonique de 6 à 5 est donc celle de la tierce mineure.
+
+La seconde majeure se trouve sous le chevalet au n°. 320. Il y a un vuide de 40 entre 360 & 320 qui forme la différence proportionnelle de ces deux sommes : c'est aussi la différence qui doit se trouver entre la corde à vuide & cette seconde majeure. Or 400 est compris 9 fois en 360 & 8 fois en 320; la proportion de la seconde majeure est par conséquent de 9 à 8.
+
+La seconde mineure se trouve au n°. 324; de 324 jusqu'à 360 il y a une différence de 36, & cette grandeur 36 se trouve 10 fois dans la corde entiere qui est supposée de 360 parties, & 9 fois dans la partie de corde ou dans la grandeur 324; c'est donc la proportion de 10 à 9 qui appartient à cette seconde mineure.
+
+La sixieme majeure est au n°. 216 où on a glissé le chevalet ; jusqu'à 360 c'est 144 de différence. Mais parce que cette grandeur 144 ne se trouve que deux fois dans celle de 360 avec le reste 72, & ne se trouve qu'une fois dans celle de 216 avec pareil reste 72, & que d'ailleurs cette proportion de 2 à 1 ne peut faire la proportion que l'on cherche, en ce qu'elle est la proportion déja trouvée de l'octave, on opérera avec ce reste 72 comme si c'étoit la différence : en 360 combien de fois 72? 5 fois ; & combien en 216? 3 fois, & le tout sans reste. D'où on conclut que la proportion cherchée est de 5 à 3.
+
+C'est au n°. 225 que doit être le chevalet pour sonner la sixieme mineure, lequel numéro laisse un vuide de 135 jusqu'à 360; lequel nombre 135 n'est qu'une fois en 225 avec reste de 90, & 2 fois avec pareil reste en 360. Or la proportion de 2 à 1, comme il vient d'être dit, ne peut convenir qu'à l'octave. Il faut donc opérer sur ce reste 900 comme si c'étoit la différence, & dire : en 360 combien de fois 90? quatre fois sans reste ; & en 225 combien de fois 90? 2 fois avec le reste 45: mais parce qu'il ne doit y avoir aucun reste qui ne soit commun à ces deux sommes 360 & 225, il faut passer à une troisieme opération & agir à l'ordinaire sur ce reste unique 45: or comme ce reste est contenu 8 fois juste & sans aucun reste en 360, & est 5 fois juste aussi en 225; on conclura que la raison de 8 à 5 est celle la sixieme mineure.
+
+Parvenu à la septieme majeure où le n°. 192 aura sonné ce ton, on opérera de la même maniere qu'à la sixieme majeure ; c'est-à-dire, que comme entre 192 & 360 il y a une distance de corde qui comprend 168 parties, & que ce nombre 168 n'est compris que deux fois avec reste 24 en 360, & une fois en 192 avec un reste pareil. il faudra uperer sur ce reste 24 & voir combien 360 & 192 le contiennent de fois, c'est 15 fois dans l'un & 8 fois dans l'autre, & c'est aussi la raison cherchée, & pourquoi la septieme majeure est dite être en proportion de 15 à 8.
+
+C'est enfin de la septieme mineure qu'il s'agit ; elle doit sonner au n°. 200 & laisser un intervalle de corde de 160 parties. Or cette grandeur 200 ne comprend celle de 160 qu'une fois avec un reste qui est de 40, & celle de 360 ne comprend aussi celle de 160 que deux fois avec pareil reste 40; & comme la proportion de 2 à 1 n'est que pour l'octave, il faut travailler sur ce reste 40, qui est une grandeur commune à celle de 360 & de 200, de la même maniere que précédemment, & voir combien de fois 40 se trouve en 360 & en 200; c'est 9 fois en l'un & 5 fois en l'autre, d'où il résulte que la proportion de 9 à 5 est au juste la raison cherchée. Tout est dit pour la premiere octave, & pour la raison démonstrative des proportions harmoniques énoncées dans la table.
+
+C'est par la différence des battemens d'air que l'on parvient à cette connoissance ; car, après tout, les consonnances & dissonnances se font par l'addition & soustraction de ces mêmes battemens. L'Unisson.
+
+En effet, tant qu'on n'ajoutera rien & qu'on n'ôtera rien à deux tons qui, supposé, feront chacun huit battemens, il est certain qu'en conservant toujours la même égalité ils iront toujours de pair, & formeront entre eux ce qu'on appelle unisson. L'Octave.
+
+Si au contraire à l'un des unissons l'on ajoute un second battement, tandis que l'autre unisson demeurera ferme & au même ton, on aura deux battemens d'air contre un, & la proportion de 2 à 1; deux battemens pour ut aigu & un pour ut grave. La Quinte.
+
+Et si l'on augmente ces deux battemens de l'octave d'un troisieme, on aura pour la quinte trois battemens au lieu de deux, parce que la quinte est composée de deux mouvemens à raison de ces cinq sons, dont l'un bat l'air deux fois tandis que l'autre le bat trois fois. D'où il arrive qu'une corde qui sera tellement divisée qu'elle laissera 3 parties d'un côté & 2 de l'autre donnera nécessairement la quinte, parce que le côté qui a 3 parties battra 2 fois l'air, pendant que celui qui n'en a que deux le battra 3 fois ; le nombre des battemens étant réciproque de la longueur des cordes. La Quarte.
+
+Elle consiste dans le mêlange de deux sons, dont la proportion est de 4 à 3; parce qu'en même tems que la quarte aiguë bat quatre fois l'air, sa tonique ou la quarte au grave ne le bat que trois fois ; c'est-pourquoi il faut que la plus grosse cloche de la quarte grave soit plus haute & plus large d'un tiers que l'autre. Les Tierces.
+
+Ainsi que les autres consonnances se forment par deux mouvemens, dont l'un bat l'air 5 fois dans la tierce majeure aiguë, & l'autre 4 fois dans la tierce grave ; 6 fois pour la tierce mineure aiguë, & 5 fois pour la tierce grave.
+
+Maintenant si, après avoir ajouté tous ces différens battemens d'air pour monter de ton en ton, on vient à les retrancher, on descendra comme on aura monté de consonnances en consonnances jusqu'au premier son. On fera tenir également la même route aux dissonnances, tant en montant qu'en descendant. Les Secondes.
+
+Si, dans la supposition des deux unissons composés de huit battemens d'air chacun, on ajoute à un d'eux un nouveau battement, on aura ce qui se nomme le ton ou la seconde majeure de 8 à 9, & en ajoutant encore un second, on aura ce qu'on nomme le semi-ton ou la seconde mineure de 10 à 9; mais si, après cette addition faite, on en vient à soustraire & à retrancher une unité de 10 & de 9, le semi-ton deviendra le ton. La sixieme Mineure.
+
+Se fait aussi par trois battemens d'air, lesquels ajoutés aux cinq battemens de la quinte, en donnent huit, & en même tems la proportion de 8 à 5. Les doubles Octaves.
+
+On ne fait que doubler le plus grand terme, c'est-à-dire, le plus haut chiffre des octaves qui précedent de ton en ton ; & cela tant de fois répétées que l'on voudra. Le plus grand terme d'ut grave de la premiere octave est 2, qui étant doublé donne 4 pour ut grave de la seconde octave. Ce qui sera certain quand on aura observé que d'octaves en octaves les battemens diminuent successivement de moitié, tandis qu'au contraire le volume des cloches augmente du double en épaisseurs, hauteurs, poids & largeurs, à mesure qu'elles descendent par octave : c'est la raison inverse.
+
+
+PLANCHE II.
+
+La vignette représente l'attelier d'un fondeur de cloches, la fosse dans laquelle on fait les moules, placée sous un hangard, & vis-à-vis le fourneau qui est à découvert.
+
+Fig. 1. Ouvrier mouleur qui applique avec les mains la terre détrempée pour former le modele d'une cloche ; il prend cette terre dans un quartau qui est à côté de lui.
+
+2. Autre ouvrier qui pousse le calibre ou échantillon pour unir la terre & ôter le superflu.
+
+3. Noyau d'une autre cloche au dessus duquel chappe est suspendue par des mouffles.
+
+Bas de la Planche.
+
+Fig. 1. Les deux pieces de fer qui composent le compat lavoir, l'arbre vertical terminé inférieurement par un pivot & par le haut, par un tourillon & la main de force dans laquelle on fixe l'échantillon.
+
+2. Crapaudine de fer que l'on scelle par ses trois branches dans le massif du noyau, & au centre de laquelle porte le pivot de l'arbre du compas.
+
+3. décrite à l'article Cloches. Le compas tout monté avec l'échantillon. La maçonnerie du noyau a été fracturée pour laisser voir le piquet planté au milieu de la meule sur la tête duquel repose la crapaudine qui soutient l'arbre du compas.
+
+
+PLANCHE III.
+
+Suite de la précédente, contenant les différens progrès de l'opération de la construction des moules qui sont au nombre de trois, savoir ; le noyau, le modele & la chappe qui demandent chacun une construction particuliere.
+
+Fig. 4. Le noyau.
+
+On a dû, avant que de monter le compas, abattre à la serpe & au ciseau tout le bois de la planche de l'échantillon depuis sa rive à droite jusqu'au grand trait D, F, H, qui est pour la forme intérieure de la cloche ; & la couper en biseau en laissant le trait de la courbe franc.
+
+Le compas étant monté & ajusté en la maniere qu'on vient de dire, on passe l'arbre dans son loquet, & on le pose sur son piquet & sur son centre, comme on le voit dans la fig. 2. de la vignette précédente.
+
+On commence à travailler le noyau & sa meule tout ensemble avec des briques partis entieres, partie cassées, & de la terre de maçons dont on enduit le dedans & le dehors. On brise les angles extérieurs de ces briques, afin de donner à la maçonnerie sa juste rondeur ; les briques se posent par assises de hauteur égale par-tout, & toujours en recouvrement d'une assise à l'autre, en sorte que les joints d'une assise ne se rencontrent pas avec les joints de l'assise qu'on doit poser ensuite. A chaque brique qu'on pose, le compas doit se présenter, afin qu'on ne laisse entr'elle & la planche qu'une ligne de distance : ainsi le compas sert à diriger la maçonnerie dans son pourtour & dans sa hauteur. Quand cet ouvrage est à peu près aux deux tiers de sa hauteur, on applique sur le piquet de bois le triangle fig. 2. de fer épais qui répose par ses extrémites sur le corps de la maçonnerie. Mais avant que de l'arrêter, il faut avec le plomb pointu qui a déja servi pour le piquet, faire répondre le centre qui est marqué sur cette barre de fer au juste milieu du trou du loquet ; ensuite remettre le compas, le faire jouer & continuer le travail jusqu'à sa hauteur. Lorsqu'on est parvenu au collet du cerveau, on lui laisse une ouverture qu'on appelle la bouche du cerveau, & assez grande pour pouvoir jetter le charbon dans le noyau.
+
+Cette bouche s'arrondit & se polit au moyen d'un petit bâton que l'on insere dans la main de l'arbre, & qu'on laisse descendre dans le noyau.
+
+2°. On couvre cette maçonnerie d'une couche de ciment fait avec du fort limon, de la fiente de cheval & de la bourre bien broyés & liés ensemble, sur un établi de planches avec la tête d'un hoyau. Pour bien applanir par tout cette couche, on commence à mettre en jeu le compas de construction ; c'est-à-dire, que tandis qu'un homme tourne autour du noyau & appuye sur le compas, le fondeur applique à pleines mains son ciment depuis le bas jusqu'en haut, & toujours en continuant & en tournant jusqu'à ce que le noyau emplisse bien la planche, & qu'il ne lui reste plus aucun vuide. Après cette premiere façon on emplit tout-à-fait le noyau de charbon, l'on y met le feu, & l'on bouche son ouverture ; on ouvre les 3 ou 4 soupiraux qui sont au bas de la meule & qu'on y a construits avec des rouleaux de bois gros à peu près comme le poignet, & qu'on a ensuite rétirés. Ce premier feu pour faire un bon recuit, doit durer de 12 à 24 heures.
+
+3°. Durant la chauffe, le soin du fondeur est de rafraîchir avec de l'eau son moule à mesure qu'il seche, dans les parties qui en ont besoin ; car sans cette précaution, comme les parties inférieures sechent plus lentement à raison de leur épaisseur, il se trouveroit au noyau des inégalités qui regneroient des parties inférieures aux supérieures, & qui apporteroient la même erreur dans le modele de la cloche qui doit se former sur ce même noyau.
+
+En construisant la maçonnerie de ce premier moule, il seroit à propos, outre cela, d'y laisser en dedans un cercle de briques un peu avancé en forme de petit cerceau au niveau de la traverse de fer, afin de se procurer une espece de plancher composé de vergettes de fer & de tuiles, pour faire refouler la trop grande activité du feu en en bas ; ce qui ne dispensera pas néanmoins de fermer la bouche du cerveau à l'ordinaire avec le gâteau de terre cuite, ayant l'attention seulement qu'il y ait communication de feu du bas en haut par une ouverture qu'on ménagera au milieu de ce plancher : cela s'entend assez.
+
+Après cette opération on retire le compas de sa place, on sépare l'échantillon de son arbre, & on ne l'ôte pas hors de sa mortaise. On coupe la premiere courbe & le premier trait du cerveau au vif, avec une bonne lame, sans cependant rien outre-passer ; puis on le remonte sur son arbre & sur son pivot, dès que le premier enduit est sec en toutes ses parties.
+
+4°. Le second enduit est d'un grain de terre plus doux que le premier ; il le faut bien liquide. On en emplit l'échantillon comme ci-devant, puis le feu, & la même attention qu'au premier enduit. On réitere jusqu'à 3 & 4 fois, ou, pour mieux dire, jusqu'à ce que le compas emporte tellen ent le ciment nouveau qu'il ne laisse plus paroître que le sec. Il ne faut pas appuyer bien fort sur la planche, mais seulement la commander à mains fermes.
+
+5°. La derniere de toutes les couches du noyau est composée de cendres & de savon ; comme c'est une couche grasse, le moule de modele qui doit être construit sur celui-ci se détache aisément quand il s'agit de l'enlever. Dans cette couche le feu n'a point lieu. Avant de passer au second moule, on examine si ce premier-ci est bien juste en son diametre ; la preuve s'en fera en portant deux fois le tiers de sa rondeur sur une regle où seront marqués les quinze bords, & la preuve n'y étant pas on détruit le moule.
+
+5. Modele ou la fausse cloche.
+
+Ayant démonté le compas on coupe, en laissant le trait franc, tout le bois de la planche jusqu'à la seconde courbe & à la seconde onde D, G, I, A, K, & le tout en biseau ; puis on le remonte & on le remet sur son pivot.
+
+La terre dont on forme le modele, est une composition liquide d'un fin limon tamisé & incorporé avec de la bourre & du crottin de cheval ; c'est pour la premiere couche : l'ouvrier la prend à pleines mains & l'applique sur le noyau par plusieurs pieces ou gâteaux qui s'unissent & se lient ensemble pour peu qu'on les étende : cet ouvrage grossier se perfectionne par plusieurs couches d'un ciment de mêmes matieres, mais beaucoup plus claires. Chaque couche est applanie par le compas, & on les laisse sécher au feu l'une après l'autre avant que de faire jouer le calibre. On ne manque pas de couvrir toutes les couches de grand chanvre de toute sa longueur pour empêcher le moule de se fendre & de faire des lézardes. Lorsque le moule est fini, & que le calibre enleve tellement la derniere couche qu'il n'en laisse plus rien, & qu'il ne laisse appercevoir que le sec de la couche précédente, on démonte de son arbre ce calibre ou planche d'échantillon ; on coupe son trait au vif & dans son juste milieu.
+
+Ensuite à la hauteur du troisieme bord marqué sur la planche, on fait une entaille bien propre & un peu profonde, & deux moindres en dessus & en dessous pour former cinq cordons ; un peu au-dessous du onzieme bord, on en fait aussi plusieurs qui donneront les cordons ou filets propres à placer les inscriptions ; puis deux autres extrêmement minces, pour dénoter l'endroit des proportions de la cloche, au cinquieme bord & demi & au douzieme bord moins un sixieme.
+
+Il n'est plus question que de mettre la derniere main au moule. Pour cela l'on fait au réchaut une composition de suif, de savon & d'un peu de cire ; on replace le compas sur son pivot ; on applique sur le modele une couche légere de cette composition que l'on ragrée avec le compas légérement & également appuyé; enfin on retire le compas, puis on met les inscriptions, les figures & les armoiries qui sont faites avec des feuilles de cire amollie dans l'eau chaude. On fait prendre à ces feuilles de cire l'empreinte des gravures convenables faites dans des morceaux de bois ou de cuivre qui servent de moules.
+
+6. La chappe ou le surtout, ou la chemise.
+
+Ce moule qui se nomme ainsi, parce qu'il couvre les deux autres, doit être extrêmement fort à cause qu'il doit souffrir le travail d'un feu presque continuel, qu'il doit être enfoui dans une terre pressée & foulée à la poire à force de bras, & qu'il doit en outre porter tout le poids & toute la force d'un métal tout de feu lors de la fusion.
+
+L'échantillon étant démonté à l'ordinaire, on ouvre un compas de l'épaisseur au-moins d'un bord de la cloche ; & tandis que l'on conduit une de ses jambes le long du trait de l'échantillon, l'autre jambe grave sur la planche tout le trait d'épaisseur qu'il convient de donner à la chape. Ce trait étant gravé, on coupe l'autre trait comme précédemment, au vif & en biseau ; on met la planche montée dans la traverse en un vase rempli d'eau, de peur que les coins ne se dessechent.
+
+On prépare alors pour la premiere couche de ce moule une composition de fin limon, d'abord passé par le tamis, qu'on mêle ensuite avec de la bourre bien émondée & du crottin de cheval ; puis le tout étant mis dans l'eau, on en fait un brouet, qui, étant coulé au tamis se convertit en un fin coulis. On travaille à faire la couche de la façon que voici : l'ouvrier tient d'une main un chauderon plein de cette matiere, il plonge l'autre main dedans, pour prendre de cette composition qu'il applique sur toute la surface du modele, mais doucement, afin de ne pas déranger les lettres & les figures. Cette matiere s'étend d'elle-même par-tout & couvre tous les reliefs, remplit les sinus & les cavités des figures & des lettres ; l'opération se continue jusqu'à l'épaisseur de deux lignes. On laisse sécher (sans feu) cette couche, laquelle au bout de 12 ou 15 heures forme une croute.
+
+On charge cette croute d'une deuxieme couche de même matiere, mais moins claire ; & lorsque cette couche a pris une certaine consistance, on remet le compas en place & le feu dans le noyau, avec cette précaution de ne lui donner d'activité qu'autant qu'il en faut pour faire fondre la cire des inscriptions, & former peu à peu dans les premieres couches les creux des lettres & figures par l'écoulement de la cire fondue.
+
+On charge ensuite d'une terre un peu moins claire encore, & l'on met toutes les couches de plus solides en plus solides ; on les entre-mêle du haut en bas de gros chanvre entier en long & en large, que l'on applanit à chaque fois au compas. L'épaisseur de ce moule doit descendre plus bas que la meule de 4 à 5 pouces, & la serrer de près afin que le métal ne puisse point s'extravaser.
+
+Il faut la trancher par le bas, cette épaisseur, & la terminer en vive arrête par le moyen d'un petit morceau de bois attaché à l'extrémité de la planche ; & pour le haut, on insérera dans la main de force un morceau de planche taillé en forme de couteau qu'on appelle le nez, & qui, en tournant le compas, disposera sur le collet la forme où doivent être placées les anses. On donnera à cette forme une ouverture proportionnée au volume des anses.
+
+Avant de lever la chape, il faut y marquer plusieurs reperes que l'on abaissera jusques sur la meule en lignes droites avec des numéros en haut & en bas de ces lignes, afin de la reposer sur ces mêmes reperes & sur ces mêmes numéros quand il en sera question.
+
+Pour lever la chape, on place en quatre ou cinq endroits sous son extrémité deux bouts de planche & un coin entre les deux bouts sur lesquels autant de personnes frappent à petits coups de marteaux tous ensemble, afin qu'elle se détache également & sans rien briser du modele d'épaisseur. La voilà soulevée, il ne faut donc plus que des gens qui s'entendent bien, & qui au signal du fondeur l'élevent en haut à force de bras, ou avec les crochets & la chevre, comme on voit dans la figure, si la chape est trop pesante pour l'élever à force de bras.
+
+La chape étant enlevée, on en remplit les crevasses & autres défectuosités, s'il s'en trouve, avec un coulis d'eau & de cendres, que l'on fait sécher ensuite avec un falot de paille allumé, on brise le modele de la cloche, on le jette dehors de la fosse, on nettoie bien le bord de la meule, sur laquelle on replace la chape, ayant soin d'en faire convenir les reperes avec ceux de la meule.
+
+Nota Avant que d'enlever le surtout, il doit être chargé de ses anses ; car toute la masse doit se lever à la fois.
+
+7. Le noyau dans lequel on a placé l'anneau qui sert à suspendre le battant. On voit cet anneau séparé entre les fig. 4 & 5.
+
+8. Modele ou moule pour les figures de cire. Il est de cuivre & dessiné sur une échelle double ; il y a un rebord qui contient la cire qui prend facilement l'empreinte des creux : on moule les lettres de la même maniere.
+
+9. L'empreinte de cire tirée du moule & dans l'état où on l'applique sur le modele de la cloche.
+
+10. Le chapeau qui contient le moule des anses, du jet & des évents, vu par le côté opposé à l'entrée du métal.
+
+11. Le même chapeau vu par le côté de l'entrée du métal.
+
+12. Plan des anses. a, a les volans, b, b les anses antérieures & postérieures, c le pont.
+
+13. Les anses en perspective posées sur une partie du cerveau de la cloche.
+
+Pour faire le moule des anses représenté par les fig. 10 & 11, l'ouvrier prend les modeles d'anses qu'il saupoudre de charbon pilé ou de craie pour empêcher que la terre ne s'y attache, il enveloppe la moitié du modele d'un gâteau de la terre des moules qui est raffermie, &, sans séparer le modele, on fait sécher le gâteau au feu ; quand il est sec, on ragrée son bord avec le couteau, on saupoudre ce bord ainsi que l'autre moitié du modele que l'on couvre d'un second gâteau ; on le met au feu après avoir séparé le premier, & quand il est cuit, on le retire ; on les taille tous les deux fort proprement & à vives arrêtes, on les applique l'un contre l'autre, on les colle ensemble par une bonne charge de la même composition qu'on leur applique en dehors, & par un bon enduit de terre légere qu'on leur donne en dedans. On fait cuire le tout à volonté, après quoi on làve ce creux ou ces deux demi-creux par dedans, afin d'enlever les parties grumeleuses qu'il peut y avoir. Enfin on remet l'ouvrage à la cuisson, & voilà ce qui concerne la façon des creux qui sont au nombre de six, & des demi-creux au nombre de douze : on travaille à tous dans le même tems si l'on a six modeles.
+
+Pour le pont, ou la maîtresse anse, on fait un modele de terre mêlée de bourre & de crottin corroyés à la main, & on le figure tel qu'il doit être, & ayant vers son extrémité supérieure une ouverture pour passer la trompe de la cloche. On donne à l'extrémité d'en bas une circonférence divisée en six parties égales qui feront, en partant du centre de cette circonférence, six rayons égaux : c'est par le moyen du centre & de ces rayons que les six anses s'ajustent sur le pont par bas. Mais pour les y joindre par le haut, il faut faire un repere sur chacun de ses côtés en forme de croix pour les deux anses appellées les deux volans: il en faut outre cela deux sur chacune des faces de ce pont, savoir un à droite & un à gauche pour une face, & un aussi à droite & un autre à gauche pour la face opposée, lesquels doivent se trouver vis-à-vis d'une face à l'autre, en conduisant ces mêmes reperes sur la sommité de ce même pont.
+
+Pour assembler les pieces, c'est-à-dire, les creux avec le pont, 1°. on couche la maîtresse anse sur une planche saupoudrée ou cendrée, on adapte les deux volans sur ses côtés & sur leurs reperes, puis deux autres anses sur leurs reperes & sur sa face, & voilà déja quatre anses ou autrement quatre creux d'anses posés & appliqués ; mais il faut que les distances au centre du pont soient égales entr'elles, ce qui se trouve au compas. ces creux étant ainsi arrangés, on emplit d'un morceau de terre l'ouverture du pont qui formera un passage pour passer la trompe, puis on garnit de terre les coudes des anses & des volans avec des gâteaux assez longs & larges pour remplir tout le vuide d'un moule à l'autre ; ensuite on donne à tout cet ouvrage une bonne & suffisante charge : c'est un gros massif pour lors que l'on fait cuire au feu de charbon jusqu'à ce qu'il ait pris assez de force pour être manié & renversé, bien entendu qu'en arrangeantsses pieces & avant que de les exposer au feu, on aura eu soin de faire au milieu de la tête du pont avec un bâton bien arrondi un jet capable de recevoir le métal en fusion, puis deux soupiraux ou évents aux deux côtés du jet, mais un peu plus étroits & plus bas, afin que l'air sorte hors du moule dans le tems qu'on coulera.
+
+Il reste l'autre partie de l'opération. On renverse le massif sur une table pour placer les deux autres creux d'anses sur son autre face, sur leurs reperes & à la même distance du centre du pont que les deux creux précédens, au moyen du compas dont on a conservé l'ouverture. On donne les mêmes charges de ce côté-ci que de l'autre, & une autre charge de surplus sur la jonction des deux pieces, afin qu'elles ne se séparent point. On met cuire ce côté-ci comme on a fait l'autre ; la cuisson en étant faite, les deux moitiés séparées, on enleve la fausse anse, qui est le pont, pour ne plus reparoître, mais si adroitement que rien ne soit brisé, sur-tout le morceau de terre qu'on a mis dans l'ouverture du pont, qui est tout ce qui en doit rester pour faire l'emplacement de la trompe quand on coulera.
+
+Avant de séparer ces deux moitiés, on trace avec le compas, sur la sommité du surtout, une certaine circonférence qui se reporte en dessous du massif en partant de son centre ; ce dessous de massif ainsi arrondi devient une base qui remplit l'ouverture du haut de la chape ; non seulement on donne cette forme ronde à ce massif qui doit faire le couronnement de la cloche, mais on lui donne encore un certain concave pour faire l'agrément de l'extérieur du cerveau de la cloche.
+
+Les deux moitiés étant bien cuites on les appareille, on les polit en dedans, & on en emporte tous les grumeaux avec un pinceau de chanvre trempé dans de l'eau légérement chargée de terre, puis on les met au recuit.
+
+Lorsque le dedans en est bien sec, on réunit les deux pieces ensemble ; on les charge en dehors, & par dedans on recouvre leur trait de séparation avec un coulis de terre mis au pinceau, puis le recuit.
+
+On emplit le noyau de charbon, on monte le massif des creux d'anses sur la chape, & on l'emboîte dans le rond qui a été préparé pour le recevoir. Le feu doit être long afin que la cuisson soit complette : on aura soin de graisser auparavant d'huile à fond toute la place que doit occuper le couronnement ou ce massif, afin de pouvoir l'ôter quand on voudra enlever le surtout.
+
+C'est dans ce tems-là qu'on construit sur les anses l'entonnoir où se termine le canal. Ce sont trois gâteaux de terre en forme de tuile qu'on dresse à angles droits, qu'on assure bien l'un contre l'autre : il faut autant de ces entonnoirs qu'il y a de cloches. Ensuite on prolonge, avec des bâtons bien arrondis, les soupiraux ou évents que l'on tient toujours bouchés avec des tampons, ainsi que le jet, jusqu'au moment qu'il faudra couler: lorsque la cuisson sera achevée & le feu éteint, on enlevera le tout le plus proprement qu'il sera possible de dessus la chape.
+
+Reste l'anneau de la cloche à poser. Voici comment on fait : on le pose à plomb du centre de la traverse de fer qui reste dans le noyau, sur laquelle a toujours roulé le compas de construction. On établit tout autour de cet anneau sur la traverse un plancher de tuiles ou de briques sur lequel on éleve un massif de terre seche ou de sable gras, que l'on pile à mesure que l'on va en montant, & que le vuide du noyau se remplit ; les deux branches dentelées de cet anneau excéderont la surface du noyau, comme on le voit fig. 7, pour que le corps de la maîtresse anse les embrasse. L'anse étant placée au centre du noyau, on fait un bassin de brique que l'on charge de charbon, avec lequel on fait un feu violent pour faire recuire cette masse de terre. Cette derniere cuisson étant faite, on repose la chape que l'on redescend au moyen des crochets & des cordages qui la suspendent.
+
+On la repose sur ses reperes & sur les numéros correspondans, (ce qui la replace en distance égale de son noyau en tout sens); à présent donc qu'elle est en sa place, il ne s'agit plus que de la couvrir de son couronnement, c'est-à-dire, du moule de ses anses, de son jet & de ses évents que l'on soude par un coulis que l'on fait recuire sur le champ. Après quoi il ne reste plus rien à faire que d'emplir la fosse de terre ferme & de gravier pilé de lits en lits, avec la poire, depuis le fond de la fosse jusqu'au rez-de-chaussée, afin d'empêcher les moules de se tourmenter lorsqu'on coulera la matiere.
+
+Les six anses des cloches doivent porter dans leurs quatre faces un bord & un tiers d'épaisseur.
+
+Le battant doit avoir dans le gros de sa poire un bord & demi, plus un huitieme d'épaisseur, qui font quatre bords & demi, plus trois huitiemes de circonférence, la poire étant bien arrondie.
+
+L'anneau du battant & celui de la cloche doivent être arrondis & bien adoucis à la lime pour la conservation du brayer.
+
+
+PLANCHE IV.
+
+Fig. 1. Plan géométral du fourneau. A le fourneau. B la chapelle qui communique à la chauffe. C, D place pour débraiser. E escalier pour y descendre. T, T portes du fourneau pour charger. V place du tampon, & commencement du canal qui communique à l'échenau. P Q R S la fosse dans laquelle sont placés quatre moules de cloche dont les proportions sont pour former l'accord parfait UT mi sol ut. On voit l'échenau aux extrémités duquel on distingue le haut des chapeaux & l'orifice des jets & des évents.
+
+2. Elévation antérieure du fourneau, & coupe de la fosse par un plan vertical passant par le milieu de sa longueur. P Q R S coupe de la fosse. V bouche du fourneau. T T seuils des portes. t t les cheminées.
+
+3. Elévation postérieure du fourneau du côté de la chauffe. C la chauffe au dessous de la grille de laquelle est une porte D par laquelle on retire les braises. T T les seuils des portes du fourneau. t t les cheminées.
+
+
+PLANCHE V. Suite de la precédente.
+
+Fig. 4. Coupe verticale du fourneau par le milieu des portes & des cheminées, l'oeil étant dirigé vers la bouche du fourneau. V la bouche que l'on ferme intérieurement avec un tampon. T T les portes. t t les cheminées. On a projetté par des lignes ponctuées la fosse postérieure à cette coupe, & indiquée par les lignes ponctuées p q r s.
+
+5. Coupe verticale du fourneau par un plan qui passe par les portes & les cheminées, l'oeil étant dirigé vers la chapelle ou voûte de communication de la chauffe au fourneau. T T les portes. B la chapelle. t t les cheminées. On a projetté par des lignes ponctuées la partie postérieure de la chauffe & la porte d par laquelle on débraise.
+
+6. Plan du dessus de la chauffe. C ouverture par laquelle on jette le bois. A pelle de fer servant à fermer cette ouverture après que le bois y a été introduit.
+
+7. Coupe longitudinale du fourneau par un plan vertical passant par la chauffe & la bouche. Q S partie de la fosse de 22 bords de la plus grosse cloche en profondeur. V la bouche du fourneau par laquelle sort le métal en fusion. T une des portes. t le haut de la cheminée. B la chapelle. C la chauffe. G la grille sur laquelle tombe le bois. D place où tombent les braises. E escalier pour y descendre.
+
+Le fourneau est, par ce qui paroît, une espece de four à réverbere. On l'appelle reverbere, parce que la flamme qui se joue dans sa voûte, reverbere & refoule son activité sur le metal. Sa voûte doit être surbaissée pour mieux refouler vers le bas. Il est construit sur une base de cinq ou six briques de hauteur, plus ou moins, suivant la quantité du métal. Ces briques se posent en liaison, c'est-à-dire, un lit de briques en largeur, puis un autre en longueur, & successivement ainsi jusqu'à cinq ou six lits, le tout bien lié & bien enduit en dehors & en dedans, d'une bonne terre de maçonnerie sur laquelle on fait bâtir le four que l'on doit bien crépir en dedans & rêrevêtir en dehors d'une bonne maçonnerie. Dans cette base même & sur son terre plein, on pratique une issue quarrée grosse comme le poing, suivant la quantité du métal qui doit y passer pour couler dans les moules, & que l'on scelle hermétiquement d'un tampon de terre bien cuite. Vis- à-vis de cette même issue est une fausse porte ceintrée qui communique à cette partie du reverbere qu'on nomme la chauffe, par laquelle la flamme vient se rendre dans le four pour se répandre avec toute son activité sur le métal : cette ouverture tient ici lieu de foyer. Entre cette espece de foyer & le trou de l'écoulement sont placées deux portes, par lesquelles on peut entrer dans le fourneau pour charger le métal, ou, lorsqu'il est en feu, écumer & brasser le métal en bain avec les outils dont il sera parlé ci-après.
+
+Le fond ou pavé du reverbere se nomme bassin. Il est ainsi nommé, parce qu'étant un peu creux il imite le fond d'un plat ou d'un bassin. Ce pavé doit pencher un peu vers le trou du tampon afin que tout le métal puisse se rendre dans les moules. Il doit être fortement pilé au maillet, recouvert de sable pilé de même, & ragréé d'un gros coulis de cendres : ensuite on dresse en dedans tout autour & à la hauteur de la base, un bon & fort talus de limon appliqué au sec & pilé au maillet, ragréé du brouet de cendres comme le reste, & ce talus ainsi conditionné regnera de même à l'entrée des portes.
+
+La chauffe est une espece de cheminée contenant la moitié du reverbere en quarré auquel elle est contiguë. Elle a deux parties ; une grille de gros fer plat les sépare : celle de dessous est pour recevoir les braises & les cendres, & celle de dessus est destinée à recevoir le bois de chauffe qu'on y jette par une ouverture qui est pratiquée en haut, & qu'on a soin de refermer chaque fois après qu'on y a jetté le bois, afin que la flamme soit poussée dans le reverbere. Toute cette partie doit être construite en briques.
+
+La chapelle est la partie de la chauffe qui communique au reverbere. Elle doit être bâtie en talud & d'une maçonnerie de brique la plus solide qu'il est possible, de peur qu'elle ne se brise quand on jette le bois.
+
+Le canal est un conduit composé dans sa longueur de briques bien enduites de terre & d'un coulis de cendres par-dessus. La pente de ce conduit, qui est depuis le tampon jusqu'à l'échenau, doit être médiocre, mais suffisante pour conduire le métal dans les moules.
+
+L'échenau ou échenal est un bassin, quarré oblong, il communique au canal devant lequel il est placé; il est percé dans son fond d'autant de trous qu'il y a de maîtres jets, & qu'il y a de cloches par conséquent ; il est placé sur le haut des moules, de sorte que ses trous, qui sont en forme de larges godets, s'unissent par leur ouverture intérieure avec l'orifice de chaque jet. Les tuyaux des évents viennent se terminer sur l'aire autour des bords de l'échenau.
+
+Pour recuire le fourneau, on le remplit de bois & de paille auxquels on met le feu. Lorsque tout est consumé, I on y remet une bonne charge de bois ; on bouche les portes, on recharge les endroits de la calote où l'on apperçoit la fumée sortir ; le feu etant éteint, le fondeur rentre dans le four, nettoie le bassin, & observe bien attentivement si le métal ne se peut perdre ; & si tout est en bon état, l'ouvrier range dans le fourneau un lit de paille & quelques buches par-dessus, sur lesquelles il place les morceaux de métal, en menageant de petits entre-deux d'un morceau à l'autre, afin que la flamme qui doit les environner, puisse les faire fondre avec plus de facilité.
+
+
+PLANCHE VI.
+
+La vignette représente une vûe du fourneau en feu & l'opération de couler le métal dans les moules.
+
+Fig. 1. Le maître fondeur qui, avec une grande perche à laquelle on donne le nom de perriere, débouche le fourneau pour laisser couler le métal dans l'échenau & delà dans les moules. Il commande l'écoulement, en introduisant plus ou moins sa perrierre dans la bouche du fourneau. Les cloches dont les moules s'emplissent, sont celles désignées au plan fig. 1. Planche IV par les lettres UT ut, l'échenau étant traversé en cet endroit par une espece de vanne de fer ou de terre que l'on n'ôte que quand les moules des deux premieres cloches sont entierement remplis.
+
+2. & 3. Deux aides fondeurs tenant chacun une quenouillette dans l'ouverture des jets des deux autres cloches mi sol. On enleve alors la séparation qui traverse l'échenau, & le métal étant arrivé sur les quenouillettes, on les enleve l'une après l'autre, à mesure que l'un des deux moules des deux dernieres cloches est rempli.
+
+4. Ouvrier qui avec un rable de bois pousse le métal vers le trou du tampon.
+
+Le moment de couler étant arrivé, on nettoie bien tous les canaux & échenaux qui n'ont cessé de recuire au feu de charbon durant tout le tems de la chauffe & la fonte du métal. On débouche les jets & les évents, on brûle au feu par l'une des portes le bout de la perche qui doit enfoncer, le tampon & tenir le métal en commande dans sa sortie lorsqu'il coule ; on brûle de même le bout de tous les bâtons des rables de bois qu'on destine à brasser & à conduire le métal, afin d'en éviter les crachemens. Toutes choses étant disposées de la Torte, le fondeur, les pieds en pantouffles & pourpoint bas, donne un grand coup de sa perche contre le tampon qu'il enfonce dans le fourneau, le métal sort comme un torrent de feu ; & sans sortir cette perche du trou, il commande l'écoulement au gré de la capacité des canaux : à l'instant il s'éleve par les évents une flamme semblable à celle de l'eau-de-vie, laquelle ne s'éteint que quand les moules sont pleins & que les cloches ont réussi.
+
+Bas de la Planche.
+
+Fig. 1. Perriere du maître-fondeur pour déboucher le fourneau.
+
+2. Rable de fer emmanché de bois pour écrémer le métal.
+
+3. Rable de bois emmanché de même d'une perche servant à un des ouvriers à pousser le métal vers l'ouverture du tampon lors de la coulée.
+
+4. Cuiller d'essai pour puiser un échantillon du métal & par ce moyen juger de sa cuisson.
+
+5. Tenailles ou happes pour enlever la séparation de l'échenau.
+
+6. Poche.
+
+7. Chariot à rouleau pour charger le métal & les saumons d'étain par la porte du fourneau.
+
+8. Quenouillette servant à boucher les évents.
+
+
+PLANCHE VII.
+
+Cette Planche & la suivante contiennent les élévations & coupes du beffroi dans lequel on suspend les cloches.
+
+Fig. 1. Les cinq clés auxquelles les brides sont suspendues.
+
+2. Le mouton dégarni de toutes les ferrures. Il est excavé en dessous pour recevoir les anses de la cloche, indiqués par des lignes ponctuées dans la fig. 6.
+
+3. Les brides postérieures en perspective, les antérieures étant placées sur la fig. 6. 1, 2: 1, 2 les brides de la queue des tourillons. d3, d3 les brides du support des supports des anses latérales. c4, c4 brides des supports des anses latérales. X b bride de l'anse antérieure.
+
+4. Les supports. c, c supports des anses latérales. a a support de l'anse antérieure. E, E frettes des portées du mouton.
+
+5. Les tourillons. A, A les tourillons. o o crochets de la queue.
+
+6. Elévation géométrale du mouton garni de toutes ses ferrures antérieures, & coupe de la cloche pour laisser voir le battant A B & le brayer par lequel il est suspendu. Toutes ces figures sont dessinees sur une échelle triple.
+
+7. Coupe longitudinale du beffroi par un plan parallele à la ligne G H du plan du rez-de-chaussée fig. 8. l l soles qui portent sur un encorbellement, ou retraite de la maçonnerie de la tour. K k, K k contre-fiches qui soutiennent le poinçon K L du centre. m m moises qui relient les pieces du pan de bois, ou ferme sur G H de la fig. 8; les pieces de bois colorées d'une teinte plus forte appartiennent au pan de bois sur A B du plan fig. 8, ou à son opposé qui lui est entierement semblable. n n plancher où se placent les sonneurs. p p chapeau de la partie inférieure du beffroi. o o plancher sur lequel on pose les verrins par le moyen desquels on souleve la cloche lorsque l'on veut réparer ou changer les tourillons. q q chapeau qui reçoit les tourillons. r r chapeau ou couronnement du beffroi.
+
+
+PLANCHE VIII.
+
+Fig. 7. n°. 2. Coupe transversale du beffroi par un plan parallele à E F de la fig. 8. A & B les deux moutons auxquels les cloches sont suspendues ; la plus grande A, qui est a l'unisson du sol du ravalement ou du seize-pied de l'orgue, a huit pieds un pouce huit lignes de diametre, les autres lettres de la figure désignent les mêmes objets que dans la figure précédente ; les pieces de bois plus fortement colorées appartiennent au pan de bois sur B D de la fig. 8, ou à son opposé sur A C qui lui est semblable.
+
+8. Plan de la fondation du beffroi & de la partie de la tour qui est au même niveau. A B C D les quatre poteaux corniers qui sont chacun composés de trois poutres réunies par des clefs, comme on voit fig. 10. G F H E les quatre poinçons des pans des bois du pourtour du beffroi ; ceux en G & en H sont doubles. K poinçon du centre.
+
+8. n°. 2. Plan du dessus du beffroi & de la partie de la tour qui est au même niveau. On voit en a la cloche par le dessus & les quatre leviers qui servent à la mettre en volée, & en b l'emplacement de la seconde cloche.
+
+9. Levier à quart de cercle pour les petites cloches.
+
+10. Maniere dont les poteaux corniers composés de trois pieus de bois sont assemblés par des clés.
+
+Une partie de ces explications de la fonte des cloches est extraite du livre de M. Roujoux, Curé de Fismes, dont nous avons fait usage en y faisant des changemens considérables & nécessaires. Au reste, on est étonné de retrouver dans son livre l'usage de la baguette divinatoire recommandé comme un moyen de reconnoître les qualités du metal qui compose une cloche ou de celui dont on veut la composer : une semblable erreur ne devoit pas reparoître dans ce siecle-ci.

@@ -1,0 +1,8 @@
+Known Errors
+============
+
+In some cases, missing plates in the preferred source at umich.edu necessitated the use of less-refined versions from ARTFL.
+
+Plates and their corresponding legends are missing in these sections:
+
+	Histoire Naturelle - Regnes Animal, Vegetal, et Mineral - Suite du Regne Animal - Polypiers
