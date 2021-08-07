@@ -129,3 +129,6 @@ Elle est exposée directement au midi, & placée entre l'orangerie & la serre te
 	- B, la muraille.
 	- C, le toît.
 	Le tout selon les regles que Boerhaave a prescrites.
+
+
+[->](../23-Fontainier/Légende.md)

@@ -27,3 +27,6 @@ FAÇON DES FOINS, ET MOISSON.
 17. Fourche de fer pour charger les bottes sur les voitures.
 18. Rateau de bois à deux faces.
 19. Fourche de bois.
+
+
+[->](../05-Batteur_en_grange/Légende.md)

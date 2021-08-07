@@ -73,3 +73,6 @@ Ceux qui les portoient s'en servoient pour se mettre à couvert des traits que l
 15. Pique.
 
 Enfin on peut conclure avec le P. Daniel, auteur de la milice françoise, duquel ceci est extrait, qu'outre l'épée & la lance, les chevaliers & écuyers se servoient de toutes sortes d'instrumens pour armes, dès qu'ils étoient propres à tuer ou à assommer les ennemis
+
+
+[->](../14-Arquebusier/Légende.md)

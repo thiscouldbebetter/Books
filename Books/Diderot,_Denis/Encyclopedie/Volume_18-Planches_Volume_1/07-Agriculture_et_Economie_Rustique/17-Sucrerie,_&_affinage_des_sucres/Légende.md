@@ -217,3 +217,6 @@ PLANCHE VII.
 [![Planche 7](Planche_7.jpeg)](Planche_7.jpeg)
 
 Cette Planche représente la grande étuve où l'on met sécher les pains de sucre, après qu'ils sont sortis des formes. On y voit la coupe du poîle de cette étuve où l'on met le feu par le dehors du bâtiment ; & celle des soûterreins qui servent de cendriers & d'évents pour le poîle & les fourneaux des chaudieres. Cette figure est relative à la figure 3. de la Planche V.
+
+
+[->](../18-Travail_des_sabots,_échalats,_&c/Légende.md)

@@ -3,6 +3,7 @@ ARGENTEUR
 
 Contenant deux Planches.
 
+
 PLANCHE I.ere
 -------------
 
@@ -50,6 +51,7 @@ Bas de la Planche.
 
 
 PLANCHE II.
+-----------
 
 [![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
@@ -75,3 +77,6 @@ PLANCHE II.
 	- f, vis pour tenir le pié d'un chandelier.
 
 Nota. Tous les mandrins de l'argenteur sont de fer.
+
+
+[->](../13-Armurier/Légende.md)

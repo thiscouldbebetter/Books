@@ -23,3 +23,6 @@ COUVREUR.
 18. Chevalet rampant.
 19. Truelle.
 20. Auge à gâcher.
+
+
+[->](../16-Carreleur/Légende.md)

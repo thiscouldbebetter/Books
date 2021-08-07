@@ -120,3 +120,6 @@ PLANCHE III. Détails du précédent moulin, & moulin à moudre le tabac.
 	- L M N, manivelle.
 	- O P, tamis.
 	- R, coffre.
+
+
+[->](../09-Manufacture_de_tabac/Légende.md)

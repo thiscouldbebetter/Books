@@ -15,3 +15,6 @@ La vignette représente une partie de carriere dans une colline escarpée ; la m
 13. Tarriere servant à percer la mine.
 14. Profil d'une mine percée avec la tarriere & chargée de poudre, & l'aiguille qui laisse un passage, après qu'elle est retirée, pour introduire l'amorce, que l'on conduit dans des tuyaux de paille jusqu'à la poudre au fond de la mine, qui est fermée par un coulis de plâtre.
 15. Barre ou pince servant à soûlever les lits de pierre.
+
+
+[->](../14-Tuilerie/Légende.md)

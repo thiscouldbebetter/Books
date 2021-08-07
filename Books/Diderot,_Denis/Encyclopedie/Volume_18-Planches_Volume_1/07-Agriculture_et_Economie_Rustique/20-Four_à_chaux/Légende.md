@@ -13,3 +13,5 @@ FOUR A CHAUX.
 5. Coupe verticale du four par le milieu de sa gueule, où l'on voit la forme intérieure du four, la disposition des pierres calcaires, la maniere de chauffer le four, avec un ouvrier qui travaille.
 
 Nota. On trouvera dans les Planches VII. & VIII. de la Maconnerie (article Architecture), d'autres détails du four à chaux.
+
+[->](../21-Jardinage/Légende.md)

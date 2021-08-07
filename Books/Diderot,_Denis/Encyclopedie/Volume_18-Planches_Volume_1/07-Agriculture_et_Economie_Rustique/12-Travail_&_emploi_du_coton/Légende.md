@@ -104,3 +104,6 @@ Le haut de la planche représente le métier à faire la toile de coton, & l'ouv
 
 Au bas de la Planche, le même métier vû de profil. Les mêmes lettres marquent les mêmes parties.
 	- e e, les maillons.
+
+
+[->](../13-Culture_de_la_vigne/Légende.md)

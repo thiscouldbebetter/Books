@@ -126,3 +126,6 @@ Profils, élévations & plans du fourneau pour cuire la brique, la tuile, & le c
 7. Disposition & arrangement de la brique dans le fourneau. Celles du rang supérieur croisent celles du rang inférieur, & laissent de petits vuides par lesquels la flamme pénetre toute la fournée.
 
 8. Disposition & arrangement du carreau dans le four- neau ; ils y sont placés sur le champ, les brassées couchées horisontalement les unes sur les autres, les endroits des carreaux tournés l'un vers l'autre, de même que les envers.
+
+
+[->](../15-Couvreur/Légende.md)

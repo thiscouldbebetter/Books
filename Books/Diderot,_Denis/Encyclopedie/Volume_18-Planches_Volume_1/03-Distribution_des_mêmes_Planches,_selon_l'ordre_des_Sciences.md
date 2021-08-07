@@ -140,3 +140,6 @@ PLANCHES contenues dans le second Volume que l'on donnera incessamment.
 Ces Planches sont toutes gravées, & l'on pourra les voir chez les Libraires associés, avec la plûpart de celles qui sont relatives aux Sciences, Arts & Métiers, telles que Pêches, Marine & Fabrique des ancres, Emailleur, Plombier, Papeterie, &c. & autres objets qui formeront les trois Volumes suivans.
 
 C'est le Sr Goussier qui a dessiné sur les objets mêmes, la plus grande partie de l'oeuvre entier : il a fourni l'explication de ses desseins ; & ce sont les Srs Prevost, de Ferht & le Canu qui les ont gravés.
+
+
+[->](04-Certificat_de_l'Académie.md)

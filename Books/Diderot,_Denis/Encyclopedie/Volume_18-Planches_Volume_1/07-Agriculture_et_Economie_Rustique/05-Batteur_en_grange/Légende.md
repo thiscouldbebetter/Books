@@ -22,3 +22,6 @@ La vignette représente une grange.
 15. Crible à mains, instrument percé de petits trous par lesquels on fait passer, en le remuant circulairement, le grain plus nettoyé qu'il n'a pû l'être par le van.
 16. Crible à pié, espece de trémie dont l'usage est le même que le crible à mains.
 17. Mesure pour mesurer le grain.
+
+
+[->](../05-Conservation_des_grains/Légende.md)

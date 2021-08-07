@@ -39,3 +39,6 @@ PLANCHE II.
 [![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 Soixante-quatre combinaisons des carreaux mi-partis de deux couleurs.
+
+
+[->](../../12-Argenteur/Légende.md)

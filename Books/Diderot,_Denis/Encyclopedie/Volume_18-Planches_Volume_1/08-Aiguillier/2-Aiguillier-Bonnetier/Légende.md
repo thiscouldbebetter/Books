@@ -42,3 +42,6 @@ Bas de la Planche.
 11. Elévation de la face antérieure de la nouvelle machine à percer les aiguilles, dont se sert l'ouvrier (fig. 3.).
 
 12. Vûe perspective de la même machine.
+
+
+[->](../3-Amidonnier/Légende.md)

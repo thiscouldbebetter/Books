@@ -52,3 +52,6 @@ PLANCHE III.
 13. Développement de la chaîne sans fin, qui passant sur les poulies de l'arbre & du cylindre, communique le mouvement des roues au cylindre.
 
 Nota. On ne décrit point ici le semoir de M. l'abbé Soumille, parce qu'il en est fait mention dans la Planche premiere d'Agriculture, fig. 4.
+
+
+[->](../04-Façon_des_foins_&_moisson/Légende.md)

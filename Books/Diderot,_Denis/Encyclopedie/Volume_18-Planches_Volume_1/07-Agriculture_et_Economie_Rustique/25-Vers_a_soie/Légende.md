@@ -43,3 +43,6 @@ La vignette représente l'intérieur d'une chambre où l'on éleve des vers à s
 17. &
 
 18. Papillons vûs l'un en-dessus, l'autre en-dessous.
+
+
+[->](../26-Bassecour/Légende.md)

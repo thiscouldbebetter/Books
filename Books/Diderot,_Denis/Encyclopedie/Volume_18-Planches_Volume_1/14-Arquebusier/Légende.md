@@ -337,3 +337,6 @@ PLANCHE VI.
 	- 22. Piece de détente, dont les extrémités sont recouvertes par celles de l'arc de la sous-garde.
 	- a c, fente par laquelle passe la détente (fig. 14.).
 	- d, renfort percé d'un trou foncé, fraisé & taraudé, qui reçoit l'extrémité B de la vis de culasse (fig. 8.)
+
+
+[->](../15-Art_militaire/Contenant.md)

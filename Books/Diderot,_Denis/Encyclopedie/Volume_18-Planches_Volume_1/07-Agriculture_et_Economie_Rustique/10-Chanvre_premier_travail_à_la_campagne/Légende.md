@@ -45,3 +45,6 @@ La vignette représente l'attelier des peigneurs.
 
 11. &
 12. Plan & coupe du frottoir.
+
+
+[->](../11-Culture_&_arsonnage_du_coton/Légende.md)

@@ -320,3 +320,6 @@ PLANCHE IX. Divers moulins à bras.
 17. Face extérieure de la platine de devant.
 
 18. Face intérieure de la platine de devant.
+
+
+[->](../08-Moulins_a_exprimer_le_suc_des_fruits_et_l'huile_des_graines/Légende.md)

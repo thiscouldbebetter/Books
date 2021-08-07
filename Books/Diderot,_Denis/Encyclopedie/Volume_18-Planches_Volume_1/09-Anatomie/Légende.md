@@ -51,7 +51,7 @@ PLANCHE Iere.
 
 Le squelette vû par devant, d'après Vesale.
 
-[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
+[![Planche 1](Planche_01.jpeg)](Planche_01.jpeg)
 
 1. 
 	- a, L'os du front, ou le coronal.
@@ -565,6 +565,7 @@ PLANCHE IV. n°. 2. Mains & piés disséqués.
 	- Λ Σ Φ, les deux portions dans lesquelles le sublime se divise, couvertes par les ligamens Λ & Ψ.
 	- Ψ, le ligament par lequel le tendon du profond & l'extrémité du tendon du sublime est couverte jusqu'à la partie moyenne du second doigt.
 	- δ, δ, ligament attaché au bord de chaque os.
+
 3. de Courcelles.
 	- A 1 a 2, la grande aponévrose de la plante du pié.
 	- A, 1, son principe.
@@ -592,7 +593,6 @@ PLANCHE IV. n°. 2. Mains & piés disséqués.
 	- T, une partie du court fléchisseur du pouce.
 
 La figure du bas de la Planche est la seconde de la Planche V. suivant le texte de l'Encyclopédie, à l'article Anatomie, Tome I.
-
 	- A, l'interosseux antérieur du petit doigt.
 	- a b, son origine de l'os du métacarpe du petit doigt.
 	- B, l'interosseux postérieur du doigt annulaire couvert en partie par l'interosseux A.
@@ -751,7 +751,7 @@ L'écorché vû par le dos, d'après Albinus.
 PLANCHE VI. Muscles des piès & des mains, d'après Albinus & Courcelles.
 -----------------------------------------------------------------------
 
-[![Planche 6](Planche_6.jpeg)](Planche_6.jpeg)
+[![Planche 6](Planche_06.jpeg)](Planche_06.jpeg)
 
 1.
 	- F, l'abducteur de l'index.
@@ -963,7 +963,7 @@ PLANCHE VI. Muscles des piès & des mains, d'après Albinus & Courcelles.
 PLANCHE VII. Le diaphragme & le larynx d'après Haller & Eustachi.
 -----------------------------------------------------------------
 
-[![Planche 7](Planche_7.jpeg)](Planche_7.jpeg)
+[![Planche 7](Planche_07.jpeg)](Planche_07.jpeg)
 
 1.
 	- A, le cartilage xiphoïde.
@@ -1097,7 +1097,7 @@ PLANCHE VII. Le diaphragme & le larynx d'après Haller & Eustachi.
 PLANCHE VIII. Les arteres d'aprés Drake.
 ----------------------------------------
 
-[![Planche 8](Planche_8.jpeg)](Planche_8.jpeg)
+[![Planche 8](Planche_08.jpeg)](Planche_08.jpeg)
 
 1. L'aorte ou la grande artere coupée dans son origine, à l'orifice du ventricule gauche du coeur.
 	- A, les trois valvules demi-circulaires de l'aorte, comme elles paroissent, lorsqu'elles empêchent le sang de retourner dans le ventricule gauche pendant sa diastole.
@@ -1177,6 +1177,7 @@ PLANCHE VIII. Les arteres d'aprés Drake.
 
 
 PLANCHE VIII. n°. 2. Autres détails des arteres & de quelques veines.
+---------------------------------------------------------------------
 
 [![Planche 8-2](Planche_08-2.jpeg)](Planche_08-2.jpeg)
 
@@ -2939,3 +2940,6 @@ PLANCHE XXII. n°. 2. Detail de la matrice.
 
 6. Un hymen contre nature, où s'observe une colonne charnue qui divise l'entrée du vagin en deux segmens inegaux, d'après le cadavre d'une fille âgée de sept ans, par le même auteur.
 	- E, l'hymen. Au-dessus de l'hymen E, au milieu de la ligne circulaire concave, qui le termine à sa partie supérieure, la colonne dont il s'agit. Les autres parties, en suivant la figure de haut en bas, comme nous les venons d'expliquer à la figure précédente 5.
+
+
+[->](../10-Antiquites/Légende.md)

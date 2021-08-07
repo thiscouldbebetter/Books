@@ -20,3 +20,6 @@ MACHINES A FORER les pierres, & à arrondir les bases des colonnes.
 5. Développement de la patte d'oye à vûe d'oiseau.
 
 6. Partie du guide F ouvert en forme de fourche depuis F jusqu'en Y pour recevoir le levier H, & l'empecher de s'écarter lorsqu'il agit.
+
+
+[->](../12-Maçonnerie/Légende.md)

@@ -511,3 +511,6 @@ ARTIFICIER. 7 Planches.
 7. Autres pieces d'artifice.
 
 Toutes ces explications de Planches se séparent, & peuvent se placer chacune à la tête des Sciences, Arts & Métiers auxquels elles ont rapport. Ainsi on transportera, si l'on veut, à la tête de l'Agriculture les feuilles A, B, C, D, E demi-feuille, &c.
+
+
+[->](03-Distribution_des_mêmes_Planches,_selon_l'ordre_des_Sciences.md)

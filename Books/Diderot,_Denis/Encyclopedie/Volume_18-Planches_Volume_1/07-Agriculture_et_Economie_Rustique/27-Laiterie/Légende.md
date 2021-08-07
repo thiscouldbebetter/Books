@@ -17,3 +17,6 @@ La vignette représente l'intérieur de la laiterie d'une des maisons royales ; 
 10. Clayon. Il y en a de différentes grandeurs & formes.
 11. Batte à beurre de la baratte de bois. Le bâton traverse une planche circulaire qui sert de couvercle à la baratte.
 12. Baratte de bois dont se sert la figure premiere de la vignette.
+
+
+[->](../28-Art_de_faire_éclore_les_poulets/Légende.md)

@@ -31,7 +31,7 @@ PLANCHE Iere.
 
 
 PLANCHE II.
-===========
+-----------
 
 3. Profil & détail du pressoir à cidre. Elévation géométrale du pressoir vû de face. Les mêmes lettres désignent aussi les mêmes parties.
 
@@ -42,3 +42,6 @@ PLANCHE II.
 6. Partie inférieure de la vis qui entre dans la brebis.
 
 7. Plan & profil d'une dés clés.
+
+
+[->](../16-Indigoterie_&_manioc/Légende.md)

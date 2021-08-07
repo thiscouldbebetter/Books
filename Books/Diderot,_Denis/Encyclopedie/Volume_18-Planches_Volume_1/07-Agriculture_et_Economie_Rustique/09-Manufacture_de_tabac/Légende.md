@@ -195,6 +195,7 @@ PLANCHE V. Elévation, profil & développement d'une presse.
 
 
 PLANCHE VI.
+-----------
 
 [![Planche 6](Planche_6.jpeg)](Planche_6.jpeg)
 
@@ -222,3 +223,6 @@ Le milieu de la Planche, attelier des pareurs.
 7. Aiguilles de ficeleur. L'une est vuide, & l'autre est chargée de ficelle.
 
 8. Couteau du pareur.
+
+
+[->](../10-Chanvre_premier_travail_à_la_campagne/Légende.md)

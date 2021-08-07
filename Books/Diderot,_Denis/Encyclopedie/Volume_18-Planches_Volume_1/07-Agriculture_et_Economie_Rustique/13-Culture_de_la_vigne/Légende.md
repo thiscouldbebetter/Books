@@ -50,3 +50,5 @@ PLANCHE II. Suite de la Planche précédente, & outils.
 33. &
 34. Différentes manieres d'entasser les échalats, après qu'on a déchalassé; soit en mort (fig. 33.) ou sur des échalats fichés en terre en croix de saint André, en formant des chevalets, fig. 34.
 35. Outil à écraser les limaçons
+
+[->](../14-Pressoirs/Légende.md)

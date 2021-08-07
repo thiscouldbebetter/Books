@@ -102,3 +102,5 @@ Machine pour arracher de gros arbres & les souches avec leurs racines, inventée
 	- E, F, corps de pompes.
 	- G, tuyau d'aspiration qui est de cuir bouilli, à l'extrémité duquel on attache un morceau de liége. Par ce moyen la pompe n'aspire que l'eau la plus claire & à telle distance que l'on juge à propos.
 	- H, tuyau de sortie.
+
+[->](../22-Jardinage_potager/Légende.md)

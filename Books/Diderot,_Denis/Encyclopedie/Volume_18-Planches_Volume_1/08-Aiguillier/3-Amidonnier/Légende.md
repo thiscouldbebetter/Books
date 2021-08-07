@@ -24,3 +24,6 @@ AMIDONNIER.
 	- r, panier dans lequel on porte l'amidon à l'étuve.
 	- s, instrument avec lequel on ramasse l'amidon resté attaché au plancher.
 	- t, sacs contenant la matiere avec laquelle se fait l'amidon, appellée grillaux & recoupettes. Ce sont des parties grossieres du bled séparées de la farine par le bluteau.
+
+
+[->](../../09-Anatomie/Légende.md)

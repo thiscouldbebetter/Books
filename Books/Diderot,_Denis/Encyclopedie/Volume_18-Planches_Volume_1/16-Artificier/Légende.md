@@ -194,3 +194,6 @@ PLANCHE VII.
 141. Fusée en chaîne, ou caducée.
 142. 143. 144. Pieces pour ajuster des fusées en tourniquet.
 145. Vûe d'une grande piece à communication & à plusieurs changemens.
+
+
+[Fin du tome 18.](#)

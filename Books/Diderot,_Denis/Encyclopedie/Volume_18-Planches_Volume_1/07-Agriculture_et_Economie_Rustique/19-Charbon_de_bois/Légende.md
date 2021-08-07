@@ -97,3 +97,6 @@ PLANCHE III. Outils.
 11. La brouette.
 
 Nota. On a rapporté dans le discours ces figures aux Planches des grosses forges.
+
+
+[->](../20-Four_à_chaux/Légende.md)

@@ -4,7 +4,7 @@ FONTAINIER
 PLANCHES I. & II. réunies.
 --------------------------
 
-[![Planches 1 & 2](Planches_1_&_2.jpeg)](Planches_1_&_2.jpeg)
+[![Planches 1 & 2](Planche_1_&_2.jpeg)](Planche_1_&_2.jpeg)
 
 1. Poîle à tenir la soudure fondue.
 2. Porte-soudure, ou coussin de coutil.
@@ -29,7 +29,7 @@ PLANCHES I. & II. réunies.
 Suite de la PLANCHE II. & PLANCHE III. réunies.
 -----------------------------------------------
 
-[![Planches 2 bis & 3](Planches_2_bis_&_3.jpeg)](Planches_2_bis_&_3.jpeg)
+[![Planches 2 bis & 3](Planche_2_bis_&_3.jpeg)](Planche_2_bis_&_3.jpeg)
 
 4. Maniere de tenir registre des différens coups de niveau en descendant & en montant, & d'en trouver la différence. Cette figure est relative à la précédente.
 5. Nivellemens en descendant pour trouver la hauteur d'une eau jaillissante.
@@ -87,3 +87,6 @@ PLANCHE V.
 3. &
 4. &
 5. cinq différentes pieces d'eau.
+
+
+[->](../24-Mouches_à_miel,_ruches/Légende.md)

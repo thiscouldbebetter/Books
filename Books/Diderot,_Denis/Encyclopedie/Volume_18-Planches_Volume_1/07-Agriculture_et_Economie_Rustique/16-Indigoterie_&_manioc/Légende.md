@@ -34,3 +34,6 @@ Le haut de la Planche ou la vignette représente la vûe d'une indigoterie.
 5. Maniere d'exprimer le suc du manioc à la façon des Caraïbes.
 	- G, couleuvre ou espece de panier d'un tissu lâche & flexible, rempli de rapure de manioc.
 	- H, poids attaché au bas de la couleuvre qui la contraint de s'allonger en diminuant sa grosseur ; ce qui suffit pour exprimer le suc de la rapure.
+
+
+[->](../17-Sucrerie,_&_affinage_des_sucres/Légende.md)

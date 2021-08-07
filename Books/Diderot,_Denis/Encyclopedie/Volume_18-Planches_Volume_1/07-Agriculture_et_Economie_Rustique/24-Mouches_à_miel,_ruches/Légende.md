@@ -45,3 +45,6 @@ Le bas de la Planche.
 25. La bascule séparée vûe en dessus.
 26. Porte ou cadran de la ruche.
 27. Ruche vitrée.
+
+
+[->](../25-Vers_a_soie/Légende.md)

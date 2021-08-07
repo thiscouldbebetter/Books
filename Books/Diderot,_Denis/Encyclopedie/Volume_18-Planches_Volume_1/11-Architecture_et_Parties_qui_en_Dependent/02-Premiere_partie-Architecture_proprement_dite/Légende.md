@@ -218,3 +218,6 @@ La figure B présente la forme d'un fronton la plus réguliere, c'est-à-dire un
 La figure C offre la coupe ou profil du fronton B.
 
 La figure D fait voir la partie angulaire de l'extrémité du fronton, tel qu'on l'exécute dans l'Architecture réguliere, de préférence à la crossette que présente la figure E, qui, de même que celles F, G, ne sont placées ici que comme des exemples à éviter, ainsi qu'une infinité d'autres frontons enroullés, découpés, chantournés ; productions gothiques qui ne sont imitées de nos jours, que par les architectes subalternes, & que les grands maîtres sçavent rejetter.
+
+
+[->](../03-Seconde_partie-Les_Principes_des_trois_ordres_grecs/Légende.md)

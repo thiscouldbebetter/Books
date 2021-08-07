@@ -172,3 +172,6 @@ PLANCHE V. Maniere de brûler les terres.
 7. Maniere dont on laboure en planche avec la même charrue, en la conduisant de A en B, de C en D, de E en F, de G en H, de K en L, de M en N, de O en P, de Q en R, de S en T; sur laquelle ligne S T on revient de T en S; ce qui forme la séparation des planches.
 
 8. Maniere dont on laboure avec la charrue à tourne- oreille. On ouvre un sillon de A en B, l'oreille étant à droite, comme les hachures en représentent la position ; puis on ouvre un autre sillon à côté de celui-là de C en D, observant de changer de côté l'oreille de la charrue ; & ainsi de suite, en changeant successivement l'oreille de côté.
+
+
+[->](../03-Semoirs/Légende.md)

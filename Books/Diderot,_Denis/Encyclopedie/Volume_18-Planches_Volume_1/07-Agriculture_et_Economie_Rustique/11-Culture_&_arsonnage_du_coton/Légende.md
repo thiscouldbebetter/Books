@@ -38,3 +38,6 @@ CULTURE ET ARSONNAGE du Coton.
 	- c, panneau de l'arson.
 
 5. Coche.
+
+
+[->](../12-Travail_&_emploi_du_coton/Légende.md)

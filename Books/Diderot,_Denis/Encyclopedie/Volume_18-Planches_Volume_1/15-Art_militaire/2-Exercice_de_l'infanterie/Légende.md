@@ -83,3 +83,6 @@ PLANCHE V.
 58. Posez le fusil à terre ; quatrieme tems.
 59. Reprenez le fusil ; troisieme tems.
 60. Portez le fusil ; premier tems.
+
+
+[->](../3-Evolutions_de_l'infanterie/Légende.md)

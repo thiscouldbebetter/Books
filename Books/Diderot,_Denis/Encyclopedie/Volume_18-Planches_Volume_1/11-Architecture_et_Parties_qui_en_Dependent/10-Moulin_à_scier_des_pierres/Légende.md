@@ -48,3 +48,6 @@ PLANCHE III.
 	- e, e, même figure, seaux d'eau pour arroser les pierres.
 	- f, f, cuillieres pour arroser.
 	- g, g, g, même figure, épaisseur de la cloison de l'appentis.
+
+
+[->](../11-Machine_à_forer_des_pierres/Légende.md)

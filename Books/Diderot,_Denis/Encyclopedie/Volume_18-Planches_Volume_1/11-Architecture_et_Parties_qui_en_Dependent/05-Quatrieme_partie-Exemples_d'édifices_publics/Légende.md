@@ -24,3 +24,6 @@ Ce monument, commencé à bâtir en 1758 par la ville de Rouen, sur les desseins
 La façade de cet hôtel-de-ville du côté de la place royale, est d'ordre ïonique, de deux piés & demi de diametre, élevé sur un soubassement, & chargé de refend : au-dessus des deux étages, sur l'avant-corps du milieu seulement, s'éleve un attique surmonté d'un dôme qui est terminé par un béfroi : dans le soubassement des deux pavillons de cette façade, sont placées des fontaines avec des inscriptions : enfin aux pieds de cet édifice regne une terrasse continue qui empatte tous ce bâtiment, & lui procure un caractere de fermeté, le propre des édifices publics. Nous ne parlerons point ici des détails (a).
 
 (a) On peut voit cette disposition générale dans la collection de ce projet que M. le Carpentier a fait graver.  On construit aussi maintenant à Reims, sous la conduite & sur les desseins de M. le Gendre, ingénieur de la province de Champagne, une place publique qui réunit la noblesse, la simplicité, & la convenance. Elle sera décorée d'une statue pédestre de Louis XV. protecteur du Commerce & des Loix, de l'exécution de notre célebre Pigal.
+
+
+[->](../06-Cinquieme_partie-Exemple_d'un_grand_hôtel/Légende.md)

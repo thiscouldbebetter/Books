@@ -711,3 +711,6 @@ Fig. D. Vûe de cette même descente du côté de la campagne.
 	- f, l'ouverture ou le commencement de la galerie.
 	- m, logement du chemin couvert.
 	- h, la breche.
+
+
+[->](../16-Artificier/Légende.md)

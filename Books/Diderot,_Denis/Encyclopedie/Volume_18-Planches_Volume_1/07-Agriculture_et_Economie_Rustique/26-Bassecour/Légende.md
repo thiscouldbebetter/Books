@@ -37,3 +37,6 @@ La basse-cour est composée de différens bâtimens dont la distribution est ass
 	- F, G, ceintures de pierres saillantes.
 	
 5. Elévation de trois rangs de boulins, & plan d'un de ces trois rangs. La distance du milieu d'un boulin à l'autre est de douze pouces, & leur hauteur de sept.
+
+
+[->](../27-Laiterie/Légende.md)

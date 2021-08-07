@@ -130,3 +130,5 @@ PLANCHE III.
 	- A B, grande roue.
 	- M, bouquets ou piés-destaux de pierre.
 	- F, le marc.
+
+[->](../15-Pressoir_à_Cidre/Légende.md)

@@ -45,3 +45,6 @@ Cette Planche fait voir la coupe du corps-de-logis sur la rue, l'élévation de 
 
 (a) Une maison particuliere bâtie par M. Cartault pour M. Janvri, rue de Varenne, faubourg S. Germain, est telle que nous la desirons. Le bâtiment élevé pour M. d'Argenson, alors Chancelier de M. le Duc d'Orléans, par M. Boiffrand, rue des Bons-Enfans, est encore un exemple de ce que nous recommandons. 
 (a) Une maison bourgeoise, rue Saint-Martin, vis-à-vis la fontaine Maubué, & une autre, rue des mauvaises Paroles, toutes deux bâtis par M. Cartault, sont dans le genre que nous indiquons ici. 
+
+
+[->](../08-Septieme_partie-Décoration_intérieure_de_l'appartement_de_parade_du_Palais-royal/Légende.md)

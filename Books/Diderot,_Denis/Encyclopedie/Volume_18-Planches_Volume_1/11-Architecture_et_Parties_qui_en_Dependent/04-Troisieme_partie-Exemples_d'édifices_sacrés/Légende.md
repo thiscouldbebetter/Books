@@ -52,3 +52,6 @@ PLANCHE XXI.
 Cette Planche offre la coupe prise dans le plan du rez-de-chaussée sur la ligne D, E. On remarque dans cette coupe l'intérieur de l'église, celle du choeur des dames religieuses, le profil du grand escalier, & les développemens de la maçonnerie & de la charpente de la plus grande partie de ce monument. On y remarque aussi, quoiqu'en petit, ce genre de la décoration & des ornemens, dont le style ne peut faire que beaucoup d'honneur à M. Franque, dont nous possédons à Paris & dans la plus grande partie de nos provinces des ouvrages très- estimés.
 
 (a) Nous avions promis dans le quatrieme Volume, p. 420. de donner les desseins de l'abbaye de Corbie, par M. Franque, & celle de Clairvaux, par M. le Carpentier ; mais nous nous sommes décidés far celle de Panthemont, aussi du dessein de M. Franque, & préféré l'hôtel-de-ville de Rouen, par M. le Carpentier, afin de jetter plus de varieté dans cette collection. 
+
+
+[->](../05-Quatrieme_partie-Exemples_d'édifices_publics/Légende.md)

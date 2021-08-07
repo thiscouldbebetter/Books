@@ -37,6 +37,9 @@ La vignette représente une cabane de ces sortes d'ouvriers ; elle est construit
 
 16. Paroir sur son banc.
 
-17. Essette dont on se sert pour ébaucher au plus près les sabots, après qu'on s'est servi de la hache, fig. 11. 1
+17. Essette dont on se sert pour ébaucher au plus près les sabots, après qu'on s'est servi de la hache, fig. 11.
 
-8. Le coûtre pour travailler le bois de fente, comme échalats, lattes, éclisses, &c.
+18. Le coûtre pour travailler le bois de fente, comme échalats, lattes, éclisses, &c.
+
+
+[->](../19-Charbon_de_bois/Légende.md)

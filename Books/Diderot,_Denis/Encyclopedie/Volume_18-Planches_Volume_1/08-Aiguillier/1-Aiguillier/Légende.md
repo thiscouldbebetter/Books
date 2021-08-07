@@ -82,3 +82,6 @@ Au bas de la Planche.
 	- D D, deux contre-vents assemblés par le bas dans la traverse du pié, & par le haut dans la table L; ils contribuent à la solidité du pié: lorsqu'on ne met qu'un seul rouleau de treillis T sous la planche M, chargé du poids N, un seul ouvrier suffit ; mais alors on suspend la planche par son autre extrémité A B avec deux cordes attachées au plancher, lesquelles passent dans les pitons que l'on voit, le rouleau R étant supprimé; on ne met jamais plus de deux rouleaux de treillis à la fois sous la polissoire.
 
 12. Rouet de l'évideur (fig. 7.) dessiné sur la même échelle que toutes les autres figures du bas de cette Planche. Au reste, ce rouet n'a de particulier que les petites meules de pierres à aiguiser, qui sont montées sur sa broche, auxquelles on présente plusieurs aiguilles à la fois entre le pouce & le premier doigt, entre lesquels on les fait tourner. Voyez aussi les Planches de l'épinglier, & leur explication.
+
+
+[->](../2-Aiguillier-Bonnetier/Légende.md)

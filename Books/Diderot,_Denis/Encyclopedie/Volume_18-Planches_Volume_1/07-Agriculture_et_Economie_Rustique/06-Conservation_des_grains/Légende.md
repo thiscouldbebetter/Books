@@ -30,3 +30,6 @@ PLANCHES II. & III.
 9. Grenier en forme de caisse.
 10. Plan du grenier en forme de caisse, & du manége qui fait mouvoir les soufflets.
 11. Coupe verticale du même.
+
+
+[->](../07-Moulins_à_vent_&_à_eau/Légende.md)

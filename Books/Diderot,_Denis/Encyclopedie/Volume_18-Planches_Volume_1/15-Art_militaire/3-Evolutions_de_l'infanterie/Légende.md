@@ -219,3 +219,6 @@ PLANCHE XIV.
 65. Cette figure sert à expliquer la formation de la colonne d'attaque T T S, composée des deux bataillons A B & C D, éloignés l'un de l'autre de l'intervalle des piquets, qu'on a supprimés dans cette figure, & divisés par pelotons. F & H sont les premiers pelotons de chacun des deux bataillons qui ont marché en-avant par huit pas redoublés, & qui ensuite doivent marcher l'un & l'autre par les flancs opposés pour se réunir en X & Y, d'où ils marchent en-avant pour former la tête de la colonne ; les autres pelotons du bataillon de la droite & de celui de la gauche faisant successivement le même mouvement, la colonne se trouve formée. G, G sont les grenadiers placés d'abord aux aîles de la ligne formée des deux bataillons A B & C D, & ensuite à l'extrémité des aîles de la queue de la colonne. S est le peloton des surnuméraires. On voit dans cette figure les trois sections qui forment la colonne.
 
 66. Cette figure représente la colonne de M. le chevalier Follard divisée dans ses trois sections, avec les grenadiers qui forment trois pelotons à la queue.
+
+
+[->](../4-Evolutions_de_la_cavalerie/Légende.md)

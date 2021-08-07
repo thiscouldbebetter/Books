@@ -45,3 +45,6 @@ Nous n'avons donné ni la façade du côté du jardin, ni la coupe de ce bâtime
 (d) Tel que celui de Soubise. 
 (e) Telle que l'hôtel de Rohan. 
 (f) Telle que pourtoit être l'hôtel Molé. 
+
+
+[->](../07-Sixieme_partie-Exemple_de_maisons_particulieres/Légende.md)
