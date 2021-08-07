@@ -1,19 +1,142 @@
 DISTRIBUTION des mêmes Planches, selon l'ordre des Sciences, des Arts, & des Métiers.
 
-ANATOMIE. Généralités & détails.
-ARCHITECTURE. Principes &exemples. COUPE des pierres. Principes & exemples. MOULIN à scier les pierres. MACHINE à forer les pierres, & à tourner les bases des colonnes. MAÇONNERIE. Principes, machines, outils, instrumens, travaux, & arts dépendans. CARRIERES. (Exploitation des) TUILERIE. Bâtimens, fours, instrumens, & travaux. PLATRE. Exploitation des carrieres à plâtre, & travail du carrier-plâtrier. CHAUX. (Four & préparation de la) TAILLEUR de pierres. CARRELEUR. COUVREUR.
-ANTIQUITÉS.
-ART MILITAIRE. Exercices, Evolutions, &c. FORTIFICATION. ARTILLERIE.
-AGRICULTURE ET ÉCONOMIE Rustique. Bâtimens, instrumens, travaux &arts qui en dépendent. TERRES. (Maniere de brûler les) LABOUR. Instrumens & travaux. SEMAILLE & SEMOIR. FOINS (Façon des) MOISSON. BATTEUR en grange. GRAINS (Conservation des)
-MOULINS pour le blé. MOULIN à vent. MOULIN à eau. MOULIN à vent & à eau. MOULIN du Basacle, près de Toulouse. MOULINS à bras. MOULINS à exprimer les sucs & les huiles. MOULIN à exprimer l'huile d'olive, ou pressoir dit à grand banc, du Languedoc. MOULIN à exprimer l'huile des graines. MOULIN à moudre le tabac. TABAC. Bâtimens, instrumens & manufacture. PRESSES & leurs développemens. CHANVRE. Culture, recolte, instrumens, & préparation. COTON. Culture, recolte, emploi & fabrique. METIER à toile de coton. VIGNE. Culture, recolte & instrumens. PRESSOIRS de différentes sortes, à cage & étiquets, à coffre. CIDRE. PRESSOIR à cidre. INDIGOTERIE. SUCRE Culture de la canne de sucre, bâtimens, machines, instrumens, & recolte. SUCRERIE. MOULINS de la sucrerie, anciens & nouveaux. Bâtimens, ustensi- AFFINAGES des sucres. Bâtimens, ustensiles & travail aux Isles & en Europe. AFFINERIE. SERSES. ETUVES. SABOTIER. Travail des sabots, des échalats, &c.
-CHARBON de bois. Coupe du bois ; construction desfourneaux, outils, & conduite du travail. CHAUX. Four à chaux, & ses coupes. JARDINAGE. Instrumens & travail. JARDIN d'agrément. POTAGER. MACHINE à déraciner les arbres. PARTERRES. BOULINGRINS. BOSQUETS. SERRES. FONTAINIER. Instrumens, maçonnerie, nivellement, conduite & jauge des eaux. MOUCHES à miel. Rucher, ruches, &maniere de les conduire. VERS à soie. Maniere de les élever.
-POULETS. Art de les faire éclôre. FOURS à faire éclôre les poulets. BASSE-COUR, & ses détails. LAITERIE.
-MÉTIERS. AIGUILLIER. AIGUILLIER-BONNETIER. AMIDONNIER. ARGENTEUR. ARMURIER. ARQUEBUSIER. ATTELIER d'arquebuserie. MACHINE à forer & à alezer les canons de fusil. MACHINE à canneler les canons de fusil. ARTIFICIER.
+- ANATOMIE. Généralités & détails.
+- ARCHITECTURE. Principes &exemples.
+	- COUPE des pierres. Principes & exemples.
+	- MOULIN à scier les pierres.
+	- MACHINE à forer les pierres, & à tourner les bases des colonnes.
+	- MAÇONNERIE. Principes, machines, outils, instrumens, travaux, & arts dépendans.
+	- CARRIERES. (Exploitation des)
+	- TUILERIE. Bâtimens, fours, instrumens, & travaux.
+	- PLATRE. Exploitation des carrieres à plâtre, & travail du carrier-plâtrier.
+	- CHAUX. (Four & préparation de la)
+	- TAILLEUR de pierres.
+	- CARRELEUR.
+	- COUVREUR.
+- ANTIQUITÉS.
+- ART MILITAIRE.
+	- Exercices, Evolutions, &c.
+	- FORTIFICATION.
+	- ARTILLERIE.
+- AGRICULTURE ET ÉCONOMIE Rustique.
+	- Bâtimens, instrumens, travaux &arts qui en dépendent.
+	- TERRES. (Maniere de brûler les)
+	- LABOUR. Instrumens & travaux.
+	- SEMAILLE & SEMOIR.
+	- FOINS (Façon des)
+	- MOISSON.
+	- BATTEUR en grange.
+	- GRAINS (Conservation des)
+	- MOULINS pour le blé.
+	- MOULIN à vent.
+	- MOULIN à eau.
+	- MOULIN à vent & à eau.
+	- MOULIN du Basacle, près de Toulouse.
+	- MOULINS à bras.
+	- MOULINS à exprimer les sucs & les huiles.
+	- MOULIN à exprimer l'huile d'olive, ou pressoir dit à grand banc, du Languedoc.
+	- MOULIN à exprimer l'huile des graines.
+	- MOULIN à moudre le tabac.
+	- TABAC. Bâtimens, instrumens & manufacture.
+	- PRESSES & leurs développemens.
+	- CHANVRE. Culture, recolte, instrumens, & préparation.
+	- COTON. Culture, recolte, emploi & fabrique.
+	- METIER à toile de coton.
+	- VIGNE. Culture, recolte & instrumens.
+	- PRESSOIRS de différentes sortes, à cage & étiquets, à coffre.
+	- CIDRE. PRESSOIR à cidre.
+	- INDIGOTERIE.
+	- SUCRE Culture de la canne de sucre, bâtimens, machines, instrumens, & recolte.
+	- SUCRERIE.
+	- MOULINS de la sucrerie, anciens & nouveaux. Bâtimens, ustensi-
+	- AFFINAGES des sucres.
+	- Bâtimens, ustensiles & travail aux Isles & en Europe.
+	- AFFINERIE.
+	- SERSES.
+	- ETUVES.
+	- SABOTIER.
+	- Travail des sabots, des échalats, &c.
+	- CHARBON de bois. Coupe du bois ; construction desfourneaux, outils, & conduite du travail.
+	- CHAUX. Four à chaux, & ses coupes.
+	- JARDINAGE. Instrumens & travail.
+	- JARDIN d'agrément.
+	- POTAGER.
+	- MACHINE à déraciner les arbres.
+	- PARTERRES.
+	- BOULINGRINS.
+	- BOSQUETS.
+	- SERRES.
+	- FONTAINIER. Instrumens, maçonnerie, nivellement, conduite & jauge des eaux.
+	- MOUCHES à miel. Rucher, ruches, & maniere de les conduire.
+	- VERS à soie. Maniere de les élever.
+	- POULETS. Art de les faire éclôre.
+	- FOURS à faire éclôre les poulets.
+	- BASSE-COUR, & ses détails.
+	- LAITERIE.
+	- MÉTIERS.
+- AIGUILLIER.
+- AIGUILLIER-BONNETIER.
+- AMIDONNIER.
+- ARGENTEUR.
+- ARMURIER.
+- ARQUEBUSIER.
+	- ATTELIER d'arquebuserie.
+	- MACHINE à forer & à alezer les canons de fusil.
+	- MACHINE à canneler les canons de fusil.
+- ARTIFICIER.
+
 PLANCHES contenues dans le second Volume que l'on donnera incessamment.
-CHYMIE. Laboratoire, vaisseaux & autres instrumens. CHIRURGIE. Instrumens & opérations. CARACTERES. Alphabets & exemples de caracteres& d'écritures, tant anciens que modernes.
-DESSEIN. Instrumens, principes & exemples. BLAZON. Principes & exemples. CHORÉGRAPHIE, ou Art d'écrire la danse. CHASSES. Instrumens & manoeuvres.
-BALANCIER. BAS au métier. Faiseur de métier à bas, & faiseur de bas au métier. BATTEUR d'or. BLANC de baleine. (Préparation du) BLANCHISSAGE des toiles. BOISSELIER. BONNETIER de la foule. BOURRELIER. BOUTONNIER en métal. Faiseur de boutons, & faiseur de moules à boutons. BOUTONNIER-PASSEMENTIER. BOYAUDIER. BRASSEUR. BOUCHER. BOUCHONNIER. BOULANGER. BOURSIER. BRODEUR. CARDIER. CARTIER. CARTONNIER. CEINTURONNIER. CHAINETIER.
-CHAMOISEUR. CHANDELIER. CHAPELIER. CHARPENTIER. CHARRON. CHAUDERONNIER. Planeur, faiseur d'instrumens, grossier. CIRIER. CISELEUR-DAMASQUINEUR. CLOUTIER grossier. d'épingles. COFFRETIER-MALETIER-BAHUTIER. CORDIER. CORDONNIER. CORDONNIER-BOTTIER. CORROYEUR. COUTELIER. DÉCOUPEUR-GAUFREUR. DENTELLES. (Faiseur de) DIAMANTAIRE. DISTILLATEUR d'eau-de-vie. DOREUR sur bois. sur acier. sur métaux. DRAPERIE.
+- CHYMIE. Laboratoire, vaisseaux & autres instrumens.
+- CHIRURGIE. Instrumens & opérations.
+- CARACTERES. Alphabets & exemples de caracteres& d'écritures, tant anciens que modernes.
+- DESSEIN. Instrumens, principes & exemples.
+- BLAZON. Principes & exemples.
+- CHORÉGRAPHIE, ou Art d'écrire la danse.
+- CHASSES. Instrumens & manoeuvres.
+- BALANCIER.
+- BAS au métier. Faiseur de métier à bas, & faiseur de bas au métier.
+- BATTEUR d'or.
+- BLANC de baleine. (Préparation du)
+- BLANCHISSAGE des toiles.
+- BOISSELIER.
+- BONNETIER de la foule.
+- BOURRELIER.
+- BOUTONNIER en métal. Faiseur de boutons, & faiseur de moules à boutons.
+- BOUTONNIER-PASSEMENTIER.
+- BOYAUDIER.
+- BRASSEUR.
+- BOUCHER.
+- BOUCHONNIER.
+- BOULANGER.
+- BOURSIER.
+- BRODEUR.
+- CARDIER.
+- CARTIER.
+- CARTONNIER.
+- CEINTURONNIER.
+- CHAINETIER.
+- CHAMOISEUR.
+- CHANDELIER.
+- CHAPELIER.
+- CHARPENTIER.
+- CHARRON.
+- CHAUDERONNIER. Planeur, faiseur d'instrumens, grossier.
+- CIRIER.
+- CISELEUR-DAMASQUINEUR.
+- CLOUTIER grossier. d'épingles.
+- COFFRETIER-MALETIER-BAHUTIER.
+- CORDIER.
+- CORDONNIER.
+- CORDONNIER-BOTTIER.
+- CORROYEUR.
+- COUTELIER.
+- DÉCOUPEUR-GAUFREUR.
+- DENTELLES. (Faiseur de)
+- DIAMANTAIRE.
+- DISTILLATEUR d'eau-de-vie.
+- DOREUR sur bois. sur acier. sur métaux.
+- DRAPERIE.
+
 Ces Planches sont toutes gravées, & l'on pourra les voir chez les Libraires associés, avec la plûpart de celles qui sont relatives aux Sciences, Arts & Métiers, telles que Pêches, Marine & Fabrique des ancres, Emailleur, Plombier, Papeterie, &c. & autres objets qui formeront les trois Volumes suivans.
 
 C'est le Sr Goussier qui a dessiné sur les objets mêmes, la plus grande partie de l'oeuvre entier : il a fourni l'explication de ses desseins ; & ce sont les Srs Prevost, de Ferht & le Canu qui les ont gravés.

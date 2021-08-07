@@ -23,6 +23,7 @@ Nous avons pris soin d'écrire le nom & l'usage de chaque piece de ce plan, & de
 
 
 PLANCHE XXIV.
+
 Le format de ce Volume n'ayant point permis de joindre les deux aîles au principal corps-de-logis, on a pris le parti de les graver séparément sur la même Planche, ce qui ne laisse pas de nuire à l'effet général de l'ensemble ; mais on peut se représenter la partie A jointe à celle B, & celle C jointe à la partie D, pour en juger. Au reste ces deux aîles ne sont que les élévations des dépendances de ce bâtiment, mais ajustées de maniere que malgré leur infériorité elles contribuent à faire valoir l'ordonnance de l'hôtel proprement dit.
 
 Cet édifice est composé de deux étages, le rez dechaussée orné d'ordre ïonique, le premier d'ordre corinthien. Le principal corps-de-logis placé entre cour & jardins, jouit du côté de la cour de l'aspect de la place publique par la colonnade qui se voit ici, & dont les axes des entre-colonnemens correspondent à ceux des croisées du principal corps des bâtimens. Nous ne ferons point l'analyse de cette production, son éloge seroit déplacé, & on doit naturellement nous dispenser d'en faire la critique ; nous ferons remarquer seulement la relation scrupuleuse que nous avons observée entre les dehors & les dedans, comme le principal objet de la composition d'un bâtiment de cette espece.

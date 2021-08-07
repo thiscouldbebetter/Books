@@ -1,6 +1,7 @@
 PREMIERE PARTIE.
 
 Principes généraux concernant les ordres & les principaux membres d'Architecture.
+
 Nous commençons ces élémens par les ordres d'Architecture, comme la partie qui appartient le plus au goût de l'art, & comme la connoissance la plus indispensable pour acquérir les moyens de juger de la beauté extérieure des édifices en général. D'ailleurs cette connoissance nous conduira dans la suite à concevoir la relation essentielle que les dedans d'un bâtiment doivent avoir avec les dehors, & les moyens de concilier ces deux branches de l'art avec la construction, trois parties qui constituent l'Architecture proprement dite.
 
 
@@ -61,6 +62,7 @@ Les moulures E, F, sont appellées doucines, rangées dans la classe des moulure
 Les moulures G, H, sont appellées talons, moulures qui ne different des deux précédentes, qu'en ce qu'elles sont tracées en sens contraire, c'est-à-dire que la portion concave des premieres est convexe dans celles-ci ; de même pour les autres portions. Le talon G est décrit par deux triangles équilatéraux, dont les sommets 1, 2, servent de centres. Celui H est au contraire tracé par l'extrémité du rayon de deux demi-cercles marqués 6, 7, formant autant de perpendiculaires élevées sur la diagonale 1, 2.
 
 La moulure I est une scotie nommée rond creux ou nacelle ; elle sert aux bases des ordres ïonique, corinthien & composite pour faire opposition au tore qui est une moulure convexe, & avec celle dont nous parlons, elle forme une agréable diversité, lorsqu'elles sont séparées par des listeaux, comme il s'en remarque à la base attique de la Planche VI. Cette moulure se trace de deux manieres ; on appelle celle I, moderne, & celle de la Planche quatrieme, marquée K, antique. Pour tracer la moderne, il faut diviser sa hauteur & sa saillie en trois également ; & du point 8, comme centre, décrire la premiere portion de cercle 1, 10; ensuite du point 9, sommet d'un triangle équilatéral, décrire la portion de cercle 10, 11; puis du point 11 au point 9, prolonger une oblique au point 12 qui, comme centre, servira à décrire la troisieme portion de cercle 11, 15; le reste de cette courbe se tracera à la main depuis 15 jusqu'à 2.
+
 
 PLANCHE IV. Suite des différentes especes de moulures.
 

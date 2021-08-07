@@ -1,4 +1,4 @@
-SIXIEME PARTIE. Observations générales sur les maisons particulieres, appliquees à un bâtiment régulier distribué dans un ter- rein très-irrégulier.
+SIXIEME PARTIE. Observations générales sur les maisons particulieres, appliquees à un bâtiment régulier distribué dans un terrein très-irrégulier.
 
 Sous le nom de bâtimens particuliers on comprend deux sortes d'habitations, les unes destinées à la résidence des riches citoyens, & où ils font leur demeure habituelle ; les autres, celles que les habitans font élever dans les cités pour assûrer une partie de leur revenu, en les donnant à loyer aux commerçans, aux artisans, &c. Les premiers doivent avoir un caractere qui ne tienne ni de la beauté des hôtels, ni de la simplicité des maisons ordinaires. Les ordres d'Architecture ne doivent jamais entrer pour rien dans leur décoration, malgré l'opulence de ceux qui les font élever (a). Non-seulement ces ordres y deviennent trop petits à cause du peu d'élévation des pieces, mais ils doivent être reservés pour les bâtimens de quelque importance, ne produisant un véritablement bel effet que lorsqu'ils peuvent avoir un certain diametre.
 
@@ -7,6 +7,7 @@ A leur défaut, dans les premiers bâtimens dont il s'agit, il faut seulement fa
 Les secondes habitations doivent aussi avoir leur caractere particulier, qui consiste en une plus ou moins grande simplicité assortie à l'importance des villes où elles sont élevées. La symétrie, la solidité, la commodité & l'économie, doivent faire l'objet capital de ces dernieres demeures : plusieurs corps-de-logis séparés par des cours airées doivent déterminer le local de leur distribution ; selon leur situation, elles doivent contenir ou des boutiques, ou des magasins, ou des atteliers, ou des logemens subalternes ; dispositions néanmoins qui ne doivent nuire en rien à l'ordonnance des façades sur la rue (a), parce que ces sortes d'habitations étant en bien plus grand nombre que les autres édifices, elles doivent contribuer à la décoration & à l'embellissement des villes.
 
 Appliquons ces notions élémentaires à la distribution & à la décoration d'une maison particuliere de la premiere classe, projettée pour Avignon par M. Franque, architecte du Roi.
+
 
 PLANCHE XXV.
 
