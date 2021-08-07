@@ -22,7 +22,7 @@ PLANCHE I.ere
 	- E C H, angle diminué.
 	- C F H, l'angle flanquant intérieur.
 	- a b d, contrescarpe : entre la contrescarpe & l'enceinte de la place, est le fossé. L'espace blanc au-delà de la contrescarpe est le chemin couvert.
-	- *, places d'armes rentrantes du chemin-couvert.
+	- \*, places d'armes rentrantes du chemin-couvert.
 	- +, places d'armes saillantes du chemin-couvert.
 	- b b, traverses du chemin-couvert.
 	- g, g, glacis.
@@ -42,11 +42,14 @@ PLANCHE I.ere
 7. Construction du flanc concave à orillon.
 	- I H, revers de l'orillon.
 	- D G, brisure de la courtine,
-	- C I, orillon, G P H, flanc concave.
+	- C I, orillon,
+	- G P H, flanc concave.
 
 8. Construction de la tenaille à flanc I N O Q P K, dans le fossé.
 
-9. Tenaille simple E M F. 10 Tenaille simple brisée E R S T.
+9. Tenaille simple E M F.
+
+10. Tenaille simple brisée E R S T.
 
 11. Caponiere A B, avec une cunette a u dans le fossé.
 
@@ -124,7 +127,7 @@ PLANCHE IV.
 2. Quarré fortifié avec des demi-lunes & une contre-garde.
 	- 4, 5 & 6, demi-lunes.
 	- 7, contregarde vis- à-vis le bastion X.
-	- *, demi-lune à flancs.
+	- \*, demi-lune à flancs.
 	- +, redine.
 	- m, m, places d'armes dans le fossé de la demi-lune.
 
@@ -136,7 +139,7 @@ PLANCHE IV.
 	- 6, 6, chemin-couvert.
 	- 7, 7, glacis.
 	- K K, fleche construite à l'extrémité du glacis.
-	- * *, communications du chemin-couvert aux fleches & aux ouvrages de l'avant-fossé, avec leurs traverses appellées tambours.
+	- \* \*, communications du chemin-couvert aux fleches & aux ouvrages de l'avant-fossé, avec leurs traverses appellées tambours.
 	- 8, 8, avant-fossé.
 	- A, lunette.
 	- B, redoute.
@@ -162,7 +165,7 @@ PLANCHE V.
 [![Planche 5](Planche_05.jpeg)](Planche_05.jpeg)
 
 1. 
-	-X, demi-lune couverte des grandes lunettes ou tenaillons A & A.
+	- X, demi-lune couverte des grandes lunettes ou tenaillons A & A.
 	- W, moulin à poudre avec ses roues, ses pilons & ses mortiers.
 	- G, poutre creusée en forme de mortiers dans lesquels on bat la poudre.
 
@@ -231,7 +234,7 @@ PLANCHE VI.
 	- F, tirebourre.
 	- H, G, I, écouvillons.
 
-7.
+7. 
 	- C & D, coins de mire.
 	- K, chapiteau dont on se sert pour couvrir la lumiere.
 	- L, fronteau de mire.
@@ -320,28 +323,29 @@ PLANCHE VIII. n. 2.
 [![Planche 8-2](Planche_08-2.jpeg)](Planche_08-2.jpeg)
 
 Les figures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 & 11. de la partie supérieure de cette Planche servent à expliquer la théorie du jet des bombes. La figure 7. représente l'instrument universel propre à jetter des bombes sur toutes sortes de plans. Dans la partie inférieure de cette même Planche sont représentés les outils de mineur.
-	- A, A, A, sonde à tarriere de plusieurs pieces, & vûe de plusieurs façons.
-	- B, sonde pour des terres.
-	- C, C, pinces dont l'une a un pié de chevre.
-	- D, petite pince à main.
-	- E, aiguille pour travailler dans le roc.
-	- F, brague vûe de deux côtés.
-	- G, bêche.
-	- H, pelle de bois ferrée.
-	- I, masse vûe de deux côtés.
-	- K, massette vûe de deux côtés.
-	- O, marteau à deux pointes vû de deux côtés.
-	- P, pic-hoyau vû de deux côtés.
-	- Q, pic-à-roc vû de deux côtés.
-	- R, hoyau.
-	- S, feuille de sauge vûe de deux côtés.
-	- T, ciseaux plats.
-	- V, poinçon à grain d'orge.
-	- X, ciseau plat vû de deux côtés.
-	- Y, louchet à faire les rigoles pour les augets.
-	- Z, plomb avec son fouet & son chat. &, équerre de mineur.
-	- a, boussole.
-	- b, chandelier de mineur.
+
+- A, A, A, sonde à tarriere de plusieurs pieces, & vûe de plusieurs façons.
+- B, sonde pour des terres.
+- C, C, pinces dont l'une a un pié de chevre.
+- D, petite pince à main.
+- E, aiguille pour travailler dans le roc.
+- F, brague vûe de deux côtés.
+- G, bêche.
+- H, pelle de bois ferrée.
+- I, masse vûe de deux côtés.
+- K, massette vûe de deux côtés.
+- O, marteau à deux pointes vû de deux côtés.
+- P, pic-hoyau vû de deux côtés.
+- Q, pic-à-roc vû de deux côtés.
+- R, hoyau.
+- S, feuille de sauge vûe de deux côtés.
+- T, ciseaux plats.
+- V, poinçon à grain d'orge.
+- X, ciseau plat vû de deux côtés.
+- Y, louchet à faire les rigoles pour les augets.
+- Z, plomb avec son fouet & son chat. &, équerre de mineur.
+- a, boussole.
+- b, chandelier de mineur.
 
 
 PLANCHE IX.
@@ -503,7 +507,9 @@ PLANCHE XII.
 	- 19, main de fer qui sert à accrocher la corde à son centre, lorsqu'on veut bander la baliste.
 	- 20, espece de table ou d'échafaudage sur lequel l'arbrier est en partie soutenu.
 
-3. C, catapulte de batterie, suivant M. le chevalier Folard. A, B, D & E, sont des parties de la catapulte représentées en grand. Voyez Catapulte.
+3. 
+	- C, catapulte de batterie, suivant M. le chevalier Folard.
+	- A, B, D & E, sont des parties de la catapulte représentées en grand. Voyez Catapulte.
 
 
 PLANCHE XIII.
@@ -563,11 +569,12 @@ PLANCHE XIV.
 La premiere partie, ou la partie supérieure de la Planche, représente six profils de lignes proposés par M. le marechal de Vauban.
 
 La seconde partie de la même Planche fait voir une partie du camp de l'armée qui fait un siege, renfermée entre les lignes de circonvallation & de contrevallation.
-	- S, S, ligne de contrevallation, laquelle est opposée à la ville.
-	- T, T, ligne de circonvallation opposée à l'ennemi extérieur ou à la campagne.
-	- R, R, redans des deux lignes.
-	- P, P, ponts pour la communication des quartiers, couverts des deux côtés par des especes de petites lunettes ou redoutes.
-	- Q, quartiers.
+
+- S, S, ligne de contrevallation, laquelle est opposée à la ville.
+- T, T, ligne de circonvallation opposée à l'ennemi extérieur ou à la campagne.
+- R, R, redans des deux lignes.
+- P, P, ponts pour la communication des quartiers, couverts des deux côtés par des especes de petites lunettes ou redoutes.
+- Q, quartiers.
 
 
 PLANCHE XV.
@@ -575,7 +582,7 @@ PLANCHE XV.
 
 [![Planche 15](Planche_15.jpeg)](Planche_15.jpeg)
 
-1.
+1. 
 	- a, a, plan d'une partie de la ligne de circonvallation de Philisbourg en 1734.
 	- c, c, fossé de la ligne.
 	- b, b, puits pratiqués au-delà du fossé.
@@ -613,64 +620,67 @@ PLANCHE XVI.
 
 [![Planche 16](Planche_16.jpeg)](Planche_16.jpeg)
 
-1. n. 1.
-	- A, fossé.
-	- B, contrescarpe.
-	- C, chemin couvert.
-	- D, banquette, avec le plan des palissades plantées dessus.
-	- E, parapet du logement du glacis.
-	- F, tranchée tournante ou logement du glacis.
-	- G, G, traverses dans l'intérieur du logement.
-	- T, T, traverses extérieures.
+1. 
+	- n. 1.
+		- A, fossé.
+		- B, contrescarpe.
+		- C, chemin couvert.
+		- D, banquette, avec le plan des palissades plantées dessus.
+		- E, parapet du logement du glacis.
+		- F, tranchée tournante ou logement du glacis.
+		- G, G, traverses dans l'intérieur du logement.
+		- T, T, traverses extérieures.
 
-n. 2. Tranchée à crochet.
-	- H, parapet.
-	- I, revers de la tranchée.
+	- n. 2. Tranchée à crochet.
+		- H, parapet.
+		- I, revers de la tranchée.
 
-n. 3. Tranchée double, avec les traverses qui servent à la défiler.
-	- H, H, parapet.
+	- n. 3. Tranchée double, avec les traverses qui servent à la défiler.
+		- H, H, parapet.
 
-n. 4. Tranchée directe.
-	- H, H, parapet.
-	- G, G, traverses.
+	- n. 4. Tranchée directe.
+		- H, H, parapet.
+		- G, G, traverses.
 
-2. n. 1. Plan d'une tête de sappe.
-	- A, A, gabions.
-	- B, mantelet.
-	- C, travail du premier sappeur.
-	- D, travail du second sappeur.
-	- E, travail du troisieme sappeur.
-	- F, travail du quatrieme sappeur.
+2. 
+	- n. 1. Plan d'une tête de sappe.
+		- A, A, gabions.
+		- B, mantelet.
+		- C, travail du premier sappeur.
+		- D, travail du second sappeur.
+		- E, travail du troisieme sappeur.
+		- F, travail du quatrieme sappeur.
 
-n. 2. Vûe du côté intérieur de la sappe.
-	- A, A, gabions.
-	- B, mantelet.
-	- C, premier sappeur.
-	- D, second sappeur.
-	- E, troisieme sappeur.
-	- F, quatrieme sappeur.
+	- n. 2. Vûe du côté intérieur de la sappe.
+		- A, A, gabions.
+		- B, mantelet.
+		- C, premier sappeur.
+		- D, second sappeur.
+		- E, troisieme sappeur.
+		- F, quatrieme sappeur.
 
-n. 3. Vûe du côté extérieur de la sappe.
-	- A, A, gabions.
-	- B, mantelet.
+	- n. 3. Vûe du côté extérieur de la sappe.
+		- A, A, gabions.
+		- B, mantelet.
 
-n. 4. Profil d'une sappe achevée.
+	- n. 4. Profil d'une sappe achevée.
 
-n. 5. Profil représentant l'excavation des quatre sappeurs.
+	- n. 5. Profil représentant l'excavation des quatre sappeurs.
 
-3. n. 1. Prosil d'un cavalier de tranchée.
-	- A, fossé de la place.
-	- B, chemin couvert ennemi.
-	- C, glacis.
-	- D, cavalier de tranchée, avec le soldat placé sur la troisieme banquette, qui tire en plongeant dans le chemin couvert.
-	- E, amas de matériaux.
+3.
+	- n. 1. Prosil d'un cavalier de tranchée.
+		- A, fossé de la place.
+		- B, chemin couvert ennemi.
+		- C, glacis.
+		- D, cavalier de tranchée, avec le soldat placé sur la troisieme banquette, qui tire en plongeant dans le chemin couvert.
+		- E, amas de matériaux.
 
-n. 2. Plan du même cavalier de tranchée.
-	- A, fossé de la place.
-	- B, place d'armes saillante du chemin couvert.
-	- C, glacis.
-	- D, D, troisieme banquette de gabions, sur laquelle se placent les soldats qui doivent tirer dans le chemin couvert opposé.
-	- E, amas de matériaux.
+	- n. 2. Plan du même cavalier de tranchée.
+		- A, fossé de la place.
+		- B, place d'armes saillante du chemin couvert.
+		- C, glacis.
+		- D, D, troisieme banquette de gabions, sur laquelle se placent les soldats qui doivent tirer dans le chemin couvert opposé.
+		- E, amas de matériaux.
 
 PLANCHE XVII.
 -------------
@@ -695,22 +705,22 @@ PLANCHE XVII.
 
 Les autres figures du bas de la Planche font voir la maniere dont on procede au passage du fossé des places, soit que ce fossé soit sec ou plein d'eau.
 
-Fig. A. Profil d'une descente de fossé par une espece de galerie a b pratiquée sous le chemin couvert, & qui aboutit à la contrescarpe en b, au niveau du fond du fossé, où étant parvenu, l'on gagne le pié de la breche d par la sappe l.
+- Fig. A. Profil d'une descente de fossé par une espece de galerie a b pratiquée sous le chemin couvert, & qui aboutit à la contrescarpe en b, au niveau du fond du fossé, où étant parvenu, l'on gagne le pié de la breche d par la sappe l.
 	- m, le logement du chemin couvert.
 
-Fig. B. Ouverture de la descente vûe du côté de la campagne.
+- Fig. B. Ouverture de la descente vûe du côté de la campagne.
 	- a, entrée de la galerie.
 	- m, logement du chemin couvert.
 	- d, la breche.
 
-Fig. C. Profil d'une descente de fossé à oeil ouvert, qui se fait ainsi lorsque le fossé est plein d'eau.
+- Fig. C. Profil d'une descente de fossé à oeil ouvert, qui se fait ainsi lorsque le fossé est plein d'eau.
 	- f g, galerie qui aboutit au niveau de l'eau du fossé, & qui est couverte de blindes & de fascines.
 	- n, l'épaulement & le pont qu'on fait dans le fossé, pour gagner le pié de la breche h.
 
-Fig. D. Vûe de cette même descente du côté de la campagne.
+- Fig. D. Vûe de cette même descente du côté de la campagne.
 	- f, l'ouverture ou le commencement de la galerie.
 	- m, logement du chemin couvert.
 	- h, la breche.
 
 
-[->](../16-Artificier/Légende.md)
+[->](../../16-Artificier/Légende.md)

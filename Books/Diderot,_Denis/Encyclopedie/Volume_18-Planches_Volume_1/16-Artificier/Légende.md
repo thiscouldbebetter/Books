@@ -59,24 +59,31 @@ Les Figures sont de Frezier.
 20. La cuilliere.
 21. Culot & sa broche pour les fusées de la fig. 14.
 22. Baguette pour retirer les fusées volantes du moule, lorsqu'elles y tiennent trop.
-23. 24. 25. 26. Baguettes à charger les fusées & leurs broches.
+23. &
+24. &
+25. &
+26. Baguettes à charger les fusées & leurs broches.
 27. Fusée volante sur sa baguette.
 28. Fusée chargée où se fait le trou de la broche avec un vilebrequin.
 29. Fusée montée sans baguette.
-30. 31. 33. Machines pour percer les fusées au vilebrequin.
+30. &
+31. Voyez la fig. 33.
 32. Trois fusées accouplées ensemble.
+33. Machines pour percer les fusées au vilebrequin.
 34. Ballon. Voyez à la Planche III. près de la fig. 63.
 35. Fusée montée sur son pot.
-35. n. 2. Fusée volante sans baguette, mais avec un ressort de fils-de-fer auquel pend un poids.
+	- n. 2. Fusée volante sans baguette, mais avec un ressort de fils-de-fer auquel pend un poids.
 36. Plan des trois fusées de la figure 32.
-37 Fusée avec des aîlerons au lieu de baguettes.
+37. Fusée avec des aîlerons au lieu de baguettes.
 38. Machine pour tirer les fusées à aîlerons.
 39. Développement d'une fusée à second vol.
 40. Fusée qui en contient de plus petites à second vol.
 41. Fusée garnie d'une étoile.
-42 Fusée garnie de saucissons.
+42. Fusée garnie de saucissons.
 43. Développement d'une fusée chargée & sur la broche.
-44. 44. n. 2. Tourniquet à un & à deux tenons, pour une ou deux fusées brillantes ou chinoises.
+44. 
+	- n. 1. &
+	- n. 2. Tourniquet à un & à deux tenons, pour une ou deux fusées brillantes ou chinoises.
 45. Moule à faire des étoiles.
 46. Fusée volante en contenant d'autres qui se multiplient en l'air.
 47. Etoile en fil d'étoupille pour les pots de fusées & d'autres.
@@ -90,8 +97,11 @@ PLANCHE III.
 
 49. Fusée montée de deux tourniquets.
 50. Fusée montée en bruit de guerre.
-51. 52. 54. 55. Différens piés mouvans.
+51. &
+52. Voyez la fig. 55.
 53. Fusée en parapluie 56.
+54. &
+55. Différens piés mouvans.
 59. Fusée qui porte un soleil fixe.
 57. Poinçon qui s'allonge & se raccourcit.
 58. Boîtes remplies de fusées prêtes à tirer.
@@ -110,7 +120,7 @@ PLANCHE III.
 72. Fusée d'eau en cône.
 73. Intérieur d'un ballon.
 74. Genouillere.
-74. n. 2. Nageoire de genouillere.
+	- n. 2. Nageoire de genouillere.
 75. Chevalet pour tirer & diriger les fusées.
 76. Fusée d'eau en nageoire.
 
@@ -129,8 +139,11 @@ PLANCHE IV.
 83. Développement d'un pot-à-feu d'eau.
 84. Girandoles d'eau.
 85. Développement d'un mortier d'eau.
-86. 87. 88. Machines de communication à plusieurs changemens.
-89. 90. Coupe & profil d'un mortier d'eau à jetter cinq ballons à la fois.
+86. &
+87. &
+88. Machines de communication à plusieurs changemens.
+89. &
+90. Coupe & profil d'un mortier d'eau à jetter cinq ballons à la fois.
 91. Soleil fixe.
 92. Soleil tournant, qui se change en soleil fixe, posé horisontalement.
 93. Soleil fixe.
@@ -145,10 +158,14 @@ PLANCHE V.
 95. Grande gloire.
 96. Spirale de lances.
 97. Soleil d'eau.
-98. 100. 102. Différens soleils saxons.
+98. Voyez la fig. 102.
 99. Soleil tournant.
+100. Voyez la fig. 102.
 101. Etoile fixe.
-103. 104. 105. Différentes fusées de corde.
+102. Différens soleils saxons.
+103. &
+104. &
+105. Différentes fusées de corde.
 106. Genouillere.
 107. Fusée d'eau avec une rotule de bois pour la faire surnager.
 108. Fusée de table.
@@ -161,7 +178,14 @@ PLANCHE VI.
 
 [![Planche 6](Planche_6.jpeg)](Planche_.jpeg)
 
-111. 112. 113. 114. 115. 116. 117. 118. Machines à plusieurs changemens, toutes garnies, & devant tirer séparément.
+111. &
+112. &
+113. &
+114. &
+115. &
+116. &
+117. &
+118. Machines à plusieurs changemens, toutes garnies, & devant tirer séparément.
 119. Jeu de trois soleils tournans l'un après l'autre.
 120. Plateau d'eau.
 121. Cylindre de la fig. 118. vû de face.
@@ -192,7 +216,9 @@ PLANCHE VII.
 139. Chevalet.
 140. Fusée portant une fusée de table.
 141. Fusée en chaîne, ou caducée.
-142. 143. 144. Pieces pour ajuster des fusées en tourniquet.
+142. &
+143. &
+144. Pieces pour ajuster des fusées en tourniquet.
 145. Vûe d'une grande piece à communication & à plusieurs changemens.
 
 

@@ -11,7 +11,7 @@ PLANCHE I.ere
 
 Vignette.
 
-1.
+1. 
 	- n. 1. Maniere de hacher une assiete ou autres pieces. Cette opération se fait avec les couteaux représentés au bas de la Planche, fig. 8. n. 2. & fig. 11. 12. 14.
 	- n. 2. Ouvrier qui cizele une piece.
 		- a, la piece.
@@ -23,8 +23,9 @@ Vignette.
 		- e, coussinet sur lequel se coupe la feuille d'argent, représenté au bas de la Planche, fig. 1. n. 4. 
 2. Maniere de charger, c'est-à-dire d'appliquer les feuilles d'argent sur la piece. L'ouvrier tient de la main droite le brunissoir à ravaler, & de l'autre les brusselles. 
 3. &
+	- 3. bis. La chaudiere répétée fig. 15.
 4. Ouvrieres qui brunissent une piece.
-3. bis. La chaudiere répétée fig. 15.
+
 
 Bas de la Planche.
 
@@ -34,17 +35,20 @@ Bas de la Planche.
 	- c, le manche.
 	
 6. Brunissoir appellé droit.
-7.
+7. 
 	- n. 1. Brunissoir appellé mousse.
 	- n. 2. Brunissoir en forme de T.
 	- n. 3. Brunissoir appellé croche.
-8.
+8. 
 	- n. 1. Brunissoir à ravaler.
 	- n. 2. Couteau à hacher.
 9. Autre brunissoir à ravaler.
 10. Brunissoir appellé grosse-féve.
-11. 11. n. 2. 12. & 14. Autres couteaux à hacher.
+11. &
+	- 11. n. 2. &
+12. Autres couteaux à hacher.
 13. Les brusselles, espece de pinces pour prendre les feuilles d'argent.
+14. Autres couteaux à hacher.
 15. Chaudiere remplie de cendre g, sur laquelle on pose les pieces qu'on veut charger ou argenter.
 	- b, b, b, b, le mandrin.
 	- c, assiete posée sur le mandrin, & retenue par les vis d, d, sur les barres e, e. Les trous qu'on voit sur les barres du mandrin, sont destinés à recevoir les vis f, f, f, f, pour donner au mandrin l'ouverture qu'exige la forme ou la grandeur de la piece.

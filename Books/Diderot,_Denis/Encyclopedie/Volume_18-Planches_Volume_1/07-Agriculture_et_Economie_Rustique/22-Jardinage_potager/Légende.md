@@ -7,20 +7,21 @@ PLANCHE Iere.
 [![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 La vignette représente un jardin.
-	- A, a, partie de jardin coupé de murs servans à soûtenir des espaliers.
-	- B B, ados, ou couches inclinées couvertes de cloches.
-	- C C, couches.
-	- D D, couches sourdes.
-	- E, planches.
-	- F, palis ou perchis.
-	- G, plant d'arbres fruitiers en quinconce.
-	- H, plants d'arbres fruitiers en échiquier.
-	- K, pepiniere d'arbres.
-	- L, bâtardieres.
-	- M, planches abritées par des brise-vents.
-	- N, ados entouré de murs.
-	- O, P, Q, R, S, T, V, X, Y, planches pour différens légumes.
-	- Z, meloniere.
+
+- A, a, partie de jardin coupé de murs servans à soûtenir des espaliers.
+- B B, ados, ou couches inclinées couvertes de cloches.
+- C C, couches.
+- D D, couches sourdes.
+- E, planches.
+- F, palis ou perchis.
+- G, plant d'arbres fruitiers en quinconce.
+- H, plants d'arbres fruitiers en échiquier.
+- K, pepiniere d'arbres.
+- L, bâtardieres.
+- M, planches abritées par des brise-vents.
+- N, ados entouré de murs.
+- O, P, Q, R, S, T, V, X, Y, planches pour différens légumes.
+- Z, meloniere.
 
 1. Cloche de verre.
 
@@ -128,7 +129,8 @@ Elle est exposée directement au midi, & placée entre l'orangerie & la serre te
 	- A, fenêtre.
 	- B, la muraille.
 	- C, le toît.
-	Le tout selon les regles que Boerhaave a prescrites.
+
+Le tout selon les regles que Boerhaave a prescrites.
 
 
 [->](../23-Fontainier/Légende.md)

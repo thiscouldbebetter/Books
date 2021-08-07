@@ -4,19 +4,20 @@ INDIGOTERIE ET MANIOC.
 [![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 Le haut de la Planche ou la vignette représente la vûe d'une indigoterie.
-	- A, reservoir d'eau claire.
-	- B, la trempoire.
-	- C, la batterie.
-	- D, le reposoir qu'on nomme aussi diablotin.
-	- E E, robinets d'où la teinture d'une cuve passe dans la cuve qui est au-dessous.
-	- E F, trous que l'on débouche successivement, pour vuider l'eau claire de la batterie, lorsque la fécule bleue s'est précipitée au fond.
-	- G, indigot dont on a rempli des sacs de toile en forme de chausses pour le faire égoutter.
-	- H, hangard ouvert & à claire voie sous lequel on met l'indigot dans des caissons, pour achever de le faire sécher à l'ombre.
-	- I, negre qui porte la plante dans la trempoire.
-	- K K, negres qui agitent continuellement la teinture de la batterie avec des seaux percés & attachés à de longues perches.
-	- L, plantes d'indigot.
-	- M, maison du maître de l'habitation.
-	- N, campagne semée d'indigot.
+
+- A, reservoir d'eau claire.
+- B, la trempoire.
+- C, la batterie.
+- D, le reposoir qu'on nomme aussi diablotin.
+- E E, robinets d'où la teinture d'une cuve passe dans la cuve qui est au-dessous.
+- E F, trous que l'on débouche successivement, pour vuider l'eau claire de la batterie, lorsque la fécule bleue s'est précipitée au fond.
+- G, indigot dont on a rempli des sacs de toile en forme de chausses pour le faire égoutter.
+- H, hangard ouvert & à claire voie sous lequel on met l'indigot dans des caissons, pour achever de le faire sécher à l'ombre.
+- I, negre qui porte la plante dans la trempoire.
+- K K, negres qui agitent continuellement la teinture de la batterie avec des seaux percés & attachés à de longues perches.
+- L, plantes d'indigot.
+- M, maison du maître de l'habitation.
+- N, campagne semée d'indigot.
 
 1. o, o, caissons de bois élevés sur des treteaux, servans à faire sécher l'indigot à l'ombre sous le hangard de la vignette.
 

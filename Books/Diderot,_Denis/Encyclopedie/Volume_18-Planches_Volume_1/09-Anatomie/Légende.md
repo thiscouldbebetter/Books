@@ -416,98 +416,99 @@ PLANCHE IV. L'écorché vû de face d'après Albinus.
 
 [![Planche 4](Planche_04.jpeg)](Planche_04.jpeg)
 
-- a, a, les muscles frontaux.
-- b, une partie de l'aponévrose qui recouvre le muscle temporal.
-- c, le muscle supérieur de l'oreille.
-- d, le muscle antérieur de l'oreille.
-- e e, l'orbiculaire des paupieres.
-- f, le tendon de ce muscle.
-- g, le muscle surcilier.
-- h h, les pyramidaux du nez.
-- i, l'oblique descendant du nez.
-- k, une partie du myrtiforme.
-- l l, le grand incisif.
-- m, le petit zygomatique.
-- n, le grand zygomatique.
-- o, le canin.
-- p p, le masseter.
-- q, le triangulaire de la levre inférieure.
-- r, le quarré de la levre inférieure.
-- s s, l'orbiculaire des levres.
-- u u, le peaussier.
-- x x, le sterno-mastoïdien.
-- y y, le clynomastoïdien.
-- z, le sterno-hyoïdien.
-- A, le sternothyroïdien.
-- B, la trachée-artere.
-- C D, le trapeze.
-- E, le deltoïde.
-- F, le grand pectoral.
-- G H I N, le biceps.
-- G, la courte tête.
-- N, la longue.
-- H, son aponévrose coupée.
-- I, son tendon.
-- K, le long extenseur.
-- L, le court extenseur.
-- M M, le brachial interne.
-- O, le coraco brachial.
-- P, le long supinateur.
-- Q, le rond pronateur.
-- R, le radial interne.
-- S, le long palmaire.
-- T, l'aponévrose palmaire.
-- V V, le sublime.
-- X, le fléchisseur du pouce.
-- Y, les extenseurs du pouce.
-- 1, le thenar.
-- 2, le court palmaire.
-- 3, l'hypothenar.
-- 4, les ligamens qui retiennent les tendons des fléchisseurs des doigts.
-- 5, le tendon du sublime.
-- 6, le profond ou le perforant.
-- 7, le mesothenar.
-- 8, 8, le radial externe.
-- 9, 9, le long extenseur du pouce.
-- 10, le court.
-- 11, l'éxtenseur des doigts.
-- 12, l'adducteur du pouce.
-- 13, le muscle adducteur du doigt index.
-- 14, l'interosseux du doigt index.
-- 15, le ligament annulaire externe.
-- Θ, le grand dorsal.
-- 16, 16, 16, les digitations du grand dentelé.
-- 17, 17, le muscle droit du bas ventre, qui paroît à-travers l'aponévrose du grand oblique.
-- 18, 18, le grand oblique.
-- 19, le ligament de Fallope. +, l'anneau.
-- 20, le testicule dans les enveloppes sur lesquelles le muscle crémaster s'étend.
-- 21, l'aponévrose du fascia lata.
-- 22, le fascia lata.
-- 23, le couturier.
-- 24, l'iliaque.
-- 25, le psoas.
-- 26, le pectinée.
-- 27, le triceps supérieur.
-- 28, le grêle interne.
-- 29, le droit antérieur.
-- Δ, le triceps inférieur.
-- 30, le vaste externe.
-- 31, le vaste interne.
-- 32, le tendon du couturier.
-- 33, le tendon du grêle interne.
-- 34, le cartilage interarticulaire.
-- 35, le ligament de la rotule.
-- 36, le jambier antérieur.
-- 37, l'extenseur commun.
-- 38, le fléchisseur des doigts.
-- 39, le fléchisseur du pouce.
-- 40, le jambier postérieur.
-- 41, ligament qui retient les fléchisseurs du pié.
-- 42, les jumeaux.
-- 43, le solaire.
-- 44, 45, les ligamens qui retiennent les extenseurs du pié & des doigts.
-- 46, le court extenseur des doigts.
-- 47, le thenar.
+1. 
+	- a, a, les muscles frontaux.
+	- b, une partie de l'aponévrose qui recouvre le muscle temporal.
+	- c, le muscle supérieur de l'oreille.
+	- d, le muscle antérieur de l'oreille.
+	- e e, l'orbiculaire des paupieres.
+	- f, le tendon de ce muscle.
+	- g, le muscle surcilier.
+	- h h, les pyramidaux du nez.
+	- i, l'oblique descendant du nez.
+	- k, une partie du myrtiforme.
+	- l l, le grand incisif.
+	- m, le petit zygomatique.
+	- n, le grand zygomatique.
+	- o, le canin.
+	- p p, le masseter.
+	- q, le triangulaire de la levre inférieure.
+	- r, le quarré de la levre inférieure.
+	- s s, l'orbiculaire des levres.
+	- u u, le peaussier.
+	- x x, le sterno-mastoïdien.
+	- y y, le clynomastoïdien.
+	- z, le sterno-hyoïdien.
+	- A, le sternothyroïdien.
+	- B, la trachée-artere.
+	- C D, le trapeze.
+	- E, le deltoïde.
+	- F, le grand pectoral.
+	- G H I N, le biceps.
+	- G, la courte tête.
+	- N, la longue.
+	- H, son aponévrose coupée.
+	- I, son tendon.
+	- K, le long extenseur.
+	- L, le court extenseur.
+	- M M, le brachial interne.
+	- O, le coraco brachial.
+	- P, le long supinateur.
+	- Q, le rond pronateur.
+	- R, le radial interne.
+	- S, le long palmaire.
+	- T, l'aponévrose palmaire.
+	- V V, le sublime.
+	- X, le fléchisseur du pouce.
+	- Y, les extenseurs du pouce.
+	- 1, le thenar.
+	- 2, le court palmaire.
+	- 3, l'hypothenar.
+	- 4, les ligamens qui retiennent les tendons des fléchisseurs des doigts.
+	- 5, le tendon du sublime.
+	- 6, le profond ou le perforant.
+	- 7, le mesothenar.
+	- 8, 8, le radial externe.
+	- 9, 9, le long extenseur du pouce.
+	- 10, le court.
+	- 11, l'éxtenseur des doigts.
+	- 12, l'adducteur du pouce.
+	- 13, le muscle adducteur du doigt index.
+	- 14, l'interosseux du doigt index.
+	- 15, le ligament annulaire externe.
+	- Θ, le grand dorsal.
+	- 16, 16, 16, les digitations du grand dentelé.
+	- 17, 17, le muscle droit du bas ventre, qui paroît à-travers l'aponévrose du grand oblique.
+	- 18, 18, le grand oblique.
+	- 19, le ligament de Fallope. +, l'anneau.
+	- 20, le testicule dans les enveloppes sur lesquelles le muscle crémaster s'étend.
+	- 21, l'aponévrose du fascia lata.
+	- 22, le fascia lata.
+	- 23, le couturier.
+	- 24, l'iliaque.
+	- 25, le psoas.
+	- 26, le pectinée.
+	- 27, le triceps supérieur.
+	- 28, le grêle interne.
+	- 29, le droit antérieur.
+	- Δ, le triceps inférieur.
+	- 30, le vaste externe.
+	- 31, le vaste interne.
+	- 32, le tendon du couturier.
+	- 33, le tendon du grêle interne.
+	- 34, le cartilage interarticulaire.
+	- 35, le ligament de la rotule.
+	- 36, le jambier antérieur.
+	- 37, l'extenseur commun.
+	- 38, le fléchisseur des doigts.
+	- 39, le fléchisseur du pouce.
+	- 40, le jambier postérieur.
+	- 41, ligament qui retient les fléchisseurs du pié.
+	- 42, les jumeaux.
+	- 43, le solaire.
+	- 44, 45, les ligamens qui retiennent les extenseurs du pié & des doigts.
+	- 46, le court extenseur des doigts.
+	- 47, le thenar.
 
 
 PLANCHE IV. n°. 2. Mains & piés disséqués.
@@ -593,94 +594,95 @@ PLANCHE IV. n°. 2. Mains & piés disséqués.
 	- T, une partie du court fléchisseur du pouce.
 
 La figure du bas de la Planche est la seconde de la Planche V. suivant le texte de l'Encyclopédie, à l'article Anatomie, Tome I.
-	- A, l'interosseux antérieur du petit doigt.
-	- a b, son origine de l'os du métacarpe du petit doigt.
-	- B, l'interosseux postérieur du doigt annulaire couvert en partie par l'interosseux A.
-	- d e, son origine de l'os du métacarpe du doigt annulaire.
-	- f, tendon par lequel il s'unit avec le tendon de l'extenseur commun, & va s'insérer au troisieme os.
-	- C D, l'interosseux postérieur du doigt du milieu.
-	- C, portion de ce muscle qui vient de l'os du métacarpe du doigt annulaire.
-	- D e, autre portion qui vient de celui du doigt du milieu.
-	- g h, son origine de l'os mitoyen du métacarpe.
-	- i, tendon par lequel il s'unit avec le tendon de l'extenseur commun, & va s'insérer au troisieme os.
-	- E F, l'interosseux antérieur du doigt du milieu.
-	- E, une partie qui sort de l'os du métacarpe du doigt du milieu.
-	- k l, son origine.
-	- F, partie qui provient de l'os du métacarpe du doigt index.
-	- n, son extrémité tendineuse.
-	- G, interosseux antérieur de l'index.
-	- n o, son origine de l'os du métacarpe du doigt index.
-	- p, son extrémité tendineuse
-	- q, insérée au premier os du métacarpe.
-	- H, tendon du second vermiculaire coupé, lequel s'unit au tendon de l'interosseux E F, avec lequel il forme le tendon commun, qui s'unit au tendon de l'extenseur propre du petit doigt, & va s'insérer au troisieme os.
-	- M, tendon du sublime coupé.
-	- r, quelques marques de division.
-	- N O, les deux portions dans lesquelles le tendon du sublime se fend.
-	- P, une partie qui s'en détache, & par laquelle ils sont unis.
-	- Q R, extrémités des queues au-delà de cetté partie par laquelle elles sont unies.
-	- s s, partie par laquelle elles touchent le tendon du profond qui est à côté.
-	- t u, l'extrémité de ces queues insérées au second os.
-	- 1, l'os pisiforme.
-	- 2, le cuboïde.
-	- 3, une partie de l'os cuboïde, articulée avec le radius, & recouverte d'un cartilage.
-	- 4, son bord recouvert d'un cartilage.
-	- 5, l'os lunaire.
-	- 6, son bord recouvert d'un cartilage.
-	- 7, sa face articulée avec le radius, & recouverte d'un cartilage.
-	- 8, l'os naviculaire.
-	- 9, son bord recouvert d'un cartilage.
-	- 10, son extrémité articulée avec le radius, & recouvert d'un cartilage.
-	- 11, son bord recouvert d'un cartilage.
-	- 12, le trapeze.
-	- 13, son bord revêtu d'un cartilage.
-	- 14, son sinus par lequel passe le tendon du radial externe.
-	- 15, 16, ses bords revêtus de cartilages.
-	- 17, le trapézoïde.
-	- 18, 19, ses bords revêtus de cartilages.
-	- 20, le grand.
-	- 21, sa tête revêtue d'une croûte cartilagineuse.
-	- 22, son bord revêtu de cartilages.
-	- 23, l'os cunéïforme.
-	- 24, son bord revêtu de cartilages.
-	- 25, l'apophyse onciforme.
-	- 26, 26, sa face revêtue d'un cartilage, & articulée avec le cuboïde & le lunaire.
-	- 27, son bord revêtu d'un cartilage.
-	- 28, l'os du métacarpe du petit doigt.
-	- 29, 30, ses bords revêtus de cartilages.
-	- 31, sa tête inférieure revêtue de cartilages.
-	- 32, petit os sesamïde qui se trouve quelquefois.
-	- 33, l'os du métacarpe, du doigt annulaire.
-	- 34, 35, 36, ses bords revêtus de cartilages.
-	- 37, sa tête inférieure revêtue de cartilages.
-	- 38, 38, l'os du métacarpe du doigt du milieu.
-	- 39, 40, 41, ses bords revêtus de cartilages.
-	- 42, sa tête inférieure revêtue de cartilages.
-	- 43, l'os du métacarpe de l'index.
-	- 44, 45, ses bords revêtus de cartilages.
-	- 46, son extrémité inférieure revêtue de cartilages.
-	- 47, l'os sesamoïde qui s'observe dans quelques sujets.
-	- 48, 48, les secondes phalanges.
-	- 49, 49, leurs bords revêtus de cartilages.
-	- 50, 50, &c. leurs éminences inégales.
-	- 51, &c. leurs extrémités inférieures revêtues de cartilages & articulées avec les secondes phalanges.
-	- 52, 52, les secondes phalanges.
-	- 53, &c. leurs bords revêtus de cartilages.
-	- 54, 54, leurs éminences inégales.
-	- 55, leurs extrémités inférieures articulées avec la troisieme phalange, & revêtue de cartilages.
-	- 56, 56, &c. les troisiemes phalanges.
-	- 57, leurs bords revêtus de cartilages.
-	- 58, &c. leurs éminences inégales.
-	- 59, leurs extrémités inférieures inégales en-dedans.
-	- 60, l'os du métacarpe du pouce.
-	- 61, son bord revêtu de cartilages.
-	- 62, 63, une partie de son extrémité inférieure revêtue de cartilages distingués en deux faces qui reçoivent les os sesamoïdes.
-	- 64, 65, les os sesamoïdes.
-	- 66, le premier os du pouce.
-	- 67, son bord revêtu de cartilages.
-	- 68, une partie de l'extrémité inférieure de ce même os revêtue de cartilages, & articulée avec le dernier os.
-	- 69, le dernier os du pouce.
-	- 70, son bord revêtu de cartilages.
-	- 71, son extrémité inégale. 72, l'os sesamoïde qui s'observe rarement.
+
+- A, l'interosseux antérieur du petit doigt.
+- a b, son origine de l'os du métacarpe du petit doigt.
+- B, l'interosseux postérieur du doigt annulaire couvert en partie par l'interosseux A.
+- d e, son origine de l'os du métacarpe du doigt annulaire.
+- f, tendon par lequel il s'unit avec le tendon de l'extenseur commun, & va s'insérer au troisieme os.
+- C D, l'interosseux postérieur du doigt du milieu.
+- C, portion de ce muscle qui vient de l'os du métacarpe du doigt annulaire.
+- D e, autre portion qui vient de celui du doigt du milieu.
+- g h, son origine de l'os mitoyen du métacarpe.
+- i, tendon par lequel il s'unit avec le tendon de l'extenseur commun, & va s'insérer au troisieme os.
+- E F, l'interosseux antérieur du doigt du milieu.
+- E, une partie qui sort de l'os du métacarpe du doigt du milieu.
+- k l, son origine.
+- F, partie qui provient de l'os du métacarpe du doigt index.
+- n, son extrémité tendineuse.
+- G, interosseux antérieur de l'index.
+- n o, son origine de l'os du métacarpe du doigt index.
+- p, son extrémité tendineuse
+- q, insérée au premier os du métacarpe.
+- H, tendon du second vermiculaire coupé, lequel s'unit au tendon de l'interosseux E F, avec lequel il forme le tendon commun, qui s'unit au tendon de l'extenseur propre du petit doigt, & va s'insérer au troisieme os.
+- M, tendon du sublime coupé.
+- r, quelques marques de division.
+- N O, les deux portions dans lesquelles le tendon du sublime se fend.
+- P, une partie qui s'en détache, & par laquelle ils sont unis.
+- Q R, extrémités des queues au-delà de cetté partie par laquelle elles sont unies.
+- s s, partie par laquelle elles touchent le tendon du profond qui est à côté.
+- t u, l'extrémité de ces queues insérées au second os.
+- 1, l'os pisiforme.
+- 2, le cuboïde.
+- 3, une partie de l'os cuboïde, articulée avec le radius, & recouverte d'un cartilage.
+- 4, son bord recouvert d'un cartilage.
+- 5, l'os lunaire.
+- 6, son bord recouvert d'un cartilage.
+- 7, sa face articulée avec le radius, & recouverte d'un cartilage.
+- 8, l'os naviculaire.
+- 9, son bord recouvert d'un cartilage.
+- 10, son extrémité articulée avec le radius, & recouvert d'un cartilage.
+- 11, son bord recouvert d'un cartilage.
+- 12, le trapeze.
+- 13, son bord revêtu d'un cartilage.
+- 14, son sinus par lequel passe le tendon du radial externe.
+- 15, 16, ses bords revêtus de cartilages.
+- 17, le trapézoïde.
+- 18, 19, ses bords revêtus de cartilages.
+- 20, le grand.
+- 21, sa tête revêtue d'une croûte cartilagineuse.
+- 22, son bord revêtu de cartilages.
+- 23, l'os cunéïforme.
+- 24, son bord revêtu de cartilages.
+- 25, l'apophyse onciforme.
+- 26, 26, sa face revêtue d'un cartilage, & articulée avec le cuboïde & le lunaire.
+- 27, son bord revêtu d'un cartilage.
+- 28, l'os du métacarpe du petit doigt.
+- 29, 30, ses bords revêtus de cartilages.
+- 31, sa tête inférieure revêtue de cartilages.
+- 32, petit os sesamïde qui se trouve quelquefois.
+- 33, l'os du métacarpe, du doigt annulaire.
+- 34, 35, 36, ses bords revêtus de cartilages.
+- 37, sa tête inférieure revêtue de cartilages.
+- 38, 38, l'os du métacarpe du doigt du milieu.
+- 39, 40, 41, ses bords revêtus de cartilages.
+- 42, sa tête inférieure revêtue de cartilages.
+- 43, l'os du métacarpe de l'index.
+- 44, 45, ses bords revêtus de cartilages.
+- 46, son extrémité inférieure revêtue de cartilages.
+- 47, l'os sesamoïde qui s'observe dans quelques sujets.
+- 48, 48, les secondes phalanges.
+- 49, 49, leurs bords revêtus de cartilages.
+- 50, 50, &c. leurs éminences inégales.
+- 51, &c. leurs extrémités inférieures revêtues de cartilages & articulées avec les secondes phalanges.
+- 52, 52, les secondes phalanges.
+- 53, &c. leurs bords revêtus de cartilages.
+- 54, 54, leurs éminences inégales.
+- 55, leurs extrémités inférieures articulées avec la troisieme phalange, & revêtue de cartilages.
+- 56, 56, &c. les troisiemes phalanges.
+- 57, leurs bords revêtus de cartilages.
+- 58, &c. leurs éminences inégales.
+- 59, leurs extrémités inférieures inégales en-dedans.
+- 60, l'os du métacarpe du pouce.
+- 61, son bord revêtu de cartilages.
+- 62, 63, une partie de son extrémité inférieure revêtue de cartilages distingués en deux faces qui reçoivent les os sesamoïdes.
+- 64, 65, les os sesamoïdes.
+- 66, le premier os du pouce.
+- 67, son bord revêtu de cartilages.
+- 68, une partie de l'extrémité inférieure de ce même os revêtue de cartilages, & articulée avec le dernier os.
+- 69, le dernier os du pouce.
+- 70, son bord revêtu de cartilages.
+- 71, son extrémité inégale. 72, l'os sesamoïde qui s'observe rarement.
 
 
 PLANCHE V.
@@ -1288,8 +1290,7 @@ PLANCHE IX. n°. 2. Les troncs de la veine porte disséqués & développés.
 	- B B, production de la dure-mere, qui enveloppe la moëlle épiniere.
 	- C C, l'intervalle qui reste entre cette moëlle & la cavité des vertebres qui la renferme.
 	- 1, 2, 3, 4, &c. jusqu'à 30, les nerfs de la moëlle épiniere du côté gauche, avec leur ganglion.
-
-Cette figure représente à droite:
+	- Cette figure représente à droite:
 	- A, espace occupé par le lobe renversé du cervelet & par son appendice uniforme B figuré simplement.
 	- C, portion de l'os pierreux & de l'occipital, recouverts de la dure-mere.
 	- D, une partie de la moëlle allongée, à laquelle la moëlle épiniere est continue. - a, ligne blanche médullaire qui s'éleve du sillon du quatrieme ventricule, pour se joindre à la septieme paire.
@@ -2010,7 +2011,7 @@ PLANCHE XIV. Intérieur du cerveau & du cervelet d'après Haller.
 	- 23, rameau extérieur de la premiere branche de la cinquieme paire.
 	- 24, petits rameaux qui se portent à la face par les trous de l'os de la pommette.
 	- 25, rameaux à la glande lacrymale.
-	- 26. rameaux inférieurs de la deuxieme branche de la cinquieme paire.
+	- 26, rameaux inférieurs de la deuxieme branche de la cinquieme paire.
 	- 27, filet de ce rameau au ganglion.
 	- 28, petit filet aux narines.
 	- 29, petit tronc qui s'éleve en-devant.
@@ -2044,7 +2045,7 @@ PLANCHE XIV. Intérieur du cerveau & du cervelet d'après Haller.
 	- q q, petites branches qui vont au plexus choroïde.
 	- r r r r, branches d'arteres dispersées sur la protubérance annulaire.
 	- s s, partie des pédoncules du cerveau.
-	- * *, nerf accessoire.
+	- \* \*, nerf accessoire.
 
 
 PLANCHE XV.
@@ -2442,6 +2443,7 @@ PLANCHE XVIII. Quelques parties du bas-ventre, d'après Haller.
 
 [![Planche 18](Planche_18.jpeg)](Planche_18.jpeg)
 
+1.
 	- A B, le lode droit du foie incliné à droite.
 	- Γ, le lobe gauche.
 	- Δ, le lobe de Spigélius.

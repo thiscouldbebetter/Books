@@ -3,21 +3,24 @@ BASSE-COUR.
 
 [![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
-La basse-cour est composée de différens bâtimens dont la distribution est assez arbitraire, & dépend du terrein qu'on a. Les principaux représentés dans la vignette sont en I le logement du fermier.
-	- P, passage pour entrer & sortir de la ferme du côté de la cour du maître.
-	- Q, cellier. Entre la porte du cellier & celle de sortie P, sont les écuries pour les chevaux de labour & de trait, le puits & les auges de pierre nécessaires.
-	- R, entrée du pressoir.
-	- H, le pressoir.
-	- G, vinée dont les murs sont supposés abbatus pour laisser voir l'intérieur.
-	- F, laiterie.
-	- E, passage pour sortir sans entrer dans la cour du maître.
-	- D C, étables pour les vaches & autres animaux.
-	- B, bergerie : au-dessus sont des greniers pour les fourrages.
-	- A, colombier.
-	- K, marre.
-	- T, la grange.
-	- N, porte de la grange autour des murs de laquelle sont construits différens bâtimens M L, &c. qui sont les toîts à porcs, poulaillers, loge aux dindons, &c.
-	- O, halle pour mettre à couvert les voitures, charrues & autres instrumens nécessaires.
+La basse-cour est composée de différens bâtimens dont la distribution est assez arbitraire, & dépend du terrein qu'on a.
+
+Les principaux représentés dans la vignette sont en I le logement du fermier.
+
+- P, passage pour entrer & sortir de la ferme du côté de la cour du maître.
+- Q, cellier. Entre la porte du cellier & celle de sortie P, sont les écuries pour les chevaux de labour & de trait, le puits & les auges de pierre nécessaires.
+- R, entrée du pressoir.
+- H, le pressoir.
+- G, vinée dont les murs sont supposés abbatus pour laisser voir l'intérieur.
+- F, laiterie.
+- E, passage pour sortir sans entrer dans la cour du maître.
+- D C, étables pour les vaches & autres animaux.
+- B, bergerie : au-dessus sont des greniers pour les fourrages.
+- A, colombier.
+- K, marre.
+- T, la grange.
+- N, porte de la grange autour des murs de laquelle sont construits différens bâtimens M L, &c. qui sont les toîts à porcs, poulaillers, loge aux dindons, &c.
+- O, halle pour mettre à couvert les voitures, charrues & autres instrumens nécessaires.
 
 1. du bas de la Planche. Berceau que l'on met dans les bergeries parallelement aux longs côtés & au milieu de leur largeur. On met aussi le long des murs des rateliers, afin qu'un plus grand nombre de moutons ou d'agneaux puisse y prendre à-la fois leur nourriture. On éleve, ou on abaisse à volonté les berceaux, en élevant les selettes placées à chacune des extrémités, & sur lesquelles ils reposent.
 	- A B, piece de bois creusée en gouttiere dans toute sa longueur, & dans laquelle on met la nourriture des agneaux.

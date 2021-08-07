@@ -32,13 +32,16 @@ PLANCHE II.
 17. Ciseaux.
 18. Coignée à main.
 19. Civiere.
-20. a, b, Plantoir.
+20.
+	- a, b, Plantoir.
+	- c, arrosoir à goulot.
+	- d, arrosoir à tête.
 21. Tenaille. 
 22. Cordeau. 
-23. Arrosoirs. c, arrosoir à goulot.
-24. Fourche. 37. Scie à main.
-25. Croissant. 38. Serpe.
-26. Faulx. 39. Serpette.
+23. Arrosoirs. 
+24. Fourche.
+25. Croissant.
+26. Faulx.
 27. Faucille.
 28. Crible.
 29. Echenilloir.
@@ -46,9 +49,12 @@ PLANCHE II.
 31. Claie.
 32. Traçoir.
 33. Déplantoir.
-34. Serfouette ou binette. d, arrosoir à tête.
+34. Serfouette ou binette.
 35. Autre déplantoir.
 36. Brouette.
+37. Scie à main.
+38. Serpe.
+39. Serpette.
 
 
 PLANCHE III Parterre mêlé de broderie & de gazon.

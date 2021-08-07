@@ -56,40 +56,41 @@ PLANCHE II. double. Pressoir à double coffre.
 [![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 Élévation perspective du pressoir.
-	- P P, chantier.
-	- L L, faux chantier.
-	- 8, 8; 9, 9; 13, 13, &c. jumelles k, k, k, contrevents.
-	- m n, chapeaux des jumelles.
-	- 10, 10, &c. autres chapeaux ou chapeaux du befroi.
-	- 12, 12, traverses.
-	- t, s, chaîne.
-	- q, mulet.
-	- 14, 14, &c. flasques. y, y, y, y, pieces de maie.
-	- z, coins.
-	- p, p, p, pieces de bois appuis du dossier.
-	- x, x, x, x, x, chevrons.
-	- u u, écrous.
-	- A B, grande roue.
-	- E, roue moyenne.
-	- G, petite roue.
-	- D E, pignon de la moyenne roue.
-	- F G, pignon de la petite roue.
-	- H K, pignon de la manivelle.
-	- M, bouquets ou piédestaux de pierre.
-	- X, masse de fer.
-	- I. grapin.
-	- II. pelle.
-	- III. pioche.
-	- IV. & V. battes.
-	- R, Q, barlongs.
-	- V, soufflet.
-	- S, T, tuyau de fer blanc.
-	- T, entonnoir.
-	- V Y, grand barlong.
-	- Y Z, tuyau de fer blanc.
-	- a, b, c, d, 1, 2, 3, 4, 5, 6, tonneaux.
-	- g, g, f, f, h, chantier.
-	- e, e, chevalets qui soutiennent le tuyau de fer blanc.
+
+- P P, chantier.
+- L L, faux chantier.
+- 8, 8; 9, 9; 13, 13, &c. jumelles k, k, k, contrevents.
+- m n, chapeaux des jumelles.
+- 10, 10, &c. autres chapeaux ou chapeaux du befroi.
+- 12, 12, traverses.
+- t, s, chaîne.
+- q, mulet.
+- 14, 14, &c. flasques. y, y, y, y, pieces de maie.
+- z, coins.
+- p, p, p, pieces de bois appuis du dossier.
+- x, x, x, x, x, chevrons.
+- u u, écrous.
+- A B, grande roue.
+- E, roue moyenne.
+- G, petite roue.
+- D E, pignon de la moyenne roue.
+- F G, pignon de la petite roue.
+- H K, pignon de la manivelle.
+- M, bouquets ou piédestaux de pierre.
+- X, masse de fer.
+- I. grapin.
+- II. pelle.
+- III. pioche.
+- IV. & V. battes.
+- R, Q, barlongs.
+- V, soufflet.
+- S, T, tuyau de fer blanc.
+- T, entonnoir.
+- V Y, grand barlong.
+- Y Z, tuyau de fer blanc.
+- a, b, c, d, 1, 2, 3, 4, 5, 6, tonneaux.
+- g, g, f, f, h, chantier.
+- e, e, chevalets qui soutiennent le tuyau de fer blanc.
 
 
 PLANCHE III.

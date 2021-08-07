@@ -7,20 +7,21 @@ PLANCHE Iere.
 [![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 La vignette représente la vûe d'une habitation.
-	- 1, maison du maître & ses dépendances.
-	- 2, 2, 2, partie des cases à negres formant une ou plusieurs rues, suivant le nombre & l'emplacement.
-	- 3, 3, 3, partie de savanne ou pâturage.
-	- 4, 4, lisiere ou forte haie qui sépare la savanne des plantations de cannes.
-	- 5, 5, 5, partie de pieces plantées en cannes à sucre à mi-côte & en plat-pays.
-	- 6, moulin à eau.
-	- 7, sucrerie avec sa cheminée, & son hangard pour les fourneaux.
-	- 8, gouttiere qui conduit l'eau du canal sur la roue du moulin.
-	- 9, décharge de l'eau du moulin.
-	- 10, une des cases à bagasses ou cannes écrasées.
-	- 11, purgerie ou grand magasin servant à mettre les sucres quand ils sont en forme, pour les purger de leur syrop superflu & les terrer.
-	- 12, étuve pour faire sécher les pains de sucre.
-	- 13, hauteurs entre lesquels sont les plantations de manioc, les bananiers & l'habitation à vivre.
-	- 14, morne : c'est ainsi qu'on nomme aux îles Antilles les montagnes qui paroissent détachées des autres.
+
+- 1, maison du maître & ses dépendances.
+- 2, 2, 2, partie des cases à negres formant une ou plusieurs rues, suivant le nombre & l'emplacement.
+- 3, 3, 3, partie de savanne ou pâturage.
+- 4, 4, lisiere ou forte haie qui sépare la savanne des plantations de cannes.
+- 5, 5, 5, partie de pieces plantées en cannes à sucre à mi-côte & en plat-pays.
+- 6, moulin à eau.
+- 7, sucrerie avec sa cheminée, & son hangard pour les fourneaux.
+- 8, gouttiere qui conduit l'eau du canal sur la roue du moulin.
+- 9, décharge de l'eau du moulin.
+- 10, une des cases à bagasses ou cannes écrasées.
+- 11, purgerie ou grand magasin servant à mettre les sucres quand ils sont en forme, pour les purger de leur syrop superflu & les terrer.
+- 12, étuve pour faire sécher les pains de sucre.
+- 13, hauteurs entre lesquels sont les plantations de manioc, les bananiers & l'habitation à vivre.
+- 14, morne : c'est ainsi qu'on nomme aux îles Antilles les montagnes qui paroissent détachées des autres.
 
 1. Coupe verticale d'une étuve à mettre sécher les pains de sucre terrés.
 	- A, comble de l'étuve.
@@ -118,34 +119,35 @@ PLANCHE IV.
 [![Planche 4](Planche_4.jpeg)](Planche_4.jpeg)
 
 La vignette représente l'intérieur d'une sucrerie.
-	- A, glacis en briques & carreaux, plus élevés que les chaudieres.
-	- B, bac qui reçoit le suc de la canne venant du moulin.
-	- C, C, C, C, C, cinq chaudieres.
-	- D, D, D, D, chassis fait de fortes tringles de bois, sur lesquelles on pose les écumoires & les cuillieres à la portée des ouvriers.
-	- E, negre qui écume la grande chaudiere.
-	- F, autre negre qui observe le bouillon des chaudieres.
-	- G, autre negre qui, après avoir brisé la croûte qui s'est formée à la surface du syrop contenu dans les formes, remue la matiere, afin que les grumeaux ne s'attachent pas aux côtês du vase, & qu'ils se puissent disperser également.
-	- H, vieille chaudiere dans laquelle est une lessive dont on se sert pour épurer le résou.
-	- I, baille aux écumes, ou baquet où on les jette.
-	- K, caisse à passer le résou.
-	- L, bec de corbin.
-	- M, formes à sucre bouchées par la pointe & pleines du syrop de la batterie, après qu'il a été refroidi dans le vaisseau appellé le rafraîchissoir.
-	- N, plancher sur lequel est un citerneau où l'on jette les écumes & ce qui se répand du syrop, afin d'en faire le tafia.
+
+- A, glacis en briques & carreaux, plus élevés que les chaudieres.
+- B, bac qui reçoit le suc de la canne venant du moulin.
+- C, C, C, C, C, cinq chaudieres.
+- D, D, D, D, chassis fait de fortes tringles de bois, sur lesquelles on pose les écumoires & les cuillieres à la portée des ouvriers.
+- E, negre qui écume la grande chaudiere.
+- F, autre negre qui observe le bouillon des chaudieres.
+- G, autre negre qui, après avoir brisé la croûte qui s'est formée à la surface du syrop contenu dans les formes, remue la matiere, afin que les grumeaux ne s'attachent pas aux côtês du vase, & qu'ils se puissent disperser également.
+- H, vieille chaudiere dans laquelle est une lessive dont on se sert pour épurer le résou.
+- I, baille aux écumes, ou baquet où on les jette.
+- K, caisse à passer le résou.
+- L, bec de corbin.
+- M, formes à sucre bouchées par la pointe & pleines du syrop de la batterie, après qu'il a été refroidi dans le vaisseau appellé le rafraîchissoir.
+- N, plancher sur lequel est un citerneau où l'on jette les écumes & ce qui se répand du syrop, afin d'en faire le tafia.
 
 Bas de la Planche.
 
-	- A, partie du moulin ou gouttiere qui conduit le suc de canne dans la sucrerie.
-	- B, B, passage & place des ouvriers.
-	- C, C, emplacement pour ranger les formes, avant de les porter dans la purgerie.
-	- D, le bac qui reçoit le résou ou le suc des cannes.
-	- E, E, E, E, E, les cinq chaudieres.
-	- F F, glacis.
-	- G, fenetre qui éclaire principalement la batterie.
-	- H, bouche du foyer sous la batterie.
-	- I, I, I, I, évents des autres fourneaux qu'on a soin de boucher exactement, lorsque le feu est au foyer.
-	- K, tuyau de la cheminée.
-	- L, appentis, espece de grand auvent, soutenu par des piliers pour couvrir les fourneaux & le negre qui entretient le feu sous la batterie.
-	- M, rampe & escalier pour descendre sous l'appentis.
+- A, partie du moulin ou gouttiere qui conduit le suc de canne dans la sucrerie.
+- B, B, passage & place des ouvriers.
+- C, C, emplacement pour ranger les formes, avant de les porter dans la purgerie.
+- D, le bac qui reçoit le résou ou le suc des cannes.
+- E, E, E, E, E, les cinq chaudieres.
+- F F, glacis.
+- G, fenetre qui éclaire principalement la batterie.
+- H, bouche du foyer sous la batterie.
+- I, I, I, I, évents des autres fourneaux qu'on a soin de boucher exactement, lorsque le feu est au foyer.
+- K, tuyau de la cheminée.
+- L, appentis, espece de grand auvent, soutenu par des piliers pour couvrir les fourneaux & le negre qui entretient le feu sous la batterie.
+- M, rampe & escalier pour descendre sous l'appentis.
 
 
 PLANCHE V.

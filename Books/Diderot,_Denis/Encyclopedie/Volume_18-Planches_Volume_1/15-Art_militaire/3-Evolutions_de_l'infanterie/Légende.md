@@ -122,7 +122,8 @@ PLANCHE VI.
 
 40. Cette figure sert à expliquer le quart de conversion. La troupe d'abord placée en A B C D, ayant décrit le quart de conversion à gauche sur le pivot A, se trouve en A G E F. Un second quart de conversion du même sens la mettroit en A I K H; un troisieme, en A L M N; & un quatrieme, dans sa premiere position A B C D.
 
-41. & 42. Elles servent à faire voir, sçavoir : la premiere 41. que les troupes, comme A A, A B, qui dans la marche sont obligées de faire face à un de leurs flancs, doivent le faire par une conversion centrale, plûtôt que par le quart de conversion ordinaire ; parce qu'en faisant ensuite le même mouvement dans un sens contraire, elle se retrouvent dans leur même position : & la fig. 42. que si les troupes A B, A B ont fait face au flanc de la marche par un quart de conversion, & qu'elles veuillent ensuite se remettre en marche par un autre quart de conversion, elles quittent alors le chemin qu'elles suivoient d'abord, pour en prendre un autre à côté.
+41. &
+42. Elles servent à faire voir, sçavoir : la premiere 41. que les troupes, comme A A, A B, qui dans la marche sont obligées de faire face à un de leurs flancs, doivent le faire par une conversion centrale, plûtôt que par le quart de conversion ordinaire ; parce qu'en faisant ensuite le même mouvement dans un sens contraire, elle se retrouvent dans leur même position : & la fig. 42. que si les troupes A B, A B ont fait face au flanc de la marche par un quart de conversion, & qu'elles veuillent ensuite se remettre en marche par un autre quart de conversion, elles quittent alors le chemin qu'elles suivoient d'abord, pour en prendre un autre à côté.
 
 
 PLANCHE VII.

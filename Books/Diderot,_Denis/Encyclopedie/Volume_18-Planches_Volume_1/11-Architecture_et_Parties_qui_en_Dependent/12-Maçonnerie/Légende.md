@@ -9,8 +9,11 @@ PLANCHE I.ere
 Le haut de la Planche représente des maçons diversement occupés ; les uns A à monter des pierres taillées ; d'autres B sur un échafaud à enduire un mur de plâtre ; d'autres C, à construire un ouvrage de maçonnerie. On voit en D & en E deux tailleurs de pierre ; en F, ceux qui préparent la chaux ; en G, un scieur de pierre ; en H, I, K, les manoeuvres occupés à servir dans la construction des bâtimens.
 
 1. Maçonnerie maillée, que Vitruve appelle reticulatum.
-2 & 3. Maçonnerie en liaison, appellée par Vitruve, insertum.
-4. 5. & 6. Maçonnerie de pierres brutes. L'isodomum, le pseudisodomum, & l'emplecton grec.
+2. &
+3. Maçonnerie en liaison, appellée par Vitruve, insertum.
+4. &
+5. &
+6. Maçonnerie de pierres brutes. L'isodomum, le pseudisodomum, & l'emplecton grec.
 	- A, les assises.
 	- B, les couches de mortier.
 	- C, l'enduit de plâtre.
@@ -41,7 +44,7 @@ PLANCHE II.
 15. Maçonnerie faite de carreaux & boutisses de pierres dures ou tendres, posées en recouvrement les unes sur les autres.
 	- A A, carreaux.
 	- B, boutisses. Exemples de quelques précautions à observer dans l'art de bâtir.
-16.
+16. 
 	- A, arrachemens.
 	- B, chaînes de pierres.
 	- C, arcades ou décharges.
@@ -52,13 +55,13 @@ PLANCHE III. Suite des précautions à observer dans l'art de bâtir.
 
 [![Planche 3](Planche_03.jpeg)](Planche_03.jpeg)
 
-17.
+17. 
 	- A, arrachemens.
 	- B, chaînes de pierres.
 	- C, poutres.
 18. Murs de face & de refends.
 	- D, D, pierres callées avec des lattes.
-19.
+19. 
 	- E, E, pierres callées avec des lames de plomb.
 20. Mur de face.
 	- A, taluds ou retraites données en dehors.
@@ -88,7 +91,7 @@ PLANCHE V.
 26. Coupe de l'ouverture d'une carriere : à la surface sont les engins à tirer la pierre de la carriere.
 	- A, A, passages ou rues de la carriere.
 	- B B, ouverture de la carriere.
-	 - Nota. Les outils qui s'employent pour détacher la pierre de la carriere, sont représentés & décrits ci-après, Pl. X.
+	- Nota. Les outils qui s'employent pour détacher la pierre de la carriere, sont représentés & décrits ci-après, Pl. X.
 
 
 PLANCHE VI.
@@ -96,7 +99,7 @@ PLANCHE VI.
 
 [![Planche 6](Planche_06.jpeg)](Planche_06.jpeg)
 
-27.
+27. 
 	- n. 1. Coupe verticale d'un four à brique & à tuile, sur la ligne A B, même fig. n. 3. 27.
 	- n. 2. Plan du même four au-dessous du premier plancher.
 	- n. 3. Plan pris au rez-de-chaussée.
@@ -109,11 +112,13 @@ PLANCHE VII.
 
 [![Planche 7](Planche_07.jpeg)](Planche_07.jpeg)
 
-Suite de la fig.
-28. n. 1. Elévation du four à plâtre.
-28. n. 2. Plan du même four. Nota. A la suite de ces Planches de la Maçonnerie ; on trouvera dans un plus grand détail une Planche représentant les différentes opérations & les outils du carrier-plâtrier.
-29. n. 1. Coupe verticale d'un four à chaux, prise sur la ligne A B de la même figure à la Planche suivante.
-29. n. 2. Elévation du même four.
+- Suite de la fig. 28. 
+	- n. 1. Elévation du four à plâtre.
+	- n. 2. Plan du même four. Nota. A la suite de ces Planches de la Maçonnerie ; on trouvera dans un plus grand détail une Planche représentant les différentes opérations & les outils du carrier-plâtrier.
+
+29. 
+	- n. 1. Coupe verticale d'un four à chaux, prise sur la ligne A B de la même figure à la Planche suivante.
+	- n. 2. Elévation du même four.
 
 
 PLANCHE VIII.
@@ -121,9 +126,10 @@ PLANCHE VIII.
 
 [![Planche 8](Planche_08.jpeg)](Planche_08.jpeg)
 
-Suite de la fig.
-29. Plan du four à chaux.
-30. & 31. Bassins A B, destinés à la préparation de la chaux, pour être employée dans la maçonnerie. C, communication du bassin supérieur A au bassin inférieur B; elle est garnie d'une grille. Nota. L'exploitation de la pierre à chaux ayant été considérée par ceux qui ont traité la partie de l'Agriculture, comme appartenante à l'Economie rustique, on trouvera dans cette partie une Planche représentant les différens détails d'un four à chaux ; & cela ne doit pas être regardé comme un double emploi, parce que ce four devoit être traité aussi, mais sous un autre point de vûe, par celui qui a été chargé de la maçonnerie.
+- Suite de la fig. 29. Plan du four à chaux.
+
+30. &
+31. Bassins A B, destinés à la préparation de la chaux, pour être employée dans la maçonnerie. C, communication du bassin supérieur A au bassin inférieur B; elle est garnie d'une grille. Nota. L'exploitation de la pierre à chaux ayant été considérée par ceux qui ont traité la partie de l'Agriculture, comme appartenante à l'Economie rustique, on trouvera dans cette partie une Planche représentant les différens détails d'un four à chaux ; & cela ne doit pas être regardé comme un double emploi, parce que ce four devoit être traité aussi, mais sous un autre point de vûe, par celui qui a été chargé de la maçonnerie.
 
 
 PLANCHE IX. Fondemens.
@@ -131,12 +137,14 @@ PLANCHE IX. Fondemens.
 
 [![Planche 9](Planche_09.jpeg)](Planche_09.jpeg)
 
-32. & 33. Maniere de fonder par les piles.
+32. &
+33. Maniere de fonder par les piles.
 	- A, les piles.
 	- B, le bon fond.
 	- C, C, C, fig. 32. arcs bandés sur les piles.
 	- C, C, C, fig. 33. ares renversés.
-34. & 35. Maniere de fonder sur le roc.
+34. &
+35. Maniere de fonder sur le roc.
 	- A A, le roc.
 	- B, B, piles élevées, ou maçonneries adossées.
 	- C, fig. 34. assises pratiquées par ressaut au roc.
@@ -190,14 +198,18 @@ PLANCHE X.
 49. Autre pince semblable, mais plus petite.
 50. Rouleau.
 51. Autre rouleau.
-52. & 53. Esses.
+52. &
+53. Esses.
 54. Fer de l'esse, vû du côté de l'oeil.
-55 & 56. Masse de fer quarrée, appellée mail, & son fer vû du côté de l'oeil.
-57 & 58. Autre masse de fer quarrée, plus petite que la précédente, & vûe du côté de l'oeil seulement, ne s'étant pas trouvé sur la Planche suffisamment de place pour la représenter montée avec son manche.
+55. &
+56. Masse de fer quarrée, appellée mail, & son fer vû du côté de l'oeil.
+57. &
+58. Autre masse de fer quarrée, plus petite que la précédente, & vûe du côté de l'oeil seulement, ne s'étant pas trouvé sur la Planche suffisamment de place pour la représenter montée avec son manche.
 59. Tire-terre.
 60. Fer de tire-terre, vû du côté de l'oeil.
 61. Marteau.
-62. & 63. Coins.
+62. &
+63. Coins.
 64. Cric.
 	- A, la manivelle.
 	- B, le croissant.
@@ -226,20 +238,33 @@ PLANCHE XI. Outils du maçon & du tailleur de pierre.
 80. Fer de la grosse masse, vû du côté de l'oeil.
 81. Petite masse.
 82. Fer de la petite masse, vû du côté de l'oeil.
-83. & 85. Têtus.
-84. & 86. Fers de ces deux têtus.
-87. & 88. Autre têtu à démolir, avec son fer.
-89. & 90. Marteau à deux pointes, & son fer vû du côté de l'oeil.
-91. & 92. Marteau bretelé à pointe, & son fer.
-93. & 94. Marteau avec bretelure & hache, & son fer, vû du côté de l'oeil.
-95. & 96. Marteau avec hache des deux bouts, & son fer.
-97. & 98. Marteau à dégrossir, & son fer.
+83. Têtus.
+84. Fers de ces deux têtus.
+85. Têtus.
+86. Fers de ces deux têtus.
+87. &
+88. Autre têtu à démolir, avec son fer.
+89. &
+90. Marteau à deux pointes, & son fer vû du côté de l'oeil.
+91. &
+92. Marteau bretelé à pointe, & son fer.
+93. &
+94. Marteau avec bretelure & hache, & son fer, vû du côté de l'oeil.
+95. &
+96. Marteau avec hache des deux bouts, & son fer.
+97. &
+98. Marteau à dégrossir, & son fer.
 99. Ciseau large.
-100. & 101. Marteau à démolir les cloisons & les murs en plâtre, avec son fer.
-102. & 103. Marteau à deux pointes, & son fer.
-104. & 105. Marteau quarré d'un côté, & à pointe de l'autre, avec son fer, vû du côté de l'oeil.
-106. & 107. Hachette.
-108. & 109. Déceintroir.
+100. &
+101. Marteau à démolir les cloisons & les murs en plâtre, avec son fer.
+102. &
+103. Marteau à deux pointes, & son fer.
+104. &
+105. Marteau quarré d'un côté, & à pointe de l'autre, avec son fer, vû du côté de l'oeil.
+106. &
+107. Hachette.
+108. &
+109. Déceintroir.
 110. Poinçon.
 
 
@@ -266,7 +291,8 @@ PLANCHE XII.
 126. Autre truelle.
 127. Autre truelle avec bretelure.
 128. Pic. 129. Pic vû du côté de la douille.
-130. & 131. Pioche.
+130. &
+131. Pioche.
 132. Pelle.
 133. Batte.
 134. Hotte.
@@ -328,8 +354,10 @@ PLANCHE XIII.
 	- A, levier.
 	- B, treuil.
 	- D, cordage.
-158. & 159. Leviers ou boulins.
-160. & 161. Grueau.
+158. &
+159. Leviers ou boulins.
+160. &
+161. Grueau.
 	- A, levier.
 	- B, treuil.
 	- C, cordage.
@@ -364,7 +392,7 @@ PLANCHE XIII.
 	- M, la grande moise.
 	- O, le mamelon du treuil.
 	- P, sa lumiere.
-163.
+163. 
 	- B, louve.
 	- C, louveteau.
 	- D, esse.

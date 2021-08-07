@@ -85,7 +85,7 @@ PLANCHES XXXVI. & XXXVII.
 
 Développemens des principaux ornemens répandus dans la décoration des trois pieces précédentes.
 
-[![Planche 36](Planche_36.jpeg)](Planche_36.jpeg)
+[![Planche 36 & 37](Planche_36_&_37.jpeg)](Planche_36_&_37.jpeg)
 
 Le genre mâle que la plûpart de nos architectes cherchent aujourd'hui à donner à nos ornemens, leur a semblé néanmoins ne pas devoir exiger ce caractere de pesanteur que nos anciens ont affecté dans les dedans des appartemens, ni cette prodigalité de petites parties que nous avons déjà reprochée à la plûpart de nos sculpteurs en bois, mais un juste milieu entre ces deux excès, parce qu'ils ont senti enfin que les décorations intérieures doivent être agréables ; que rien n'y doit paroître lourd ni dans les masses ni dans les détails ; que même il étoit nécessaire de réveiller leur ordonnance par un peu de contraste, pourvu qu'il ne fût point outré; le contraste dont plusieurs ont abusé quelquefois, n'ayant engendré que des chimeres, & qu'ils ont senti que trop de symétrie à son tour ne produisoit souvent que des compositions froides & monotones. Les ornemens de ces deux Planches sont également exempts de ces deux défauts, en fixant, pour ainsi dire, le véritable goût & le style propre à cette partie de l'art.
 
@@ -93,7 +93,7 @@ Le genre mâle que la plûpart de nos architectes cherchent aujourd'hui à donne
 PLANCHES XXXVIII. & XXXIX.
 --------------------------
 
-[![Planche 37](Planche_37.jpeg)](Planche_37.jpeg)
+[![Planche 38 & 39](Planche_38_&_39.jpeg)](Planche_38_&_39.jpeg)
 
 Ces deux dernieres Planches offrent les plans & les décorations intérieures d'un escalier bâti sur les desseins de M. Franque, architecte du roi, à l'abbaye de Vaux-luisant. La simplicité qui regne dans son ordonnance, sans être pauvre, la proportion des membres qui y président, un certain caractere de fermeté qui se remarque dans les profils, la forme ingénieuse des rampes & du contour des marches qu'il a fallu assujettir à la hauteur du premier étage, en conservant un palier au milieu, sont les motifs qui nous ont portés à préférer cet exemple à tout autre d'une distribution plus compliquée. D ailleurs l'Architecture françoise offrira à nos lecteurs plus d'un modele en ce genre, & plusieurs monumens considérables, qui accompagnés des descriptions que nous avons été chargés d'en faire, pourront contribuer à développer les connoissances des jeunes artistes. Au reste, ce sera au public éclairé à juger des observations répandues dans l'un & l'autre ouvrage ; au-moins l'assûrons-nous de notre impartialité. La meilleure preuve que nous en puissions donner, c'est le choix des productions que nous lui offrons ici, & la réputation que se sont acquis les habiles artistes qui ont la meilleure part en cette collection.
 

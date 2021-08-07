@@ -75,25 +75,15 @@ PLANCHE III. Outils.
 [![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
 
 1. Serpe.
-
 2. Hoyau ou pioche.
-
 3. Pelle. F, le manche.
-
 4. Herque ou rateau de fer C D. 
-
 5. Coignée. 
-
 6. Faulx.
-
 7. Rabot.
-
 8. Tariere.
-
 9. Crochet G.
-
 10. La voiture à charbon.
-
 11. La brouette.
 
 Nota. On a rapporté dans le discours ces figures aux Planches des grosses forges.

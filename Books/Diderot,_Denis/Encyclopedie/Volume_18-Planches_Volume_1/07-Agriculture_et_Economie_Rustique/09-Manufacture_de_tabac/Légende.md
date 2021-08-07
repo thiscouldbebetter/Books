@@ -24,11 +24,12 @@ Le milieu de la Planche, attelier de la mouillade.
 2. Ouvrier monté sur un amas de feuilles. Il tient d'une main un seau rempli de sauce, & de l'autre un aspersoir pour mouiller par couches ce qu'on appelle déchets mélangés. On voit par la figure que cet attelier est placé au rez-de-chaussée ; que le pavé est formé par de grandes dalles de pierres un peu inclinées vers celles du milieu E, qui sont creusées en caniveau pour laisser écouler l'eau superflue. D, planche qui couvre une partie du caniveau, afin que l'accès auprès des cuves de pierre F G, soit plus facile. Les parois de cet attelier sont couverts de fortes planches, pour empêcher que les tas de feuilles ne touchent les murailles. Il y a aussi différentes tables, comme M.
 
 Le bas de la Planche. Les parties les plus essentielles de l'attelier de la mouillade, vûes plus en grand, & cottées des mêmes lettres.
-	- A B, seaux.
-	- C, manne.
-	- D, planche qui couvre le caniveau E.
-	- F G, deux robinets partant d'un tuyau commun, par lesquels l'eau nécessaire est versée dans les cuves de pierre qui sont au-dessous, dans lesquelles on prépare la sauce.
-	- H, K, grands & petits balais ou aspersoirs à l'usage des mouilleurs.
+
+- A B, seaux.
+- C, manne.
+- D, planche qui couvre le caniveau E.
+- F G, deux robinets partant d'un tuyau commun, par lesquels l'eau nécessaire est versée dans les cuves de pierre qui sont au-dessous, dans lesquelles on prépare la sauce.
+- H, K, grands & petits balais ou aspersoirs à l'usage des mouilleurs.
 
 
 PLANCHE II.
@@ -130,12 +131,12 @@ PLANCHE IV. Presses.
 
 Attelier des presses où on met le tabac en carottes.
 
-	- 1, 2, 3, 4, 5, 6, &c. presses rangées des deux côtés & sur le mur du fond de cet attelier. Il y en a dans la fabrique de Paris jusqu'à soixante rangées le long des quatre faces d'une longue galerie. Vingt ou vingt-cinq ouvriers appliquent leurs forces à l'extrémité du grand levier de fer avec lequel on fait tourner les vis des presses.
-	- A, chapiteau qui couvre l'ouverture de l'écrou dans lequel passe la vis, dont l'extrémité supérieure entre dans le chapiteau, lorsqu'on desserre la presse, & que la lanterne est élevée à une certaine hauteur.
-	- B, la lanterne qui est montée quarrément sur la vis, & dont les platines & les fuseaux sont aussi de fer.
-	- C, sommier ou table de la presse entaillée aux quatre coins pour faire place aux jumelles le long desquelles il peut descendre, étant suspendu à l'extrémité inférieure de la vis. L'excursion est d'environ deux piés.
-	- D, pile de tables remplies de moules, dans chacun desquels on a mis six ou huit longueurs, que la forte pression réunit & forme en carottes.
-	- E, seuil de la presse dont on ne voit que la moindre partie, le reste étant dans une fosse recouverte de planches qui affleurent le plancher ou rez-de-chaussée de cet attelier. La presse cottée 2 est entierement vuide, ainsi que toutes celles qui sont du côté des fenêtres. Celles qui sont cottées 3, 4, 6, ont été plus ou moins comprimées. Celle qui est cottée 5 n'a point de sommier ni de vis. On voit aussi dans le milieu du même attelier un long établi sur lequel on range les tables qui contiennent les moules.
+- 1, 2, 3, 4, 5, 6, &c. presses rangées des deux côtés & sur le mur du fond de cet attelier. Il y en a dans la fabrique de Paris jusqu'à soixante rangées le long des quatre faces d'une longue galerie. Vingt ou vingt-cinq ouvriers appliquent leurs forces à l'extrémité du grand levier de fer avec lequel on fait tourner les vis des presses.
+- A, chapiteau qui couvre l'ouverture de l'écrou dans lequel passe la vis, dont l'extrémité supérieure entre dans le chapiteau, lorsqu'on desserre la presse, & que la lanterne est élevée à une certaine hauteur.
+- B, la lanterne qui est montée quarrément sur la vis, & dont les platines & les fuseaux sont aussi de fer.
+- C, sommier ou table de la presse entaillée aux quatre coins pour faire place aux jumelles le long desquelles il peut descendre, étant suspendu à l'extrémité inférieure de la vis. L'excursion est d'environ deux piés.
+- D, pile de tables remplies de moules, dans chacun desquels on a mis six ou huit longueurs, que la forte pression réunit & forme en carottes.
+- E, seuil de la presse dont on ne voit que la moindre partie, le reste étant dans une fosse recouverte de planches qui affleurent le plancher ou rez-de-chaussée de cet attelier. La presse cottée 2 est entierement vuide, ainsi que toutes celles qui sont du côté des fenêtres. Celles qui sont cottées 3, 4, 6, ont été plus ou moins comprimées. Celle qui est cottée 5 n'a point de sommier ni de vis. On voit aussi dans le milieu du même attelier un long établi sur lequel on range les tables qui contiennent les moules.
 
 1. Pieces du moule vû en grand. Il est composé de deux pieces de bois gh, kl, creusées en gouttieres demi-cylindriques. Les pieces inférieures k l sont séparées les unes des autres par de petits ais m m, n n, comme on le voit dans toutes les autres figures de la même planche.
 

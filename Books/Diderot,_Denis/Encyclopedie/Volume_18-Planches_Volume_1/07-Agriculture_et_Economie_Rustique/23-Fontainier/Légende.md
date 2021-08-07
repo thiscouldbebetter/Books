@@ -26,6 +26,7 @@ PLANCHES I. & II. réunies.
 2. Nivellement en descendant par un seul coup de niveau.
 3. Nivellement en descendant & remontant des deux côtés d'une vallée par plusieurs coups de niveau.
 
+
 Suite de la PLANCHE II. & PLANCHE III. réunies.
 -----------------------------------------------
 

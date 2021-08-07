@@ -18,15 +18,16 @@ PLANCHE III. Coupe verticale du moulin sur sa largeur.
 [![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
 
 Engin à tirer au vent.
-	- 12, Treuil.
-	- 13, chaperon.
-	- 64, jambes.
-	- 60, essieu.
-	- k, poteau debout.
-	- i, liens.
-	- 2, 3, semelles.
-	- 63, roues.
-	- 69, pieu.
+
+- 12, Treuil.
+- 13, chaperon.
+- 64, jambes.
+- 60, essieu.
+- k, poteau debout.
+- i, liens.
+- 2, 3, semelles.
+- 63, roues.
+- 69, pieu.
 
 
 PLANCHE IV. Vûe perspective de l'intérieur du moulin. 
@@ -251,6 +252,7 @@ PLANCHE VIII.
 -------------
 
 [![Planche 8](Planche_8.jpeg)](Planche_8.jpeg)
+
 7. Coupe longitudinale suivant la longueur d'un des coursiers.
 	- A A, niveau des eaux au-dessus du moulin.
 	- B C, vannes qui descendent à coulisses dans des poteaux, pour ouvrir ou fermer le coursier.

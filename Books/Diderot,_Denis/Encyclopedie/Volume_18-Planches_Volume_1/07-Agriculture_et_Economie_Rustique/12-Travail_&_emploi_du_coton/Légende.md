@@ -54,7 +54,7 @@ PLANCHE II. Maniere de peigner le coton.
 
 1. Premiere opération. Peigner du coton avec une seule carde.
 
-1. bis. Flocons de coton faits à la main, après qu'on a séparé la graine.
+	-1. bis. Flocons de coton faits à la main, après qu'on a séparé la graine.
 
 2. Seconde opération. Continuation du peigner du coton, ou partage du coton sur deux cardes.
 

@@ -34,14 +34,16 @@ PLANCHE II.
 	- P, point de concours des joints m n, m n.
 	- R, point de concours des joints n o, n o.
 	- G, point de concours des joints de lit des claveaux du platfond.
-12. n. 1. Epure d'un berceau cylindrique.
-12. n. 2. Epure d'un claveau de voûte cylindrique.
-	- c, d, g, h, la doele entourée des paneaux de lit & de tête, désignés par les autres lettres.
+12. 
+	- n. 1. Epure d'un berceau cylindrique.
+	- n. 2. Epure d'un claveau de voûte cylindrique.
+		- c, d, g, h, la doele entourée des paneaux de lit & de tête, désignés par les autres lettres.
 13. Fausse coupe dans un berceau cylindrique.
 14. Bonne coupe d'une plate-bande A B.
-15. n. 1. Fausse coupe apparente d'une des plates-bandes des fenêtres & portes du Louvre.
-15. n. 2. Clé de la plate-bande en perspective.
-15. n. 3. Un des autres voussoirs.
+15.
+	- n. 1. Fausse coupe apparente d'une des plates-bandes des fenêtres & portes du Louvre.
+	- n. 2. Clé de la plate-bande en perspective.
+	- n. 3. Un des autres voussoirs.
 16. Direction que doit avoir le fil ou lit de la pierre dans un voussoir.
 17. Liaisons des pierres dans un mur.
 18. Voûte gothique : les nervures qui répondent audessus des lignes a d, b c, sont les arcs doubleaux ; celles au-dessus des lignes a b, d c, lorsque ces parties sont fermées de mur, s'appellent formerets. mp, mn, mo, sont les liernes ; ap, bp, co, cn, sont les tiercerons ; a c, b d, sont les ogives.
@@ -58,7 +60,9 @@ PLANCHE III.
 22. Plate-bande, dont une moitié B C est composée de voussoirs, dont les joints de lit sont formés par un seul plan, C C, & l'autre moitié A C, par des voussoirs à crossettes. 
 22. n. 2. Un des voussoirs à crossette en perspective.
 23. Equerre du tailleur de pierre ; elle est de fer.
-24. & 24. n. 2. Usage de l'équerre pour équarrir une pierre.
+24.
+	- n. 1 &
+	- n. 2. Usage de l'équerre pour équarrir une pierre.
 25. Sauterelle, fausse équerre ou récipiangle.
 26. Arc surbaissé.
 27. Arc surhaussé. Outils du tailleur de pierre.
@@ -83,7 +87,9 @@ PLANCHE IV.
 
 29. Epure.
 30. Voûte plate d'une seule pierre.
-31. & 31. n. 2. Voûte plate, composée de plusieurs rangs de voussoirs inscrits les uns dans les autres.
+31.
+	- n. 1 &
+	- n. 2. Voûte plate, composée de plusieurs rangs de voussoirs inscrits les uns dans les autres.
 32. Plate-bande.
 33. Plancher composé de poutrelles, proposé par Serlio.
 34. 
@@ -92,13 +98,13 @@ PLANCHE IV.
 35. Doele d'une voûte plate, proposée par M. Abeille.
 36. Extrados de la même voûte.
 37. Compartiment de l'extrados d'une voûte plate, dont les claveaux ne laissent point de vuide.
-37. n. 2.
-	- A, doele d'un des claveaux de la voûte précédente.
-	- B, extrados du même claveau.
+	- n. 2.
+		- A, doele d'un des claveaux de la voûte précédente.
+		- B, extrados du même claveau.
 38. Compartiment de l'extrados d'une voûte plate en quarrés égaux, diagonalement opposés à ceux de l'intrados.
-38. n. 2.
-	- a, doele ou intrados d'un des claveaux de la voûte précédente.
-	- b, extrados du même claveau.
+	- n. 2.
+		- a, doele ou intrados d'un des claveaux de la voûte précédente.
+		- b, extrados du même claveau.
 
 
 PLANCHE V.
@@ -106,7 +112,10 @@ PLANCHE V.
 
 [![Planche 5](Planche_5.jpeg)](Planche_5.jpeg)
 
-1. 2. 3. 4. Démonstrations relatives à la poussée des voûtes.
+1. &
+2. &
+3. &
+4. Démonstrations relatives à la poussée des voûtes.
 
 
 [->](../10-Moulin_à_scier_des_pierres/Légende.md)

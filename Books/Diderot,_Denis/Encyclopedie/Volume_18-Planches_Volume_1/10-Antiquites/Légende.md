@@ -184,4 +184,4 @@ PLANCHE XI.
 	- 29, le chevet de l'église ; l'arcade qui en faisoit l'ouverture, s'appelloit apsis ; le dessus en voûte ou niche, s'appelloit concha.
 
 
-[->](../11-Architecture_et_Parties_qui_en_Dependent/Contenant.md)
+[->](../11-Architecture_et_Parties_qui_en_Dependent/01-Contenant.md)

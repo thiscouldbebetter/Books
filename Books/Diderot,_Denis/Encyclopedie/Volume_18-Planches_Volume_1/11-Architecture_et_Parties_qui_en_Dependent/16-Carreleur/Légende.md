@@ -23,7 +23,7 @@ PLANCHE I.ere
 	- E, la cheminée.
 11. Coupe du four prise en-travers, en regardant du côté de la cheminée.
 12. Coupe du four, de la bouchette & de la cheminée prise sur la longueur.
-13.
+13. 
 	- A, terre argilleuse pêtrie pour faire le carreau.
 	- B, tas de sable pour mêler à la terre.
 	- C, moule quarré.

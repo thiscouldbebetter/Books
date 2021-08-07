@@ -10,7 +10,7 @@ Machine à forer & à aleser les canons de fusil.
 
 [![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
-1.
+1. 
 	- A, Bac qui se remplit d'eau.
 	- B, tuyau ou canette qui conduit l'eau dans le bac A.
 	- CC, canal qui conduit l'eau sur les aubes de la roue D.
@@ -22,16 +22,17 @@ La roue G fait tourner la roue M.
 
 La roue M, par un arbre N qu'on ne voit pas, commun à cette roue M & à la meule O, fait tourner la meule O, le quarré P, & le foret Q.
 
-	- R, fosse du foreur.
-	- S, fermeture.
-	- T, piece échancrée qui porte le canon.
-	- V, planche où est placé le semeur.
-	- C, X, Y, rigoles qui portent de l'eau à toutes les fosses.
+- R, fosse du foreur.
+- S, fermeture.
+- T, piece échancrée qui porte le canon.
+- V, planche où est placé le semeur.
+- C, X, Y, rigoles qui portent de l'eau à toutes les fosses.
 
 Plan de la machine.
 
 2. Les mêmes lettres désignent les mêmes parties que ci-dessus.
-3. & 7. Plans de deux forges.
+3. &
+7. Plans de deux forges.
 	- 1, la branloire.
 	- 2, le soufflet.
 	- 3, la forge.
@@ -80,7 +81,7 @@ PLANCHE III.
 
 7. Vis C de la fig. 5. vûe séparément. Son embase est aussi terminée par un boulon taraudé, qui reçoit, après avoir traversé l'établi, l'écrou V.
 
-8.
+8. 
 	- A, E, les fourchettes.
 	- G, coq ajoûté à l'une des fourchettes, dans lequel sont placés les colets g, qui reçoivent un des tourillons de l'arbre de la meule.
 	- f, colets qui reçoivent l'autre tourillon.
@@ -93,17 +94,20 @@ PLANCHE III.
 	- L L, coupe des jumelles qui reposent sur la table.
 	- b, virole ou goutte de cuivre, par laquelle passe la vis d. Cette vis, après avoir traversé la table, entre dans le TE'H. e, oeil de la vis.
 
-11.
+11. 
 	- M, la meule-taillée.
 	- G, la poulie.
 
 12. fig, l'arbre commun de la meule M, & de la poulie G, qui y sont fixées par des écrous.
 
-13. & 15. Deux pieces pareilles ; ce sont des regles qui servent de guides au chariot. L, M, vis de pression qui assujettissent-ces guides sur la table.
+13. Deux pieces pareilles ; ce sont des regles qui servent de guides au chariot.
+	- L, M, vis de pression qui assujettissent-ces guides sur la table.
 
-14.
+14. 
 	- l m, l m, plan de la table.
 	- 5, 6, ouverture, par laquelle la partie supérieure de la meule sort, comme on voit, fig. 3. 1, 2, 3, 4, 7, 8, 9, 10, 11, 12, 13, mortoises, à-travers lesquelles passent les vis d e, fig. 10. qui servent à fixer les TE'qui limitent la course du chariot.
+
+15. Voyez 13.
 
 16. Patins mobiles de la poupée à pointe lisse.
 	- g, partie du patin qui marche entre les guides LM, LM des fig. 13. & 15.
@@ -339,4 +343,4 @@ PLANCHE VI.
 	- d, renfort percé d'un trou foncé, fraisé & taraudé, qui reçoit l'extrémité B de la vis de culasse (fig. 8.)
 
 
-[->](../15-Art_militaire/Contenant.md)
+[->](../15-Art_militaire/1-Contenant.md)
