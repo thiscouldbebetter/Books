@@ -11,12 +11,13 @@ La vignette représente l'intérieur d'une chambre où l'on éleve des vers à s
 
 3. Table avec une boîte placée dessus pour être nettoyée.
 
-4. & 5. Deux hommes occupés aux soins que demandent les vers à soie. 
+4. &
+5. Deux hommes occupés aux soins que demandent les vers à soie. 
 
-4. l'un des deux hommes sépare les vers malades de ceux qui se disposent à faire leur soie.
+	- 4, l'un des deux hommes sépare les vers malades de ceux qui se disposent à faire leur soie.
 
-5. l'autre homme leur porte des feuilles fraîches.
-	- a, b, c, tablettes ou rayons sur lesquelles on pose aussi des boîtes pleines de vers. On y voit la bruyere ou les branchages auxquels les vers à soie vont s'attacher quand ils forment leurs cocons. On met de pareils branchages aux boîtes placées sur le corps des tablettes de la fig. 1. comme on les voit en d.
+	- 5, l'autre homme leur porte des feuilles fraîches.
+		- a, b, c, tablettes ou rayons sur lesquelles on pose aussi des boîtes pleines de vers. On y voit la bruyere ou les branchages auxquels les vers à soie vont s'attacher quand ils forment leurs cocons. On met de pareils branchages aux boîtes placées sur le corps des tablettes de la fig. 1. comme on les voit en d.
 
 6. Boîte où l'on voit des oeufs à faire éclore.
 

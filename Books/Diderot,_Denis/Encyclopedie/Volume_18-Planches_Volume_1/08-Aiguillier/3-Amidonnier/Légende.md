@@ -9,11 +9,11 @@ AMIDONNIER.
 
 3. Ouvrier qui lave avec de l'eau claire dans le tonneau d les résidus de la matiere restée dans le sas de crin l.
 
-	-3 bis. Ouvrier qui enleve l'eau avec une sebille de bois jusqu'à ce que la matiere déposée au fond du tonneau h paroisse.
+	- 3 bis. Ouvrier qui enleve l'eau avec une sebille de bois jusqu'à ce que la matiere déposée au fond du tonneau h paroisse.
 
 4. L'amidon tiré du tonneau H, & mis dans des paniers o, est porté dans le grenier.
 
-	- 4. bis. L'amidon m renversé sur le plancher pour être rompu en plusieurs morceaux n. 
+	- 4 bis. L'amidon m renversé sur le plancher pour être rompu en plusieurs morceaux n. 
 
 5. Les morceaux d'amidon déjà secs en partie, sont portés sur les essuis ou tablettes i i i i.
 

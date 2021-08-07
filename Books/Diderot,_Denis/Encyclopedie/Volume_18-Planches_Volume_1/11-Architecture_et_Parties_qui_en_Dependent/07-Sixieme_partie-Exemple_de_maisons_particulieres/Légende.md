@@ -7,7 +7,7 @@ Sous le nom de bâtimens particuliers on comprend deux sortes d'habitations, les
 
 A leur défaut, dans les premiers bâtimens dont il s'agit, il faut seulement faire usage de l'expression d'un de ces ordres, pour l'appliquer selon le goût ou le rang de celui qui doit l'habiter, & se ressouvenir que l'Architecture doit toûjours être d'un bon style ; les ornemens, quand ils sont nécessaires, répandus avec choix ; & les façades régulieres.
 
-Les secondes habitations doivent aussi avoir leur caractere particulier, qui consiste en une plus ou moins grande simplicité assortie à l'importance des villes où elles sont élevées. La symétrie, la solidité, la commodité & l'économie, doivent faire l'objet capital de ces dernieres demeures : plusieurs corps-de-logis séparés par des cours airées doivent déterminer le local de leur distribution ; selon leur situation, elles doivent contenir ou des boutiques, ou des magasins, ou des atteliers, ou des logemens subalternes ; dispositions néanmoins qui ne doivent nuire en rien à l'ordonnance des façades sur la rue (a), parce que ces sortes d'habitations étant en bien plus grand nombre que les autres édifices, elles doivent contribuer à la décoration & à l'embellissement des villes.
+Les secondes habitations doivent aussi avoir leur caractere particulier, qui consiste en une plus ou moins grande simplicité assortie à l'importance des villes où elles sont élevées. La symétrie, la solidité, la commodité & l'économie, doivent faire l'objet capital de ces dernieres demeures : plusieurs corps-de-logis séparés par des cours airées doivent déterminer le local de leur distribution ; selon leur situation, elles doivent contenir ou des boutiques, ou des magasins, ou des atteliers, ou des logemens subalternes ; dispositions néanmoins qui ne doivent nuire en rien à l'ordonnance des façades sur la rue (b), parce que ces sortes d'habitations étant en bien plus grand nombre que les autres édifices, elles doivent contribuer à la décoration & à l'embellissement des villes.
 
 Appliquons ces notions élémentaires à la distribution & à la décoration d'une maison particuliere de la premiere classe, projettée pour Avignon par M. Franque, architecte du Roi.
 
@@ -43,8 +43,8 @@ PLANCHE XXVIII.
 
 Cette Planche fait voir la coupe du corps-de-logis sur la rue, l'élévation de l'aîle de bâtiment sur la cour, & la décoration intérieure du cabinet en galerie donnant sur le jardin. On voit régner dans cette façade le même caractere que dans les élévations précédentes : unité recommandable comme le seul moyen de rendre un bâtiment de peu d'étendue, plus considérable en apparence.
 
-(a) Une maison particuliere bâtie par M. Cartault pour M. Janvri, rue de Varenne, faubourg S. Germain, est telle que nous la desirons. Le bâtiment élevé pour M. d'Argenson, alors Chancelier de M. le Duc d'Orléans, par M. Boiffrand, rue des Bons-Enfans, est encore un exemple de ce que nous recommandons. 
-(a) Une maison bourgeoise, rue Saint-Martin, vis-à-vis la fontaine Maubué, & une autre, rue des mauvaises Paroles, toutes deux bâtis par M. Cartault, sont dans le genre que nous indiquons ici. 
+- (a) Une maison particuliere bâtie par M. Cartault pour M. Janvri, rue de Varenne, faubourg S. Germain, est telle que nous la desirons. Le bâtiment élevé pour M. d'Argenson, alors Chancelier de M. le Duc d'Orléans, par M. Boiffrand, rue des Bons-Enfans, est encore un exemple de ce que nous recommandons. 
+- (b) Une maison bourgeoise, rue Saint-Martin, vis-à-vis la fontaine Maubué, & une autre, rue des mauvaises Paroles, toutes deux bâtis par M. Cartault, sont dans le genre que nous indiquons ici. 
 
 
 [->](../08-Septieme_partie-Décoration_intérieure_de_l'appartement_de_parade_du_Palais-royal/Légende.md)

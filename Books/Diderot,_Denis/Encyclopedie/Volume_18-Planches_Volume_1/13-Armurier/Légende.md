@@ -43,7 +43,9 @@ PLANCHE II.
 	- 9, genouilleres.
 	- 10, greves ou armures des jambes.
 
-On voit dans le lointain le cheval du gendarme ou du chevalier. La tête du cheval est couverte par un chamfrain, & le corps est bardé. Cette derniere figure est tirée de la médaille de Charles VII. & de la figure de Philippe-le-Bel, qui est dans l'église de Notre-Dame de Paris. Les figures 2. 3. 4. représentent des cimiers, c'est-à-dire des ornemens que les princes & chevaliers mettoient au-dessus de leur heaume ou casque.
+On voit dans le lointain le cheval du gendarme ou du chevalier. La tête du cheval est couverte par un chamfrain, & le corps est bardé. Cette derniere figure est tirée de la médaille de Charles VII. & de la figure de Philippe-le-Bel, qui est dans l'église de Notre-Dame de Paris.
+
+Les figures 2. 3. 4. représentent des cimiers, c'est-à-dire des ornemens que les princes & chevaliers mettoient au-dessus de leur heaume ou casque.
 
 La figure 2. est le cimier royal ; c'est une couronne placée au-dessus du casque, qui a une visiere composée de petites grilles.
 

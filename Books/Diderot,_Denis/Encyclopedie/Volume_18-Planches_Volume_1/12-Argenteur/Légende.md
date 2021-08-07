@@ -23,7 +23,7 @@ Vignette.
 		- e, coussinet sur lequel se coupe la feuille d'argent, représenté au bas de la Planche, fig. 1. n. 4. 
 2. Maniere de charger, c'est-à-dire d'appliquer les feuilles d'argent sur la piece. L'ouvrier tient de la main droite le brunissoir à ravaler, & de l'autre les brusselles. 
 3. &
-	- 3. bis. La chaudiere répétée fig. 15.
+	- bis. La chaudiere répétée fig. 15.
 4. Ouvrieres qui brunissent une piece.
 
 

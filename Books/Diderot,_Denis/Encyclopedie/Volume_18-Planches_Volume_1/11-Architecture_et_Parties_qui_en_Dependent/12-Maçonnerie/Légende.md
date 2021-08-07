@@ -156,7 +156,8 @@ PLANCHE IX. Fondemens.
 37. La même maniere de fonder par les pierrées avec une seule cloison, quand le roc est escarpé.
 	- A, le roc.
 	- B, espace entre le roc & la maçonnerie, qu'on remplit de pierrées.
-	- C, cloison, B, maçonnerie.
+	- C, cloison,
+	- D, maçonnerie.
 38. Fondation par arcades, dans les cas où l'on veut économiser.
 	- A A, le roc.
 	- C, C, massif3.
@@ -290,7 +291,8 @@ PLANCHE XII.
 125. Truelle.
 126. Autre truelle.
 127. Autre truelle avec bretelure.
-128. Pic. 129. Pic vû du côté de la douille.
+128. Pic.
+129. Pic vû du côté de la douille.
 130. &
 131. Pioche.
 132. Pelle.
@@ -320,7 +322,8 @@ PLANCHE XIII.
 149. Fiche.
 150. Brancard.
 151. Bouriquet.
-152. Manivelle. A, le boulon de fer qui la traverse.
+152. Manivelle.
+	- A, le boulon de fer qui la traverse.
 153. Mouton.
 	- A, Pilot.
 	- B, billot de bois, vulgairement appellé mouton.
@@ -336,6 +339,7 @@ PLANCHE XIII.
 	- B, cerches.
 	- C, boulins.
 	- D, planches.
+
 155. Sonde avec ses pieces.
 	- A, le manche.
 	- B, B, B, tringles de fer.
@@ -343,6 +347,7 @@ PLANCHE XIII.
 	- D, douille.
 	- E, cuilliere.
 	- F, fraise.
+
 156. Chevre.
 	- A, treuil.
 	- B, cordage.
@@ -350,14 +355,14 @@ PLANCHE XIII.
 	- D, poulies.
 	- E, bras.
 	- F, traverses.
+
 157. Cabestan ou vindas.
 	- A, levier.
 	- B, treuil.
 	- D, cordage.
 158. &
 159. Leviers ou boulins.
-160. &
-161. Grueau.
+160. & 161, Grueau.
 	- A, levier.
 	- B, treuil.
 	- C, cordage.
@@ -393,9 +398,9 @@ PLANCHE XIII.
 	- O, le mamelon du treuil.
 	- P, sa lumiere.
 163. 
-	- B, louve.
-	- C, louveteau.
-	- D, esse.
+- B, louve.
+- C, louveteau.
+- D, esse.
 164. Ciseau à louver.
 
 

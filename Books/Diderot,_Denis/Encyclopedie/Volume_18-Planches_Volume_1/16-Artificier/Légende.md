@@ -33,7 +33,9 @@ Bas de la Planche.
 1. Baguette ou rouleau à mouler les cartouches.
 2. Baguette à charger les cartouches.
 3. Baguette à mouler les pots des fusées volantes.
-4. 5. 6. Maniere de coller & de mouler les différens cartouches.
+4. &
+5. &
+6. Maniere de coller & de mouler les différens cartouches.
 7. Modele de chapiteau d'une fusée volante.
 8. Molette pour broyer les poudres.
 9. Morceau de bois qui sert à boucher exactement le trou a de la table, fig. 10.

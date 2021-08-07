@@ -122,7 +122,9 @@ Profils, élévations & plans du fourneau pour cuire la brique, la tuile, & le c
 5. Plan du fourneau & de la bombarde au niveau de la grille.
 	- G, la grille formée par 14 ponts d'un pié de large, & espacés de quatre pouces. Ces ponts sont joints les uns aux autres par des briques disposées tant plein que vuide ; ce qui forme dans les entreponts un grand nombre d'ouvertures de quatre pouces de long sur un pouce & demi de large, par lesquelles la flamme qui vient par-dessous les arcades, passe & se distribue dans toute la capacité du fourneau.
 	- E, la bombarde.
-	- K L, portes pour enfourner & défourner les ouvrages : ces portes sont fermées par une maçonnerie de brique & terre franche, quand le fourneau est en feu. 6. Disposition & arrangement de la tuile dans le fourneau ; elles sont posées sur le champ en sorte que les tuiles d'une brassée croissent celles de là brassée qui est au-dessous.
+	- K L, portes pour enfourner & défourner les ouvrages : ces portes sont fermées par une maçonnerie de brique & terre franche, quand le fourneau est en feu.
+
+6. Disposition & arrangement de la tuile dans le fourneau ; elles sont posées sur le champ en sorte que les tuiles d'une brassée croissent celles de là brassée qui est au-dessous.
 
 7. Disposition & arrangement de la brique dans le fourneau. Celles du rang supérieur croisent celles du rang inférieur, & laissent de petits vuides par lesquels la flamme pénetre toute la fournée.
 

@@ -1,6 +1,8 @@
 ART MILITAIRE
-Contenant
-Planches.
+=============
+
+Contenant Planches.
+-------------------
 
 - Exercice, 5
 - Evolutions de l'infanterie, 14

@@ -54,7 +54,7 @@ PLANCHE II. Maniere de peigner le coton.
 
 1. Premiere opération. Peigner du coton avec une seule carde.
 
-	-1. bis. Flocons de coton faits à la main, après qu'on a séparé la graine.
+	- bis. Flocons de coton faits à la main, après qu'on a séparé la graine.
 
 2. Seconde opération. Continuation du peigner du coton, ou partage du coton sur deux cardes.
 
@@ -96,14 +96,16 @@ PLANCHE IV. Métier à faire la toile de coton.
 Nota. Dans le texte ce sont des lettres majuscules, & dans les Planches on a mis des lettres minuscules.
 
 Le haut de la planche représente le métier à faire la toile de coton, & l'ouvrier à son métier : ce métier n'a rien de particulier.
-	- a, le poids qui passe sur l'ensuple de derriere, & qui tend la chaîne.
-	- b b, l'ensuple & le chassis du métier.
-	- c, les lisses.
-	- d, les marches.
-	- f, l'ouvrier.
+
+- a, le poids qui passe sur l'ensuple de derriere, & qui tend la chaîne.
+- b b, l'ensuple & le chassis du métier.
+- c, les lisses.
+- d, les marches.
+- f, l'ouvrier.
 
 Au bas de la Planche, le même métier vû de profil. Les mêmes lettres marquent les mêmes parties.
-	- e e, les maillons.
+
+- e e, les maillons.
 
 
 [->](../13-Culture_de_la_vigne/Légende.md)

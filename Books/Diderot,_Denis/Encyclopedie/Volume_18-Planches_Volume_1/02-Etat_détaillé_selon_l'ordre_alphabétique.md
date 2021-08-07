@@ -174,39 +174,39 @@ AMIDONNIER. 1 Planche.
 ANATOMIE. 33 Planches.
 
 1. Le squelette vû pardevant, d'après Vesale.
-	- 1. n. 2. La tête du squelette, vûe dans sa partie inférieure, avec quelques foetus.
+	- n. 2. La tête du squelette, vûe dans sa partie inférieure, avec quelques foetus.
 2. Squelette vû de côté.
-	- 2. bis. La base du crâne, & autres détails.
+	- bis. La base du crâne, & autres détails.
 3. Squelette vû par derriere.
-	- 3. bis. L'os pariétal sous différens états.
+	- bis. L'os pariétal sous différens états.
 4. Ecorché vû de face, d'après Albinus.
-	- 4. bis. Mains & piés disséqués.
+	- bis. Mains & piés disséqués.
 5. Ecorché vû par le dos ; d'après Albinus.
 6. Les muscles des piés & des mains.
 7. Le diaphragme, d'après Haller, & le larynx, d'après Haller & Eustachi.
 8. Les arteres, d'après Drake.
-	- 8. bis. Autres détails des arteres & de quelques veines.
+	- bis. Autres détails des arteres & de quelques veines.
 9. Tronc de la veine cave.
-	- 9. bis. Tronc de la veine-porte
+	- bis. Tronc de la veine-porte
 10. Névrologie, d'après Vieussens.
 11. &
 12. Arteres de la face, d'après Haller.
-	- 11. & 12. bis. Suite des arteres de la face, d'après Haller.
+	- bis. Suite des arteres de la face, d'après Haller.
 13. De l'oreille, d'après Duverney.
 14. Intérieur du cerveau & du cervelet, d'après Haller.
 15. Les cavités du cerveau & du cervelet, d'après Tarin.
 16. Arteres de la poitrine, d'après Haller.
-	- 16. bis. Détails des arteres de la poitrine, d'après Haller.
+	- bis. Détails des arteres de la poitrine, d'après Haller.
 17. Le coeur, d'après M. Senac.
-	- 17. bis. Détails du coeur, d'après M. Senac.
+	- bis. Détails du coeur, d'après M. Senac.
 18. Quelques parties du bas-ventre, d'après Haller.
-	- 18. bis. Les reins, &c. d'après le même.
+	- bis. Les reins, &c. d'après le même.
 19. Parties de l'estomac, du foie & des parties voisines, d'après Kulm.
 20. Le rein, d'après Nuck, Bertin & Ruisch.
 21. La verge vûe de différentes manieres, d'après Ruisch, Heister & autres.
-	- 21. bis. Détails de la verge, d'après Graaf & Heister.
+	- bis. Détails de la verge, d'après Graaf & Heister.
 22. La matrice, d'après Haller.
-	- 22. bis. Détails de la matrice, d'après Haller & autres.
+	- bis. Détails de la matrice, d'après Haller & autres.
 
 
 ANTIQUITÉS. 12 Planches.

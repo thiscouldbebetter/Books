@@ -17,27 +17,25 @@ Machine à forer & à aleser les canons de fusil.
 	- D, roue qui fait tourner la poulie E.
 	- E, poulie qui fait tourner l'arbre F.
 	- F, arbre qui fait tourner la roue G, & la meule H, & le quarré I, où est adapté le foret L.
-
-La roue G fait tourner la roue M.
-
-La roue M, par un arbre N qu'on ne voit pas, commun à cette roue M & à la meule O, fait tourner la meule O, le quarré P, & le foret Q.
-
-- R, fosse du foreur.
-- S, fermeture.
-- T, piece échancrée qui porte le canon.
-- V, planche où est placé le semeur.
-- C, X, Y, rigoles qui portent de l'eau à toutes les fosses.
+	- La roue G fait tourner la roue M.
+	- La roue M, par un arbre N qu'on ne voit pas, commun à cette roue M & à la meule O, fait tourner la meule O, le quarré P, & le foret Q.
+	- R, fosse du foreur.
+	- S, fermeture.
+	- T, piece échancrée qui porte le canon.
+	- V, planche où est placé le semeur.
+	- C, X, Y, rigoles qui portent de l'eau à toutes les fosses.
 
 Plan de la machine.
 
 2. Les mêmes lettres désignent les mêmes parties que ci-dessus.
-3. &
+3. Voyez la fig. 7\.
+4. Voyez la fig. 6\.
+5. Espece d'enclume à étamper en rond.
+6. Deux enclumes, l'une à une seule bigorne, & l'autre à deux.
 7. Plans de deux forges.
 	- 1, la branloire.
 	- 2, le soufflet.
 	- 3, la forge.
-	- 4. & 6. Deux enclumes, l'une à une seule bigorne, & l'autre à deux.
-	- 5. Espece d'enclume à étamper en rond.
 
 
 PLANCHE II.
@@ -95,6 +93,7 @@ PLANCHE III.
 	- b, virole ou goutte de cuivre, par laquelle passe la vis d. Cette vis, après avoir traversé la table, entre dans le TE'H. e, oeil de la vis.
 
 11. 
+
 	- M, la meule-taillée.
 	- G, la poulie.
 
@@ -104,10 +103,11 @@ PLANCHE III.
 	- L, M, vis de pression qui assujettissent-ces guides sur la table.
 
 14. 
+
 	- l m, l m, plan de la table.
 	- 5, 6, ouverture, par laquelle la partie supérieure de la meule sort, comme on voit, fig. 3. 1, 2, 3, 4, 7, 8, 9, 10, 11, 12, 13, mortoises, à-travers lesquelles passent les vis d e, fig. 10. qui servent à fixer les TE'qui limitent la course du chariot.
 
-15. Voyez 13.
+15. Voyez la fig. 13.
 
 16. Patins mobiles de la poupée à pointe lisse.
 	- g, partie du patin qui marche entre les guides LM, LM des fig. 13. & 15.
@@ -207,6 +207,7 @@ PLANCHE V.
 	- H, vis qui fixe la batterie sur la platine.
 	- L, ressort de batterie.
 	- N, extrêmité de la plus longue des deux vis qui fixent la bride de l'autre côté de la platine.
+
 2. Platine vûe en-dedans, & garnie de toutes ses pieces.
 	- B, le chien.
 	- A E, vis de mâchoire.
@@ -263,7 +264,7 @@ PLANCHE VI.
 11. Platine vûe en-dedans, & dégarnie de toutes ses pieces.
 	- h, trou foncé, fraisé & taraudé dans un renfort cylindrique reservé à la platine qui reçoit la vis V (fig. 2. Pl. V.).
 	- e, autre trou semblable, qui reçoit la vis X; ces deux vis traversent toute l'épaisseur du fût. 
-	-2, trou lisse, qui reçoit de l'autre côté le pié du ressort de la batterie.
+	- 2, trou lisse, qui reçoit de l'autre côté le pié du ressort de la batterie.
 	- 4, trou lisse foncé & fraisé, qui reçoit le pié du grand ressort.
 	- b, trou taraudé dans le renfort quarré, qui reçoit par l'autre côté la vis de batterie.
 	- a, crochet qui retient celui du bassinet.
@@ -275,7 +276,7 @@ PLANCHE VI.
 	- i, trou lisse, foncé & fraisé, qui reçoit le pié de la bride.
 	- n, trou taraudé, qui reçoit la longue vis de la bride, après qu'elle a traversé la gâchette.
 	- m, trou foncé, fraisé & taraudé, qui reçoit la vis du ressort de gâchette.
-	- 3, mortoise foncée, qui reçoit le pié du ressort de gâchette.
+	- 3\, mortoise foncée, qui reçoit le pié du ressort de gâchette.
 
 12. Porte-vis ou contre-platine, vû en-dehors.
 	- e, h, trous lisses & fraisés pour recevoir les têtes des vis V, X (fig. 2.), qui assujettissent la platine au fut du fusil.
@@ -309,7 +310,7 @@ PLANCHE VI.
 	- s, autre pilier fixé à l'autre bras ; il repose sur la platine.
 
 17. La noix A, vûe du côté qui s'applique à la bride.
-	-4, petit-tourillon, qui entre dans le trou lisse de la bride.
+	- 4, petit-tourillon, qui entre dans le trou lisse de la bride.
 	- k, levée sur laquelle appuye le grand ressort.
 	- 1, cran qui repose sur la gâchette, lorsque le chien est sur son repos.
 	- 2, cran moins profond, qui repose sur la gâchette, lorsque le chien est bandé.
@@ -338,7 +339,8 @@ PLANCHE VI.
 21. Plan & profil du ressort de batterie.
 	- L, vis qui fixe ce ressort à la platine, & dont la tête est noyée dans le trou fraisé L de la platine (fig. 10 & 11.) ; la partie taraudée de cette vis est reçue dans un canon 3 de la même piece que le ressort.
 	- 2, pié du ressort, qui est reçu dans le trou 2 de la platine.
-	- 22. Piece de détente, dont les extrémités sont recouvertes par celles de l'arc de la sous-garde.
+
+22. Piece de détente, dont les extrémités sont recouvertes par celles de l'arc de la sous-garde.
 	- a c, fente par laquelle passe la détente (fig. 14.).
 	- d, renfort percé d'un trou foncé, fraisé & taraudé, qui reçoit l'extrémité B de la vis de culasse (fig. 8.)
 

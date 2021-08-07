@@ -125,16 +125,16 @@ PLANCHE X.
 [![Planche 10](Planche_10.jpeg)](Planche_10.jpeg)
 
 1. Proefericulum.
-2. 2. 2. Sempulum, ou sempurium.
-3. 3. 3. 3. Capides, capuloe, capedines, capedunculoe, capedunculi, urnuloe ligneoe & fictiles ; vaisseaux de bois & de terre à l'usage des sacrifices.
-4. 4. Autres pateres.
+2. & 2, 2, Sempulum, ou sempurium.
+3. & 3, 3, 3, Capides, capuloe, capedines, capedunculoe, capedunculi, urnuloe ligneoe & fictiles ; vaisseaux de bois & de terre à l'usage des sacrifices.
+4. & 4, Autres pateres.
 5. Benitier, amula, aquiminarium.
 6. Disque, discus.
 7. Maillet, malleus.
-8. 8. 8. 8. Hache.
-9. 9. Seva, ou sesespita, espece de poignard.
-10. 10. Dolabra, espece de couperet.
-11. 11. 11. Couteaux, cultri.
+8. & 8, 8, 8, Hache.
+9. & 9, Seva, ou sesespita, espece de poignard.
+10. & 10, Dolabra, espece de couperet.
+11. & 11, 11, Couteaux, cultri.
 12. Enclabris, espece de petite table.
 13. Aspersoir, aspersorium.
 14. Encensoir, acerra.

@@ -115,7 +115,8 @@ Le squelette vû par devant, d'après Vesale.
 	- μ, l'empreinte ligamenteuse où s'attache le ligament de la rotule.
 	- φ, la cheville ou la malléole interne.
 	- 37, le peroné. π, la malléole externe.
-	- 38, le tarse. +, l'astragal. le naviculaire., les trois os cunéiformes.
+	- 38, le tarse.
+	- +, l'astragal. le naviculaire., les trois os cunéiformes.
 	- 39, le métatarse.
 	- 40, les doigts qui sont composés chacun de trois os nommés phalanges.
 
@@ -263,7 +264,8 @@ Le squelette vû de côté.
 	- 49, son cou.
 	- 50, le grand trochanter.
 	- 51, le condyle externe du fémur.
-	- 52, le condyle interne. +, la rotule.
+	- 52, le condyle interne.
+	- +, la rotule.
 	- 53, 54, 55, le tibia.
 	- 54, la tubérosité où s'attache le ligament de la rotule.
 	- 55, la malléole interne.

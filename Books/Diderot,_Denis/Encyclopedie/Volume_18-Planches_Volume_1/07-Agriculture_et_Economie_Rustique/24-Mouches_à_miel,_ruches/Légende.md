@@ -6,8 +6,8 @@ MOUCHES A MIEL, RUCHES.
 La vignette représente à gauche le rucher où l'on voit des ruches de toute espece.
 
 1. ruche d'Autriche faite de bois, comme de terre, la cage d'une maison.
-2. 2. 2. 2. Ruches d'osier. 
-3. 3. Ruches de paille.
+2. & 2, 2, 2, Ruches d'osier. 
+3. & 3, Ruches de paille.
 4. Ruche de bois. 
 5. Ruche vitrée. 
 6. Ruche d'écorce ou de tronc d'arbre creusé.

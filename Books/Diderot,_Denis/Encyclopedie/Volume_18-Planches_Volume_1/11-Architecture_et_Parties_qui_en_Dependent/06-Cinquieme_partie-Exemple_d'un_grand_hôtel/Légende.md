@@ -39,12 +39,12 @@ Cet édifice est composé de deux étages, le rez dechaussée orné d'ordre ïon
 
 Nous n'avons donné ni la façade du côté du jardin, ni la coupe de ce bâtiment, dans le dessein d'éviter la multiplité des Planches : d'ailleurs on sentira facilement par l'inspection du plan, l'effet que ces façades doivent produire, & nous nous flatons que ce projet fera quelque plaisir à tout amateur impartial.
 
-(a) Telle que celle du duc d'Orléans. 
-(b) Telle que celle de l'archevêque de Paris. 
-(c) Telle que celle du chancelier de France. 
-(d) Tel que celui de Soubise. 
-(e) Telle que l'hôtel de Rohan. 
-(f) Telle que pourtoit être l'hôtel Molé. 
+- (a) Telle que celle du duc d'Orléans. 
+- (b) Telle que celle de l'archevêque de Paris. 
+- (c) Telle que celle du chancelier de France. 
+- (d) Tel que celui de Soubise. 
+- (e) Telle que l'hôtel de Rohan. 
+- (f) Telle que pourtoit être l'hôtel Molé. 
 
 
 [->](../07-Sixieme_partie-Exemple_de_maisons_particulieres/Légende.md)

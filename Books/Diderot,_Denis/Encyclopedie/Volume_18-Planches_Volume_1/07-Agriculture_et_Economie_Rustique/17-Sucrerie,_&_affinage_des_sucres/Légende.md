@@ -181,7 +181,7 @@ La vignette represente le principal attelier d'une affinerie.
 
 3. Coupe du bâtiment par le milieu du pavillon qui contient l'attelier à clarifier & à cuire, & aussi la grande étuve.
 	- K, porte de communication de l'attelier des chaudieres à la salle de l'empli.
-	- 7. une des chaudieres à clarifier montée sur son fourneau. On voit au-dessous de la grille un soûterrein qui communique à la cave qui est au-dessous de l'étuve R; il sert de cendrier & d'évent.
+	- 7, une des chaudieres à clarifier montée sur son fourneau. On voit au-dessous de la grille un soûterrein qui communique à la cave qui est au-dessous de l'étuve R; il sert de cendrier & d'évent.
 	- 10, une des chaudieres à clair.
 
 
