@@ -1,6 +1,8 @@
 LABOURAGE.
+==========
 
 PLANCHE Iere.
+-------------
 
 [![Planche_1.jpeg](Planche_1.jpeg)](Planche_1.jpeg)
 
@@ -14,6 +16,7 @@ PLANCHE Iere.
 
 
 PLANCHE II. La charrue à versoir.
+---------------------------------
 
 [![Planche_2.jpeg](Planche_2.jpeg)](Planche_2.jpeg)
 
@@ -25,6 +28,7 @@ PLANCHE II. La charrue à versoir.
 
 
 PLANCHE III. La charrue à tourne-oreille.
+-----------------------------------------
 
 [![Planche_3.jpeg](Planche_3.jpeg)](Planche_3.jpeg)
 
@@ -66,6 +70,7 @@ PLANCHE III. La charrue à tourne-oreille.
 
 
 PLANCHE IV. Herses. Rouleau. Herse roulante.
+--------------------------------------------
 
 [![Planche_4.jpeg](Planche_4.jpeg)](Planche_4.jpeg)
 
@@ -85,6 +90,7 @@ PLANCHE IV. Herses. Rouleau. Herse roulante.
 
 
 PLANCHE V. Maniere de brûler les terres.
+----------------------------------------
 
 [![Planche_5.jpeg](Planche_5.jpeg)](Planche_5.jpeg)
 
