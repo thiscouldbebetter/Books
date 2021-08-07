@@ -24,4 +24,4 @@ La vignette représente une grange.
 17. Mesure pour mesurer le grain.
 
 
-[->](../05-Conservation_des_grains/Légende.md)
+[->](../06-Conservation_des_grains/Légende.md)
