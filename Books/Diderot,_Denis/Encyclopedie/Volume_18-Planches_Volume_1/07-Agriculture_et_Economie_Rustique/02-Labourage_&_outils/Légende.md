@@ -2,6 +2,8 @@ LABOURAGE.
 
 PLANCHE Iere.
 
+[!(Planche_1.jpeg)](Planche_1.jpeg)
+
 1. Laboureur qui ouvre un sillon.
 2. Charrue ordinaire.
 3. Charrue de M. Tull.
@@ -13,6 +15,8 @@ PLANCHE Iere.
 
 PLANCHE II. La charrue à versoir.
 
+[!(Planche_2.jpeg)](Planche_2.jpeg)
+
 1. La charrue entiere vûe en perspective. A, B, les rouelles. 9, V, le têtard. a, a, les jumelles. 5, 8, l'épart ou balance. 5, 1: 7, 2, traits du cheval sous la main gauche. 6, 3: 8, 4, traits de l'autre cheval, V, P, N, le collier ou chignon. O, les rondelles ou entrempoirs. C D, la haye. c D, le sep. L, G, étançon. L H, L K, mancherons. E F, versoir ou écu, ou oreillon. T, selette. R, S, chevalet ou hausse. c d b, soc. d e, e f, aiguille. M, Q c, coutre. g, clef.
 2. L'avant & l'arriere-trains séparés & représentés à vûe d'oiseau. 5, 8, l'épart ou balance. 9, V, le têtard, V N, le collier ou chignon. a a, les jumelles. 6, 7, chevilles où l'on attache les traits du dedans. 10, autre cheville où l'on attache le trait du palonnier d'un troisieme cheval, quand on s'en sert. T, selette. R S, chevalet ou hausse. a S, a R, épées. L'essieu A B des rouelles fait avec le têtard un angle d'environ 85 ou 86 degrés, du côté du versoir, afin que la pointe du soc reste engagée dans la terre à main gauche, & que l'arriere train ne retombe pas dans le sillon précédemment tracé. L'arriere-train. C L, la haye. b c d, le soc. c b D, le sep. L G, étançon. L H, L K, les mancherons.
 3. L'arriere-train en perspective, vû du côté du versoir. M Q c, le coutre. D d c, le sep recouvert du soc. d c, tranchant du soc. e f l'aiguille. E F, versoir ou oreillon. G, étançon, K H, mancherons.
@@ -21,6 +25,8 @@ PLANCHE II. La charrue à versoir.
 
 
 PLANCHE III. La charrue à tourne-oreille.
+
+[!(Planche_3.jpeg)](Planche_3.jpeg)
 
 1. La charrue entiere vûe en perspective.
 	- A B, les rouelles ou roues,
@@ -61,6 +67,8 @@ PLANCHE III. La charrue à tourne-oreille.
 
 PLANCHE IV. Herses. Rouleau. Herse roulante.
 
+[!(Planche_4.jpeg)](Planche_4.jpeg)
+
 1. Herse quarrée.
 	- A B, palonnier.
 	- C D, la corde.
@@ -77,6 +85,8 @@ PLANCHE IV. Herses. Rouleau. Herse roulante.
 
 
 PLANCHE V. Maniere de brûler les terres.
+
+[!(Planche_5.jpeg)](Planche_5.jpeg)
 
 1. Gasons.
 2. Gasons dressés.
