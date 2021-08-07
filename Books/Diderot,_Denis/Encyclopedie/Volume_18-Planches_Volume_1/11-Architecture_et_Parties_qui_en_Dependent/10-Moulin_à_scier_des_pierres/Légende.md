@@ -1,11 +1,18 @@
 PLAN, Coupe & Développement d'un moulin à vent, propre à battre & pulvériser du tuileau, à broyer du ciment, du mastic, & à scier en même tems des pierres en dalles.
+=====================================================================================================================================================================
 
 PLANCHE I.ere
+-------------
 
 Coupe verticale du moulin.
 
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
+
 
 PLANCHE II.
+-----------
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 1. Plan de la tour du moulin, de son arbre, & de l'appenti renfermant la machine à scier les pierres.
 
@@ -27,6 +34,9 @@ PLANCHE II.
 
 
 PLANCHE III.
+------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
 
 1. Coupe verticale de l'appenti sur sa largeur, où on voit le porte-scie, & le moulinet qui sert à l'enlever.
 

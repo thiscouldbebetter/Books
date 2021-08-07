@@ -1,12 +1,23 @@
 MOULINS A VENT ET A EAU, pour moudre le blé.
 
 PLANCHE Iere. Vûe extérieure d'un moulin à vene.
+------------------------------------------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 
 PLANCHE II. Coupe verticale du moulin sur sa longueur.
+------------------------------------------------------
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 
-PLANCHE III. Coupe verticale du moulin sur sa largeur. Engin à tirer au vent.
+PLANCHE III. Coupe verticale du moulin sur sa largeur.
+------------------------------------------------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
+
+Engin à tirer au vent.
 	- 12, Treuil.
 	- 13, chaperon.
 	- 64, jambes.
@@ -18,9 +29,12 @@ PLANCHE III. Coupe verticale du moulin sur sa largeur. Engin à tirer au vent.
 	- 69, pieu.
 
 
-PLANCHE IV.
+PLANCHE IV. Vûe perspective de l'intérieur du moulin. 
+-----------------------------------------------------
 
-Vûe perspective de l'intérieur du moulin. Lettres & chiffres relatifs aux quatre premieres planches.
+[![Planche 4](Planche_4.jpeg)](Planche_4.jpeg)
+
+Lettres & chiffres relatifs aux quatre premieres planches.
 
 - A, solles, Planc. 2. 3. 4.
 - B, attaches, 2. 3. 4.
@@ -127,6 +141,9 @@ Vûe perspective de l'intérieur du moulin. Lettres & chiffres relatifs aux quat
 
 
 PLANCHE V. Détails du moulin à vent & à eau.
+--------------------------------------------
+
+[![Planche 5](Planche_5.jpeg)](Planche_5.jpeg)
 
 1. Vûe perspective de la cage de charpente qui soûtient les meules des moulins à eau ; des meules & archures ; de la tremie, &c.
 	- F, anche par laquelle la farine tombe dans la huche, cottée 38 dans les planches précédentes. a, fer.
@@ -178,6 +195,9 @@ PLANCHE V. Détails du moulin à vent & à eau.
 
 
 PLANCHE VI. Vûe intérieure du moulin à eau ordinaire.
+-----------------------------------------------------
+
+[![Planche 6](Planche_6.jpeg)](Planche_6.jpeg)
 
 - A, axe de la grande roue à aubes.
 - B B, aubes.
@@ -191,6 +211,9 @@ PLANCHE VI. Vûe intérieure du moulin à eau ordinaire.
 
 
 PLANCHE VII. Moulin à eau du Basacle à Toulouse, pour le blé.
+-------------------------------------------------------------
+
+[![Planche 7](Planche_7.jpeg)](Planche_7.jpeg)
 
 1. La division j. ij. iij. iv. est le plan de la fondation de deux coursiers.
 	- 3 H 2, palier.
@@ -225,7 +248,9 @@ PLANCHE VII. Moulin à eau du Basacle à Toulouse, pour le blé.
 
 
 PLANCHE VIII.
+-------------
 
+[![Planche 8](Planche_8.jpeg)](Planche_8.jpeg)
 7. Coupe longitudinale suivant la longueur d'un des coursiers.
 	- A A, niveau des eaux au-dessus du moulin.
 	- B C, vannes qui descendent à coulisses dans des poteaux, pour ouvrir ou fermer le coursier.
@@ -256,6 +281,9 @@ PLANCHE VIII.
 
 
 PLANCHE IX. Divers moulins à bras.
+----------------------------------
+
+[![Planche 9](Planche_9.jpeg)](Planche_9.jpeg)
 
 1. Moulin à cage ronde tout monté.
 

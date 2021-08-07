@@ -1,7 +1,13 @@
 ARMURIER
+========
+
 Contenant deux Planches.
 
+
 PLANCHE I.ere Armures des anciens François.
+-------------------------------------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 1. Elle représente un estradiot à cheval avec son arzegaye qu'il tient de la main droite ; il a les manches & les gantelets de mailles, & est vêtu d'une soubreveste. A l'arçon de la selle pend une massue ou masse d'armes. Les estradiots, les argoulets & les carabins composoient la cavalerie legére, & étoient à-peu-près armés de même. On donnoit aussi aux estradiots le nom de cavalerie albanoise. Quant aux argoulets, ils étoient armés de même que les estradiots, excepté la tête, où ils mettoient un cabasset qui ne les empêchoit point de coucher en joue. Leurs armes offensives étoient l'épée au côté, la masse à l'arçon gauche, & à droite une arquebuse de deux piés & demi de long dans un fourreau de cuir bouilli. Les armes défensives des carabins étoient une cuirasse échancrée à l'épaule droite, afin de mieux coucher en joue ; un gantelet à coude pour la main de la bride, le cabasset en tête, & pour armes offensives une longue escopette de trois piés & demi pour le moins, & un pistolet.
 
@@ -20,20 +26,22 @@ PLANCHE I.ere Armures des anciens François.
 	- 18, hache d'arme du connétable de Clisson.
 
 
-PLANCHE II. Fig. 1.
+PLANCHE II.
+-----------
 
-Représente un gendarme ; elle est tirée d'un monument du commencement du quinzieme siecle.
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
-1, casque ou heaume.
-2, hausse-col.
-3, cuirasse.
-4, épaulieres.
-5, brassarts.
-6, gantelets.
-7, tassettes.
-8, cuissarts.
-9, genouilleres.
-10, greves ou armures des jambes.
+1. Représente un gendarme ; elle est tirée d'un monument du commencement du quinzieme siecle.
+	- 1, casque ou heaume.
+	- 2, hausse-col.
+	- 3, cuirasse.
+	- 4, épaulieres.
+	- 5, brassarts.
+	- 6, gantelets.
+	- 7, tassettes.
+	- 8, cuissarts.
+	- 9, genouilleres.
+	- 10, greves ou armures des jambes.
 
 On voit dans le lointain le cheval du gendarme ou du chevalier. La tête du cheval est couverte par un chamfrain, & le corps est bardé. Cette derniere figure est tirée de la médaille de Charles VII. & de la figure de Philippe-le-Bel, qui est dans l'église de Notre-Dame de Paris. Les figures 2. 3. 4. représentent des cimiers, c'est-à-dire des ornemens que les princes & chevaliers mettoient au-dessus de leur heaume ou casque.
 

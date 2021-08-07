@@ -1,6 +1,10 @@
 SUCRERIE ET AFFINAGE des Sucres.
+================================
 
 PLANCHE Iere.
+-------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 La vignette représente la vûe d'une habitation.
 	- 1, maison du maître & ses dépendances.
@@ -46,6 +50,9 @@ La vignette représente la vûe d'une habitation.
 
 
 PLANCHE II. Deux moulins, dont un à eau.
+----------------------------------------
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 1. Moulin mû par des animaux.
 	- A A, chassis de charpente très-solide.
@@ -77,31 +84,38 @@ PLANCHE II. Deux moulins, dont un à eau.
 
 
 PLANCHE III. Plan des serses ou emplacement des chaudieres. Noms des chaudieres.
-	- A, la grande.
-	- B, la propre.
-	- C, le flambeau.
-	- D, le syrop.
-	- E, la batterie. Détail du profil.
-	- I, I, I, massif de maçonnerie très-solide.
-	- 2, 2, 2, piés droits qui forment la séparation des fourneaux.
-	- 3, 3, 3, serses dans lesquelles les chaudieres sont encastrées.
-	- 4, fourneau principal où on allume le feu.
-	- 5, 5, 5, canal, le long duquel la flamme passe sous les chaudieres, & s'échappe par le tuyau de la cheminée.
-	- 6, 7, place du bac ou canot, qui reçoit le résou ou suc de cannes venant du moulin.
-	- 8, grande écumoire de cuivre.
-	- 9, grande cuilliere de cuivre.
-	- 10, truelle à terrer les pains de sucre.
-	- 11, forme à sucre, débouchée & placée dans un pot, pour que le syrop superflu au pain de sucre, s'écoule.
-	- 12, autre forme à sucre sur le bloc, pour en tirer le pain.
-	- 13, grande chaudiere à sucre, faite de cuivre ou de fer fondu.
-	- 14, vaisseau de cuivre nommé bec de corbin, servant à verser le syrop dans les formes.
-	- 15, caisse de bois grillée par le fond, & percée de plusieurs trous, servant à soutenir un blanchet ou drap de laine blanche, au travers duquel on passe le résou ou suc des cannes.
-	- 16, grande chaudiere de cuivre à plusieurs pieces, servant à distiller le tafia ou l'eau-de-vie des cannes.
-	- 17, chapiteau de cuivre avec son bec.
-	- 18, couleuvre d'étain soutenue par des barres de fer ; elle se met dans un grand tonneau plein d'eau froide qui rafraîchit la liqueur distillée qui circule dans ses différentes circonvolutions.
+--------------------------------------------------------------------------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
+
+- A, la grande.
+- B, la propre.
+- C, le flambeau.
+- D, le syrop.
+- E, la batterie. Détail du profil.
+- I, I, I, massif de maçonnerie très-solide.
+- 2, 2, 2, piés droits qui forment la séparation des fourneaux.
+- 3, 3, 3, serses dans lesquelles les chaudieres sont encastrées.
+- 4, fourneau principal où on allume le feu.
+- 5, 5, 5, canal, le long duquel la flamme passe sous les chaudieres, & s'échappe par le tuyau de la cheminée.
+- 6, 7, place du bac ou canot, qui reçoit le résou ou suc de cannes venant du moulin.
+- 8, grande écumoire de cuivre.
+- 9, grande cuilliere de cuivre.
+- 10, truelle à terrer les pains de sucre.
+- 11, forme à sucre, débouchée & placée dans un pot, pour que le syrop superflu au pain de sucre, s'écoule.
+- 12, autre forme à sucre sur le bloc, pour en tirer le pain.
+- 13, grande chaudiere à sucre, faite de cuivre ou de fer fondu.
+- 14, vaisseau de cuivre nommé bec de corbin, servant à verser le syrop dans les formes.
+- 15, caisse de bois grillée par le fond, & percée de plusieurs trous, servant à soutenir un blanchet ou drap de laine blanche, au travers duquel on passe le résou ou suc des cannes.
+- 16, grande chaudiere de cuivre à plusieurs pieces, servant à distiller le tafia ou l'eau-de-vie des cannes.
+- 17, chapiteau de cuivre avec son bec.
+- 18, couleuvre d'étain soutenue par des barres de fer ; elle se met dans un grand tonneau plein d'eau froide qui rafraîchit la liqueur distillée qui circule dans ses différentes circonvolutions.
 
 
 PLANCHE IV.
+-----------
+
+[![Planche 4](Planche_4.jpeg)](Planche_4.jpeg)
 
 La vignette représente l'intérieur d'une sucrerie.
 	- A, glacis en briques & carreaux, plus élevés que les chaudieres.
@@ -119,6 +133,7 @@ La vignette représente l'intérieur d'une sucrerie.
 	- N, plancher sur lequel est un citerneau où l'on jette les écumes & ce qui se répand du syrop, afin d'en faire le tafia.
 
 Bas de la Planche.
+
 	- A, partie du moulin ou gouttiere qui conduit le suc de canne dans la sucrerie.
 	- B, B, passage & place des ouvriers.
 	- C, C, emplacement pour ranger les formes, avant de les porter dans la purgerie.
@@ -134,6 +149,9 @@ Bas de la Planche.
 
 
 PLANCHE V.
+----------
+
+[![Planche 5](Planche_5.jpeg)](Planche_5.jpeg)
 
 La vignette represente le principal attelier d'une affinerie.
 	- 6, 7, chaudieres à clarifier.
@@ -165,7 +183,12 @@ La vignette represente le principal attelier d'une affinerie.
 	- 10, une des chaudieres à clair.
 
 
-PLANCHE VI. Vûe perspective de l'intérieur de la chambre à vergeoise ou d'un des greniers qui sont au-dessus.
+PLANCHE VI.
+-----------
+
+Vûe perspective de l'intérieur de la chambre à vergeoise ou d'un des greniers qui sont au-dessus.
+
+[![Planche 6](Planche_6.jpeg)](Planche_6.jpeg)
 
 1. Ouvrier qui, après avoir débouché le trou d'une forme bâtarde qui est posée sens-dessus-dessous sur une sellette appellée canaple, enfonce dans le syrop figé une broche de fer qu'on appelle prime, pour faciliter l'écoulement de la partie du syrop qui ne crystallise pas dans les pots sur lesquels il redresse ces formes devant lui, comme on voit.
 
@@ -189,5 +212,8 @@ PLANCHE VI. Vûe perspective de l'intérieur de la chambre à vergeoise ou d'un 
 
 
 PLANCHE VII.
+------------
+
+[![Planche 7](Planche_7.jpeg)](Planche_7.jpeg)
 
 Cette Planche représente la grande étuve où l'on met sécher les pains de sucre, après qu'ils sont sortis des formes. On y voit la coupe du poîle de cette étuve où l'on met le feu par le dehors du bâtiment ; & celle des soûterreins qui servent de cendriers & d'évents pour le poîle & les fourneaux des chaudieres. Cette figure est relative à la figure 3. de la Planche V.

@@ -1,4 +1,7 @@
-SECONDE PARTIE. Observations générales sur les trois ordres grecs appliqués en particulier à plusieurs monumens érigés pour la magnificence.
+SECONDE PARTIE.
+===============
+
+Observations générales sur les trois ordres grecs appliqués en particulier à plusieurs monumens érigés pour la magnificence.
 
 La connoissance des ordres que nous venons d'acquérir seroit insuffisante, si nous ne cherchions pas à connoître l'application que nous en devons faire dans la décoration des bâtimens. Nous avons déjà dit qu'il en étoit de cinq especes, trois grecs & deux romains. Les trois Planches suivantes vont nous offrir l'application des trois premiers dans la fontaine de Grenelle faubourg S. Germain, d'ordre ïonique ; dans le projet d'une autre fontaine, d'ordre dorique ; & dans la colonade du Louvre, d'ordre corinthien. A l'égard des deux derniers, toscan & composite, production des Romains, nous n'avons point donné d'exemple de leur application dans l'Architecture : il suffit de sçavoir que le toscan, ordre rustique, ne doit être employé que dans les ouvrages militaires, ou dans l'Architecture civile, dans les dépendances des grands bâtimens, tels qu'aux orangeries, comme à Versailles, aux écuries, &c. & que l'ordre composite, composé lui-même des autres ordres, mais toûjours d'une expression corinthienne, ne peut guere être employé que dans les décorations théatrales, aux fêtes publiques, dans les pompes funébres, &c. malgré l'usage qu'en ont fait quelques-uns de nos architectes au portail des Minimes, au château de Clagny, &c.
 
@@ -6,6 +9,9 @@ Nous ne craignons pas de l'avouer ici ; la juste application des ordres à l'Arc
 
 
 PLANCHE XIII. Fontaine de Grenelle, faubourg S. Germain.
+--------------------------------------------------------
+
+[![Planche 13](Planche_13.jpeg)](Planche_13.jpeg)
 
 Ce monument élevé par la ville de Paris en 1739, sur les desseins de M. Bouchardon, Sculpteur du Roi, qui a présidé à la conduite de l'Architecture, & exécuté la sculpture qui s'y remarque, est un des édifices modernes qui fait le plus d'honneur à notre siecle. En effet une architecture pure, un appareil correct, une construction solide, & une sculpture admirable, sont autant de beautés réunies qu'on rencontre difficilement ailleurs. Nous ne parlerons point ici de la situation de ce monument ; personne n'ignore que ce chef-d'oeuvre méritoit un tout autre point de vûe : mais, nous l'avons déjà dit, cette partie est trop négligée en France. Nous ne pouvons dissimuler encore que l'ordre ïonique qui détermine le caractere de l'ordonnance de ce monument, non seulement n'exprime pas assez de solidité, mais paroît d'un trop petit module pour l'étendue de l'édifice. Il semble que l'ordre dorique devroit être le propre des bâtimens de l'espece dont nous parlons. Une fontaine suppose des voûtes dans son intérieur, d'épaisses murailles, un volume d'eau dont le poids est considérable, une humidité difficile à parer ; autant de motifs qui veulent être annoncés dans la décoration de ses dehors, par un caractere viril que l'ordre ïonique ne peut offrir. Nous concevons bien que cette fontaine est dédiée à la ville de Paris, & que cette divinité féminine a pû autoriser l'ordre ïonique dans le frontispice du temple qui paroît être élevé derriere elle. Mais nous le pensons ainsi. Le premier mérite de l'artiste est de faire ensorte de concilier les accessoires de la décoration avec la convenance de l'édifice. Le premier objet qui doit frapper l'oeil du spectateur, c'est le caractere propre à la chose ; autrement, l'esprit est distrait : on remarque bien les beautés de détail ; mais les vraies beautés sont celles de l'ensemble ; toutes les autres doivent lui être subordonnées. Au reste, cette réflexion, qui nous est particuliere, n'empêche pas que ce monument ne soit très-recommandable : aussi l'avons-nous préféré dans cette collection, pour exemple, à la fontaine des Innocens, autre chef-d'oeuvre, mais dont l'architecture corinthienne nous a paru encore plus desassortie à l'idée qu'on doit se former d'un bâtiment hydraulique.
 
@@ -13,6 +19,9 @@ Comme il ne s'agit dans cette deuxieme partie que de l'application des ordres à
 
 
 PLANCHE XIV. Autre fontaine d'ordre dorique.
+--------------------------------------------
+
+[![Planche 14](Planche_14.jpeg)](Planche_14.jpeg)
 
 Nous venons d'éprouver en quelque sorte, à-propos de la Planche précédente, la nécessité de faire choix de l'ordre dorique pour la décoration des bâtimens hydrauliques. Nous ajoutons ici cet exemple, non pour nous mettre en parallele avec l'habile artiste qui a donné les desseins de la treizieme Planche, mais pour donner à connoître si une plus grande architecture, une sculpture moins colossale, & l'application de l'ordre viril, peuvent convenir plus véritablement aux monumens dont nous parlons ; nous convenons qu'alors la virilité de cet ordre semble exiger des ornemens & une sculpture qui lui soit assortie, & qu'en conséquence il conviendroit de dédier l'édifice à Neptune, à quelque fleuve, &c. plûtôt qu'à Amphytrite, à quelques Nayades, &c. Mais en supposant que le lieu où se doit élever le monument, ne permette que des attributs ou des allégories féminines, il nous semble qu'il seroit préférable, malgré l'analogie que doit avoit avoir la Sculpture avec l'Architecture, de rendre cette derniere relative au genre de l'édifice, comme l'objet principal, plûtôt que de chercher à la faire dépendre des accessoires. Ajoutons à cela que cet ordre, quoique solide, peut s'enrichir & se disposer de maniere à pouvoir recevoir tel symbole que la nécessité semblera exiger.
 

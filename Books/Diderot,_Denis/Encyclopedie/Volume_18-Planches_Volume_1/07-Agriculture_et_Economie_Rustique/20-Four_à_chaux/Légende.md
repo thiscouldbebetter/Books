@@ -1,4 +1,7 @@
 FOUR A CHAUX.
+=============
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 1. Vue d'un four à chaux en dehors & par un de ses angles.
 

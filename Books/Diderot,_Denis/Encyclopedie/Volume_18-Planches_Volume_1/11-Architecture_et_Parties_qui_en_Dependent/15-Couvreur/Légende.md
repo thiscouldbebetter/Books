@@ -1,4 +1,7 @@
 COUVREUR.
+=========
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 1. Batiment à la couverture duquel on travaille.
 2. Architecte qui donne des ordres au principal ouvrier.

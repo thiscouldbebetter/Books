@@ -1,6 +1,10 @@
 EVOLUTIONS de la cavalerie.
+===========================
 
 PLANCHE I.ere
+-------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 Nota. Dans les trois premieres figures de cette Planche on a représenté les chevaux par leur projection perpendiculaire sur le terrein. On a eu soin d'observer leurs principales dimensions, c'est-à-dire leur longueur & leur largeur ; de cette maniere ils sont, pour ainsi dire, représentés à vûe d'oiseau, & l'on peut rendre l'exécution de leurs différens mouvemens bien plus sensible & plus distincte que s'ils étoient dessinés comme dans la figure 70. de cette même Planche.
 

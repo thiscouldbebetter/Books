@@ -1,4 +1,7 @@
 MACHINES A FORER les pierres, & à arrondir les bases des colonnes.
+==================================================================
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 1. Tour pour arrondir les bases des grosses colonnes. Cette machine est de l'invention de M. Puisieux, architecte du Roi.  A, piece de bois posée perpendiculairement, & arrêtée en X & Z; elle est mise en mouvement par le double levier B, B, à l'extrémité duquel sont deux paloniers auxquels on attache des chevaux. Cette piece de bois porte un rouet C, qui s'engrainant dans deux lanternes, fait tourner les deux arbres D, D, portant chacun un rouet semblable au premier, lesquels font mouvoir les deux lanternes d, d. E, massifs par lesquels entrent les tiges des lanternes d ; ils portent plusieurs roulettes vers les extrémités de leurs circonférences, comme en K, pour faciliter les mouvemens des bases F qu'on doit tourner. Ces massifs font fixes, comme le sont les meules de dessous dans les moulins à blé, & les bases des colonnes tournent comme les meules de dessus.
 

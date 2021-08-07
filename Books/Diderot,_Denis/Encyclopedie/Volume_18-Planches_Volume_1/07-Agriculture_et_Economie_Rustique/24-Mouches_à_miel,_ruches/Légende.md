@@ -1,10 +1,13 @@
 MOUCHES A MIEL, RUCHES.
+=======================
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 La vignette représente à gauche le rucher où l'on voit des ruches de toute espece.
 
 1, ruche d'Autriche
-7. Ruche dont le bas est faite de bois, comme de terre, & le couver- la cage d'une maison. cle ou chapeau de 2. 2. 2.
-2. Ruches d'osier. paille.
+7. Ruche dont le bas est faite de bois, comme de terre, & le couver- la cage d'une maison. cle ou chapeau de 2.
+2. 2. 2. Ruches d'osier. paille.
 3. 3. Ruches de paille.
 8. Paysan qui fait passer
 4. Ruche de bois. un essain d'une ruche

@@ -1,6 +1,10 @@
 CHARBON DE BOIS.
+================
 
 PLANCHE Iere.
+-------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 Le haut de la Planche, constructions différentes de fourneaux à charbon.
 
@@ -35,6 +39,9 @@ Le bas de la Planche.
 
 
 PLANCHE II.
+-----------
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 Le haut de la Planche représente les fourneaux en feu, ou la cuisson du charbon.
 
@@ -63,6 +70,9 @@ Le bas de la Planche.
 
 
 PLANCHE III. Outils.
+--------------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
 
 1. Serpe.
 

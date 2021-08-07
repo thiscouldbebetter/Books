@@ -1,6 +1,10 @@
 COUPE DES PIERRES.
+==================
 
 PLANCHE I.ere
+-------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 1. Voûte annulaire dont le plan est un cercle.
 2. Arc rampant dont les impostes ne sont point de niveau.
@@ -22,6 +26,9 @@ PLANCHE I.ere
 
 
 PLANCHE II.
+-----------
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 11. Double coupe de la plate-bande A B C D d'un pallier.
 	- P, point de concours des joints m n, m n.
@@ -41,6 +48,9 @@ PLANCHE II.
 
 
 PLANCHE III.
+------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
 
 19. Voûte hélicoïde sur noyau.
 20. Ceintre gothique, approchant de la chaînette.
@@ -67,6 +77,9 @@ PLANCHE III.
 
 
 PLANCHE IV.
+-----------
+
+[![Planche 4](Planche_4.jpeg)](Planche_4.jpeg)
 
 29. Epure.
 30. Voûte plate d'une seule pierre.
@@ -89,5 +102,8 @@ PLANCHE IV.
 
 
 PLANCHE V.
+----------
+
+[![Planche 5](Planche_5.jpeg)](Planche_5.jpeg)
 
 1. 2. 3. 4. Démonstrations relatives à la poussée des voûtes.

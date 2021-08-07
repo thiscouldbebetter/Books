@@ -1,6 +1,10 @@
 ART DE FAIRE ECLORE les Poulets, d'après M. de Réaumur.
+=======================================================
 
 PLANCHE Iere.
+-------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 Le haut de la Planche représente la maniere de construire les fours à faire éclore les poulets. c'est un tonneau enfoncé dans le fumier avec des couvercles qui lui sont propres.
 
@@ -52,6 +56,9 @@ Le haut de la Planche représente la maniere de construire les fours à faire é
 
 
 PLANCHE II.
+-----------
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 1. Tonneau destiné à être un four, avec un porte-vent pour y renouveller l'air. e c d, le porte-vent.
 	- a, son extrémité garnie de tuyaux percés en arrosoir.
@@ -97,6 +104,9 @@ PLANCHE II.
 
 
 PLANCHE III.
+------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
 
 1. &
 

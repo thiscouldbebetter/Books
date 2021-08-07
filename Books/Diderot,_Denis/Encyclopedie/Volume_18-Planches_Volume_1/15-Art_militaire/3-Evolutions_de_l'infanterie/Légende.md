@@ -1,6 +1,10 @@
 EVOLUTIONS de l'infanterie.
+===========================
 
 PLANCHE I.ere
+-------------
+
+[![Planche 1](Planche_01.jpeg)](Planche_01.jpeg)
 
 Avis. Dans cette Planche & les suivantes, les soldate sont marqués par des points noirs qui désignent le centre de l'espace qu'ils occupent. Comme on suppose que les soldats se touchent, il ne faudroit point d'intervalle entre les points ; mais alors les figures seroient trop confuses & les mouvemens que ces Planches doivent représenter ; trop difficiles à être observés.
 
@@ -26,6 +30,9 @@ Dans les figures où il y a des zéros ou points blancs. ces points marquent les
 
 
 PLANCHE II.
+-----------
+
+[![Planche 2](Planche_02.jpeg)](Planche_02.jpeg)
 
 9. Elle représente les rangs qui ont serré, après avoir fait demi-tour à gauche pour faire face en tête.
 
@@ -41,6 +48,9 @@ PLANCHE II.
 
 
 PLANCHE III.
+------------
+
+[![Planche 3](Planche_03.jpeg)](Planche_03.jpeg)
 
 15. Elle représente une troupe A B C D, qui a ouvert ses rangs en-avant ; en sorte que le premier A B est parvenu en F G.
 
@@ -58,6 +68,9 @@ PLANCHE III.
 
 
 PLANCHE IV.
+-----------
+
+[![Planche 4](Planche_04.jpeg)](Planche_04.jpeg)
 
 22. Troupe C D E F, qui a doublé ses rangs en- avant par quarts de files sur les aîles.
 
@@ -81,6 +94,9 @@ PLANCHE IV.
 
 
 PLANCHE V.
+----------
+
+[![Planche 5](Planche_05.jpeg)](Planche_05.jpeg)
 
 32. Troupe A B C D, qui a doublé ses files à droite par quarts de rangs.
 
@@ -98,6 +114,9 @@ PLANCHE V.
 
 
 PLANCHE VI.
+-----------
+
+[![Planche 6](Planche_06.jpeg)](Planche_06.jpeg)
 
 39. Troupe A B C D, qui a doublé ses files en tête à droite & à gauche par quarts de rangs du milieu.
 
@@ -107,6 +126,9 @@ PLANCHE VI.
 
 
 PLANCHE VII.
+------------
+
+[![Planche 7](Planche_07.jpeg)](Planche_07.jpeg)
 
 43. Elle représente une troupe rangée d'abord en A B D E, qui se trouve en F G H I par un quart de conversion fait sur le centre C.
 
@@ -116,6 +138,9 @@ PLANCHE VII.
 
 
 PLANCHE VIII.
+-------------
+
+[![Planche 8](Planche_08.jpeg)](Planche_08.jpeg)
 
 46. Troupe A, B, C, D, qui fait la contre-marche par files, conservant le même terrein.
 
@@ -129,6 +154,9 @@ PLANCHE VIII.
 
 
 PLANCHE IX.
+-----------
+
+[![Planche 9](Planche_09.jpeg)](Planche_09.jpeg)
 
 51. Cette figure sert à expliquer la maniere de faire la contre-marche par rangs en changeant de terrein ou en gagnant le terrein. L'espace A, B, C, D, est la premiere position de la troupe ; les points noirs représentent la seconde, après que la contre-marche est exécutée.
 
@@ -144,6 +172,9 @@ PLANCHE IX.
 
 
 PLANCHE X.
+----------
+
+[![Planche 10](Planche_10.jpeg)](Planche_10.jpeg)
 
 57. Cette figure sert à expliquer la maniere de faire former des haies à une troupe A, B, C, D.
 
@@ -151,6 +182,9 @@ PLANCHE X.
 
 
 PLANCHE XI.
+-----------
+
+[![Planche 11](Planche_11.jpeg)](Planche_11.jpeg)
 
 59. Cette figure sert à faire voir que la méthode donnée dans la précédente figure, pour augmenter ou diminuer les rangs d'une troupe, ne peut avoir lieu ; que les rangs de la troupe & les haies peuvent se diviser exactement en autant de parties égales que l'on veut avoir de rangs.
 
@@ -158,6 +192,9 @@ PLANCHE XI.
 
 
 PLANCHE XII.
+------------
+
+[![Planche 12](Planche_12.jpeg)](Planche_12.jpeg)
 
 61. Une troupe ou un bataillon A B C D étant rangé en bataille, par exemple, sur quatre rangs, on donne dans cette figure la maniere de le former en quarré.
 
@@ -165,6 +202,9 @@ PLANCHE XII.
 
 
 PLANCHE XIII.
+-------------
+
+[![Planche 13](Planche_13.jpeg)](Planche_13.jpeg)
 
 63. On donne dans cette figure la maniere de défiler par files & par le centre ; la premiere disposition que fait la troupe A B C D qui défile par le centre sur le pont ou le défilé X Y; & la seconde, la même troupe qui s'est reformée après le passage du défilé.
 
@@ -172,6 +212,9 @@ PLANCHE XIII.
 
 
 PLANCHE XIV.
+------------
+
+[![Planche 14](Planche_14.jpeg)](Planche_14.jpeg)
 
 65. Cette figure sert à expliquer la formation de la colonne d'attaque T T S, composée des deux bataillons A B & C D, éloignés l'un de l'autre de l'intervalle des piquets, qu'on a supprimés dans cette figure, & divisés par pelotons. F & H sont les premiers pelotons de chacun des deux bataillons qui ont marché en-avant par huit pas redoublés, & qui ensuite doivent marcher l'un & l'autre par les flancs opposés pour se réunir en X & Y, d'où ils marchent en-avant pour former la tête de la colonne ; les autres pelotons du bataillon de la droite & de celui de la gauche faisant successivement le même mouvement, la colonne se trouve formée. G, G sont les grenadiers placés d'abord aux aîles de la ligne formée des deux bataillons A B & C D, & ensuite à l'extrémité des aîles de la queue de la colonne. S est le peloton des surnuméraires. On voit dans cette figure les trois sections qui forment la colonne.
 

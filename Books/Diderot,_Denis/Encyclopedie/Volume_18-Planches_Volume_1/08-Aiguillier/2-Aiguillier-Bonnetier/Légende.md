@@ -1,3 +1,8 @@
+AIGUILLIER-BONNETIER.
+=====================
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
+
 Vignette.
 
 1. Engin qui sert à dresser le fil dont les aiguilles sont faites. Il est représenté plus en grand, fig. 1. du bas de la Planche.

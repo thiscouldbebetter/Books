@@ -1,4 +1,7 @@
 INDIGOTERIE ET MANIOC.
+======================
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 Le haut de la Planche ou la vignette représente la vûe d'une indigoterie.
 	- A, reservoir d'eau claire.

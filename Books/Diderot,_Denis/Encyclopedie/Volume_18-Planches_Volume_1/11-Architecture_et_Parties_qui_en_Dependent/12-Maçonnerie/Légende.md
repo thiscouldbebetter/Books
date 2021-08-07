@@ -1,6 +1,12 @@
 MAÇONNERIE ET PARTIES relatives.
+================================
 
-PLANCHE I.ere Le haut de la Planche représente des maçons diversement occupés ; les uns A à monter des pierres taillées ; d'autres B sur un échafaud à enduire un mur de plâtre ; d'autres C, à construire un ouvrage de maçonnerie. On voit en D & en E deux tailleurs de pierre ; en F, ceux qui préparent la chaux ; en G, un scieur de pierre ; en H, I, K, les manoeuvres occupés à servir dans la construction des bâtimens.
+PLANCHE I.ere
+-------------
+
+[![Planche 1](Planche_01.jpeg)](Planche_01.jpeg)
+
+Le haut de la Planche représente des maçons diversement occupés ; les uns A à monter des pierres taillées ; d'autres B sur un échafaud à enduire un mur de plâtre ; d'autres C, à construire un ouvrage de maçonnerie. On voit en D & en E deux tailleurs de pierre ; en F, ceux qui préparent la chaux ; en G, un scieur de pierre ; en H, I, K, les manoeuvres occupés à servir dans la construction des bâtimens.
 
 1. Maçonnerie maillée, que Vitruve appelle reticulatum.
 2 & 3. Maçonnerie en liaison, appellée par Vitruve, insertum.
@@ -17,6 +23,9 @@ PLANCHE I.ere Le haut de la Planche représente des maçons diversement occupés
 
 
 PLANCHE II.
+-----------
+
+[![Planche 2](Planche_02.jpeg)](Planche_02.jpeg)
 
 9. Maçonnerie en échiquier.
 	- A, angles faits de briques.
@@ -39,6 +48,9 @@ PLANCHE II.
 
 
 PLANCHE III. Suite des précautions à observer dans l'art de bâtir.
+------------------------------------------------------------------
+
+[![Planche 3](Planche_03.jpeg)](Planche_03.jpeg)
 
 17.
 	- A, arrachemens.
@@ -59,6 +71,9 @@ PLANCHE III. Suite des précautions à observer dans l'art de bâtir.
 
 
 PLANCHE IV.
+-----------
+
+[![Planche 4](Planche_04.jpeg)](Planche_04.jpeg)
 
 24. Autres murs de terrasse, avec des contre-forts A en-dehors, & d'autres contre-forts B en-dedans, diagonalement disposés en forme de scie.
 25. Les mêmes murs de terrasse, avec des contre-forts en-dehors, semblables à ceux de la figure
@@ -66,6 +81,9 @@ PLANCHE IV.
 
 
 PLANCHE V.
+----------
+
+[![Planche 5](Planche_05.jpeg)](Planche_05.jpeg)
 
 26. Coupe de l'ouverture d'une carriere : à la surface sont les engins à tirer la pierre de la carriere.
 	- A, A, passages ou rues de la carriere.
@@ -74,6 +92,9 @@ PLANCHE V.
 
 
 PLANCHE VI.
+-----------
+
+[![Planche 6](Planche_06.jpeg)](Planche_06.jpeg)
 
 27.
 	- n. 1. Coupe verticale d'un four à brique & à tuile, sur la ligne A B, même fig. n. 3. 27.
@@ -84,6 +105,10 @@ PLANCHE VI.
 
 
 PLANCHE VII.
+------------
+
+[![Planche 7](Planche_07.jpeg)](Planche_07.jpeg)
+
 Suite de la fig.
 28. n. 1. Elévation du four à plâtre.
 28. n. 2. Plan du même four. Nota. A la suite de ces Planches de la Maçonnerie ; on trouvera dans un plus grand détail une Planche représentant les différentes opérations & les outils du carrier-plâtrier.
@@ -91,7 +116,10 @@ Suite de la fig.
 29. n. 2. Elévation du même four.
 
 
-PLANCHE VIII. 
+PLANCHE VIII.
+-------------
+
+[![Planche 8](Planche_08.jpeg)](Planche_08.jpeg)
 
 Suite de la fig.
 29. Plan du four à chaux.
@@ -99,6 +127,10 @@ Suite de la fig.
 
 
 PLANCHE IX. Fondemens.
+----------------------
+
+[![Planche 9](Planche_09.jpeg)](Planche_09.jpeg)
+
 32. & 33. Maniere de fonder par les piles.
 	- A, les piles.
 	- B, le bon fond.
@@ -131,7 +163,11 @@ PLANCHE IX. Fondemens.
 	- B, madriers.
 	- C, étrésillons ou pieces de bois qui en font la fonction.
 
+
 PLANCHE X.
+----------
+
+[![Planche 10](Planche_10.jpeg)](Planche_10.jpeg)
 
 41. Fondemens dans l'eau par le moyen des caissons.
 	- A, caissons.
@@ -169,6 +205,9 @@ PLANCHE X.
 
 
 PLANCHE XI. Outils du maçon & du tailleur de pierre.
+----------------------------------------------------
+
+[![Planche 11](Planche_11.jpeg)](Planche_11.jpeg)
 
 66. Regle de bois.
 67. Autre regle de bois.
@@ -205,6 +244,9 @@ PLANCHE XI. Outils du maçon & du tailleur de pierre.
 
 
 PLANCHE XII.
+------------
+
+[![Planche 12](Planche_12.jpeg)](Planche_12.jpeg)
 
 111. Maillet.
 112. Ciseau à main.
@@ -241,6 +283,9 @@ PLANCHE XII.
 
 
 PLANCHE XIII.
+-------------
+
+[![Planche 13](Planche_13.jpeg)](Planche_13.jpeg)
 
 145. Scie avec dents.
 146. Scie à main avec dents.

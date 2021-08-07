@@ -1,6 +1,8 @@
 PRESSOIR A CIDRE.
+=================
 
 PLANCHE Iere.
+-------------
 
 1. Vue perspective & plan du pressoir. La vignette représente l'endroit où le pressoir & la pile sont établis.
 	- A B, la brebis.
@@ -29,6 +31,7 @@ PLANCHE Iere.
 
 
 PLANCHE II.
+===========
 
 3. Profil & détail du pressoir à cidre. Elévation géométrale du pressoir vû de face. Les mêmes lettres désignent aussi les mêmes parties.
 

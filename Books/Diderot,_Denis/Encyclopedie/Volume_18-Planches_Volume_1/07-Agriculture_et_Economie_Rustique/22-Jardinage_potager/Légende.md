@@ -1,6 +1,10 @@
 JARDIN POTAGER.
+===============
 
 PLANCHE Iere.
+-------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 La vignette représente un jardin.
 	- A, a, partie de jardin coupé de murs servans à soûtenir des espaliers.
@@ -28,6 +32,9 @@ La vignette représente un jardin.
 
 
 PLANCHE II. double. Serres chaudes.
+-----------------------------------
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 1. Elévation géométrale de la serre chaude de Trianon.
 
@@ -56,6 +63,9 @@ PLANCHE II. double. Serres chaudes.
 
 
 PLANCHE III.
+-------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
 
 1. Vûe perspective de la serre hollandoise pour la vigne.
 
@@ -69,6 +79,9 @@ PLANCHE III.
 
 
 PLANCHE IV.
+-----------
+
+[![Planche 4](Planche_4.jpeg)](Planche_4.jpeg)
 
 Serre hollandoise pour élever différentes sortes de plantes. Cette serre differe de la précédente, en ce que les cheminées sont horisontales & pratiquées sous le sol de la serre.
 
@@ -80,10 +93,14 @@ Serre hollandoise pour élever différentes sortes de plantes. Cette serre diffe
 
 
 PLANCHE V. Serre chaude d'Upsal.
+--------------------------------
+
+[![Planche 5](Planche_5.jpeg)](Planche_5.jpeg)
 
 Elle est exposée directement au midi, & placée entre l'orangerie & la serre tempérée où on conserve les fleurs. Les pots qui les contiennent sont rangés sur des gradins disposés en amphithéatre. Sa longueur est d'environ quarante piés, sa largeur d'environ vingt, & sa hauteur de quatorze ou environ. L'aune de Suede qui est citée à notre échelle sur la Planche, est environ deux piés de France.
 
-1. A, la fosse que l'on remplit de terreau & de fumier, &c.
+1.
+	- A, la fosse que l'on remplit de terreau & de fumier, &c.
 	- C C, deux fourneaux dont les ouvertures regardent le septentrion, & dans lesquels on brûle du bois.
 	- F F, les tuyaux ou cheminées de ces fourneaux qui aprés avoir fait le tour de la serre horisontalement, remontent en E E dans l'épaisseur du mur septentrional jusqu'au-dessus du toît.
 	- B, cheminée double que l'on allume ou par-dehors ou par-dedans la serre, par dehors pour échauffer ce lieu, & par-dedans pour en chasser les vapeurs humides.

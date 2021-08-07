@@ -1,6 +1,10 @@
 FORTIFICATION.
+==============
 
 PLANCHE I.ere
+-------------
+
+[![Planche 1](Planche_01.jpeg)](Planche_01.jpeg)
 
 1. Plan d'un pentagone, fortifié avec des bastions & entouré d'un fossé & d'un chemin couvert avec son glacis.
 	- A B C D E, est un bastion dont C B & C D sont les deux faces, & B A & D E les flancs.
@@ -54,6 +58,9 @@ PLANCHE I.ere
 
 
 PLANCHE II.
+-----------
+
+[![Planche 2](Planche_02.jpeg)](Planche_02.jpeg)
 
 1. Système d'Errard de Bar-le-Duc.
 
@@ -75,6 +82,9 @@ PLANCHE II.
 
 
 PLANCHE III.
+------------
+
+[![Planche 3](Planche_03.jpeg)](Planche_03.jpeg)
 
 1. Système du baron de Coëhorn.
 
@@ -86,6 +96,9 @@ PLANCHE III.
 
 
 PLANCHE IV.
+-----------
+
+[![Planche 4](Planche_04.jpeg)](Planche_04.jpeg)
 
 1. Profil coupé selon la ligne S T de la figure 1. Planche I.
 	- A B, niveau de la campagne.
@@ -144,6 +157,9 @@ PLANCHE IV.
 
 
 PLANCHE V.
+----------
+
+[![Planche 5](Planche_05.jpeg)](Planche_05.jpeg)
 
 1. 
 	-X, demi-lune couverte des grandes lunettes ou tenaillons A & A.
@@ -184,6 +200,9 @@ PLANCHE V.
 
 
 PLANCHE VI.
+-----------
+
+[![Planche 6](Planche_06.jpeg)](Planche_06.jpeg)
 
 1. Piece de 24 à chambre sphérique, appellée de la nouvelle invention ou à l'espagnole. La chambre & l'ame de cette piece sont marquées par des lignes ponctuées.
 
@@ -220,6 +239,9 @@ PLANCHE VI.
 
 
 PLANCHE VII.
+------------
+
+[![Planche 7](Planche_07.jpeg)](Planche_07.jpeg)
 
 1. Cette figure sert à expliquer le pointage du canon, & à faire voir que le boulet qui suit le prolongement de l'ame selon la ligne A H, va en B au-dessus de l'alignement C G de la partie supérieure de la piece.
 
@@ -252,6 +274,9 @@ PLANCHE VII.
 
 
 PLANCHE VIII.
+-------------
+
+[![Planche 8](Planche_08.jpeg)](Planche_08.jpeg)
 
 1. Elle fait voir la ligne que décrit la bombe B en sortant du mortier A.
 
@@ -290,6 +315,9 @@ PLANCHE VIII.
 
 
 PLANCHE VIII. n. 2.
+-------------------
+
+[![Planche 8-2](Planche_08-2.jpeg)](Planche_08-2.jpeg)
 
 Les figures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 & 11. de la partie supérieure de cette Planche servent à expliquer la théorie du jet des bombes. La figure 7. représente l'instrument universel propre à jetter des bombes sur toutes sortes de plans. Dans la partie inférieure de cette même Planche sont représentés les outils de mineur.
 	- A, A, A, sonde à tarriere de plusieurs pieces, & vûe de plusieurs façons.
@@ -317,6 +345,9 @@ Les figures 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 & 11. de la partie supérieure de cett
 
 
 PLANCHE IX.
+-----------
+
+[![Planche 9](Planche_09.jpeg)](Planche_09.jpeg)
 
 1. Profil d'une batterie, avec le canon dans l'embrasure A prêt à tirer.
 	- C, heurtoir.
@@ -354,6 +385,9 @@ PLANCHE IX.
 
 
 PLANCHE X.
+----------
+
+[![Planche 10](Planche_10.jpeg)](Planche_10.jpeg)
 
 1. Cette figure sert à démontrer que si le fourneau de la mine étoit placé en B dans le contre-fort A, & que l'oeil ou l'ouverture de la mine fût vis-à-vis en C, en sorte que la distance B C fût plus courte que B D, l'effet s'en feroit vers C.
 
@@ -400,6 +434,9 @@ PLANCHE X.
 
 
 PLANCHE XI.
+-----------
+
+[![Planche 11](Planche_11.jpeg)](Planche_11.jpeg)
 
 1. Tour avec son bélier & son pont.
 
@@ -433,6 +470,9 @@ PLANCHE XI.
 
 
 PLANCHE XII.
+------------
+
+[![Planche 12](Planche_12.jpeg)](Planche_12.jpeg)
 
 1. Bélier suspendu.
 	- 2, poutre béliere.
@@ -466,7 +506,12 @@ PLANCHE XII.
 3. C, catapulte de batterie, suivant M. le chevalier Folard. A, B, D & E, sont des parties de la catapulte représentées en grand. Voyez Catapulte.
 
 
-PLANCHE XIII. La partie supérieure représente les différens outils ou instrumens dont on se sert dans l'attaque des places.
+PLANCHE XIII.
+-------------
+
+[![Planche 13](Planche_13.jpeg)](Planche_13.jpeg)
+
+La partie supérieure représente les différens outils ou instrumens dont on se sert dans l'attaque des places.
 
 1. Plan d'un gabion.
 2. Elévation d'un gabion.
@@ -511,6 +556,9 @@ Seconde partie, ou partie inférieure de la Planche XIII. concernant le tracer d
 
 
 PLANCHE XIV.
+------------
+
+[![Planche 14](Planche_14.jpeg)](Planche_14.jpeg)
 
 La premiere partie, ou la partie supérieure de la Planche, représente six profils de lignes proposés par M. le marechal de Vauban.
 
@@ -523,6 +571,9 @@ La seconde partie de la même Planche fait voir une partie du camp de l'armée q
 
 
 PLANCHE XV.
+-----------
+
+[![Planche 15](Planche_15.jpeg)](Planche_15.jpeg)
 
 1.
 	- a, a, plan d'une partie de la ligne de circonvallation de Philisbourg en 1734.
@@ -558,6 +609,9 @@ PLANCHE XV.
 
 
 PLANCHE XVI.
+------------
+
+[![Planche 16](Planche_16.jpeg)](Planche_16.jpeg)
 
 1. n. 1.
 	- A, fossé.
@@ -619,6 +673,9 @@ n. 2. Plan du même cavalier de tranchée.
 	- E, amas de matériaux.
 
 PLANCHE XVII.
+-------------
+
+[![Planche 17](Planche_17.jpeg)](Planche_17.jpeg)
 
 1. Cette figure sert à faire voir la disposition des batteries & du logement du chemin couvert.
 	- B, B bastions du front de l'attaque.

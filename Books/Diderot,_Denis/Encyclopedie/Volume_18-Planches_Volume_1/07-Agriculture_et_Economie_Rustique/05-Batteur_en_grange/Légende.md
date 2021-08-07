@@ -1,4 +1,7 @@
 BATTEUR EN GRANGE.
+==================
+
+[![Planche 1](Planche_1.jpeg)](Planche1_.jpeg)
 
 La vignette représente une grange.
 

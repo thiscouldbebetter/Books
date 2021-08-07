@@ -1,4 +1,7 @@
 BASSE-COUR.
+===========
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 La basse-cour est composée de différens bâtimens dont la distribution est assez arbitraire, & dépend du terrein qu'on a. Les principaux représentés dans la vignette sont en I le logement du fermier.
 	- P, passage pour entrer & sortir de la ferme du côté de la cour du maître.

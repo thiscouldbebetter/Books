@@ -1,6 +1,10 @@
 AIGUILLIER.
+===========
 
 PLANCHE Iere.
+-------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 Nota. Cette Planche & la suivante, sont citées au mot Aiguille, comme n'en faisant qu'une ; mais la multiplicité des objets à représenter a obligé d'en faire deux.
 
@@ -42,6 +46,9 @@ Nota. Cette Planche & la suivante, sont citées au mot Aiguille, comme n'en fais
 
 
 PLANCHE II.
+-----------
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 1. La vignette représente un ouvrier qui continue l'opération de la figure 8 de la Planche précédente. Celui-ci ficelle dans toute leur longueur, & plus fortement vers les extrémités, les rouleaux d'aiguilles que le premier a formés.
 
@@ -67,6 +74,11 @@ Au bas de la Planche.
 
 10. Barre ou verrouil qui assujettit la porte dans la feuillure destinée à la recevoir.
 
-11. La polissoire plus en grand. L, la table. M, la planche qui repose sur les rouleaux de treillis R T remplis d'aiguilles que l'ouvrier (fig. 8.) de la Planche précédente) a formés, & que l'ouvrier (fig. 1. Planche 2.) a ficelés. C, poignées verticales qu'un des ouvriers (fig. 5. & 6.) saisit pour tirer ou pousser la polissoire. A & B, poignées horisontales qui servent au même usage. D D, deux contre-vents assemblés par le bas dans la traverse du pié, & par le haut dans la table L; ils contribuent à la solidité du pié: lorsqu'on ne met qu'un seul rouleau de treillis T sous la planche M, chargé du poids N, un seul ouvrier suffit ; mais alors on suspend la planche par son autre extrémité A B avec deux cordes attachées au plancher, lesquelles passent dans les pitons que l'on voit, le rouleau R étant supprimé; on ne met jamais plus de deux rouleaux de treillis à la fois sous la polissoire.
+11. La polissoire plus en grand.
+	- L, la table.
+	- M, la planche qui repose sur les rouleaux de treillis R T remplis d'aiguilles que l'ouvrier (fig. 8.) de la Planche précédente) a formés, & que l'ouvrier (fig. 1. Planche 2.) a ficelés.
+	- C, poignées verticales qu'un des ouvriers (fig. 5. & 6.) saisit pour tirer ou pousser la polissoire.
+	- A & B, poignées horisontales qui servent au même usage.
+	- D D, deux contre-vents assemblés par le bas dans la traverse du pié, & par le haut dans la table L; ils contribuent à la solidité du pié: lorsqu'on ne met qu'un seul rouleau de treillis T sous la planche M, chargé du poids N, un seul ouvrier suffit ; mais alors on suspend la planche par son autre extrémité A B avec deux cordes attachées au plancher, lesquelles passent dans les pitons que l'on voit, le rouleau R étant supprimé; on ne met jamais plus de deux rouleaux de treillis à la fois sous la polissoire.
 
 12. Rouet de l'évideur (fig. 7.) dessiné sur la même échelle que toutes les autres figures du bas de cette Planche. Au reste, ce rouet n'a de particulier que les petites meules de pierres à aiguiser, qui sont montées sur sa broche, auxquelles on présente plusieurs aiguilles à la fois entre le pouce & le premier doigt, entre lesquels on les fait tourner. Voyez aussi les Planches de l'épinglier, & leur explication.

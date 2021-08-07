@@ -1,6 +1,10 @@
 CHANVRE. Premier travail à la campagne.
+=======================================
 
 PLANCHE Iere. Premiere & seconde divisions.
+-------------------------------------------
+
+[![Planche 1 - 1 & 2](Planche_1-1_&_2.jpeg)](Planche_1-1_&_2.jpeg)
 
 Travail du chanvre. La vignette représente l'attelier des espadeurs, dont le mur du fond est supposé abattu pour laisser voir dans le lointain les préparations premieres & champêtres du chanvre. Quand il a été arraché de terre, & qu'on a séparé le mâle d'avec la femelle, on le fait sécher au soleil ; ensuite on le frappe contre un arbre ou contre un mur, pour en détacher les feuilles ou le fruit, & on le fait roüir ou dans une mare ou dans un ruisseau, ou enfin dans ce qu'on appelle un routoir ; c'est un fosse où il y a de l'eau.
 
@@ -22,6 +26,9 @@ Travail du chanvre. La vignette représente l'attelier des espadeurs, dont le mu
 
 
 PLANCHE Iere. Troisieme division servant de Planche seconde.
+------------------------------------------------------------
+
+[![Planche 1 - 3](Planche_1-3.jpeg)](Planche_1-3.jpeg)
 
 La vignette représente l'attelier des peigneurs.
 

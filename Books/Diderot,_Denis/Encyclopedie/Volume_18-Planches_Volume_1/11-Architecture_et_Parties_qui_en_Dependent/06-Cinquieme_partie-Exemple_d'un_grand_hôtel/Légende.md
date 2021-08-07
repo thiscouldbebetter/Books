@@ -1,4 +1,7 @@
-CINQUIEME PARTIE. Observations générales sur les Maisons royales & les Palais, appliquées en particulier à un grand Hôtel.
+CINQUIEME PARTIE.
+=================
+
+Observations générales sur les Maisons royales & les Palais, appliquées en particulier à un grand Hôtel.
 
 Les maisons royales & les palais des rois doivent être considérés comme des bâtimens d'habitation de la plus grande importance, & comme tels ils n'ont pu entrer dans cette collection ; ce qui fait que nous nous sommes réduits à donner les desseins d'un grand hôtel, demeure qui, après les palais & les maisons royales, doit tenir le premier rang. Nous dirons seulement ici que les maisons royales ne different des palais qu'en ce que ceux-ci sont ordinairement élevés dans les capitales, les maisons royales à la campagne. La disposition de ces dernieres & l'ordonnance de leurs façades, doivent par cette raison avoir un caractere moins grave dans leur décoration, & une fermeté moins absolue dans les parties qui les composent. On doit regarder les palais comme le lieu de la représentation du monarque, les maisons royales seulement comme la demeure du prince, où dans la belle saison il vient avec sa famille & ses courtisans se délasser des soins du gouvernement.
 
@@ -16,6 +19,9 @@ C'est de cette diversité de rang, du monarque aux grands princes, & de ceux-ci 
 
 
 PLANCHE XXIII. Projet d'un grand Hôtel de quarante toises de face.
+------------------------------------------------------------------
+
+[![Planche 23](Planche_23.jpeg)](Planche_23.jpeg)
 
 Persuadés que le premier mérite d'un plan consiste dans la beauté des enfilades principales, nous les avons observées ici, & avons pris soin de les exprimer par des lignes ponctuées. Nous avons aussi fait en sorte que le centre du grand sallon se rencontre dans les deux maîtresses enfilades, avantage considérable, & qui se trouve rarement dans nos édifices françois, à l'exception de nos maisons royales. Une des choses qui nous a paru aussi fort essentielle, c'est que des péristiles amenent à couvert depuis l'entrée de l'hôtel jusqu'aux appartemens. D'ailleurs ces péristiles en colonades donnent un air de dignité à ces sortes d'habitations, qui les distingue des maisons ordinaires, sans pour cela leur donner la somptuosité des palais des rois, qui se manifeste non-seulement par beaucoup plus d'étendue, mais encore par des avant-cours, des places d'armes, & une infinité d'autres dépendances de leur ressort. Peut-être eût-il été bien aussi d'observer dans cette distribution un porche, qui de la cour d'honneur eût fait descendre les maîtres à couvert dans leur appartement ; mais il s'agissoit de faire ici un grand hôtel de 75 toises de largeur entre deux murs mitoyens, & de l'annoncer par une grande cour qui indiquât par son aspect le rang du personnage qui devoit l'habiter ; en sorte que les basses cours devenant petites, ne pouvoient raisonnablement permettre le porche que nous desirons ici. A ce défaut, que nous avouons n'être pas peu considérable, voici comme on y pourroit remédier : ce seroit d'avancer de neuf à dix piés les six colonnes de front placées au-devant du vestibule, en sorte que les voitures pourroient passer entre ces colonnes & les murs de face, moyen qui peut se mettre en pratique dans cette distribution, mais qui ne peut avoir lieu que dans le cas d'une cour d'un certain diametre, à cause de l'échappée des carrosses & de la pente du pavé qu'il est nécessaire de gagner de loin, pour que le sol du porche proposé se trouve, à quelque chose près, à niveau du vestibule. Nous nous sommes contentés d'annoncer cette saillie, sans l'exprimer sur cette Planche. Nous avouons sincérement que cette idée ne nous est venue que depuis sept ou huit années que ce projet est gravé; tems depuis lequel nous avons apperçu plus d'une fois l'incommodité que les grands éprouvent, de n'arriver pas à pié sec dans l'intérieur de leur habitation, avantage néanmoins qui se rencontre rarement dans nos hôtels, mais que nous conseillons à tous les propriétaires & à nos jeunes architectes, comme un des points essentiels pour ce qui regarde la commodité.
 
@@ -23,6 +29,9 @@ Nous avons pris soin d'écrire le nom & l'usage de chaque piece de ce plan, & de
 
 
 PLANCHE XXIV.
+-------------
+
+[![Planche 24](Planche_24.jpeg)](Planche_24.jpeg)
 
 Le format de ce Volume n'ayant point permis de joindre les deux aîles au principal corps-de-logis, on a pris le parti de les graver séparément sur la même Planche, ce qui ne laisse pas de nuire à l'effet général de l'ensemble ; mais on peut se représenter la partie A jointe à celle B, & celle C jointe à la partie D, pour en juger. Au reste ces deux aîles ne sont que les élévations des dépendances de ce bâtiment, mais ajustées de maniere que malgré leur infériorité elles contribuent à faire valoir l'ordonnance de l'hôtel proprement dit.
 

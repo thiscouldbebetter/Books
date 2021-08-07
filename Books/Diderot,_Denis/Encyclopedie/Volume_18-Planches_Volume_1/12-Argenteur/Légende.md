@@ -1,8 +1,14 @@
 ARGENTEUR
+=========
 
 Contenant deux Planches.
 
-PLANCHE I.ere Vignette.
+PLANCHE I.ere
+-------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
+
+Vignette.
 
 1.
 	- n. 1. Maniere de hacher une assiete ou autres pieces. Cette opération se fait avec les couteaux représentés au bas de la Planche, fig. 8. n. 2. & fig. 11. 12. 14.
@@ -44,6 +50,8 @@ Bas de la Planche.
 
 
 PLANCHE II.
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 1. Coussinet à tiroir sur lequel on coupe les feuilles d'argent.
 	- a, peau garnie par dessous, & formant une espece de petit matelas.

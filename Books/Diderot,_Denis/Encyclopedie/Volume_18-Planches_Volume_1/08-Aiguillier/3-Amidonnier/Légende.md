@@ -1,3 +1,8 @@
+AMIDONNIER.
+===========
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
+
 1. Mise en trempe, ou maniere de jetter l'eau sur le levain. Les tonneaux e f & autres qu'on voit pleins, contiennent de la matiere en trempe.
 
 2. Maniere de laver le son ; c'est la matiere en trempe mise dans le sas de crin l. Les tonneaux a b contiennent ou reçoivent la matiere en bon état.

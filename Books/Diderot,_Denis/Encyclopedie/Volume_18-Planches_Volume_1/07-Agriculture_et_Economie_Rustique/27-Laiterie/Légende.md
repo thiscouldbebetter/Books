@@ -1,4 +1,7 @@
 LAITERIE.
+=========
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 La vignette représente l'intérieur de la laiterie d'une des maisons royales ; aussi est-elle plus décorée qu'elles ne le sont ordinairement : elle doit être de quelques piés plus bas que le rez-de-chaussée. Les tables sont de pierre de liais, & ont trois cannelures, par lesquelles les sérosités des laitages s'écoulent dans les éviers qui sont au-dessous.
 

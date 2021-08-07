@@ -1,4 +1,7 @@
 FAÇON DES FOINS, ET MOISSON.
+============================
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 1. Vignette représentant la recolte ou façon des foins.
 2. Vignette représentant la moisson.

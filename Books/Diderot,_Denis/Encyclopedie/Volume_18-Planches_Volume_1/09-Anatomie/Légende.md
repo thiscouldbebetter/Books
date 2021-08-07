@@ -1,10 +1,13 @@
 ANATOMIE, Contenant trente-trois Planches.
+==========================================
 
 AVERTISSEMENT.
+--------------
 
 L'Anatomie, cette partie de la Physique qui donne la connoissance du corps humain, devoit paroître avec distinction dans un Dictionnaire des Sciences. C'est principalement par les Planches qu'elle pouvoit être recommandable. M. Tarin, chargé de l'Anatomie, s'étoit appliqué à chercher dans chaque auteur les figures reconnues pour les meilleures. Sa collection devant présenter toutes les parties du corps humain, il ne paroissoit pas qu'il y eût rien de mieux à faire pour la satisfaction du Public, que de puiser avec discernement dans les sources, & que d'en tirer ce qu'il y auroit de préférable. Les connoisseurs ont applaudi au choix, & toute l'Anatomie devoit être comprise en vingt-deux Planches, comme on le voit par la description qui en a été donnée dans le premier tome de l'Encyclopédie, à l'article Anatomie. On a représenté aux Libraires associés qu'il étoit difficile de suivre ce premier plan sans réduire beaucoup d'objets qui perdroient par-là leur principal mérite. Ils se sont décidés sur le champ à multiplier les cuivres, & à donner la même suite de figures dans une disposition plus étendue. Le nombre des Planches a été augmenté d'un tiers, en doublant la moitié de celles qu'on s'étoit d'abord engagé de fournir. Ils se sont fait un devoir de n'épargner ni soins ni dépenses pour attirer à leur entreprise la protection qu'elle mérite.
 
 Planches.
+---------
 
 - Iere. Le squelette vû par-devant d'après Vesale.
 - I. n°. 2. La tête du squelette vûe dans sa partie inférieure avec quelques foetus.
@@ -44,8 +47,11 @@ Planches.
 
 
 PLANCHE Iere.
+-------------
 
 Le squelette vû par devant, d'après Vesale.
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 1. 
 	- a, L'os du front, ou le coronal.
@@ -114,7 +120,12 @@ Le squelette vû par devant, d'après Vesale.
 	- 40, les doigts qui sont composés chacun de trois os nommés phalanges.
 
 
-PLANCHE Iere. n°. 2. La tête du squelette vûe dans sa partie inférieure, avec quelques foetus.
+PLANCHE Iere. n°. 2.
+--------------------
+
+La tête du squelette vûe dans sa partie inférieure, avec quelques foetus.
+
+[![Planche 1-2](Planche_01-2.jpeg)](Planche_01-2.jpeg)
 
 2.
 	- A B B a a I I M L, l'occipital.
@@ -175,8 +186,11 @@ PLANCHE Iere. n°. 2. La tête du squelette vûe dans sa partie inférieure, ave
 
 
 PLANCHE II.
+-----------
 
 Le squelette vû de côté.
+
+[![Planche 2](Planche_02.jpeg)](Planche_02.jpeg)
 
 1.
 	- a A B, le coronal.
@@ -267,6 +281,9 @@ Le squelette vû de côté.
 
 
 PLANCHE II. n°. 2. La base du crâne & autres détails.
+-----------------------------------------------------
+
+[![Planche 2-2](Planche_02-2.jpeg)](Planche_02-2.jpeg)
 
 2. 
 	- a b c c, le coronal.
@@ -310,6 +327,9 @@ PLANCHE II. n°. 2. La base du crâne & autres détails.
 
 
 PLANCHE III.
+------------
+
+[![Planche 3](Planche_03.jpeg)](Planche_03.jpeg)
 
 Le squelette vû par-derriere.
 
@@ -378,6 +398,9 @@ Le squelette vû par-derriere.
 
 
 PLANCHE III. n°. 2. L'os pariétal sous différens états.
+-------------------------------------------------------
+
+[![Planche 3-2](Planche_03-2.jpeg)](Planche_03-2.jpeg)
 
 2. & 
 3. & 
@@ -389,6 +412,9 @@ PLANCHE III. n°. 2. L'os pariétal sous différens états.
 
 
 PLANCHE IV. L'écorché vû de face d'après Albinus.
+-------------------------------------------------
+
+[![Planche 4](Planche_04.jpeg)](Planche_04.jpeg)
 
 - a, a, les muscles frontaux.
 - b, une partie de l'aponévrose qui recouvre le muscle temporal.
@@ -485,6 +511,9 @@ PLANCHE IV. L'écorché vû de face d'après Albinus.
 
 
 PLANCHE IV. n°. 2. Mains & piés disséqués.
+------------------------------------------
+
+[![Planche 4](Planche_04-2.jpeg)](Planche_04-2.jpeg)
 
 2.
 	- A, ligament transversal du carpe.
@@ -655,8 +684,11 @@ La figure du bas de la Planche est la seconde de la Planche V. suivant le texte 
 
 
 PLANCHE V.
+----------
 
 L'écorché vû par le dos, d'après Albinus.
+
+[![Planche 5](Planche_05.jpeg)](Planche_05.jpeg)
 
 - a a, les muscles occipitaux.
 - c, le releveur de l'oreille.
@@ -717,6 +749,9 @@ L'écorché vû par le dos, d'après Albinus.
 
 
 PLANCHE VI. Muscles des piès & des mains, d'après Albinus & Courcelles.
+-----------------------------------------------------------------------
+
+[![Planche 6](Planche_6.jpeg)](Planche_6.jpeg)
 
 1.
 	- F, l'abducteur de l'index.
@@ -924,7 +959,11 @@ PLANCHE VI. Muscles des piès & des mains, d'après Albinus & Courcelles.
 	- Y, l'interosseux interne ou inférieur du petit doigt.
 	- Z, 1, 2, l'interosseux externe ou supérieur du troisieme doigt après le pouce. a montre l'endroit du gros tubercule du calcaneum, d'où naît la grande aponévrose plantaire ; & b, celui d'où nait la petite aponévrose.
 
+
 PLANCHE VII. Le diaphragme & le larynx d'après Haller & Eustachi.
+-----------------------------------------------------------------
+
+[![Planche 7](Planche_7.jpeg)](Planche_7.jpeg)
 
 1.
 	- A, le cartilage xiphoïde.
@@ -1056,6 +1095,9 @@ PLANCHE VII. Le diaphragme & le larynx d'après Haller & Eustachi.
 
 
 PLANCHE VIII. Les arteres d'aprés Drake.
+----------------------------------------
+
+[![Planche 8](Planche_8.jpeg)](Planche_8.jpeg)
 
 1. L'aorte ou la grande artere coupée dans son origine, à l'orifice du ventricule gauche du coeur.
 	- A, les trois valvules demi-circulaires de l'aorte, comme elles paroissent, lorsqu'elles empêchent le sang de retourner dans le ventricule gauche pendant sa diastole.
@@ -1136,40 +1178,56 @@ PLANCHE VIII. Les arteres d'aprés Drake.
 
 PLANCHE VIII. n°. 2. Autres détails des arteres & de quelques veines.
 
+[![Planche 8-2](Planche_08-2.jpeg)](Planche_08-2.jpeg)
+
 2. Ramifications de la veine porte dans le foie.
 	- a, partie de la veine porte qui entre dans le foie.
 	- c, la veine ombilicale, qui dans l'adulte forme une espece de ligament.
 	- d, le canal veineux qui dégénere aussi en ligament.
 	- e, l'extrémité des veines capillaires qui se terminent dans le foie.
 	- f, l'extrémité des veines qui viennent des intestins, & forment le tronc de la veine porte.
+
 3. Membranes de la trachée-artere séparées les unes des autres.
 	- a, la membrane glanduleuse.
 	- b, la vasculeuse.
 	- c, la membrane interne.
+
 4. Tronc d'une grosse veine disséqué.
 	- a a, la membrane externe ou la nerveuse.
 	- b, la vasculeuse.
 	- c, la glanduleuse.
 	- d, la musculaire.
+
 5. Une partie de l'aorte tournée de dedans en-dehors.
 	- a a, la membrane interne ou la nerveuse.
 	- b b, la musculaire.
 	- c c, la glanduleuse.
 	- d, la membrane externe ou la vasculaire.
+
 6. Vaisseaux lymphatiques.
+
 7. Ramifications de la veine cave dans le foie.
+
 8. de Ruisch. Parties des arteres distribuées dans le placenta.
+
 9. L'artere pulmonaire.
+
 10. Tronc de la veine pulmonaire.
 
 
-PLANCHE IX. Les troncs de la veine cave avec leurs branches disséquées dans un corps adulte, &c. d'après les Transactions Philosophiques.
+PLANCHE IX.
+-----------
 
-1.
+[![Planche 9](Planche_09.jpeg)](Planche_09.jpeg)
+
+Les troncs de la veine cave avec leurs branches disséquées dans un corps adulte, &c. d'après les Transactions Philosophiques.
+
+1. 
 	- A A, l'orifice de la veine cave, comme elle paroît lorsqu'elle est séparée de l'oreillette droite du coeur.
 	- a, l'orifice de la veine coronaire du coeur.
 	- B A, le tronc supérieur ou descendant de la veine cave.
-	- C C A, le tronc inférieur ou ascendant, ainsi nommé du mouvement du sang dans ces troncs, D D, les veines soûclavieres. +, la partie de la veine gauche, qui reçoit le canal thorachique.
+	- C C A, le tronc inférieur ou ascendant, ainsi nommé du mouvement du sang dans ces troncs, D D, les veines soûclavieres.
+	- +, la partie de la veine gauche, qui reçoit le canal thorachique.
 	- b, la veine soûclaviere azigos, dont les branches aboutissent aux côtes.
 	- d d, les veines mammaires internes.
 	- E E, les branches iliaques droites & gauches.
@@ -1201,7 +1259,11 @@ PLANCHE IX. Les troncs de la veine cave avec leurs branches disséquées dans un
 	- l l, la veine saphene.
 	- m, la veine crurale.
 
+
 PLANCHE IX. n°. 2. Les troncs de la veine porte disséqués & développés.
+-----------------------------------------------------------------------
+
+[![Planche 9-2](Planche_09-2.jpeg)](Planche_09-2.jpeg)
 
 2.
 	- A A A, les branches de la veine porte séparée du foie.
@@ -1217,7 +1279,7 @@ PLANCHE IX. n°. 2. Les troncs de la veine porte disséqués & développés.
 	- F, la gastro-épiploïque.
 	- G, les veines appellées vasa brevia.
 	- H, la veine hémorroïdale, qui vient du rectum & de l'anus.
-	
+
 3. La moëlle épiniere à gauche, d'après Huber.
 	- A, la partie antérieure de la premiere vertebre du col, élevée un peu obliquement en-haut.
 	- a, apophyse oblique supérieure de cette vertebre.
@@ -1264,6 +1326,9 @@ Cette figure représente à droite:
 
 
 PLANCHE X. Neuvrologie d'après Vieussens.
+-----------------------------------------
+
+[![Planche 10](Planche_10.jpeg)](Planche_10.jpeg)
 
 1.
 	- A, le tronc de la cinquieme paire.
@@ -1488,7 +1553,11 @@ PLANCHE X. Neuvrologie d'après Vieussens.
 	- 50, 51, les nerfs 50, 50, qui proviennent des dernieres paires lombaires, 51, 51 de la quatrieme paire, qui unis ensemble se joignent aux premieres paires sacrées 3 du côté droit, 2 du côté gauche, pour former les nerfs sciatiques.
 	- 52, 52, les nerfs sciatiques.
 
+
 PLANCHES XI. & XII.
+-------------------
+
+[![Planches 11 & 12](Planche_11_&_12.jpeg)](Planche_11_&_12.jpeg)
 
 1. Les arteres de la face d'après Haller.
 	- A, le tronc commun de la carotide.
@@ -1591,6 +1660,9 @@ PLANCHES XI. & XII.
 
 
 PLANCHE XI. & XII. n°. 2.
+-------------------------
+
+[![Planche 11 and 12-2](Planche_11_&_12-2.jpeg)](Planche_11_&_12-2.jpeg)
 
 2. Suite des arteres de la face. Une partie de la distribution de la carotide externe d'après Haller.
 	- A, le bord inférieur du cartilage thyroïde.
@@ -1753,6 +1825,9 @@ PLANCHE XI. & XII. n°. 2.
 
 
 PLANCHE XIII. De l'oreille.
+---------------------------
+
+[![Planche 13](Planche_13.jpeg)](Planche_13.jpeg)
 
 1. Distribution de la portion dure dans les différentes parties de la face, d'après Duverney.
 	- A, le tronc de la portion dure à sa sortie du crâne, par le trou situé entre les apophyses stiloïdes & mastoïdes.
@@ -1857,6 +1932,9 @@ PLANCHE XIII. De l'oreille.
 
 
 PLANCHE XIV. Intérieur du cerveau & du cervelet d'après Haller.
+---------------------------------------------------------------
+
+[![Planche 14](Planche_14.jpeg)](Planche_14.jpeg)
 
 1.
 	- A, la tente du cervelet.
@@ -1968,7 +2046,12 @@ PLANCHE XIV. Intérieur du cerveau & du cervelet d'après Haller.
 	- * *, nerf accessoire.
 
 
-PLANCHE XV.  Les cavités du cerveau & du cervelet, tirées des Adversaria anatomica de Tarin.
+PLANCHE XV.
+-----------
+
+Les cavités du cerveau & du cervelet, tirées des Adversaria anatomica de Tarin.
+
+[![Planche 15](Planche_15.jpeg)](Planche_15.jpeg)
 
 1. On voit dans cette figure les deux portions antérieure & postérieure de la tête : elle est coupée à six lignes au-dessus des sourcils, de la partie antérieure, vers la partie moyenne ; & de la partie postérieure ou de l'occiput, vers la même partie moyenne ; de maniere cependant que ces deux coupes forment dans l'endroit de leur concours un angle plus ou moins obtus, pour y découvrir en entier les ventricules supérieurs du cerveau, & les sinus postérieurs de ces ventricules. Voici ce que ces deux portions ont de commun.
 
@@ -2102,7 +2185,12 @@ PLANCHE XV.  Les cavités du cerveau & du cervelet, tirées des Adversaria anato
 	- m, la partie postérieure du quatrieme ventricule.
 
 
-PLANCHE XVI. Les arteres de la partie antérieure & interne de la poitrine, d'après Haller.
+PLANCHE XVI.
+------------
+
+Les arteres de la partie antérieure & interne de la poitrine, d'après Haller.
+
+[![Planche 16](Planche_16.jpeg)](Planche_16.jpeg)
 
 1. le foie représenté en passant.
 	- B, la portion droite du diaphragme.
@@ -2184,6 +2272,9 @@ PLANCHE XVI. Les arteres de la partie antérieure & interne de la poitrine, d'ap
 
 
 PLANCHE XVI. n°. 2. Détail des arteres de la poitrine.
+------------------------------------------------------
+
+[![Planche 16-2](Planche_16-2.jpeg)](Planche_16-2.jpeg)
 
 2. L'aorte inclinée sur la gauche, afin qu'on puisse mieux voir les arteres bronchiales du même côté, d'après Haller.
 	- A B C, le poumon droit.
@@ -2243,6 +2334,9 @@ PLANCHE XVI. n°. 2. Détail des arteres de la poitrine.
 
 
 PLANCHE XVII. Le coeur, d'après Sénac.
+--------------------------------------
+
+[![Planche 17](Planche_17.jpeg)](Planche_17.jpeg)
 
 1. La face convexe du coeur ; mais il a été forcé par la cire dont il a été rempli : on ne pouvoit faire voir autrement la figure naturelle des sacs. L'injection n'a pas conservé la proportion exacte des vaisseaux ; ils ont été diversement forcés. L'aorte c, par exemple, paroît moins grosse que l'artere pulmonaire. La veine cave supérieure B a été trop dilatée ; les proportions manquent de même dans les arteres coronaires : à mesure que les ventricules ont été dilatés, ces arteres se sont allongées : à leurs extrémités, de même que dans leur cours, elles sont marquées par des points ; ce sont ces points qui les distinguent des veines.
 
@@ -2304,6 +2398,9 @@ Il n'est pas douteux qu'il n'y ait des variations dans les vaisseaux coronaires 
 
 
 PLANCHE XVII. n°. 2. Détail du coeur.
+-------------------------------------
+
+[![Planche 17-2](Planche_17-2.jpeg)](Planche_17-2.jpeg)
 
 5. L'intérieur du ventricule gauche. Pour cela, on a fait une section par l'aorte, & on l'a poussée le long de la cloison : il n'y a que cette section qui puisse montrer la grande valvule, & laisser les piliers dans leur entier.
 	- A, la grande valvule mitrale qui surpasse de beaucoup celle qui est cachée dessous.
@@ -2340,6 +2437,9 @@ PLANCHE XVII. n°. 2. Détail du coeur.
 
 
 PLANCHE XVIII. Quelques parties du bas-ventre, d'après Haller.
+--------------------------------------------------------------
+
+[![Planche 18](Planche_18.jpeg)](Planche_18.jpeg)
 
 	- A B, le lode droit du foie incliné à droite.
 	- Γ, le lobe gauche.
@@ -2384,6 +2484,9 @@ PLANCHE XVIII. Quelques parties du bas-ventre, d'après Haller.
 
 
 PLANCHE XVIII. n°. 2. Les reins, d'après Haller.
+------------------------------------------------
+
+[![Planche 18](Planche_18-2.jpeg)](Planche_18-2.jpeg)
 
 2.
 	- A, le rein droit.
@@ -2492,7 +2595,12 @@ PLANCHE XVIII. n°. 2. Les reins, d'après Haller.
 	- f f, la partie du pancréas qui s'insinue dans les courbures du duodénum.
 
 
-PLANCHE XIX. Parties de l'estomac, du foie & des parties voisines, d'après Kulm.
+PLANCHE XIX.
+------------
+
+Parties de l'estomac, du foie & des parties voisines, d'après Kulm.
+
+[![Planche 19](Planche_19.jpeg)](Planche_19.jpeg)
 
 1.
 	- a b c d 2, le pancréas.
@@ -2575,6 +2683,9 @@ PLANCHE XIX. Parties de l'estomac, du foie & des parties voisines, d'après Kulm
 
 
 PLANCHE XX. Le rein.
+--------------------
+
+[![Planche 20](Planche_20.jpeg)](Planche_20.jpeg)
 
 1. d'après Nuck.
 	- A, le rein droit.
@@ -2630,6 +2741,9 @@ PLANCHE XX. Le rein.
 
 
 PLANCHE XXI. La verge vûe de différentes manieres.
+--------------------------------------------------
+
+[![Planche 21](Planche_21.jpeg)](Planche_21.jpeg)
 
 1. La verge dépouillée de la peau, desséchée après l'avoir embaumée, & vûe dans sa partie inférieure, d'après Ruisch.
 	- A, superficie du tissu cellulaire, dépouillée de l'enveloppe extérieure épaisse & nerveuse : ce tissu cellulaire prend le nom de membrane adipeuse, lorsqu'il est rempli de graisse.
@@ -2671,6 +2785,9 @@ PLANCHE XXI. La verge vûe de différentes manieres.
 
 
 PLANCHE XXI. n°. 2. Détail de la verge.
+---------------------------------------
+
+[![Planche 21-2](Planche_21-2.jpeg)](Planche_21-2.jpeg)
 
 5. d'après Graaf.
 	- A, les vaisseaux spermatiques coupés transversalement.
@@ -2718,6 +2835,9 @@ PLANCHE XXI. n°. 2. Détail de la verge.
 
 
 PLANCHE XXII. La matrice.
+-------------------------
+
+[![Planche 22](Planche_22.jpeg)](Planche_22.jpeg)
 
 1. d'après Haller.
 	- A, la matrice.
@@ -2775,6 +2895,9 @@ PLANCHE XXII. La matrice.
 
 
 PLANCHE XXII. n°. 2. Detail de la matrice.
+------------------------------------------
+
+[![Planche 22-2](Planche_22-2.jpeg)](Planche_22-2.jpeg)
 
 2. d'après Haller.
 	- A A A, la matrice ouverte postérieurement.

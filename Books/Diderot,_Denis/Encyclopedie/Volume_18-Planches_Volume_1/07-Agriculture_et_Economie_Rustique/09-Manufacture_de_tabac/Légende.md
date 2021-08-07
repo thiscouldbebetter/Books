@@ -1,6 +1,10 @@
 MANUFACTURE DE TABAC.
+=====================
 
 PLANCHE Iere.
+-------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 Le haut de la planche. Attelier de l'époulardage où l'on fait le triage des feuilles, & où l'on sépare les manoques, pour les distribuer par sortes dans les cases F G.
 
@@ -28,6 +32,9 @@ Le bas de la Planche. Les parties les plus essentielles de l'attelier de la moui
 
 
 PLANCHE II.
+-----------
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 Le haut de la Planche, attelier des écoteurs. A, ouverture pratiquée au plancher & entourée d'une rampe, par laquelle, au moyen des poulies mouflées B C, on monte les feuilles qui sortent de la mouillade, dont l'attelier, aussi-bien que celui de l'époulardage, est placé au-dessous de celui-ci.
 
@@ -71,6 +78,9 @@ Le bas de la Planche.
 
 
 PLANCHE III.
+------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
 
 Le haut de la Planche, attelier des rolleurs.
 
@@ -114,10 +124,13 @@ Bas de la Planche.
 
 
 PLANCHE IV. Presses.
+--------------------
+
+[![Planche 4](Planche_4.jpeg)](Planche_4.jpeg)
 
 Attelier des presses où on met le tabac en carottes.
 
-1, 2, 3, 4, 5, 6, &c. presses rangées des deux côtés & sur le mur du fond de cet attelier. Il y en a dans la fabrique de Paris jusqu'à soixante rangées le long des quatre faces d'une longue galerie. Vingt ou vingt-cinq ouvriers appliquent leurs forces à l'extrémité du grand levier de fer avec lequel on fait tourner les vis des presses.
+	- 1, 2, 3, 4, 5, 6, &c. presses rangées des deux côtés & sur le mur du fond de cet attelier. Il y en a dans la fabrique de Paris jusqu'à soixante rangées le long des quatre faces d'une longue galerie. Vingt ou vingt-cinq ouvriers appliquent leurs forces à l'extrémité du grand levier de fer avec lequel on fait tourner les vis des presses.
 	- A, chapiteau qui couvre l'ouverture de l'écrou dans lequel passe la vis, dont l'extrémité supérieure entre dans le chapiteau, lorsqu'on desserre la presse, & que la lanterne est élevée à une certaine hauteur.
 	- B, la lanterne qui est montée quarrément sur la vis, & dont les platines & les fuseaux sont aussi de fer.
 	- C, sommier ou table de la presse entaillée aux quatre coins pour faire place aux jumelles le long desquelles il peut descendre, étant suspendu à l'extrémité inférieure de la vis. L'excursion est d'environ deux piés.
@@ -142,6 +155,9 @@ Attelier des presses où on met le tabac en carottes.
 
 
 PLANCHE V. Elévation, profil & développement d'une presse.
+----------------------------------------------------------
+
+[![Planche 5](Planche_5.jpeg)](Planche_5.jpeg)
 
 1. Elévation d'une presse.
 	- A B, sommier ou écrou de bois de chêne ; il est percé de quatre trous quarrés de deux pouces de dimension, pour laisser passer les quatre jumelles de fer de deux pouces d'équarissage.
@@ -179,6 +195,8 @@ PLANCHE V. Elévation, profil & développement d'une presse.
 
 
 PLANCHE VI.
+
+[![Planche 6](Planche_6.jpeg)](Planche_6.jpeg)
 
 Le haut de la Planche, attelier des ficeleurs.
 

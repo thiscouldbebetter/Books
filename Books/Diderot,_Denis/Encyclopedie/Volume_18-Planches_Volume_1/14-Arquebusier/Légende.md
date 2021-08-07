@@ -1,7 +1,14 @@
 ARQUEBUSIER
+===========
+
 Contenant une Planche double & cinq Planches simples, ou sept Planches.
 
-PLANCHE Iere. double. Machine à forer & à aleser les canons de fusil.
+PLANCHE Iere. double.
+---------------------
+
+Machine à forer & à aleser les canons de fusil.
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 1.
 	- A, Bac qui se remplit d'eau.
@@ -32,7 +39,12 @@ Plan de la machine.
 	- 5. Espece d'enclume à étamper en rond.
 
 
-PLANCHE II. Machine à canneler les canons de fusil.
+PLANCHE II.
+-----------
+
+Machine à canneler les canons de fusil.
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 1. L'établi & la machine toute montée.
 
@@ -56,6 +68,9 @@ PLANCHE II. Machine à canneler les canons de fusil.
 
 
 PLANCHE III.
+------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
 
 5. Vûe de l'établi P, la table (fig. 14.) de la machine étant ôtée.
 	- A, B, les chevalets.
@@ -120,6 +135,9 @@ PLANCHE III.
 
 
 PLANCHE IV.
+-----------
+
+[![Planche 4](Planche_4.jpeg)](Planche_4.jpeg)
 
 1. Foret en bois.
 2. Broche pointue.
@@ -169,6 +187,9 @@ PLANCHE IV.
 
 
 PLANCHE V.
+----------
+
+[![Planche 5](Planche_5.jpeg)](Planche_5.jpeg)
 
 1. Platine vûe en-dehors, & garnie de toutes ses pieces.
 	- M, la platine, dont les bords sont terminés en biseau.

@@ -1,4 +1,7 @@
 CARRIER-PLATRIER.
+=================
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 La vignette représente une partie de carriere dans une colline escarpée ; la masse en est percée par différentes rues d'où l'on a tiré la pierre de plâtre, que l'on conduit sur des bêtes de somme (fig. 16.) au four (fig. 17.)
 

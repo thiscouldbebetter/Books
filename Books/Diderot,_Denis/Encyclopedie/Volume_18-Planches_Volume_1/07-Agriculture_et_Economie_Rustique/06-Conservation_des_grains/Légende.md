@@ -1,6 +1,10 @@
 CONSERVATION DES GRAINS, d'après M. Duhamel.
+============================================
 
 PLANCHE Iere.
+-------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 1. Corps du bâtiment de l'étuve, vû par-devant.
 2. Coupe horisontale de l'étuve par la ligne A B de la fig. premiere.
@@ -11,6 +15,9 @@ PLANCHE Iere.
 
 
 PLANCHES II. & III.
+-------------------
+
+[![Planche 2 & 3](Planche_2_&_3.jpeg)](Planche_2_&_3.jpeg)
 
 1. Petit poîle de tôle à l'italienne.
 2. Plan d'une petite étuve.

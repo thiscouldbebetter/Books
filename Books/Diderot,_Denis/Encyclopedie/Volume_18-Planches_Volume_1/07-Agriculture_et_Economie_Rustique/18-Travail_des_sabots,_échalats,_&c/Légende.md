@@ -1,4 +1,7 @@
 TRAVAIL DES SABOTS, Echalats, &c.
+=================================
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 La vignette représente une cabane de ces sortes d'ouvriers ; elle est construite comme le toît d'une glaciere, & ouverte au sommet A, pour servir de fenêtre & de cheminée. Le comble B B, qui est couvert de paille, est supporté dans son milieu par quatre perches C C C C. On fait du feu en D dans le milieu de la cabane.
 

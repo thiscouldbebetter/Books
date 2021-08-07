@@ -1,6 +1,10 @@
 EXERCICE DE L'INFANTERIE.
+=========================
 
-PLANCHE I.ere n°.
+PLANCHE I.ere.
+--------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 1. Soldat portant le fusil.
 2. Passez le fusil du côté de l'épée ; premier tems.
@@ -13,6 +17,9 @@ PLANCHE I.ere n°.
 
 
 PLANCHE II.
+-----------
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 14. Remettez vos épées ; deuxieme tems.
 15, 16. Remettez vos épées ; troisieme & quatrieme tems.
@@ -27,6 +34,9 @@ PLANCHE II.
 
 
 PLANCHE III.
+------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
 
 27. Apprêtez vos armes ; deuxieme rang.
 28. Apprêtez vos armes ; troisieme rang.
@@ -42,6 +52,9 @@ PLANCHE III.
 
 
 PLANCHE IV.
+-----------
+
+[![Planche 4](Planche_4.jpeg)](Planche_4.jpeg)
 
 38. Passez vos armes du côté de l'épée ; deuxieme tems.
 39. Passez vos armes du côté de l'épée ; troisieme tems.
@@ -56,6 +69,9 @@ PLANCHE IV.
 
 
 PLANCHE V.
+----------
+
+[![Planche 5](Planche_5.jpeg)](Planche_5.jpeg)
 
 50. Renversez le fusil ; cinquieme tems.
 51. Portez l'arme au bras ; deuxieme tems.

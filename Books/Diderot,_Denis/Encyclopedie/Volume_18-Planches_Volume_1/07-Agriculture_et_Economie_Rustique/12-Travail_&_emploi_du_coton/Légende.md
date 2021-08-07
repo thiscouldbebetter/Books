@@ -1,6 +1,10 @@
 TRAVAIL ET EMPLOI DU COTON.
+===========================
 
 PLANCHE Iere.
+-------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 Le haut de la Planche, ou la vignette représente l'interieur d'une fabrique.
 
@@ -44,6 +48,9 @@ Le bas de la Planche.
 
 
 PLANCHE II. Maniere de peigner le coton.
+----------------------------------------
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 1. Premiere opération. Peigner du coton avec une seule carde.
 
@@ -61,6 +68,9 @@ PLANCHE II. Maniere de peigner le coton.
 
 
 PLANCHE III.
+------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
 
 Maniere de lustrer & de filer le coton.
 
@@ -79,8 +89,13 @@ Maniere de lustrer & de filer le coton.
 
 
 PLANCHE IV. Métier à faire la toile de coton.
+---------------------------------------------
 
-Nota. Dans le texte ce sont des lettres majuscules, & dans les Planches on a mis des lettres minuscules. Le haut de la planche représente le métier à faire la toile de coton, & l'ouvrier à son métier : ce métier n'a rien de particulier.
+[![Planche 4](Planche_4.jpeg)](Planche_4.jpeg)
+
+Nota. Dans le texte ce sont des lettres majuscules, & dans les Planches on a mis des lettres minuscules.
+
+Le haut de la planche représente le métier à faire la toile de coton, & l'ouvrier à son métier : ce métier n'a rien de particulier.
 	- a, le poids qui passe sur l'ensuple de derriere, & qui tend la chaîne.
 	- b b, l'ensuple & le chassis du métier.
 	- c, les lisses.

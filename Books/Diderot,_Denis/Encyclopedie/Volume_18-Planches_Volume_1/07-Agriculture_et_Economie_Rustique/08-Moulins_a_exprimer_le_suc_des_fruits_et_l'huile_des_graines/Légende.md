@@ -1,6 +1,10 @@
 MOULINS A EXPRIMER LE SUC des fruits & l'huile des graines.
+===========================================================
 
 PLANCHE Iere. double. Moulin à huile avec pressoir, dit à grand banc, de Languedoc & de Provence.
+-------------------------------------------------------------------------------------------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 1. Vue du moulin où l'on écrase les olives.
 	- A, le bassin.
@@ -8,7 +12,8 @@ PLANCHE Iere. double. Moulin à huile avec pressoir, dit à grand banc, de Langu
 2. Coupe du moulin.
 	- A, coupe du bassin.
 	- B, coupe de la meule. On voit aussi dans cette figure le bras de la meule assemblé avec l'arbre du moulin.
-	- c d, le bras. e f, l'arbre.
+	- c d, le bras.
+	- e f, l'arbre.
 	- f, pivot sur lequel l'arbre se meut.
 	- e, son tourillon d'en-haut.
 3. Elévation du pressoir.
@@ -25,7 +30,8 @@ PLANCHE Iere. double. Moulin à huile avec pressoir, dit à grand banc, de Langu
 4. Arbre séparé vû en-dessous.
 	- O, écrou attaché à l'arbre, comme on voit, par des anneaux de fer & des clavettes.
 	- H, plan de la partie en saillie qu'on voit en H, fig. 3.
-	- F, queue de l'arbre F G. G, sa fourche.
+	- F, queue de l'arbre F G.
+	- G, sa fourche.
 5. Vûe du pressoir en-devant.
 	- O, l'écrou.
 	- G G, les fourches de l'arbre.
@@ -41,15 +47,22 @@ PLANCHE Iere. double. Moulin à huile avec pressoir, dit à grand banc, de Langu
 	- P, le massif.
 	- Q, pivot de la vis.
 	- R, crapaudine du pivot Q.
+
 7. Coupe du massif sur lequel le pressoir est assis. Voyez en S (fig. 3), une cuvette : c'est là que se rend l'huile de dessous le pressoir. Gette cuvette est pleine d'eau aux deux tiers. On ramasse l'huile de dessus cette eau ; ensuite par un robinet (même fig. 3.) on laisse passer dans la cuvette T l'eau de la cuvette S, avec ce qui est resté d'huile à sa surface. De la cuvette T, l'eau & l'huile restante se rendent par le canal V (fig. 7) dans l'enfer Y. Ce receptacle Y se vuide de son eau par la chantepleure Z, qui puisant l'eau à une certaine profondeur, laisse l'huile qu'on ramasse ensuite, & rien ne se perd.
+
 8. Un cabas.
+
 9. a, clé ou solive des grandes jumelles.
+
 10. b, clé ou solive des petites jumelles.
+
 11. Cuiller ou casserole de cuivre.
+
 12. Lame de cuivre.
 
 
 PLANCHE II. Moulin à exprimer l'huile des graines.
+--------------------------------------------------
 
 1.
 	- A B, arbre tournant qui porte les volans.
@@ -77,10 +90,17 @@ PLANCHE II. Moulin à exprimer l'huile des graines.
 
 
 PLANCHE III. Détails du précédent moulin, & moulin à moudre le tabac.
+---------------------------------------------------------------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
 
 2. Chaudiere où le marc se prépare à une seconde expression.
 
-3. Moulin à écraser différentes substances végétales qui donnent de l'huile. On voit sur l'arbre un collet quarré sur lequel on monte un hérisson ou rouet horisontal, qui emprunte son mouvement du moulin, fig. 2. A B C D g, chassis. m, h, les meules. e k f, faux qui ramasse la graine. L, le massif de la cuve en pierre qui reçoit l'huile de la graine écrasée.
+3. Moulin à écraser différentes substances végétales qui donnent de l'huile. On voit sur l'arbre un collet quarré sur lequel on monte un hérisson ou rouet horisontal, qui emprunte son mouvement du moulin, fig. 2.
+	- A B C D g, chassis.
+	- m, h, les meules.
+	- e k f, faux qui ramasse la graine.
+	- L, le massif de la cuve en pierre qui reçoit l'huile de la graine écrasée.
 
 4. Moulin à tabac.
 	- A, le mortier.

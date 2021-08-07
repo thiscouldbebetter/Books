@@ -1,4 +1,7 @@
 CULTURE ET ARSONNAGE du Coton.
+==============================
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 1. Une habitation des Isles de l'Amérique où l'on cultive le coton.
 	- No. 1, cotonier dans toute sa grandeur, arbuste portant le coton.

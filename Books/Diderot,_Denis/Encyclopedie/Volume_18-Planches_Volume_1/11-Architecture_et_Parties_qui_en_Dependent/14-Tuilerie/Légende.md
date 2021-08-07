@@ -1,6 +1,10 @@
 TUILERIE.
+=========
 
 PLANCHE I.ere
+-------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 La vignette représente une tuilerie & tous les bâtimens nécessaires.
 	- A, B, C, le fourneau adossé à un terrein élevé par lequel on monte au-dessus. Les murailles sont fortifiées & soutenues par des contre-forts C, C, entre lesquels il y a deux portes pour entrer dans le fourneau. Voyez l'explication de la Planche III.
@@ -46,7 +50,11 @@ La vignette représente une tuilerie & tous les bâtimens nécessaires.
 
 14. Plioir sur lequel le leveur (figure 3.) transporte la tuile faîtiere, & sur lequel il lui fait prendre la courbure convenable. C, la poignée du plioir. E, la tuile.
 
+
 PLANCHE II.
+-----------
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 La vignette représente l'intérieur de la halle D, E, Plan. I. C'est un grand bâtiment de 36 piés de large sur 72 de long, dont le toît soutenu par cinq fermes de charpente, repose par ses extrémités sur des murs de huit à dix piés d'élevation. C'est dans ce bâtiment qu'on met sécher la tuile & le carreau, que l'on releve de dessus les places avant qu'ils soient entierement secs. On forme avec la tuile de grandes tours F, F, F, F, F, composées de trois, quatre ou cinq tours l'une dans l'autre, & on la laisse sécher parfaitement en cet état avant de la mettre au fourneau. Les tuiles sont rangées quatre par quatre, les crochets en-haut, & tournés alternativement l'un vers le centre de la tour, & l'autre vers le dehors. Les paquets de quatre tuiles sont posés en liaison les uns sur les autres, en sorte qu'un paquet couvre le joint qui est entre les deux paquets qui sont au-dessous. On laisse les joints fort larges, afin que l'air circule plus facilement, & seche plus promptement la tuile. C'est aussi pour la même raison que les différentes tours qui sont les unes dans les autres, sont espacées d'un pié ou environ. On met aussi sécher la tuile faîtiere sur les pieces de la charpente du comble qui peuvent les recevoir, comme on voit en G, G; on se sert pour y atteindre de quelques treteaux ou banquettes.
 
@@ -60,7 +68,10 @@ La vignette représente l'intérieur de la halle D, E, Plan. I. C'est un grand b
 
 5. Plan & profil de la batte dont l'ouvrier (fig. 1.) se sert pour battre & dresser en trois ou quatre coups les quarrés dont on fait les carreaux. Cet instrument est d'un bois dur & uni ; il a neuf pouces de long, sept de large dans sa plus grande largeur ; le manche a cinq ou six pouces.
 
-6. Calibre & carreau de petit moule. a, calibre vû par dessus, du côté de la poignée. b, calibre vû par-dessous, du côté des pointes qui servent à le fixer dans les quarrés de terre glaise, dont le coupeur rogne l'excédent. Les calibres qui sont de bois, sont entourés d'une bande de fer, pour qu'ils ne soient point endommagés par le couteau. c, carreau vû par l'endroit où sont les empreintes des chevilles qui empêchent le calibre de tourner sur le carreau. d, carreau vû par dessous & du côté de l'envers qui est un peu plus petit que l'endroit, les côtés étant coupés un peu obliquement, pour que la jonction des arrêtes supérieures se fasse avec plus d'exactitude.
+6. Calibre & carreau de petit moule.
+	- a, calibre vû par dessus, du côté de la poignée.
+	- b, calibre vû par-dessous, du côté des pointes qui servent à le fixer dans les quarrés de terre glaise, dont le coupeur rogne l'excédent. Les calibres qui sont de bois, sont entourés d'une bande de fer, pour qu'ils ne soient point endommagés par le couteau.
+	- c, carreau vû par l'endroit où sont les empreintes des chevilles qui empêchent le calibre de tourner sur le carreau. d, carreau vû par dessous & du côté de l'envers qui est un peu plus petit que l'endroit, les côtés étant coupés un peu obliquement, pour que la jonction des arrêtes supérieures se fasse avec plus d'exactitude.
 
 7. Calibre de carreau de grand moule.
 	- A & B, calibre vû par-dessus & par-dessous.
@@ -73,7 +84,12 @@ La vignette représente l'intérieur de la halle D, E, Plan. I. C'est un grand b
 10. Les deux selles du coupeur, qui ont chacune de A en B, dix piés de long, un pié de large, & six pouces d'épaisseur ; le dessus est élevé d'environ dix-huit pouces au-dessus du terrein. Sur la premiere sont onze pilles F, D, de vingt carreaux chacune, qui sont entierement achevées ; & sur l'autre selle, quatorze pilles de demi-planches ou quarrés C, E, qui, à mesure qu'ils seront rognés, passeront sur l'autre selle. Ces deux pilles ensemble contiennent cinq cens carreaux.
 
 
-PLANCHE III. Profils, élévations & plans du fourneau pour cuire la brique, la tuile, & le carreau.
+PLANCHE III.
+------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
+
+Profils, élévations & plans du fourneau pour cuire la brique, la tuile, & le carreau.
 
 1. Coupe suivant la longueur, par la ligne D E A H du plan, (figure 4).
 	- H, la voûte.

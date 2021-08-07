@@ -1,7 +1,12 @@
 ARTIFICIER
+==========
+
 Contenant sept Planches.
 
 PLANCHE I.ere
+-------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 La vignette représente l'attelier ou le magasin d'un artificier. 
 
@@ -43,7 +48,12 @@ Bas de la Planche.
 18. Tamis à passer la poudre ; il y en a de différentes grandeurs.
 
 
-PLANCHE II. Les Figures sont de Frezier.
+PLANCHE II. 
+-----------
+
+Les Figures sont de Frezier.
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 19. Modele de la cuilliere à mettre la poudre dans le cartouche.
 20. La cuilliere.
@@ -72,7 +82,12 @@ PLANCHE II. Les Figures sont de Frezier.
 47. Etoile en fil d'étoupille pour les pots de fusées & d'autres.
 48. Fusée volante en globe.
 
+
 PLANCHE III.
+------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
+
 49. Fusée montée de deux tourniquets.
 50. Fusée montée en bruit de guerre.
 51. 52. 54. 55. Différens piés mouvans.
@@ -99,7 +114,11 @@ PLANCHE III.
 75. Chevalet pour tirer & diriger les fusées.
 76. Fusée d'eau en nageoire.
 
+
 PLANCHE IV.
+-----------
+
+[![Planche 4](Planche_4.jpeg)](Planche_4.jpeg)
 
 77. Soleil tournant.
 78. Soleil fixe ou gloire.
@@ -118,6 +137,9 @@ PLANCHE IV.
 
 
 PLANCHE V.
+----------
+
+[![Planche 5](Planche_5.jpeg)](Planche_5.jpeg)
 
 94. Etoile mouvant
 95. Grande gloire.
@@ -135,6 +157,9 @@ PLANCHE V.
 
 
 PLANCHE VI.
+-----------
+
+[![Planche 6](Planche_6.jpeg)](Planche_.jpeg)
 
 111. 112. 113. 114. 115. 116. 117. 118. Machines à plusieurs changemens, toutes garnies, & devant tirer séparément.
 119. Jeu de trois soleils tournans l'un après l'autre.
@@ -151,6 +176,9 @@ PLANCHE VI.
 
 
 PLANCHE VII.
+------------
+
+[![Planche 7](Planche_7.jpeg)](Planche_7.jpeg)
 
 130. Foureau pour ajuster le dedans des trompes.
 131. Développement d'une trompe d'artifice.

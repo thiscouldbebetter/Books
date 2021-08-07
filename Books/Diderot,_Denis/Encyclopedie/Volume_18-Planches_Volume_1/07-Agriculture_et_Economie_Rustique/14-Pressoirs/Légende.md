@@ -1,6 +1,10 @@
 PRESSOIRS.
+==========
 
 PLANCHE Iere.
+-------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 1. Pressoir à cage.
 	- H K, arbre.
@@ -26,6 +30,7 @@ PLANCHE Iere.
 	- C D, moises de la cage.
 	- A B, fosse de la cage.
 	- W, barlong qui reçoit le vin au sortir du pressoir.
+
 2. Pressoir appellé étiquet.
 	- A B, vis. 2, 3, 4, la roue.
 	- C D, écrou.
@@ -46,6 +51,9 @@ PLANCHE Iere.
 
 
 PLANCHE II. double. Pressoir à double coffre.
+---------------------------------------------
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 Élévation perspective du pressoir.
 	- P P, chantier.
@@ -85,6 +93,9 @@ PLANCHE II. double. Pressoir à double coffre.
 
 
 PLANCHE III.
+------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
 
 1. Plan & profil de l'un des coffres du pressoir.
 	- P P, chantier.
@@ -98,6 +109,7 @@ PLANCHE III.
 	- u u, écrou.
 	- C D, vis.
 	- A B, grande roue.
+
 2. Coupe suivant la longueur d'un des coffres du pressoir.
 	- L L, faux chantier.
 	- 13, 13, jumelles.

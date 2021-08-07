@@ -1,21 +1,31 @@
 ANTIQUITÉS
+==========
 
 Contenant onze Planches.
 
 
 PLANCHE I.ere
+-------------
+
+[![Planche 1](Planche_01.jpeg)](Planche_01.jpeg)
 
 1. Le temple de Jupiter vengeur, ou le Panthéon d'Agrippa.
 2. Le tombeau d'Adrien.
 
 
 PLANCHE II.
+-----------
+
+[![Planche 2](Planche_02.jpeg)](Planche_02.jpeg)
 
 1. L'amphithéatre des Vespasiens fameux par les combats des bêtes & des gladiateurs.
 2. Ruine de l'amphithéatre des Vespasiens.
 
 
 PLANCHE III.
+------------
+
+[![Planche 3](Planche_03.jpeg)](Planche_03.jpeg)
 
 1. &
 2. Are de Constantin.
@@ -24,6 +34,9 @@ PLANCHE III.
 
 
 PLANCHE IV.
+-----------
+
+[![Planche 4](Planche_04.jpeg)](Planche_04.jpeg)
 
 1. Cirque de Caracalla, construit hors de la ville, sur la voie Appienne, dans le voisinage du tombeau des Métellus.
 2. Théatre construit par Auguste en honneur de Marcellus, fils de sa soeur.
@@ -31,25 +44,39 @@ PLANCHE IV.
 
 
 PLANCHE V.
+----------
+
+[![Planche 5](Planche_05.jpeg)](Planche_05.jpeg)
 
 1. Colonne d'Antonin relevée par Sixte-Quint ; sa hauteur est de cent soixante quinze piés.
 2. Termes ou bains de Dioclétien, construits sur le mont Viminal.
 
 
 PLANCHE VI.
+-----------
+
+[![Planche 6](Planche_06.jpeg)](Planche_06.jpeg)
 
 1. Colonne Trajanne. Elle est de marbre ; elle a de hauteur 128 pies sans la base, & 140 avec la base ; elle est faite de 24 pierres.
 2. L'édifice construit sous le nom de Janus quadrifrons, ou Janus à quatre faces. Il décoroit le marché ou forum Boarium: quelques-uns l'ont pris mal-a-propos pour le temple de la Paix & de la Guerre.
 
 
-PLANCHE VII. 
+PLANCHE VII.
+------------
+
+[![Planche 7](Planche_07.jpeg)](Planche_07.jpeg)
+
 1. Le septizone de Sévere ; il étoit construit entre les monts Palatin & Coelius : c'étoit le tombeau de cet empereur & de ses enfans.
 2. Ruines du septizone.
 1. &
 2. &
 3. Anneaux. On verra l'albo galeus, Pl. IX. fig. 9. & l'apex, Pl. IX. fig. 14.
 
+
 PLANCHE VIII.
+-------------
+
+[![Planche 8](Planche_08.jpeg)](Planche_08.jpeg)
 
 1. &
 2. Bracelets.
@@ -70,6 +97,9 @@ PLANCHE VIII.
 
 
 PLANCHE IX.
+-----------
+
+[![Planche 9](Planche_09.jpeg)](Planche_09.jpeg)
 
 1. &
 2. Boucles.
@@ -90,6 +120,9 @@ PLANCHE IX.
 
 
 PLANCHE X.
+----------
+
+[![Planche 10](Planche_10.jpeg)](Planche_10.jpeg)
 
 1. Proefericulum.
 2. 2. 2. Sempulum, ou sempurium.
@@ -114,6 +147,9 @@ PLANCHE X.
 
 
 PLANCHE XI.
+-----------
+
+[![Planche 11](Planche_11.jpeg)](Planche_11.jpeg)
 
 1. Saint-Pierre de Rome.
 2. Eglise ancienne. Plan d'une ancienne église avec ses éxédres.

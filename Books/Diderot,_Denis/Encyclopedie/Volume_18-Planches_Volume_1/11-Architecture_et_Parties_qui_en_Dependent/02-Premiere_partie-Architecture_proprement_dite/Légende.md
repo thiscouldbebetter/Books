@@ -1,4 +1,5 @@
 PREMIERE PARTIE.
+================
 
 Principes généraux concernant les ordres & les principaux membres d'Architecture.
 
@@ -6,6 +7,9 @@ Nous commençons ces élémens par les ordres d'Architecture, comme la partie qu
 
 
 PLANCHE I.ere Des cinq ordres d'Architecture.
+---------------------------------------------
+
+[![Planche 1](Planche_01.jpeg)](Planche_01.jpeg)
 
 Cette Planche présente les cinq ordres d'Architecture, dont le dorique, l'ïonique & le corinthien sont grecs, & les deux autres romains.
 
@@ -29,6 +33,9 @@ Ce que nous venons de dire touchant l'ordre toscan, peut s'appliquer aux quatre 
 
 
 PLANCHE II. Division générale des ordres d'Architecture.
+--------------------------------------------------------
+
+[![Planche 2](Planche_02.jpeg)](Planche_02.jpeg)
 
 Nous avons dit dans la Planche précédente que, selon Vignole, le piédestal devoit avoir le tiers de la hauteur de l'ordre, & l'entablement le quart. Pour parvenir à trouver cette dimension, il faut diviser la hauteur donnée N, O (fig. 1.), en dix-neut parties égales ; en donner quatre au piédestal B, douze à l'ordre A, & trois à l'entablement C; en sorte que par cette division le piédestal aura le tiers de l'ordre, & l'entablement le quart, ainsi que l'expriment les dix-neufs demi-circonférences 1, 2, 3, 4, 5, &c.
 
@@ -50,6 +57,9 @@ On a observé d'accompagner les différentes moulures tracées dans cette Planch
 
 
 PLANCHE III. Des différentes especes de moulures.
+-------------------------------------------------
+
+[![Planche 3](Planche_03.jpeg)](Planche_03.jpeg)
 
 La moulure A est une petite moulure qu'on appelle filet, reglet ou listeau, composé de deux lignes paralleles, & qui se place entre les grandes moulures quarrées & circulaires, pour apporter de la variété aux différens membres des corniches.
 
@@ -65,6 +75,9 @@ La moulure I est une scotie nommée rond creux ou nacelle ; elle sert aux bases 
 
 
 PLANCHE IV. Suite des différentes especes de moulures.
+------------------------------------------------------
+
+[![Planche 4](Planche_04.jpeg)](Planche_04.jpeg)
 
 La moulure K est la scotie appellée antique, qui se décrit par les deux centres 1, 7; elle est moins estimée que la moderne, à cause de sa cavité inférieure, & de la vive arrête qu'elle forme vers 4; défaut qui ne la fait guere mettre en oeuvre que dans l'intérieur des appartemens, ou dans les dehors seulement, lorsqu'on préfere le marbre à la pierre, comme en usoient les Grecs & les Romains. Les lignes ponctuées, qui indiquent la construction de cette moulure, nous dispensent d'une plus grande explication.
 
@@ -84,6 +97,9 @@ Tous ces membres sont susceptibles d'enrichissemens ; on y applique des ornemens
 
 
 PLANCHE V. Des piédestaux.
+--------------------------
+
+[![Planche 5](Planche_05.jpeg)](Planche_05.jpeg)
 
 Cette Planche offre les piédestaux que les anciens ont ajoûté aux ordres d'Architecture : presque tous ont varié sur leur hauteur. Ici nous donnons ceux de Vignole, qui, comme nous l'avons remarqué, leur a établi le tiers de la colonne, y compris base & chapiteau. Chaque piédestal est composé d'une base A, d'un dez B, & d'une corniche C Les deux membres A & C sont ornés de plusieurs moulures assorties à l'expression de chaque ordre. Quelquefois l'on enrichit le dez B d'une table. Il faut avoir attention, dans l'ordre toscan, de faire cette table saillante, d'araser la dorique, de faire l'ïonique rentrante, ainsi que celles des piédestaux corinthiens & composites ; mais d'orner ces dernieres de quelques moulures.
 
@@ -93,11 +109,17 @@ On trouvera dans cette Planche toutes les mesures des moulures des piédestaux s
 
 
 PLANCHE VI. Des bases.
+----------------------
+
+[![Planche 6](Planche_06.jpeg)](Planche_06.jpeg)
 
 Les bases n'ont été introduites aux colonnes que lors de la construction du temple de Diane à Ephèse. Les Grecs avoient employé avant cette époque leur ordre dorique sans bases : mais dans la suite ils ne tarderent pas à s'appercevoir combien cet empatement étoit nécessaire au pié de la colonne. A juger des moulures de la base ïonique de cette Planche, la même que celle de Vignole qui la tient de Vitruve, & celui-ci de l'antiquité, on doit reconnoître que toutes les parties de l'Architecture ont eu leur enfance, & que les moulures des bases corinthiennes & composites n'ont guere été exécutées avec un plus heureux succès, principalement lorsqu'on les compare avec celle de la base nommée attique mise au jour par les Athéniens ; base qui a été composée si judicieusement, que le plus grand nombre de nos modernes l'ont employée à tous les ordres, à l'exception du toscan. Cette approbation générale de la base attique, nous paroît néanmoins un abus. La base dorique de Vignole a une beauté de convenance qu'il est bon de lui conserver ; aussi sa richesse progressive avec la toscane l'a-t-elle fait préférer par plusieurs de nos célebres architectes françois : en sorte que nous croyons que la base nommée attique doit être substituée seulement à l'ordre ïonique, & que, lorsqu'on la voudra faire servir aux ordres corinthiens & composites, comme elle seroit trop simple, on lui ajoûtera plusieurs baguettes, sans être obligé d'avoir recours à la multiplicité des scoties qu'on remarque dans les deux bases des ordres dont nous parlons. Autrement ces scoties, accompagnées ordinairement de plusieurs listeaux & baguettes, produiront trop de petites parties, ainsi qu'on le peut observer dans cette Planche, dont l'échelle de la base toscane & celle de la base dorique sont divisées en douze minutes, & celles des ordres ïonique, corinthien & composite en 18.
 
 
 PLANCHE VII. Des cannelures & des chapiteaux.
+---------------------------------------------
+
+[![Planche 7](Planche_07.jpeg)](Planche_07.jpeg)
 
 On a tracé sur cette Planche, ainsi que sur la précédente, les cannelures des fûts des colonnes dorique, ïonique, corinthienne & composite, l'ordre toscan ne devant jamais avoir de cette espece d'enrichissement, parce que la cavité des cannelures ne convient point à la rusticité de cet ordre ; ensorte que, lorsqu'on en veut orner la tige, on introduit des bossages qui lui ajoutent par leur relief un caractere de fermeté.
 
@@ -119,6 +141,9 @@ Il se fait encore d'autres chapiteaux qu'on appelle composés, parce qu'ils cont
 
 
 PLANCHE VIII. Des entablemens.
+------------------------------
+
+[![Planche 8](Planche_08.jpeg)](Planche_08.jpeg)
 
 Les entablemens sont les couronnemens des ordres ; chacun d'eux doit par sa solidité, sa légéreté, sa simplicité ou la division de ses membres, porter le caractere de l'ordre auquel il appartient. Les cinq entablemens, tracés sur cette Planche d'après Vignole, offrent ce que nous exigeons ici. La corniche toscane est composée de trois membres principaux, sçavoir, a, b, c ; la dorique de quatre, a, b, c, d ; l'ïonique, de cinq, a, b, c, d, e ; la corinthienne de six, a, b, c, d, e, f ; la composite, comme membre qui appartient à un ordre moins délicat par ses ornemens que le corinthien, n'en a que cinq, comme l'ïonique, sçavoir, a, b, c, d, e.
 
@@ -132,6 +157,9 @@ Lorsqu'on ne peut employer les trois membres de cet entablement, quelquefois on 
 
 
 PLANCHE IX. Des balustrades.
+----------------------------
+
+[![Planche 9](Planche_09.jpeg)](Planche_09.jpeg)
 
 Les ordres d'Architecture, dont nous venons de parler, ayant donné les proportions aux piédestaux & aux entablemens, il est naturel de penser que tous les autres membres qui appartiennent à l'Architecture, doivent aussi tenir leurs proportions & leurs mesures de ces mêmes ordres, & qu'il doit y avoir autant de chaque espece de membres qu'il y a d'especes d'ordres.
 
@@ -149,6 +177,9 @@ A l'égard des moulures qui diviseront les principaux membres des balustres & de
 
 
 PLANCHE X. Des portes.
+----------------------
+
+[![Planche 10](Planche_10.jpeg)](Planche_10.jpeg)
 
 La proportion des portes, c'est-à-dire le rapport de leur hauteur avec leur largeur, doit dépendre de l'expression de l'ordonnance dont elles feront partie. Les anciens & la plus grande partie des architectes du dernier siecle, d'après le sentiment de Vitruve & de Vignole, ont donné à toutes les hauteurs de leurs ouvertures le double de leur largeur. Nos modernes ont pensé que cette hauteur commune à toutes les ouvertures, ne pouvoit aller aux cinq ordres, qui chacun ont des proportions différentes ; en conséquence ils ont conservé la hauteur du double de l'ouverture, pour les portes toscanes, ce double & un sixieme aux portes doriques ; ce double & un quart, aux ïoniques ; & ce double & demi, aux corinthiennes & composites.
 
@@ -158,6 +189,9 @@ Après la proportion & la forme des portes, vient l'application de leurs ornemen
 
 
 PLANCHE XI. Des croisées.
+-------------------------
+
+[![Planche 11](Planche_11.jpeg)](Planche_11.jpeg)
 
 Les croisées doivent avoir les mêmes proportions que les portes, parce que toutes les ouvertures dans un bâtiment doivent avoir les mêmes rapports : les ornemens sont à-peu-près dans le même cas, mais leur forme doit différer, les ceintres surbaissés & les pleins ceintres ne convenant qu'aux ouvertures des portes ; & les arcs bombés & les plates bandes semblant devoir être consacrés seulement aux ouvertures des croisées. Certainement chaque membre dans l'Architecture porte un caractere établi par l'usage, dont on ne doit s'écarter que par de bonnes raisons : cependant cette considération a paru arbitraire à la multitude ; d'où il est résulté qu'au lieu de faire de belles portes & de belles croisées dans nos bâtimens françois, on n'a plus songé qu'à faire des percemens dans les murs de face, sans égard à la beauté des formes, à la conformité de l'ordonnance, & à la relation que les vuides doivent avoir avec les pleins, dans la décoration de nos édifices. C'est en pure perte, pour le grand nombre, qu'on remarque au Louvre, au Luxembourg, à la Sorbonne, des desseins en ce genre d'un goût exquis ; on imite ceux des Tuileries, du Palais Royal & tant d'autres fort au-dessous de ceux que nous citons, sans songer que les croisées se répétant à l'infini dans un bâtiment, c'est vouloir multiplier la médiocrité, que de négliger l'étude de cette partie intéressante de la décoration.
 
@@ -165,6 +199,9 @@ La croisée rustique de cette Planche est à appui plein ; la toscane offre un b
 
 
 PLANCHE XII. Des niches & des frontons.
+---------------------------------------
+
+[![Planche 12](Planche_12.jpeg)](Planche_12.jpeg)
 
 Les niches dans l'Architecture tiennent de la proportion des portes & des croisées. Ce sont des cavités prises dans l'épaisseur des murs, destinées à recevoir des statues. Il s'en fait de deux especes ; les unes quarrées par leur plan, & en plate-bande dans leur sommet, comme on le voit à la niche rustique ; les autres, dont le plan est décrit par un demi-cercle, & dont le sommet plein ceintre forme un cul de four, ainsi que le présentent les autres niches de cette Planche.
 

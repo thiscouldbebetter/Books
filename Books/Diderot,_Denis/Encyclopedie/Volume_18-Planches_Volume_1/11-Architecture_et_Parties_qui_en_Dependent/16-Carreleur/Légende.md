@@ -1,6 +1,10 @@
 CARRELEUR.
+==========
 
 PLANCHE I.ere
+--------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 1. Ouvrier qui nivelle le plancher.
 2. Manoeuvre qui porte le carreau à l'ouvrier qui le pose.
@@ -30,5 +34,8 @@ PLANCHE I.ere
 
 
 PLANCHE II.
+-----------
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 Soixante-quatre combinaisons des carreaux mi-partis de deux couleurs.

@@ -1,6 +1,10 @@
 CULTURE DE LA VIGNE.
+====================
 
 PLANCHE Iere. Plant & plantations de la vigne.
+----------------------------------------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 1. Gros sep de vigne en espalier.
 2. &
@@ -20,6 +24,9 @@ PLANCHE Iere. Plant & plantations de la vigne.
 
 
 PLANCHE II. Suite de la Planche précédente, & outils.
+-----------------------------------------------------
+
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
 
 14. Houe à deux bran-
 15. Houe simple. 
