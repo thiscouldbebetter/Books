@@ -1,0 +1,68 @@
+Useful Regular Expressions
+==========================
+
+To change this:
+
+	KING LOU. Now is the winter of our discontent
+	made glorious summer!
+	QUEEN. Nice try. You still have to take down
+	the Christmas lights.
+
+...to this:
+
+	KING LOU.
+	Now is the winter of our discontent
+	made glorious summer!
+
+	QUEEN.
+	Nice try. You still have to take down
+	the Christmas lights.
+
+...run a find-replace with these regular expressions:
+
+	Find: ^([A-Z][A-Z ]+\.) ([A-Z])
+
+	Replace with: \n\1\n\2
+
+
+
+To change this:
+
+	and where be Exeter this day?
+
+					Enter LORD Exeter, texting his ex
+
+	Good Lord Exeter, text not with exes!
+
+
+...to this:
+
+	and where be Exeter this day?
+
+	[Enter LORD Exeter, texting his ex.]
+
+	Good Lord Exeter, text not with exes!
+
+
+...run a find-replace with these regular expressions:
+
+	Find: ^\s+Enter (.+)\n\n
+
+	Replace: \n\[Enter \1\.\]\n\n
+
+
+...and the same with "Exit" and "Exeunt".
+
+
+Another pair:
+
+	Find: \s+Exit(.*)$
+
+	Replace: \n\n\[Exit\1\.\]
+
+
+Another pair:
+
+	Find: \s+Exeunt(.*)$
+
+	Replace: \n\n\[Exeunt\1\.\]
