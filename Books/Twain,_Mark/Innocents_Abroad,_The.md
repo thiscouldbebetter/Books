@@ -2556,7 +2556,7 @@ The poet replied with a barbarous rhyme and went below.
 "'Pears that he can't qualify, neither.  Well, I didn't expect nothing
 out of him.  I never see one of them poets yet that knowed anything.
 He'll go down now and grind out about four reams of the awfullest slush
-about that old rock and give it to a consul, or a pilot, or a nigger, or
+about that old rock and give it to a consul, or a pilot, or a n----r, or
 anybody he comes across first which he can impose on.  Pity but
 somebody'd take that poor old lunatic and dig all that poetry rubbage out
 of him.  Why can't a man put his intellect onto things that's some value?

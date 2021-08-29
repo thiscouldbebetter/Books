@@ -18566,7 +18566,7 @@ trying to do good.
 
 In the train that day a passenger told me some more about Boer life out
 in the lonely veldt.  He said the Boer gets up early and sets his
-"niggers" at their tasks (pasturing the cattle, and watching them); eats,
+"n----rs" at their tasks (pasturing the cattle, and watching them); eats,
 smokes, drowses, sleeps; toward evening superintends the milking, etc.;
 eats, smokes, drowses; goes to bed at early candlelight in the fragrant
 clothes he (and she) have worn all day and every week-day for years.  I

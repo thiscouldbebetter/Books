@@ -462,12 +462,10 @@ the river and went ashore to cross over him, he came out and followed
 her around like a pet mountain.  Like the other animals.  They all do
 that.
 
-
+________
 
 Tuesday--Wednesday--Thursday--and today:  all without seeing him.  It is
 a long time to be alone; still, it is better to be alone than unwelcome.
-
-
 
 FRIDAY--I HAD to have company--I was made for it, I think--so I made
 friends with the animals.  They are just charming, and they have the
