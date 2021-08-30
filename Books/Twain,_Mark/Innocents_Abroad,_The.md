@@ -479,213 +479,213 @@ program of the excursion without longing to make one of the party?  I will
 insert it here.  It is almost as good as a map.  As a text for this book,
 nothing could be better:
 
-	EXCURSION TO THE HOLY LAND, EGYPT,
-	THE CRIMEA, GREECE, AND INTERMEDIATE POINTS OF INTEREST.
-	BROOKLYN, February 1st, 1867
+> EXCURSION TO THE HOLY LAND, EGYPT,
+> THE CRIMEA, GREECE, AND INTERMEDIATE POINTS OF INTEREST.
+> BROOKLYN, February 1st, 1867
 
-	The undersigned will make an excursion as above during the coming
-	season, and begs to submit to you the following programme:
+> The undersigned will make an excursion as above during the coming
+> season, and begs to submit to you the following programme:
 
-	A first-class steamer, to be under his own command, and capable of
-	accommodating at least one hundred and fifty cabin passengers, will
-	be selected, in which will be taken a select company, numbering not
-	more than   three-fourths of the ship's capacity.  There is good
-	reason to believe that this company can be easily made up in this
-	immediate vicinity, of mutual friends and acquaintances.
+> A first-class steamer, to be under his own command, and capable of
+> accommodating at least one hundred and fifty cabin passengers, will
+> be selected, in which will be taken a select company, numbering not
+> more than   three-fourths of the ship's capacity.  There is good
+> reason to believe that this company can be easily made up in this
+> immediate vicinity, of mutual friends and acquaintances.
 
-	The steamer will be provided with every necessary comfort,
-	including library and musical instruments.
+> The steamer will be provided with every necessary comfort,
+> including library and musical instruments.
 
-	An experienced physician will be on board.
+> An experienced physician will be on board.
 
-	Leaving New York about June 1st, a middle and pleasant route will
-	be taken across the Atlantic, and passing through the group of
-	Azores, St. Michael will be reached in about ten days.  A day or two
-	will be spent here, enjoying the fruit and wild scenery of these
-	islands, and the voyage continued, and Gibraltar reached in three or
-	four days.
+> Leaving New York about June 1st, a middle and pleasant route will
+> be taken across the Atlantic, and passing through the group of
+> Azores, St. Michael will be reached in about ten days.  A day or two
+> will be spent here, enjoying the fruit and wild scenery of these
+> islands, and the voyage continued, and Gibraltar reached in three or
+> four days.
 
-	A day or two will be spent here in looking over the wonderful
-	subterraneous fortifications, permission to visit these galleries
-	being readily obtained.
+> A day or two will be spent here in looking over the wonderful
+> subterraneous fortifications, permission to visit these galleries
+> being readily obtained.
 
-	From Gibraltar, running along the coasts of Spain and France,
-	Marseilles will be reached in three days.  Here ample time will be
-	given not only to look over the city, which was founded six hundred
-	years before the Christian era, and its artificial port, the finest
-	of the kind in the Mediterranean, but to visit Paris during the
-	Great Exhibition; and the beautiful city of Lyons, lying
-	intermediate, from the heights of which, on a clear day, Mont Blanc
-	and the Alps can be distinctly seen.  Passengers who may wish to
-	extend the time at Paris can do so, and, passing down through
-	Switzerland, rejoin the steamer at Genoa.
+> From Gibraltar, running along the coasts of Spain and France,
+> Marseilles will be reached in three days.  Here ample time will be
+> given not only to look over the city, which was founded six hundred
+> years before the Christian era, and its artificial port, the finest
+> of the kind in the Mediterranean, but to visit Paris during the
+> Great Exhibition; and the beautiful city of Lyons, lying
+> intermediate, from the heights of which, on a clear day, Mont Blanc
+> and the Alps can be distinctly seen.  Passengers who may wish to
+> extend the time at Paris can do so, and, passing down through
+> Switzerland, rejoin the steamer at Genoa.
 
-	From Marseilles to Genoa is a run of one night.  The excursionists
-	will have an opportunity to look over this, the "magnificent city of
-	palaces," and visit the birthplace of Columbus, twelve miles off,
-	over a beautiful road built by Napoleon I.  From this point,
-	excursions may be made to Milan, Lakes Como and Maggiore, or to
-	Milan, Verona (famous for its extraordinary fortifications), Padua,
-	and Venice.  Or, if passengers desire to visit Parma (famous for
-	Correggio's frescoes) and Bologna, they can by rail go on to
-	Florence, and rejoin the steamer at Leghorn, thus spending about
-	three weeks amid the cities most famous for art in Italy.
+> From Marseilles to Genoa is a run of one night.  The excursionists
+> will have an opportunity to look over this, the "magnificent city of
+> palaces," and visit the birthplace of Columbus, twelve miles off,
+> over a beautiful road built by Napoleon I.  From this point,
+> excursions may be made to Milan, Lakes Como and Maggiore, or to
+> Milan, Verona (famous for its extraordinary fortifications), Padua,
+> and Venice.  Or, if passengers desire to visit Parma (famous for
+> Correggio's frescoes) and Bologna, they can by rail go on to
+> Florence, and rejoin the steamer at Leghorn, thus spending about
+> three weeks amid the cities most famous for art in Italy.
 
-	From Genoa the run to Leghorn will be made along the coast in one
-	night, and time appropriated to this point in which to visit
-	Florence, its palaces and galleries; Pisa, its cathedral and
-	"Leaning Tower," and Lucca and its baths, and Roman amphitheater;
-	Florence, the most remote, being distant by rail about sixty miles.
+> From Genoa the run to Leghorn will be made along the coast in one
+> night, and time appropriated to this point in which to visit
+> Florence, its palaces and galleries; Pisa, its cathedral and
+> "Leaning Tower," and Lucca and its baths, and Roman amphitheater;
+> Florence, the most remote, being distant by rail about sixty miles.
 
-	From Leghorn to Naples (calling at Civita Vecchia to land any who
-	may prefer to go to Rome from that point), the distance will be made
-	in about thirty-six hours; the route will lay along the coast of
-	Italy, close by Caprera, Elba, and Corsica.  Arrangements have been
-	made to take on board at Leghorn a pilot for Caprera, and, if
-	practicable, a call will be made there to visit the home of
-	Garibaldi.
+> From Leghorn to Naples (calling at Civita Vecchia to land any who
+> may prefer to go to Rome from that point), the distance will be made
+> in about thirty-six hours; the route will lay along the coast of
+> Italy, close by Caprera, Elba, and Corsica.  Arrangements have been
+> made to take on board at Leghorn a pilot for Caprera, and, if
+> practicable, a call will be made there to visit the home of
+> Garibaldi.
 
-	Rome [by rail], Herculaneum, Pompeii, Vesuvius, Vergil's tomb, and
-	possibly the ruins of Paestum can be visited, as well as the
-	beautiful surroundings of Naples and its charming bay.
+> Rome [by rail], Herculaneum, Pompeii, Vesuvius, Vergil's tomb, and
+> possibly the ruins of Paestum can be visited, as well as the
+> beautiful surroundings of Naples and its charming bay.
 
-	The next point of interest will be Palermo, the most beautiful
-	city of Sicily, which will be reached in one night from Naples.  A
-	day will be spent here, and leaving in the evening, the course will
-	be taken towards Athens.
+> The next point of interest will be Palermo, the most beautiful
+> city of Sicily, which will be reached in one night from Naples.  A
+> day will be spent here, and leaving in the evening, the course will
+> be taken towards Athens.
 
-	Skirting along the north coast of Sicily, passing through the
-	group of Aeolian Isles, in sight of Stromboli and Vulcania, both
-	active volcanoes, through the Straits of Messina, with "Scylla" on
-	the one hand and "Charybdis" on the other, along the east coast of
-	Sicily, and in sight of Mount Etna, along the south coast of Italy,
-	the west and south coast of Greece, in sight of ancient Crete, up
-	Athens Gulf, and into the Piraeus, Athens will be reached in two and
-	a half or three days.  After tarrying here awhile, the Bay of
-	Salamis will be crossed, and a day given to Corinth, whence the
-	voyage will be continued to Constantinople, passing on the way
-	through the Grecian Archipelago, the Dardanelles, the Sea of
-	Marmora, and the mouth of the Golden Horn, and arriving in about
-	forty-eight hours from Athens.
+> Skirting along the north coast of Sicily, passing through the
+> group of Aeolian Isles, in sight of Stromboli and Vulcania, both
+> active volcanoes, through the Straits of Messina, with "Scylla" on
+> the one hand and "Charybdis" on the other, along the east coast of
+> Sicily, and in sight of Mount Etna, along the south coast of Italy,
+> the west and south coast of Greece, in sight of ancient Crete, up
+> Athens Gulf, and into the Piraeus, Athens will be reached in two and
+> a half or three days.  After tarrying here awhile, the Bay of
+> Salamis will be crossed, and a day given to Corinth, whence the
+> voyage will be continued to Constantinople, passing on the way
+> through the Grecian Archipelago, the Dardanelles, the Sea of
+> Marmora, and the mouth of the Golden Horn, and arriving in about
+> forty-eight hours from Athens.
 
-	After leaving Constantinople, the way will be taken out through
-	the beautiful Bosphorus, across the Black Sea to Sebastopol and
-	Balaklava, a run of about twenty-four hours.  Here it is proposed to
-	remain two days, visiting the harbors, fortifications, and
-	battlefields of the Crimea; thence back through the Bosphorus,
-	touching at Constantinople to take in any who may have preferred to
-	remain there; down through the Sea of Marmora and the Dardanelles,
-	along the coasts of ancient Troy and Lydia in Asia, to Smyrna, which
-	will be reached in two or two and a half days from Constantinople.
-	A sufficient stay will be made here to give opportunity of visiting
-	Ephesus, fifty miles distant by rail.
+> After leaving Constantinople, the way will be taken out through
+> the beautiful Bosphorus, across the Black Sea to Sebastopol and
+> Balaklava, a run of about twenty-four hours.  Here it is proposed to
+> remain two days, visiting the harbors, fortifications, and
+> battlefields of the Crimea; thence back through the Bosphorus,
+> touching at Constantinople to take in any who may have preferred to
+> remain there; down through the Sea of Marmora and the Dardanelles,
+> along the coasts of ancient Troy and Lydia in Asia, to Smyrna, which
+> will be reached in two or two and a half days from Constantinople.
+> A sufficient stay will be made here to give opportunity of visiting
+> Ephesus, fifty miles distant by rail.
 
-	From Smyrna towards the Holy Land the course will lay through the
-	Grecian  Archipelago, close by the Isle of Patmos, along the coast
-	of Asia, ancient Pamphylia, and the Isle of Cyprus.  Beirut will be
-	reached in three days.  At Beirut time will be given to visit
-	Damascus; after which the steamer will proceed to Joppa.
+> From Smyrna towards the Holy Land the course will lay through the
+> Grecian  Archipelago, close by the Isle of Patmos, along the coast
+> of Asia, ancient Pamphylia, and the Isle of Cyprus.  Beirut will be
+> reached in three days.  At Beirut time will be given to visit
+> Damascus; after which the steamer will proceed to Joppa.
 
-	From Joppa, Jerusalem, the River Jordan, the Sea of Tiberias,
-	Nazareth, Bethany, Bethlehem, and other points of interest in the
-	Holy Land can be visited, and here those who may have preferred to
-	make the journey from Beirut through the country, passing through
-	Damascus, Galilee, Capernaum, Samaria, and by the River Jordan and
-	Sea of Tiberias, can rejoin the steamer.
+> From Joppa, Jerusalem, the River Jordan, the Sea of Tiberias,
+> Nazareth, Bethany, Bethlehem, and other points of interest in the
+> Holy Land can be visited, and here those who may have preferred to
+> make the journey from Beirut through the country, passing through
+> Damascus, Galilee, Capernaum, Samaria, and by the River Jordan and
+> Sea of Tiberias, can rejoin the steamer.
 
-	Leaving Joppa, the next point of interest to visit will be
-	Alexandria, which will be reached in twenty-four hours.  The ruins
-	of Caesar's Palace, Pompey's Pillar, Cleopatra's Needle, the
-	Catacombs, and ruins of ancient Alexandria will be found worth the
-	visit.  The journey to Cairo, one hundred and thirty miles by rail,
-	can be made in a few hours, and from which can be visited the site
-	of ancient Memphis, Joseph's Granaries, and the Pyramids.
+> Leaving Joppa, the next point of interest to visit will be
+> Alexandria, which will be reached in twenty-four hours.  The ruins
+> of Caesar's Palace, Pompey's Pillar, Cleopatra's Needle, the
+> Catacombs, and ruins of ancient Alexandria will be found worth the
+> visit.  The journey to Cairo, one hundred and thirty miles by rail,
+> can be made in a few hours, and from which can be visited the site
+> of ancient Memphis, Joseph's Granaries, and the Pyramids.
 
-	From Alexandria the route will be taken homeward, calling at
-	Malta, Cagliari (in Sardinia), and Palma (in Majorca), all
-	magnificent harbors, with charming scenery, and abounding in fruits.
+> From Alexandria the route will be taken homeward, calling at
+> Malta, Cagliari (in Sardinia), and Palma (in Majorca), all
+> magnificent harbors, with charming scenery, and abounding in fruits.
 
-	A day or two will be spent at each place, and leaving Parma in the
-	evening, Valencia in Spain will be reached the next morning.  A few
-	days will be spent in this, the finest city of Spain.
+> A day or two will be spent at each place, and leaving Parma in the
+> evening, Valencia in Spain will be reached the next morning.  A few
+> days will be spent in this, the finest city of Spain.
 
-	From Valencia, the homeward course will be continued, skirting
-	along the coast of Spain.  Alicant, Carthagena, Palos, and Malaga
-	will be passed but a mile or two distant, and Gibraltar reached in
-	about twenty-four hours.
+> From Valencia, the homeward course will be continued, skirting
+> along the coast of Spain.  Alicant, Carthagena, Palos, and Malaga
+> will be passed but a mile or two distant, and Gibraltar reached in
+> about twenty-four hours.
 
-	A stay of one day will be made here, and the voyage continued to
-	Madeira, which will be reached in about three days.  Captain
-	Marryatt writes: "I do not know a spot on the globe which so much
-	astonishes and delights upon first arrival as Madeira." A stay of
-	one or two days will be made here, which, if time permits, may be
-	extended, and passing on through the islands, and probably in sight
-	of the Peak of Teneriffe, a southern track will be taken, and the
-	Atlantic crossed within the latitudes of the northeast trade winds,
-	where mild and pleasant weather, and a smooth sea, can always be
-	expected.
+> A stay of one day will be made here, and the voyage continued to
+> Madeira, which will be reached in about three days.  Captain
+> Marryatt writes: "I do not know a spot on the globe which so much
+> astonishes and delights upon first arrival as Madeira." A stay of
+> one or two days will be made here, which, if time permits, may be
+> extended, and passing on through the islands, and probably in sight
+> of the Peak of Teneriffe, a southern track will be taken, and the
+> Atlantic crossed within the latitudes of the northeast trade winds,
+> where mild and pleasant weather, and a smooth sea, can always be
+> expected.
 
-	A call will be made at Bermuda, which lies directly in this route
-	homeward, and will be reached in about ten days from Madeira, and
-	after spending a short time with our friends the Bermudians, the
-	final departure will be made for home, which will be reached in
-	about three days.
+> A call will be made at Bermuda, which lies directly in this route
+> homeward, and will be reached in about ten days from Madeira, and
+> after spending a short time with our friends the Bermudians, the
+> final departure will be made for home, which will be reached in
+> about three days.
 
-	Already, applications have been received from parties in Europe
-	wishing to join the Excursion there.
+> Already, applications have been received from parties in Europe
+> wishing to join the Excursion there.
 
-	The ship will at all times be a home, where the excursionists, if
-	sick, will be surrounded by kind friends, and have all possible
-	comfort and sympathy.
+> The ship will at all times be a home, where the excursionists, if
+> sick, will be surrounded by kind friends, and have all possible
+> comfort and sympathy.
 
-	Should contagious sickness exist in any of the ports named in the
-	program, such ports will be passed, and others of interest
-	substituted.
+> Should contagious sickness exist in any of the ports named in the
+> program, such ports will be passed, and others of interest
+> substituted.
 
-	The price of passage is fixed at $1,250, currency, for each adult
-	passenger.  Choice of rooms and of seats at the tables apportioned
-	in the order in which passages are engaged; and no passage
-	considered engaged until ten percent of the passage money is
-	deposited with the treasurer.
+> The price of passage is fixed at $1,250, currency, for each adult
+> passenger.  Choice of rooms and of seats at the tables apportioned
+> in the order in which passages are engaged; and no passage
+> considered engaged until ten percent of the passage money is
+> deposited with the treasurer.
 
-	Passengers can remain on board of the steamer, at all ports, if
-	they desire, without additional expense, and all boating at the
-	expense of the ship.
+> Passengers can remain on board of the steamer, at all ports, if
+> they desire, without additional expense, and all boating at the
+> expense of the ship.
 
-	All passages must be paid for when taken, in order that the most
-	perfect arrangements be made for starting at the appointed time.
+> All passages must be paid for when taken, in order that the most
+> perfect arrangements be made for starting at the appointed time.
 
-	Applications for passage must be approved by the committee before
-	tickets are issued, and can be made to the undersigned.
+> Applications for passage must be approved by the committee before
+> tickets are issued, and can be made to the undersigned.
 
-	Articles of interest or curiosity, procured by the passengers
-	during the voyage, may be brought home in the steamer free of
-	charge.
+> Articles of interest or curiosity, procured by the passengers
+> during the voyage, may be brought home in the steamer free of
+> charge.
 
-	Five dollars per day, in gold, it is believed, will be a fair
-	calculation to make for all traveling expenses onshore and at the
-	various points where passengers may wish to leave the steamer for
-	days at a time.
+> Five dollars per day, in gold, it is believed, will be a fair
+> calculation to make for all traveling expenses onshore and at the
+> various points where passengers may wish to leave the steamer for
+> days at a time.
 
-	The trip can be extended, and the route changed, by unanimous vote
-	of the passengers.
+> The trip can be extended, and the route changed, by unanimous vote
+> of the passengers.
 
-	CHAS. C. DUNCAN, 117 WALL STREET, NEW YORK  R. R. G******,
-	Treasurer
+> CHAS. C. DUNCAN, 117 WALL STREET, NEW YORK  R. R. G******,
+> Treasurer
 
-	Committee on Applications  J. T. H*****, ESQ. R. R. G*****,
-	ESQ. C. C. Duncan
+> Committee on Applications  J. T. H*****, ESQ. R. R. G*****,
+> ESQ. C. C. Duncan
 
-	Committee on Selecting Steamer  CAPT. W. W. S* * * *, Surveyor
-	for Board of Underwriters
+> Committee on Selecting Steamer  CAPT. W. W. S* * * *, Surveyor
+> for Board of Underwriters
 
-	C. W. C******, Consulting Engineer for U.S. and Canada  J. T.
-	H*****, Esq. C. C. DUNCAN
+> C. W. C******, Consulting Engineer for U.S. and Canada  J. T.
+> H*****, Esq. C. C. DUNCAN
 
-	P.S.--The very beautiful and substantial side-wheel steamship
-	"Quaker City" has been chartered for the occasion, and will leave
-	New York June 8th.  Letters have been issued by the government
-	commending the party to courtesies abroad.
+> P.S.--The very beautiful and substantial side-wheel steamship
+> "Quaker City" has been chartered for the occasion, and will leave
+> New York June 8th.  Letters have been issued by the government
+> commending the party to courtesies abroad.
 
 What was there lacking about that program to make it perfectly
 irresistible?  Nothing that any finite mind could discover.  Paris,
@@ -1492,13 +1492,13 @@ several times and then went out.  He must have visited an American, for
 when he returned, he brought back his bill translated into a language
 that a Christian could understand--thus:
 
-	10 dinners, 6,000 reis, or .  .  .$6.00
+> 10 dinners, 6,000 reis, or .  .  .$6.00
 
-	25 cigars, 2,500 reis, or .  .  .  2.50
+> 25 cigars, 2,500 reis, or .  .  .  2.50
 
-	11 bottles wine, 13,200 reis, or  13.20
+> 11 bottles wine, 13,200 reis, or  13.20
 
-	Total 21,700 reis, or .  .  .  . $21.70
+> Total 21,700 reis, or .  .  .  . $21.70
 
 Happiness reigned once more in Blucher's dinner party.  More refreshments
 were ordered.
@@ -2230,9 +2230,9 @@ phantoms of forgotten ages.  My eyes are resting upon a spot where stood
 a monument which was seen and described by Roman historians less than two
 thousand years ago, whereon was inscribed:
 
-	"WE ARE THE CANAANITES.  WE ARE THEY THAT
-	HAVE BEEN DRIVEN OUT OF THE LAND OF CANAAN
-	BY THE JEWISH ROBBER, JOSHUA."
+> "WE ARE THE CANAANITES.  WE ARE THEY THAT
+> HAVE BEEN DRIVEN OUT OF THE LAND OF CANAAN
+> BY THE JEWISH ROBBER, JOSHUA."
 
 Joshua drove them out, and they came here.  Not many leagues from here is
 a tribe of Jews whose ancestors fled thither after an unsuccessful revolt
@@ -5218,15 +5218,15 @@ uncertain notion of clean shirts, and the peculiarities of the gorilla,
 and other curious matters.  This reminds me of poor Blucher's note to the
 landlord in Paris:
 
-	PARIS, le 7 Juillet.  Monsieur le Landlord--Sir: Pourquoi don't you
-	mettez some savon in your bed-chambers?  Est-ce que vous pensez I
-	will steal it?  La nuit passee you charged me pour deux chandelles
-	when I only had one; hier vous avez charged me avec glace when I had
-	none at all; tout les jours you are coming some fresh game or other
-	on me, mais vous ne pouvez pas play this savon dodge on me twice.
-	Savon is a necessary de la vie to any body but a Frenchman, et je
-	l'aurai hors de cet hotel or make trouble.  You hear me.  Allons.
-	BLUCHER.
+> PARIS, le 7 Juillet.  Monsieur le Landlord--Sir: Pourquoi don't you
+> mettez some savon in your bed-chambers?  Est-ce que vous pensez I
+> will steal it?  La nuit passee you charged me pour deux chandelles
+> when I only had one; hier vous avez charged me avec glace when I had
+> none at all; tout les jours you are coming some fresh game or other
+> on me, mais vous ne pouvez pas play this savon dodge on me twice.
+> Savon is a necessary de la vie to any body but a Frenchman, et je
+> l'aurai hors de cet hotel or make trouble.  You hear me.  Allons.
+> BLUCHER.
 
 I remonstrated against the sending of this note, because it was so mixed
 up that the landlord would never be able to make head or tail of it; but
@@ -5238,14 +5238,14 @@ one finds in advertisements all over Italy every day.  For instance,
 observe the printed card of the hotel we shall probably stop at on the
 shores of Lake Como:
 
-	"NOTISH."
+> "NOTISH."
 
-	"This hotel which the best it is in Italy and most superb, is
-	handsome locate on the best situation of the lake, with the most
-	splendid view near the Villas Melzy, to the King of Belgian, and
-	Serbelloni.  This hotel have recently enlarge, do offer all
-	commodities on moderate price, at the strangers gentlemen who whish
-	spend the seasons on the Lake Come."
+> "This hotel which the best it is in Italy and most superb, is
+> handsome locate on the best situation of the lake, with the most
+> splendid view near the Villas Melzy, to the King of Belgian, and
+> Serbelloni.  This hotel have recently enlarge, do offer all
+> commodities on moderate price, at the strangers gentlemen who whish
+> spend the seasons on the Lake Come."
 
 How is that, for a specimen?  In the hotel is a handsome little chapel
 where an English clergyman is employed to preach to such of the guests of
@@ -5639,14 +5639,14 @@ I suspect that this was the same place the gardener's son deceived the
 Lady of Lyons with, but I do not know.  You may have heard of the passage
 somewhere:
 
-	"A deep vale, 
-	Shut out by Alpine hills from the rude world, 
-	Near a clear lake margined by fruits of gold 
-	And whispering myrtles: 
-	Glassing softest skies, cloudless, 
-	Save with rare and roseate shadows; 
-	A palace, lifting to eternal heaven its marbled walls, 
-	From out a glossy bower of coolest foliage musical with birds." 
+> "A deep vale, 
+> Shut out by Alpine hills from the rude world, 
+> Near a clear lake margined by fruits of gold 
+> And whispering myrtles: 
+> Glassing softest skies, cloudless, 
+> Save with rare and roseate shadows; 
+> A palace, lifting to eternal heaven its marbled walls, 
+> From out a glossy bower of coolest foliage musical with birds." 
 
 That is all very well, except the "clear" part of the lake.  It certainly
 is clearer than a great many lakes, but how dull its waters are compared
@@ -6182,23 +6182,23 @@ utterly insignificant.  But in the moonlight, her fourteen centuries of
 greatness fling their glories about her, and once more is she the
 princeliest among the nations of the earth.
 
-	"There is a glorious city in the sea; 
-	The sea is in the broad, the narrow streets, 
-	Ebbing and flowing; and the salt-sea weed 
-	Clings to the marble of her palaces. 
-	No track of men, no footsteps to and fro, 
-	Lead to her gates!  The path lies o'er the sea, 
-	Invisible: and from the land we went, 
-	As to a floating city--steering in, 
-	And gliding up her streets, as in a dream, 
-	So smoothly, silently--by many a dome, 
-	Mosque-like, and many a stately portico, 
-	The statues ranged along an azure sky; 
-	By many a pile, in more than Eastern pride, 
-	Of old the residence of merchant kings; 
-	The fronts of some, tho' time had shatter'd them, 
-	Still glowing with the richest hues of art, 
-	As tho' the wealth within them had run o'er." 
+> "There is a glorious city in the sea; 
+> The sea is in the broad, the narrow streets, 
+> Ebbing and flowing; and the salt-sea weed 
+> Clings to the marble of her palaces. 
+> No track of men, no footsteps to and fro, 
+> Lead to her gates!  The path lies o'er the sea, 
+> Invisible: and from the land we went, 
+> As to a floating city--steering in, 
+> And gliding up her streets, as in a dream, 
+> So smoothly, silently--by many a dome, 
+> Mosque-like, and many a stately portico, 
+> The statues ranged along an azure sky; 
+> By many a pile, in more than Eastern pride, 
+> Of old the residence of merchant kings; 
+> The fronts of some, tho' time had shatter'd them, 
+> Still glowing with the richest hues of art, 
+> As tho' the wealth within them had run o'er." 
 
 What would one naturally wish to see first in Venice?  The Bridge of
 Sighs, of course--and next the Church and the Great Square of St. Mark,
@@ -7815,83 +7815,83 @@ There was a suggestive smell of mint-drops about it still, a corner of it
 had evidently been chewed, and on the margin, in choice Latin, these
 words were written in a delicate female hand:
 
-	"Meet me on the Tarpeian Rock tomorrow evening, dear, at sharp
-	seven.  Mother will be absent on a visit to her friends in the
-	Sabine Hills.  CLAUDIA."
+> "Meet me on the Tarpeian Rock tomorrow evening, dear, at sharp
+> seven.  Mother will be absent on a visit to her friends in the
+> Sabine Hills.  CLAUDIA."
 
 Ah, where is that lucky youth to-day, and where the little hand that
 wrote those dainty lines?  Dust and ashes these seventeen hundred years!
 
 Thus reads the bill:
 
-	ROMAN COLISEUM.
-	UNPARALLELED ATTRACTION!
-	NEW PROPERTIES!  NEW LIONS!  NEW GLADIATORS!
-	Engagement of the renowned
-	MARCUS MARCELLUS VALERIAN!
-	FOR SIX NIGHTS ONLY!
+> ROMAN COLISEUM.
+> UNPARALLELED ATTRACTION!
+> NEW PROPERTIES!  NEW LIONS!  NEW GLADIATORS!
+> Engagement of the renowned
+> MARCUS MARCELLUS VALERIAN!
+> FOR SIX NIGHTS ONLY!
 
-	The management beg leave to offer to the public an entertainment
-	surpassing in magnificence any thing that has heretofore been attempted
-	on any stage.  No expense has been spared to make the opening season one
-	which shall be worthy the generous patronage which the management feel
-	sure will crown their efforts.  The management beg leave to state that
-	they have succeeded in securing the services of a
+> The management beg leave to offer to the public an entertainment
+> surpassing in magnificence any thing that has heretofore been attempted
+> on any stage.  No expense has been spared to make the opening season one
+> which shall be worthy the generous patronage which the management feel
+> sure will crown their efforts.  The management beg leave to state that
+> they have succeeded in securing the services of a
 
-	GALAXY OF TALENT!
+> GALAXY OF TALENT!
 
-	such as has not been beheld in Rome before.
+> such as has not been beheld in Rome before.
 
-	The performance will commence this evening with a
+> The performance will commence this evening with a
 
-	GRAND BROADSWORD COMBAT!
+> GRAND BROADSWORD COMBAT!
 
-	between two young and promising amateurs and a celebrated Parthian
-	gladiator who has just arrived a prisoner from the Camp of Verus.
+> between two young and promising amateurs and a celebrated Parthian
+> gladiator who has just arrived a prisoner from the Camp of Verus.
 
-	This will be followed by a grand moral
+> This will be followed by a grand moral
 
-	BATTLE-AX ENGAGEMENT!
+> BATTLE-AX ENGAGEMENT!
 
-	between the renowned Valerian (with one hand tied behind him,) and two
-	gigantic savages from Britain.
+> between the renowned Valerian (with one hand tied behind him,) and two
+> gigantic savages from Britain.
 
-	After which the renowned Valerian (if he survive,) will fight with the
-	broad-sword,
+> After which the renowned Valerian (if he survive,) will fight with the
+> broad-sword,
 
-	LEFT HANDED!
+> LEFT HANDED!
 
-	against six Sophomores and a Freshman from the Gladiatorial College!
+> against six Sophomores and a Freshman from the Gladiatorial College!
 
-	A long series of brilliant engagements will follow, in which the finest
-	talent of the Empire will take part
+> A long series of brilliant engagements will follow, in which the finest
+> talent of the Empire will take part
 
-	After which the celebrated Infant Prodigy known as
+> After which the celebrated Infant Prodigy known as
 
-	"THE YOUNG ACHILLES,"
+> "THE YOUNG ACHILLES,"
 
-	will engage four tiger whelps in combat, armed with no other weapon than
-	his little spear!
+> will engage four tiger whelps in combat, armed with no other weapon than
+> his little spear!
 
-	The whole to conclude with a chaste and elegant
+> The whole to conclude with a chaste and elegant
 
-	GENERAL SLAUGHTER!
+> GENERAL SLAUGHTER!
 
-	In which thirteen African Lions and twenty-two Barbarian Prisoners will
-	war with each other until all are exterminated.
+> In which thirteen African Lions and twenty-two Barbarian Prisoners will
+> war with each other until all are exterminated.
 
-	BOX OFFICE NOW OPEN.
+> BOX OFFICE NOW OPEN.
 
-	Dress Circle One Dollar; Children and Servants half price.
+> Dress Circle One Dollar; Children and Servants half price.
 
-	An efficient police force will be on hand to preserve order and keep the
-	wild beasts from leaping the railings and discommoding the audience.
+> An efficient police force will be on hand to preserve order and keep the
+> wild beasts from leaping the railings and discommoding the audience.
 
-	Doors open at 7; performance begins at 8.
+> Doors open at 7; performance begins at 8.
 
-	POSITIVELY NO FREE LIST.
+> POSITIVELY NO FREE LIST.
 
-	Diodorus Job Press.
+> Diodorus Job Press.
 
 It was as singular as it was gratifying that I was also so fortunate as
 to find among the rubbish of the arena, a stained and mutilated copy of
@@ -7902,121 +7902,121 @@ little the general style and phraseology of dramatic criticism has
 altered in the ages that have dragged their slow length along since the
 carriers laid this one damp and fresh before their Roman patrons:
 
-	"THE OPENING SEASON.--COLISEUM.--Notwithstanding the inclemency of
-	the weather, quite a respectable number of the rank and fashion of
-	the city assembled last night to witness the debut upon metropolitan
-	boards of the young tragedian who has of late been winning such
-	golden opinions in the amphitheatres of the provinces.  Some sixty
-	thousand persons were present, and but for the fact that the streets
-	were almost impassable, it is fair to presume that the house would
-	have been full.  His august Majesty, the Emperor Aurelius, occupied
-	the imperial box, and was the cynosure of all eyes.  Many
-	illustrious nobles and generals of the Empire graced the occasion
-	with their presence, and not the least among them was the young
-	patrician lieutenant whose laurels, won in the ranks of the
-	"Thundering Legion," are still so green upon his brow.  The cheer
-	which greeted his entrance was heard beyond the Tiber!
+> "THE OPENING SEASON.--COLISEUM.--Notwithstanding the inclemency of
+> the weather, quite a respectable number of the rank and fashion of
+> the city assembled last night to witness the debut upon metropolitan
+> boards of the young tragedian who has of late been winning such
+> golden opinions in the amphitheatres of the provinces.  Some sixty
+> thousand persons were present, and but for the fact that the streets
+> were almost impassable, it is fair to presume that the house would
+> have been full.  His august Majesty, the Emperor Aurelius, occupied
+> the imperial box, and was the cynosure of all eyes.  Many
+> illustrious nobles and generals of the Empire graced the occasion
+> with their presence, and not the least among them was the young
+> patrician lieutenant whose laurels, won in the ranks of the
+> "Thundering Legion," are still so green upon his brow.  The cheer
+> which greeted his entrance was heard beyond the Tiber!
 
-	"The late repairs and decorations add both to the comeliness and the
-	comfort of the Coliseum.  The new cushions are a great improvement
-	upon the hard marble seats we have been so long accustomed to.  The
-	present management deserve well of the public.  They have restored
-	to the Coliseum the gilding, the rich upholstery and the uniform
-	magnificence which old Coliseum frequenters tell us Rome was so
-	proud of fifty years ago.
+> "The late repairs and decorations add both to the comeliness and the
+> comfort of the Coliseum.  The new cushions are a great improvement
+> upon the hard marble seats we have been so long accustomed to.  The
+> present management deserve well of the public.  They have restored
+> to the Coliseum the gilding, the rich upholstery and the uniform
+> magnificence which old Coliseum frequenters tell us Rome was so
+> proud of fifty years ago.
 
-	"The opening scene last night--the broadsword combat between two
-	young amateurs and a famous Parthian gladiator who was sent here a
-	prisoner--was very fine.  The elder of the two young gentlemen
-	handled his weapon with a grace that marked the possession of
-	extraordinary talent.  His feint of thrusting, followed instantly by
-	a happily delivered blow which unhelmeted the Parthian, was received
-	with hearty applause.  He was not thoroughly up in the backhanded
-	stroke, but it was very gratifying to his numerous friends to know
-	that, in time, practice would have overcome this defect.  However,
-	he was killed.  His sisters, who were present, expressed
-	considerable regret.  His mother left the Coliseum.  The other youth
-	maintained the contest with such spirit as to call forth
-	enthusiastic bursts of applause.  When at last he fell a corpse, his
-	aged mother ran screaming, with hair disheveled and tears streaming
-	from her eyes, and swooned away just as her hands were clutching at
-	the railings of the arena.  She was promptly removed by the police.
-	Under the circumstances the woman's conduct was pardonable, perhaps,
-	but we suggest that such exhibitions interfere with the decorum
-	which should be preserved during the performances, and are highly
-	improper in the presence of the Emperor.  The Parthian prisoner
-	fought bravely and well; and well he might, for he was fighting for
-	both life and liberty.  His wife and children were there to nerve
-	his arm with their love, and to remind him of the old home he should
-	see again if he conquered.  When his second assailant fell, the
-	woman clasped her children to her breast and wept for joy.  But it
-	was only a transient happiness.  The captive staggered toward her
-	and she saw that the liberty he had earned was earned too late.  He
-	was wounded unto death.  Thus the first act closed in a manner which
-	was entirely satisfactory.  The manager was called before the
-	curtain and returned his thanks for the honor done him, in a speech
-	which was replete with wit and humor, and closed by hoping that his
-	humble efforts to afford cheerful and instructive entertainment
-	would continue to meet with the approbation of the Roman public
+> "The opening scene last night--the broadsword combat between two
+> young amateurs and a famous Parthian gladiator who was sent here a
+> prisoner--was very fine.  The elder of the two young gentlemen
+> handled his weapon with a grace that marked the possession of
+> extraordinary talent.  His feint of thrusting, followed instantly by
+> a happily delivered blow which unhelmeted the Parthian, was received
+> with hearty applause.  He was not thoroughly up in the backhanded
+> stroke, but it was very gratifying to his numerous friends to know
+> that, in time, practice would have overcome this defect.  However,
+> he was killed.  His sisters, who were present, expressed
+> considerable regret.  His mother left the Coliseum.  The other youth
+> maintained the contest with such spirit as to call forth
+> enthusiastic bursts of applause.  When at last he fell a corpse, his
+> aged mother ran screaming, with hair disheveled and tears streaming
+> from her eyes, and swooned away just as her hands were clutching at
+> the railings of the arena.  She was promptly removed by the police.
+> Under the circumstances the woman's conduct was pardonable, perhaps,
+> but we suggest that such exhibitions interfere with the decorum
+> which should be preserved during the performances, and are highly
+> improper in the presence of the Emperor.  The Parthian prisoner
+> fought bravely and well; and well he might, for he was fighting for
+> both life and liberty.  His wife and children were there to nerve
+> his arm with their love, and to remind him of the old home he should
+> see again if he conquered.  When his second assailant fell, the
+> woman clasped her children to her breast and wept for joy.  But it
+> was only a transient happiness.  The captive staggered toward her
+> and she saw that the liberty he had earned was earned too late.  He
+> was wounded unto death.  Thus the first act closed in a manner which
+> was entirely satisfactory.  The manager was called before the
+> curtain and returned his thanks for the honor done him, in a speech
+> which was replete with wit and humor, and closed by hoping that his
+> humble efforts to afford cheerful and instructive entertainment
+> would continue to meet with the approbation of the Roman public
 
-	"The star now appeared, and was received with vociferous applause
-	and the simultaneous waving of sixty thousand handkerchiefs.  Marcus
-	Marcellus Valerian (stage name--his real name is Smith,) is a
-	splendid specimen of physical development, and an artist of rare
-	merit.  His management of the battle-ax is wonderful.  His gayety
-	and his playfulness are irresistible, in his comic parts, and yet
-	they are inferior to his sublime conceptions in the grave realm of
-	tragedy.  When his ax was describing fiery circles about the heads
-	of the bewildered barbarians, in exact time with his springing body
-	and his prancing legs, the audience gave way to uncontrollable
-	bursts of laughter; but when the back of his weapon broke the skull
-	of one and almost in the same instant its edge clove the other's
-	body in twain, the howl of enthusiastic applause that shook the
-	building, was the acknowledgment of a critical assemblage that he
-	was a master of the noblest department of his profession.  If he has
-	a fault, (and we are sorry to even intimate that he has,) it is that
-	of glancing at the audience, in the midst of the most exciting
-	moments of the performance, as if seeking admiration.  The pausing
-	in a fight to bow when bouquets are thrown to him is also in bad
-	taste.  In the great left-handed combat he appeared to be looking at
-	the audience half the time, instead of carving his adversaries; and
-	when he had slain all the sophomores and was dallying with the
-	freshman, he stooped and snatched a bouquet as it fell, and offered
-	it to his adversary at a time when a blow was descending which
-	promised favorably to be his death-warrant.  Such levity is proper
-	enough in the provinces, we make no doubt, but it ill suits the
-	dignity of the metropolis.  We trust our young friend will take
-	these remarks in good part, for we mean them solely for his benefit.
-	All who know us are aware that although we are at times justly
-	severe upon tigers and martyrs, we never intentionally offend
-	gladiators.
+> "The star now appeared, and was received with vociferous applause
+> and the simultaneous waving of sixty thousand handkerchiefs.  Marcus
+> Marcellus Valerian (stage name--his real name is Smith,) is a
+> splendid specimen of physical development, and an artist of rare
+> merit.  His management of the battle-ax is wonderful.  His gayety
+> and his playfulness are irresistible, in his comic parts, and yet
+> they are inferior to his sublime conceptions in the grave realm of
+> tragedy.  When his ax was describing fiery circles about the heads
+> of the bewildered barbarians, in exact time with his springing body
+> and his prancing legs, the audience gave way to uncontrollable
+> bursts of laughter; but when the back of his weapon broke the skull
+> of one and almost in the same instant its edge clove the other's
+> body in twain, the howl of enthusiastic applause that shook the
+> building, was the acknowledgment of a critical assemblage that he
+> was a master of the noblest department of his profession.  If he has
+> a fault, (and we are sorry to even intimate that he has,) it is that
+> of glancing at the audience, in the midst of the most exciting
+> moments of the performance, as if seeking admiration.  The pausing
+> in a fight to bow when bouquets are thrown to him is also in bad
+> taste.  In the great left-handed combat he appeared to be looking at
+> the audience half the time, instead of carving his adversaries; and
+> when he had slain all the sophomores and was dallying with the
+> freshman, he stooped and snatched a bouquet as it fell, and offered
+> it to his adversary at a time when a blow was descending which
+> promised favorably to be his death-warrant.  Such levity is proper
+> enough in the provinces, we make no doubt, but it ill suits the
+> dignity of the metropolis.  We trust our young friend will take
+> these remarks in good part, for we mean them solely for his benefit.
+> All who know us are aware that although we are at times justly
+> severe upon tigers and martyrs, we never intentionally offend
+> gladiators.
 
-	"The Infant Prodigy performed wonders.  He overcame his four tiger
-	whelps with ease, and with no other hurt than the loss of a portion
-	of his scalp.  The General Slaughter was rendered with a
-	faithfulness to details which reflects the highest credit upon the
-	late participants in it.
+> "The Infant Prodigy performed wonders.  He overcame his four tiger
+> whelps with ease, and with no other hurt than the loss of a portion
+> of his scalp.  The General Slaughter was rendered with a
+> faithfulness to details which reflects the highest credit upon the
+> late participants in it.
 
-	"Upon the whole, last night's performances shed honor not only upon
-	the management but upon the city that encourages and sustains such
-	wholesome and instructive entertainments.  We would simply suggest
-	that the practice of vulgar young boys in the gallery of shying
-	peanuts and paper pellets at the tigers, and saying "Hi-yi!" and
-	manifesting approbation or dissatisfaction by such observations as
-	"Bully for the lion!"  "Go it, Gladdy!"  "Boots!"  "Speech!"  "Take
-	a walk round the block!"  and so on, are extremely reprehensible,
-	when the Emperor is present, and ought to be stopped by the police.
-	Several times last night, when the supernumeraries entered the arena
-	to drag out the bodies, the young ruffians in the gallery shouted,
-	"Supe! supe!"  and also, "Oh, what a coat!"  and "Why don't you pad
-	them shanks?"  and made use of various other remarks expressive of
-	derision.  These things are very annoying to the audience.
+> "Upon the whole, last night's performances shed honor not only upon
+> the management but upon the city that encourages and sustains such
+> wholesome and instructive entertainments.  We would simply suggest
+> that the practice of vulgar young boys in the gallery of shying
+> peanuts and paper pellets at the tigers, and saying "Hi-yi!" and
+> manifesting approbation or dissatisfaction by such observations as
+> "Bully for the lion!"  "Go it, Gladdy!"  "Boots!"  "Speech!"  "Take
+> a walk round the block!"  and so on, are extremely reprehensible,
+> when the Emperor is present, and ought to be stopped by the police.
+> Several times last night, when the supernumeraries entered the arena
+> to drag out the bodies, the young ruffians in the gallery shouted,
+> "Supe! supe!"  and also, "Oh, what a coat!"  and "Why don't you pad
+> them shanks?"  and made use of various other remarks expressive of
+> derision.  These things are very annoying to the audience.
 
-	"A matinee for the little folks is promised for this afternoon, on
-	which occasion several martyrs will be eaten by the tigers.  The
-	regular performance will continue every night till further notice.
-	Material change of programme every evening.  Benefit of Valerian,
-	Tuesday, 29th, if he lives."
+> "A matinee for the little folks is promised for this afternoon, on
+> which occasion several martyrs will be eaten by the tigers.  The
+> regular performance will continue every night till further notice.
+> Material change of programme every evening.  Benefit of Valerian,
+> Tuesday, 29th, if he lives."
 
 I have been a dramatic critic myself, in my time, and I was often
 surprised to notice how much more I knew about Hamlet than Forrest did;
@@ -8422,8 +8422,8 @@ Bridget used to remain long hours in holy contemplation, and St. Charles
 Borromeo was wont to spend whole nights in prayer there.  It was also the
 scene of a very marvelous thing.
 
-	"Here the heart of St. Philip Neri was so inflamed with divine love
-	as to burst his ribs."
+> "Here the heart of St. Philip Neri was so inflamed with divine love
+> as to burst his ribs."
 
 I find that grave statement in a book published in New York in 1808, and
 written by "Rev. William H. Neligan, LL.D., M. A., Trinity College,
@@ -8437,11 +8437,11 @@ of one St. Joseph Calasanctius whose house in Rome he visited; he visited
 only the house--the priest has been dead two hundred years.  He says the
 Virgin Mary appeared to this saint.  Then he continues:
 
-	"His tongue and his heart, which were found after nearly a century
-	to be whole, when the body was disinterred before his canonization,
-	are still preserved in a glass case, and after two centuries the
-	heart is still whole.  When the French troops came to Rome, and when
-	Pius VII. was carried away prisoner, blood dropped from it."
+> "His tongue and his heart, which were found after nearly a century
+> to be whole, when the body was disinterred before his canonization,
+> are still preserved in a glass case, and after two centuries the
+> heart is still whole.  When the French troops came to Rome, and when
+> Pius VII. was carried away prisoner, blood dropped from it."
 
 To read that in a book written by a monk far back in the Middle Ages,
 would surprise no one; it would sound natural and proper; but when it is
@@ -8454,26 +8454,26 @@ The old gentleman's undoubting, unquestioning simplicity has a rare
 freshness about it in these matter-of-fact railroading and telegraphing
 days.  Hear him, concerning the church of Ara Coeli:
 
-	"In the roof of the church, directly above the high altar, is
-	engraved, 'Regina Coeli laetare Alleluia.'  In the sixth century
-	Rome was visited by a fearful pestilence.  Gregory the Great urged
-	the people to do penance, and a general procession was formed.  It
-	was to proceed from Ara Coeli to St. Peter's.  As it passed before
-	the mole of Adrian, now the Castle of St. Angelo, the sound of
-	heavenly voices was heard singing (it was Easter morn,) 'Regina
-	Coeli, laetare! alleluia! quia quem meruisti portare, alleluia!
-	resurrexit sicut dixit; alleluia!'  The Pontiff, carrying in his
-	hands the portrait of the Virgin, (which is over the high altar and
-	is said to have been painted by St. Luke,) answered, with the
-	astonished people, 'Ora pro nobis Deum, alleluia!'  At the same time
-	an angel was seen to put up a sword in a scabbard, and the
-	pestilence ceased on the same day.  There are four circumstances
-	which 'CONFIRM'--[The italics are mine--M. T.]--this miracle: the
-	annual procession which takes place in the western church on the
-	feast of St Mark; the statue of St. Michael, placed on the mole of
-	Adrian, which has since that time been called the Castle of St.
-	Angelo; the antiphon Regina Coeli which the Catholic church sings
-	during paschal time; and the inscription in the church."
+> "In the roof of the church, directly above the high altar, is
+> engraved, 'Regina Coeli laetare Alleluia.'  In the sixth century
+> Rome was visited by a fearful pestilence.  Gregory the Great urged
+> the people to do penance, and a general procession was formed.  It
+> was to proceed from Ara Coeli to St. Peter's.  As it passed before
+> the mole of Adrian, now the Castle of St. Angelo, the sound of
+> heavenly voices was heard singing (it was Easter morn,) 'Regina
+> Coeli, laetare! alleluia! quia quem meruisti portare, alleluia!
+> resurrexit sicut dixit; alleluia!'  The Pontiff, carrying in his
+> hands the portrait of the Virgin, (which is over the high altar and
+> is said to have been painted by St. Luke,) answered, with the
+> astonished people, 'Ora pro nobis Deum, alleluia!'  At the same time
+> an angel was seen to put up a sword in a scabbard, and the
+> pestilence ceased on the same day.  There are four circumstances
+> which 'CONFIRM'--[The italics are mine--M. T.]--this miracle: the
+> annual procession which takes place in the western church on the
+> feast of St Mark; the statue of St. Michael, placed on the mole of
+> Adrian, which has since that time been called the Castle of St.
+> Angelo; the antiphon Regina Coeli which the Catholic church sings
+> during paschal time; and the inscription in the church."
 
 
 CHAPTER XXVIII.
@@ -11728,13 +11728,13 @@ together, and none were scattered above or below the veins.  Each one was
 a well-defined lead by itself, and without a spur.  My first instinct was
 to set up the usual--
 
-	NOTICE:
+> NOTICE:
 
-	"We, the undersigned, claim five claims of two hundred feet each,
-	(and one for discovery,) on this ledge or lode of oyster-shells,
-	with all its dips, spurs, angles, variations and sinuosities, and
-	fifty feet on each side of the same, to work it, etc., etc.,
-	according to the mining laws of Smyrna."
+> "We, the undersigned, claim five claims of two hundred feet each,
+> (and one for discovery,) on this ledge or lode of oyster-shells,
+> with all its dips, spurs, angles, variations and sinuosities, and
+> fifty feet on each side of the same, to work it, etc., etc.,
+> according to the mining laws of Smyrna."
 
 They were such perfectly natural-looking leads that I could hardly keep
 from "taking them up."  Among the oyster-shells were mixed many fragments
@@ -11927,8 +11927,8 @@ early history of this city, Paul the Apostle preached the new religion
 here, and so did John, and here it is supposed the former was pitted
 against wild beasts, for in 1 Corinthians, xv. 32 he says:
 
-	"If after the manner of men I have fought with beasts at Ephesus,"
-	&c.,
+> "If after the manner of men I have fought with beasts at Ephesus,"
+> &c.,
 
 when many men still lived who had seen the Christ; here Mary Magdalen
 died, and here the Virgin Mary ended her days with John, albeit Rome has
@@ -12340,12 +12340,12 @@ Jacksonville.  It sounds a little strangely, here in the Valley of
 Lebanon, but it has the merit of being easier to remember than the Arabic
 name.
 
-	"COME LIKE SPIRITS, SO DEPART." 
+> "COME LIKE SPIRITS, SO DEPART." 
 
-	"The night shall be filled with music, 
-	And the cares that infest the day 
-	Shall fold their tents like the Arabs, 
-	And as silently steal away." 
+> "The night shall be filled with music, 
+> And the cares that infest the day 
+> Shall fold their tents like the Arabs, 
+> And as silently steal away." 
 
 I slept very soundly last night, yet when the dragoman's bell rang at
 half-past five this morning and the cry went abroad of "Ten minutes to
@@ -12460,10 +12460,10 @@ Moses, the gifted warrior, poet, statesman and philosopher, went up into
 Pisgah and met his mysterious fate.  Where he was buried no man knows
 --for
 
-	"* * * no man dug that sepulchre, 
-	And no man saw it e'er 
-	--For the Sons of God upturned the sod 
-	And laid the dead man there!" 
+> "* * * no man dug that sepulchre, 
+> And no man saw it e'er 
+> --For the Sons of God upturned the sod 
+> And laid the dead man there!" 
 
 Then Joshua began his terrible raid, and from Jericho clear to this
 Baal-Gad, he swept the land like the Genius of Destruction.  He
@@ -12717,14 +12717,14 @@ through the terrible hills and deserts and the roasting sun, and then far
 into the night, seeking the honored pool of Baalam's ass, the patron
 saint of all pilgrims like us.  I find no entry but this in my note-book:
 
-	"Rode to-day, altogether, thirteen hours, through deserts, partly,
-	and partly over barren, unsightly hills, and latterly through wild,
-	rocky scenery, and camped at about eleven o'clock at night on the
-	banks of a limpid stream, near a Syrian village.  Do not know its
-	name--do not wish to know it--want to go to bed.  Two horses lame
-	(mine and Jack's) and the others worn out.  Jack and I walked three
-	or four miles, over the hills, and led the horses.  Fun--but of a
-	mild type."
+> "Rode to-day, altogether, thirteen hours, through deserts, partly,
+> and partly over barren, unsightly hills, and latterly through wild,
+> rocky scenery, and camped at about eleven o'clock at night on the
+> banks of a limpid stream, near a Syrian village.  Do not know its
+> name--do not wish to know it--want to go to bed.  Two horses lame
+> (mine and Jack's) and the others worn out.  Jack and I walked three
+> or four miles, over the hills, and led the horses.  Fun--but of a
+> mild type."
 
 Twelve or thirteen hours in the saddle, even in a Christian land and a
 Christian climate, and on a good horse, is a tiresome journey; but in an
@@ -12753,40 +12753,40 @@ neither time nor strength to climb up there and examine them.  The terse
 language of my note-book will answer for the rest of this day's
 experiences:
 
-	"Broke camp at 7 A.M., and made a ghastly trip through the Zeb Dana
-	valley and the rough mountains--horses limping and that Arab
-	screech-owl that does most of the singing and carries the
-	water-skins, always a thousand miles ahead, of course, and no water
-	to drink--will he never die?  Beautiful stream in a chasm, lined
-	thick with pomegranate, fig, olive and quince orchards, and nooned
-	an hour at the celebrated Baalam's Ass Fountain of Figia, second in
-	size in Syria, and the coldest water out of Siberia--guide-books do
-	not say Baalam's ass ever drank there--somebody been imposing on
-	the pilgrims, may be.  Bathed in it--Jack and I.  Only a
-	second--ice-water.  It is the principal source of the Abana river
-	--only one-half mile down to where it joins.  Beautiful
-	place--giant trees all around--so shady and cool, if one could keep
-	awake--vast stream gushes straight out from under the mountain in a
-	torrent.  Over it is a very ancient ruin, with no known history
-	--supposed to have been for the worship of the deity of the fountain
-	or Baalam's ass or somebody.  Wretched nest of human vermin about
-	the fountain--rags, dirt, sunken cheeks, pallor of sickness, sores,
-	projecting bones, dull, aching misery in their eyes and ravenous
-	hunger speaking from every eloquent fibre and muscle from head to
-	foot. How they sprang upon a bone, how they crunched the bread we
-	gave them!  Such as these to swarm about one and watch every bite
-	he takes, with greedy looks, and swallow unconsciously every time
-	he swallows, as if they half fancied the precious morsel went down
-	their own throats--hurry up the caravan!--I never shall enjoy a
-	meal in this distressful country.  To think of eating three times
-	every day under such circumstances for three weeks yet--it is worse
-	punishment than riding all day in the sun.  There are sixteen
-	starving babies from one to six years old in the party, and their
-	legs are no larger than broom handles.  Left the fountain at 1 P.M.
-	(the fountain took us at least two hours out of our way,) and
-	reached Mahomet's lookout perch, over Damascus, in time to get a
-	good long look before it was necessary to move on.  Tired?  Ask of
-	the winds that far away with fragments strewed the sea."
+> "Broke camp at 7 A.M., and made a ghastly trip through the Zeb Dana
+> valley and the rough mountains--horses limping and that Arab
+> screech-owl that does most of the singing and carries the
+> water-skins, always a thousand miles ahead, of course, and no water
+> to drink--will he never die?  Beautiful stream in a chasm, lined
+> thick with pomegranate, fig, olive and quince orchards, and nooned
+> an hour at the celebrated Baalam's Ass Fountain of Figia, second in
+> size in Syria, and the coldest water out of Siberia--guide-books do
+> not say Baalam's ass ever drank there--somebody been imposing on
+> the pilgrims, may be.  Bathed in it--Jack and I.  Only a
+> second--ice-water.  It is the principal source of the Abana river
+> --only one-half mile down to where it joins.  Beautiful
+> place--giant trees all around--so shady and cool, if one could keep
+> awake--vast stream gushes straight out from under the mountain in a
+> torrent.  Over it is a very ancient ruin, with no known history
+> --supposed to have been for the worship of the deity of the fountain
+> or Baalam's ass or somebody.  Wretched nest of human vermin about
+> the fountain--rags, dirt, sunken cheeks, pallor of sickness, sores,
+> projecting bones, dull, aching misery in their eyes and ravenous
+> hunger speaking from every eloquent fibre and muscle from head to
+> foot. How they sprang upon a bone, how they crunched the bread we
+> gave them!  Such as these to swarm about one and watch every bite
+> he takes, with greedy looks, and swallow unconsciously every time
+> he swallows, as if they half fancied the precious morsel went down
+> their own throats--hurry up the caravan!--I never shall enjoy a
+> meal in this distressful country.  To think of eating three times
+> every day under such circumstances for three weeks yet--it is worse
+> punishment than riding all day in the sun.  There are sixteen
+> starving babies from one to six years old in the party, and their
+> legs are no larger than broom handles.  Left the fountain at 1 P.M.
+> (the fountain took us at least two hours out of our way,) and
+> reached Mahomet's lookout perch, over Damascus, in time to get a
+> good long look before it was necessary to move on.  Tired?  Ask of
+> the winds that far away with fragments strewed the sea."
 
 As the glare of day mellowed into twilight, we looked down upon a picture
 which is celebrated all over the world.  I think I have read about four
@@ -12852,9 +12852,9 @@ die.  So long as its waters remain to it away out there in the midst of
 that howling desert, so long will Damascus live to bless the sight of the
 tired and thirsty wayfarer.
 
-	"Though old as history itself, thou art fresh as the breath of
-	spring, blooming as thine own rose-bud, and fragrant as thine own
-	orange flower, O Damascus, pearl of the East!"
+> "Though old as history itself, thou art fresh as the breath of
+> spring, blooming as thine own rose-bud, and fragrant as thine own
+> orange flower, O Damascus, pearl of the East!"
 
 Damascus dates back anterior to the days of Abraham, and is the oldest
 city in the world.  It was founded by Uz, the grandson of Noah.  "The
@@ -12979,14 +12979,14 @@ Jerusalem and started across the country on a furious crusade against
 them.  He went forth "breathing threatenings and slaughter against the
 disciples of the Lord."
 
-	"And as he journeyed, he came near Damascus, and suddenly there
-	shined round about him a light from heaven:
+> "And as he journeyed, he came near Damascus, and suddenly there
+> shined round about him a light from heaven:
 
-	"And he fell to the earth and heard a voice saying unto him, 'Saul,
-	Saul, why persecutest thou me?'
+> "And he fell to the earth and heard a voice saying unto him, 'Saul,
+> Saul, why persecutest thou me?'
 
-	"And when he knew that it was Jesus that spoke to him he trembled,
-	and was astonished, and said, 'Lord, what wilt thou have me to do?'"
+> "And when he knew that it was Jesus that spoke to him he trembled,
+> and was astonished, and said, 'Lord, what wilt thou have me to do?'"
 
 He was told to arise and go into the ancient city and one would tell
 him what to do.  In the meantime his soldiers stood speechless and
@@ -13306,11 +13306,11 @@ nevertheless the scene of an event whose effects have added page after
 page and volume after volume to the world's history.  For in this place
 Christ stood when he said to Peter:
 
-	"Thou art Peter; and upon this rock will I build my church, and the
-	gates of hell shall not prevail against it.  And I will give unto
-	thee the keys of the Kingdom of Heaven; and whatsoever thou shalt
-	bind on earth shall be bound in heaven, and whatsoever thou shalt
-	loose on earth shall be loosed in heaven."
+> "Thou art Peter; and upon this rock will I build my church, and the
+> gates of hell shall not prevail against it.  And I will give unto
+> thee the keys of the Kingdom of Heaven; and whatsoever thou shalt
+> bind on earth shall be bound in heaven, and whatsoever thou shalt
+> loose on earth shall be loosed in heaven."
 
 On those little sentences have been built up the mighty edifice of the
 Church of Rome; in them lie the authority for the imperial power of the
@@ -13656,10 +13656,10 @@ battles.  Jabin, King of Hazor, (up yonder above Dan,) called all the
 sheiks about him together, with their hosts, to make ready for Israel's
 terrible General who was approaching.
 
-	"And when all these Kings were met together, they came and pitched
-	together by the Waters of Merom, to fight against Israel.  And they
-	went out, they and all their hosts with them, much people, even as
-	the sand that is upon the sea-shore for multitude," etc.
+> "And when all these Kings were met together, they came and pitched
+> together by the Waters of Merom, to fight against Israel.  And they
+> went out, they and all their hosts with them, much people, even as
+> the sand that is upon the sea-shore for multitude," etc.
 
 But Joshua fell upon them and utterly destroyed them, root and branch.
 That was his usual policy in war.  He never left any chance for newspaper
@@ -13688,18 +13688,18 @@ his brain!
 language of the Bible.  "The Song of Deborah and Barak" praises Jael for
 the memorable service she had rendered, in an exultant strain:
 
-	"Blessed above women shall Jael the wife of Heber the Kenite be,
-	blessed shall she be above women in the tent.
+> "Blessed above women shall Jael the wife of Heber the Kenite be,
+> blessed shall she be above women in the tent.
 
-	"He asked for water, and she gave him milk; she brought forth butter
-	in a lordly dish.
+> "He asked for water, and she gave him milk; she brought forth butter
+> in a lordly dish.
 
-	"She put her hand to the nail, and her right hand to the workman's
-	hammer; and with the hammer she smote Sisera, she smote off his head
-	when she had pierced and stricken through his temples.
+> "She put her hand to the nail, and her right hand to the workman's
+> hammer; and with the hammer she smote Sisera, she smote off his head
+> when she had pierced and stricken through his temples.
 
-	"At her feet he bowed, he fell, he lay down: at her feet he bowed,
-	he fell: where he bowed, there he fell down dead."
+> "At her feet he bowed, he fell, he lay down: at her feet he bowed,
+> he fell: where he bowed, there he fell down dead."
 
 Stirring scenes like these occur in this valley no more.  There is not a
 solitary village throughout its whole extent--not for thirty miles in
@@ -13709,10 +13709,10 @@ hereabouts, and not see ten human beings.
 
 To this region one of the prophecies is applied:
 
-	"I will bring the land into desolation; and your enemies which dwell
-	therein shall be astonished at it.  And I will scatter you among the
-	heathen, and I will draw out a sword after you; and your land shall
-	be desolate and your cities waste."
+> "I will bring the land into desolation; and your enemies which dwell
+> therein shall be astonished at it.  And I will scatter you among the
+> heathen, and I will draw out a sword after you; and your land shall
+> be desolate and your cities waste."
 
 No man can stand here by deserted Ain Mellahah and say the prophecy has
 not been fulfilled.
@@ -14355,32 +14355,32 @@ none exist, I think.
 But I should not offer the evidence for the prosecution and leave the
 defense unheard.  Wm. C. Grimes deposes as follows:--
 
-	"We had taken ship to go over to the other side.  The sea was not
-	more than six miles wide.  Of the beauty of the scene, however, I
-	can not say enough, nor can I imagine where those travelers carried
-	their eyes who have described the scenery of the lake as tame or
-	uninteresting.  The first great characteristic of it is the deep
-	basin in which it lies.  This is from three to four hundred feet
-	deep on all sides except at the lower end, and the sharp slope of
-	the banks, which are all of the richest green, is broken and
-	diversified by the wadys and water-courses which work their way down
-	through the sides of the basin, forming dark chasms or light sunny
-	valleys.  Near Tiberias these banks are rocky, and ancient
-	sepulchres open in them, with their doors toward the water.  They
-	selected grand spots, as did the Egyptians of old, for burial
-	places, as if they designed that when the voice of God should reach
-	the sleepers, they should walk forth and open their eyes on scenes
-	of glorious beauty.  On the east, the wild and desolate mountains
-	contrast finely with the deep blue lake; and toward the north,
-	sublime and majestic, Hermon looks down on the sea, lifting his
-	white crown to heaven with the pride of a hill that has seen the
-	departing footsteps of a hundred generations.  On the north-east
-	shore of the sea was a single tree, and this is the only tree of any
-	size visible from the water of the lake, except a few lonely palms
-	in the city of Tiberias, and by its solitary position attracts more
-	attention than would a forest.  The whole appearance of the scene is
-	precisely what we would expect and desire the scenery of Genessaret
-	to be, grand beauty, but quiet calm.  The very mountains are calm."
+> "We had taken ship to go over to the other side.  The sea was not
+> more than six miles wide.  Of the beauty of the scene, however, I
+> can not say enough, nor can I imagine where those travelers carried
+> their eyes who have described the scenery of the lake as tame or
+> uninteresting.  The first great characteristic of it is the deep
+> basin in which it lies.  This is from three to four hundred feet
+> deep on all sides except at the lower end, and the sharp slope of
+> the banks, which are all of the richest green, is broken and
+> diversified by the wadys and water-courses which work their way down
+> through the sides of the basin, forming dark chasms or light sunny
+> valleys.  Near Tiberias these banks are rocky, and ancient
+> sepulchres open in them, with their doors toward the water.  They
+> selected grand spots, as did the Egyptians of old, for burial
+> places, as if they designed that when the voice of God should reach
+> the sleepers, they should walk forth and open their eyes on scenes
+> of glorious beauty.  On the east, the wild and desolate mountains
+> contrast finely with the deep blue lake; and toward the north,
+> sublime and majestic, Hermon looks down on the sea, lifting his
+> white crown to heaven with the pride of a hill that has seen the
+> departing footsteps of a hundred generations.  On the north-east
+> shore of the sea was a single tree, and this is the only tree of any
+> size visible from the water of the lake, except a few lonely palms
+> in the city of Tiberias, and by its solitary position attracts more
+> attention than would a forest.  The whole appearance of the scene is
+> precisely what we would expect and desire the scenery of Genessaret
+> to be, grand beauty, but quiet calm.  The very mountains are calm."
 
 It is an ingeniously written description, and well calculated to deceive.
 But if the paint and the ribbons and the flowers be stripped from it, a
@@ -14410,22 +14410,22 @@ entirely proper to do it, and besides, the picture needs it.
 
 "C. W. E.," (of "Life in the Holy Land,") deposes as follows:--
 
-	"A beautiful sea lies unbosomed among the Galilean hills, in the
-	midst of that land once possessed by Zebulon and Naphtali, Asher and
-	Dan.  The azure of the sky penetrates the depths of the lake, and
-	the waters are sweet and cool.  On the west, stretch broad fertile
-	plains; on the north the rocky shores rise step by step until in the
-	far distance tower the snowy heights of Hermon; on the east through
-	a misty veil are seen the high plains of Perea, which stretch away
-	in rugged mountains leading the mind by varied paths toward
-	Jerusalem the Holy.  Flowers bloom in this terrestrial paradise,
-	once beautiful and verdant with waving trees; singing birds enchant
-	the ear; the turtle-dove soothes with its soft note; the crested
-	lark sends up its song toward heaven, and the grave and stately
-	stork inspires the mind with thought, and leads it on to meditation
-	and repose.  Life here was once idyllic, charming; here were once no
-	rich, no poor, no high, no low.  It was a world of ease, simplicity,
-	and beauty; now it is a scene of desolation and misery."
+> "A beautiful sea lies unbosomed among the Galilean hills, in the
+> midst of that land once possessed by Zebulon and Naphtali, Asher and
+> Dan.  The azure of the sky penetrates the depths of the lake, and
+> the waters are sweet and cool.  On the west, stretch broad fertile
+> plains; on the north the rocky shores rise step by step until in the
+> far distance tower the snowy heights of Hermon; on the east through
+> a misty veil are seen the high plains of Perea, which stretch away
+> in rugged mountains leading the mind by varied paths toward
+> Jerusalem the Holy.  Flowers bloom in this terrestrial paradise,
+> once beautiful and verdant with waving trees; singing birds enchant
+> the ear; the turtle-dove soothes with its soft note; the crested
+> lark sends up its song toward heaven, and the grave and stately
+> stork inspires the mind with thought, and leads it on to meditation
+> and repose.  Life here was once idyllic, charming; here were once no
+> rich, no poor, no high, no low.  It was a world of ease, simplicity,
+> and beauty; now it is a scene of desolation and misery."
 
 This is not an ingenious picture.  It is the worst I ever saw.  It
 describes in elaborate detail what it terms a "terrestrial paradise," and
@@ -14664,17 +14664,17 @@ splendid career forever; Mount Tabor, the traditional scene of the Lord's
 Transfiguration.  And down toward the southeast lay a landscape that
 suggested to my mind a quotation (imperfectly remembered, no doubt:)
 
-	"The Ephraimites, not being called upon to share in the rich spoils
-	of the Ammonitish war, assembled a mighty host to fight against
-	Jeptha, Judge of Israel; who, being apprised of their approach,
-	gathered together the men of Israel and gave them battle and put
-	them to flight.  To make his victory the more secure, he stationed
-	guards at the different fords and passages of the Jordan, with
-	instructions to let none pass who could not say Shibboleth.  The
-	Ephraimites, being of a different tribe, could not frame to
-	pronounce the word right, but called it Sibboleth, which proved them
-	enemies and cost them their lives; wherefore, forty and two thousand
-	fell at the different fords and passages of the Jordan that day."
+> "The Ephraimites, not being called upon to share in the rich spoils
+> of the Ammonitish war, assembled a mighty host to fight against
+> Jeptha, Judge of Israel; who, being apprised of their approach,
+> gathered together the men of Israel and gave them battle and put
+> them to flight.  To make his victory the more secure, he stationed
+> guards at the different fords and passages of the Jordan, with
+> instructions to let none pass who could not say Shibboleth.  The
+> Ephraimites, being of a different tribe, could not frame to
+> pronounce the word right, but called it Sibboleth, which proved them
+> enemies and cost them their lives; wherefore, forty and two thousand
+> fell at the different fords and passages of the Jordan that day."
 
 We jogged along peacefully over the great caravan route from Damascus to
 Jerusalem and Egypt, past Lubia and other Syrian hamlets, perched, in the
@@ -15032,22 +15032,22 @@ The verdicts were all in.  It was time, now, to look up the authorities
 for all these opinions.  I found this paragraph, which follows.  Written
 by whom?  Wm. C. Grimes:
 
-	"After we were in the saddle, we rode down to the spring to have a
-	last look at the women of Nazareth, who were, as a class, much the
-	prettiest that we had seen in the East.  As we approached the crowd
-	a tall girl of nineteen advanced toward Miriam and offered her a cup
-	of water.  Her movement was graceful and queenly.  We exclaimed on
-	the spot at the Madonna-like beauty of her countenance.  Whitely was
-	suddenly thirsty, and begged for water, and drank it slowly, with
-	his eyes over the top of the cup, fixed on her large black eyes,
-	which gazed on him quite as curiously as he on her.  Then Moreright
-	wanted water.  She gave it to him and he managed to spill it so as
-	to ask for another cup, and by the time she came to me she saw
-	through the operation; her eyes were full of fun as she looked at
-	me.  I laughed outright, and she joined me in as gay a shout as ever
-	country maiden in old Orange county.  I wished for a picture of her.
-	A Madonna, whose face was a portrait of that beautiful Nazareth
-	girl, would be a 'thing of beauty' and 'a joy forever.'"
+> "After we were in the saddle, we rode down to the spring to have a
+> last look at the women of Nazareth, who were, as a class, much the
+> prettiest that we had seen in the East.  As we approached the crowd
+> a tall girl of nineteen advanced toward Miriam and offered her a cup
+> of water.  Her movement was graceful and queenly.  We exclaimed on
+> the spot at the Madonna-like beauty of her countenance.  Whitely was
+> suddenly thirsty, and begged for water, and drank it slowly, with
+> his eyes over the top of the cup, fixed on her large black eyes,
+> which gazed on him quite as curiously as he on her.  Then Moreright
+> wanted water.  She gave it to him and he managed to spill it so as
+> to ask for another cup, and by the time she came to me she saw
+> through the operation; her eyes were full of fun as she looked at
+> me.  I laughed outright, and she joined me in as gay a shout as ever
+> country maiden in old Orange county.  I wished for a picture of her.
+> A Madonna, whose face was a portrait of that beautiful Nazareth
+> girl, would be a 'thing of beauty' and 'a joy forever.'"
 
 That is the kind of gruel which has been served out from Palestine for
 ages.  Commend me to Fennimore Cooper to find beauty in the Indians, and
@@ -15073,11 +15073,11 @@ rock, some distance away, planning evil.  The ball killed a wolf.  Just
 before he fired, he makes a dramatic picture of himself--as usual, to
 scare the reader:
 
-	"Was it imagination, or did I see a moving object on the surface of
-	the rock?  If it were a man, why did he not now drop me?  He had a
-	beautiful shot as I stood out in my black boornoose against the
-	white tent.  I had the sensation of an entering bullet in my throat,
-	breast, brain."
+> "Was it imagination, or did I see a moving object on the surface of
+> the rock?  If it were a man, why did he not now drop me?  He had a
+> beautiful shot as I stood out in my black boornoose against the
+> white tent.  I had the sensation of an entering bullet in my throat,
+> breast, brain."
 
 Reckless creature!
 
@@ -15087,20 +15087,20 @@ pistols and loosened them quietly in our shawls," etc.  Always cool.
 In Samaria, he charged up a hill, in the face of a volley of stones; he
 fired into the crowd of men who threw them.  He says:
 
-	"I never lost an opportunity of impressing the Arabs with the
-	perfection of American and English weapons, and the danger of
-	attacking any one of the armed Franks.  I think the lesson of that
-	ball not lost."
+> "I never lost an opportunity of impressing the Arabs with the
+> perfection of American and English weapons, and the danger of
+> attacking any one of the armed Franks.  I think the lesson of that
+> ball not lost."
 
 At Beit Jin he gave his whole band of Arab muleteers a piece of his mind,
 and then--
 
-	"I contented myself with a solemn assurance that if there occurred
-	another instance of disobedience to orders I would thrash the
-	responsible party as he never dreamed of being thrashed, and if I
-	could not find who was responsible, I would whip them all, from
-	first to last, whether there was a governor at hand to do it or I
-	had to do it myself"
+> "I contented myself with a solemn assurance that if there occurred
+> another instance of disobedience to orders I would thrash the
+> responsible party as he never dreamed of being thrashed, and if I
+> could not find who was responsible, I would whip them all, from
+> first to last, whether there was a governor at hand to do it or I
+> had to do it myself"
 
 Perfectly fearless, this man.
 
@@ -15113,12 +15113,12 @@ insignificant compared to this.
 Behold him--always theatrical--looking at Jerusalem--this time, by an
 oversight, with his hand off his pistol for once.
 
-	"I stood in the road, my hand on my horse's neck, and with my dim
-	eyes sought to trace the outlines of the holy places which I had
-	long before fixed in my mind, but the fast-flowing tears forbade my
-	succeeding.  There were our Mohammedan servants, a Latin monk, two
-	Armenians and a Jew in our cortege, and all alike gazed with
-	overflowing eyes."
+> "I stood in the road, my hand on my horse's neck, and with my dim
+> eyes sought to trace the outlines of the holy places which I had
+> long before fixed in my mind, but the fast-flowing tears forbade my
+> succeeding.  There were our Mohammedan servants, a Latin monk, two
+> Armenians and a Jew in our cortege, and all alike gazed with
+> overflowing eyes."
 
 If Latin monks and Arabs cried, I know to a moral certainty that the
 horses cried also, and so the picture is complete.
@@ -15129,49 +15129,49 @@ Mohammedans do not steal--robbed him of a paltry ten dollars' worth of
 powder and shot.  He convicted him before a sheik and looked on while he
 was punished by the terrible bastinado.  Hear him:
 
-	"He (Mousa) was on his back in a twinkling, howling, shouting,
-	screaming, but he was carried out to the piazza before the door,
-	where we could see the operation, and laid face down.  One man sat
-	on his back and one on his legs, the latter holding up his feet,
-	while a third laid on the bare soles a rhinoceros-hide koorbash
-	--["A Koorbash is Arabic for cowhide, the cow being a rhinoceros.
-	It is the most cruel whip known to fame.  Heavy as lead, and
-	flexible as India-rubber, usually about forty inches long and
-	tapering gradually from an inch in diameter to a point, it
-	administers a blow which leaves its mark for time."--Scow Life in
-	Egypt, by the same author.]--that whizzed through the air at every
-	stroke.  Poor Moreright was in agony, and Nama and Nama the Second
-	(mother and sister of Mousa,) were on their faces begging and
-	wailing, now embracing my knees and now Whitely's, while the
-	brother, outside, made the air ring with cries louder than Mousa's.
-	Even Yusef came and asked me on his knees to relent, and last of
-	all, Betuni--the rascal had lost a feed-bag in their house and had
-	been loudest in his denunciations that morning--besought the Howajji
-	to have mercy on the fellow."
+> "He (Mousa) was on his back in a twinkling, howling, shouting,
+> screaming, but he was carried out to the piazza before the door,
+> where we could see the operation, and laid face down.  One man sat
+> on his back and one on his legs, the latter holding up his feet,
+> while a third laid on the bare soles a rhinoceros-hide koorbash
+> --["A Koorbash is Arabic for cowhide, the cow being a rhinoceros.
+> It is the most cruel whip known to fame.  Heavy as lead, and
+> flexible as India-rubber, usually about forty inches long and
+> tapering gradually from an inch in diameter to a point, it
+> administers a blow which leaves its mark for time."--Scow Life in
+> Egypt, by the same author.]--that whizzed through the air at every
+> stroke.  Poor Moreright was in agony, and Nama and Nama the Second
+> (mother and sister of Mousa,) were on their faces begging and
+> wailing, now embracing my knees and now Whitely's, while the
+> brother, outside, made the air ring with cries louder than Mousa's.
+> Even Yusef came and asked me on his knees to relent, and last of
+> all, Betuni--the rascal had lost a feed-bag in their house and had
+> been loudest in his denunciations that morning--besought the Howajji
+> to have mercy on the fellow."
 
 But not he!  The punishment was "suspended," at the fifteenth blow to
 hear the confession.  Then Grimes and his party rode away, and left the
 entire Christian family to be fined and as severely punished as the
 Mohammedan sheik should deem proper.
 
-	"As I mounted, Yusef once more begged me to interfere and have mercy
-	on them, but I looked around at the dark faces of the crowd, and I
-	couldn't find one drop of pity in my heart for them."
+> "As I mounted, Yusef once more begged me to interfere and have mercy
+> on them, but I looked around at the dark faces of the crowd, and I
+> couldn't find one drop of pity in my heart for them."
 
 He closes his picture with a rollicking burst of humor which contrasts
 finely with the grief of the mother and her children.
 
 One more paragraph:
 
-	"Then once more I bowed my head.  It is no shame to have wept in
-	Palestine.  I wept, when I saw Jerusalem, I wept when I lay in the
-	starlight at Bethlehem.  I wept on the blessed shores of Galilee.
-	My hand was no less firm on the rein, my anger did not tremble on
-	the trigger of my pistol when I rode with it in my right hand along
-	the shore of the blue sea" (weeping.) "My eye was not dimmed by
-	those tears nor my heart in aught weakened.  Let him who would sneer
-	at my emotion close this volume here, for he will find little to his
-	taste in my journeyings through Holy Land."
+> "Then once more I bowed my head.  It is no shame to have wept in
+> Palestine.  I wept, when I saw Jerusalem, I wept when I lay in the
+> starlight at Bethlehem.  I wept on the blessed shores of Galilee.
+> My hand was no less firm on the rein, my anger did not tremble on
+> the trigger of my pistol when I rode with it in my right hand along
+> the shore of the blue sea" (weeping.) "My eye was not dimmed by
+> those tears nor my heart in aught weakened.  Let him who would sneer
+> at my emotion close this volume here, for he will find little to his
+> taste in my journeyings through Holy Land."
 
 He never bored but he struck water.
 
@@ -15203,58 +15203,58 @@ up and spoke.  I read among my notes, now, with a new interest, some
 sentences from an edition of 1621 of the Apocryphal New Testament.
 [Extract.]
 
-	"Christ, kissed by a bride made dumb by sorcerers, cures her.  A
-	leprous girl cured by the water in which the infant Christ was
-	washed, and becomes the servant of Joseph and Mary.  The leprous son
-	of a Prince cured in like manner.
+> "Christ, kissed by a bride made dumb by sorcerers, cures her.  A
+> leprous girl cured by the water in which the infant Christ was
+> washed, and becomes the servant of Joseph and Mary.  The leprous son
+> of a Prince cured in like manner.
 
-	"A young man who had been bewitched and turned into a mule,
-	miraculously cured by the infant Savior being put on his back, and
-	is married to the girl who had been cured of leprosy.  Whereupon the
-	bystanders praise God.
+> "A young man who had been bewitched and turned into a mule,
+> miraculously cured by the infant Savior being put on his back, and
+> is married to the girl who had been cured of leprosy.  Whereupon the
+> bystanders praise God.
 
-	"Chapter 16.  Christ miraculously widens or contracts gates,
-	milk-pails, sieves or boxes, not properly made by Joseph, he not
-	being skillful at his carpenter's trade.  The King of Jerusalem
-	gives Joseph an order for a throne.  Joseph works on it for two
-	years and makes it two spans too short.  The King being angry with
-	him, Jesus comforts him--commands him to pull one side of the
-	throne while he pulls the other, and brings it to its proper
-	dimensions.
+> "Chapter 16.  Christ miraculously widens or contracts gates,
+> milk-pails, sieves or boxes, not properly made by Joseph, he not
+> being skillful at his carpenter's trade.  The King of Jerusalem
+> gives Joseph an order for a throne.  Joseph works on it for two
+> years and makes it two spans too short.  The King being angry with
+> him, Jesus comforts him--commands him to pull one side of the
+> throne while he pulls the other, and brings it to its proper
+> dimensions.
 
-	"Chapter 19.  Jesus, charged with throwing a boy from the roof of a
-	house, miraculously causes the dead boy to speak and acquit him;
-	fetches water for his mother, breaks the pitcher and miraculously
-	gathers the water in his mantle and brings it home.
+> "Chapter 19.  Jesus, charged with throwing a boy from the roof of a
+> house, miraculously causes the dead boy to speak and acquit him;
+> fetches water for his mother, breaks the pitcher and miraculously
+> gathers the water in his mantle and brings it home.
 
-	"Sent to a schoolmaster, refuses to tell his letters, and the
-	schoolmaster going to whip him, his hand withers."
+> "Sent to a schoolmaster, refuses to tell his letters, and the
+> schoolmaster going to whip him, his hand withers."
 
 Further on in this quaint volume of rejected gospels is an epistle of St.
 Clement to the Corinthians, which was used in the churches and considered
 genuine fourteen or fifteen hundred years ago.  In it this account of the
 fabled phoenix occurs:
 
-	"1. Let us consider that wonderful type of the resurrection, which
-	is seen in the Eastern countries, that is to say, in Arabia.
+> "1. Let us consider that wonderful type of the resurrection, which
+> is seen in the Eastern countries, that is to say, in Arabia.
 
-	"2. There is a certain bird called a phoenix.  Of this there is
-	never but one at a time, and that lives five hundred years.  And
-	when the time of its dissolution draws near, that it must die, it
-	makes itself a nest of frankincense, and myrrh, and other spices,
-	into which, when its time is fulfilled, it enters and dies.
+> "2. There is a certain bird called a phoenix.  Of this there is
+> never but one at a time, and that lives five hundred years.  And
+> when the time of its dissolution draws near, that it must die, it
+> makes itself a nest of frankincense, and myrrh, and other spices,
+> into which, when its time is fulfilled, it enters and dies.
 
-	"3. But its flesh, putrefying, breeds a certain worm, which, being
-	nourished by the juice of the dead bird, brings forth feathers; and
-	when it is grown to a perfect state, it takes up the nest in which
-	the bones of its parent lie, and carries it from Arabia into Egypt,
-	to a city called Heliopolis:
+> "3. But its flesh, putrefying, breeds a certain worm, which, being
+> nourished by the juice of the dead bird, brings forth feathers; and
+> when it is grown to a perfect state, it takes up the nest in which
+> the bones of its parent lie, and carries it from Arabia into Egypt,
+> to a city called Heliopolis:
 
-	"4. And flying in open day in the sight of all men, lays it upon
-	the altar of the sun, and so returns from whence it came.
+> "4. And flying in open day in the sight of all men, lays it upon
+> the altar of the sun, and so returns from whence it came.
 
-	"5. The priests then search into the records of the time, and find
-	that it returned precisely at the end of five hundred years."
+> "5. The priests then search into the records of the time, and find
+> that it returned precisely at the end of five hundred years."
 
 Business is business, and there is nothing like punctuality, especially
 in a phoenix.
@@ -15266,8 +15266,8 @@ There is one verse that ought not to have been rejected, because it so
 evidently prophetically refers to the general run of Congresses of the
 United States:
 
-	"199.  They carry themselves high, and as prudent men; and though
-	they are fools, yet would seem to be teachers."
+> "199.  They carry themselves high, and as prudent men; and though
+> they are fools, yet would seem to be teachers."
 
 I have set these extracts down, as I found them.  Everywhere among the
 cathedrals of France and Italy, one finds traditions of personages that
@@ -15384,22 +15384,22 @@ They showed a fragment of ancient wall which they said was one side of
 the gate out of which the widow's dead son was being brought so many
 centuries ago when Jesus met the procession:
 
-	"Now when he came nigh to the gate of the city, behold there was a
-	dead man carried out, the only son of his mother, and she was a
-	widow: and much people of the city was with her.
+> "Now when he came nigh to the gate of the city, behold there was a
+> dead man carried out, the only son of his mother, and she was a
+> widow: and much people of the city was with her.
 
-	"And when the Lord saw her, he had compassion on her, and said, Weep
-	not.
+> "And when the Lord saw her, he had compassion on her, and said, Weep
+> not.
 
-	"And he came and touched the bier: and they that bare him stood
-	still.  And he said, Young man, I say unto thee, arise.
+> "And he came and touched the bier: and they that bare him stood
+> still.  And he said, Young man, I say unto thee, arise.
 
-	"And he that was dead sat up, and began to speak.  And he delivered
-	him to his mother.
+> "And he that was dead sat up, and began to speak.  And he delivered
+> him to his mother.
 
-	"And there came a fear on all.  And they glorified God, saying, That
-	a great prophet is risen up among us; and That God hath visited his
-	people."
+> "And there came a fear on all.  And they glorified God, saying, That
+> a great prophet is risen up among us; and That God hath visited his
+> people."
 
 A little mosque stands upon the spot which tradition says was occupied by
 the widow's dwelling.  Two or three aged Arabs sat about its door.  We
@@ -16425,7 +16425,7 @@ railroading days and call it traveling.
 When the guide pointed out where the Wandering Jew had left his familiar
 mark upon a wall, I was filled with astonishment.  It read:
 
-	"S. T.--1860--X."
+> "S. T.--1860--X."
 
 All I have revealed about the Wandering Jew can be amply proven by
 reference to our guide.
@@ -16867,10 +16867,10 @@ mood for a first glimpse of the sacred river.
 With the first suspicion of dawn, every pilgrim took off his clothes and
 waded into the dark torrent, singing:
 
-	"On Jordan's stormy banks I stand, 
-	And cast a wistful eye 
-	To Canaan's fair and happy land, 
-	Where my possessions lie." 
+> "On Jordan's stormy banks I stand, 
+> And cast a wistful eye 
+> To Canaan's fair and happy land, 
+> Where my possessions lie." 
 
 But they did not sing long.  The water was so fearfully cold that they
 were obliged to stop singing and scamper out again.  Then they stood on
@@ -17285,11 +17285,11 @@ the purpose of feasting our eyes upon fascinating aspects of nature, for
 we should have been disappointed--at least at this season of the year.  A
 writer in "Life in the Holy Land" observes:
 
-	"Monotonous and uninviting as much of the Holy Land will appear to
-	persons accustomed to the almost constant verdure of flowers, ample
-	streams and varied surface of our own country, we must remember that
-	its aspect to the Israelites after the weary march of forty years
-	through the desert must have been very different."
+> "Monotonous and uninviting as much of the Holy Land will appear to
+> persons accustomed to the almost constant verdure of flowers, ample
+> streams and varied surface of our own country, we must remember that
+> its aspect to the Israelites after the weary march of forty years
+> through the desert must have been very different."
 
 Which all of us will freely grant.  But it truly is "monotonous and
 uninviting," and there is no sufficient reason for describing it as being
@@ -17518,113 +17518,113 @@ small town in the United States.  It is pleasant to read this sketch in
 my note-book, now, and know that I can stand Shepherd's Hotel, sure,
 because I have been in one just like it in America and survived:
 
-	I stopped at the Benton House.  It used to be a good hotel, but that
-	proves nothing--I used to be a good boy, for that matter.  Both of
-	us have lost character of late years.  The Benton is not a good
-	hotel.  The Benton lacks a very great deal of being a good hotel.
-	Perdition is full of better hotels than the Benton.
+> I stopped at the Benton House.  It used to be a good hotel, but that
+> proves nothing--I used to be a good boy, for that matter.  Both of
+> us have lost character of late years.  The Benton is not a good
+> hotel.  The Benton lacks a very great deal of being a good hotel.
+> Perdition is full of better hotels than the Benton.
 
-	It was late at night when I got there, and I told the clerk I would
-	like plenty of lights, because I wanted to read an hour or two.
-	When I reached No. 15 with the porter (we came along a dim hall that
-	was clad in ancient carpeting, faded, worn out in many places, and
-	patched with old scraps of oil cloth--a hall that sank under one's
-	feet, and creaked dismally to every footstep,) he struck a light
-	--two inches of sallow, sorrowful, consumptive tallow candle, that
-	burned blue, and sputtered, and got discouraged and went out.  The
-	porter lit it again, and I asked if that was all the light the clerk
-	sent.  He said, "Oh no, I've got another one here," and he produced
-	another couple of inches of tallow candle.  I said, "Light them both
-	--I'll have to have one to see the other by."  He did it, but the
-	result was drearier than darkness itself.  He was a cheery,
-	accommodating rascal.  He said he would go "somewheres" and steal a
-	lamp.  I abetted and encouraged him in his criminal design.  I heard
-	the landlord get after him in the hall ten minutes afterward.
+> It was late at night when I got there, and I told the clerk I would
+> like plenty of lights, because I wanted to read an hour or two.
+> When I reached No. 15 with the porter (we came along a dim hall that
+> was clad in ancient carpeting, faded, worn out in many places, and
+> patched with old scraps of oil cloth--a hall that sank under one's
+> feet, and creaked dismally to every footstep,) he struck a light
+> --two inches of sallow, sorrowful, consumptive tallow candle, that
+> burned blue, and sputtered, and got discouraged and went out.  The
+> porter lit it again, and I asked if that was all the light the clerk
+> sent.  He said, "Oh no, I've got another one here," and he produced
+> another couple of inches of tallow candle.  I said, "Light them both
+> --I'll have to have one to see the other by."  He did it, but the
+> result was drearier than darkness itself.  He was a cheery,
+> accommodating rascal.  He said he would go "somewheres" and steal a
+> lamp.  I abetted and encouraged him in his criminal design.  I heard
+> the landlord get after him in the hall ten minutes afterward.
 
-	"Where are you going with that lamp?"
+> "Where are you going with that lamp?"
 
-	"Fifteen wants it, sir."
+> "Fifteen wants it, sir."
 
-	"Fifteen! why he's got a double lot of candles--does the man want
-	to illuminate the house?--does he want to get up a torch-light
-	procession?--what is he up to, any how?"
+> "Fifteen! why he's got a double lot of candles--does the man want
+> to illuminate the house?--does he want to get up a torch-light
+> procession?--what is he up to, any how?"
 
-	"He don't like them candles--says he wants a lamp."
+> "He don't like them candles--says he wants a lamp."
 
-	"Why what in the nation does----why I never heard of such a thing?
-	What on earth can he want with that lamp?"
+> "Why what in the nation does----why I never heard of such a thing?
+> What on earth can he want with that lamp?"
 
-	"Well, he only wants to read--that's what he says."
+> "Well, he only wants to read--that's what he says."
 
-	"Wants to read, does he?--ain't satisfied with a thousand candles,
-	but has to have a lamp!--I do wonder what the devil that fellow
-	wants that lamp for?  Take him another candle, and then if----"
+> "Wants to read, does he?--ain't satisfied with a thousand candles,
+> but has to have a lamp!--I do wonder what the devil that fellow
+> wants that lamp for?  Take him another candle, and then if----"
 
-	"But he wants the lamp--says he'll burn the d--d old house down if
-	he don't get a lamp!" (a remark which I never made.)
+> "But he wants the lamp--says he'll burn the d--d old house down if
+> he don't get a lamp!" (a remark which I never made.)
 
-	"I'd like to see him at it once.  Well, you take it along--but I
-	swear it beats my time, though--and see if you can't find out what
-	in the very nation he wants with that lamp."
+> "I'd like to see him at it once.  Well, you take it along--but I
+> swear it beats my time, though--and see if you can't find out what
+> in the very nation he wants with that lamp."
 
-	And he went off growling to himself and still wondering and
-	wondering over the unaccountable conduct of No. 15.  The lamp was a
-	good one, but it revealed some disagreeable things--a bed in the
-	suburbs of a desert of room--a bed that had hills and valleys in it,
-	and you'd have to accommodate your body to the impression left in it
-	by the man that slept there last, before you could lie comfortably;
-	a carpet that had seen better days; a melancholy washstand in a
-	remote corner, and a dejected pitcher on it sorrowing over a broken
-	nose; a looking-glass split across the centre, which chopped your
-	head off at the chin and made you look like some dreadful unfinished
-	monster or other; the paper peeling in shreds from the walls.
+> And he went off growling to himself and still wondering and
+> wondering over the unaccountable conduct of No. 15.  The lamp was a
+> good one, but it revealed some disagreeable things--a bed in the
+> suburbs of a desert of room--a bed that had hills and valleys in it,
+> and you'd have to accommodate your body to the impression left in it
+> by the man that slept there last, before you could lie comfortably;
+> a carpet that had seen better days; a melancholy washstand in a
+> remote corner, and a dejected pitcher on it sorrowing over a broken
+> nose; a looking-glass split across the centre, which chopped your
+> head off at the chin and made you look like some dreadful unfinished
+> monster or other; the paper peeling in shreds from the walls.
 
-	I sighed and said: "This is charming; and now don't you think you
-	could get me something to read?"
+> I sighed and said: "This is charming; and now don't you think you
+> could get me something to read?"
 
-	The porter said, "Oh, certainly; the old man's got dead loads of
-	books;" and he was gone before I could tell him what sort of
-	literature I would rather have.  And yet his countenance expressed
-	the utmost confidence in his ability to execute the commission with
-	credit to himself.  The old man made a descent on him.
+> The porter said, "Oh, certainly; the old man's got dead loads of
+> books;" and he was gone before I could tell him what sort of
+> literature I would rather have.  And yet his countenance expressed
+> the utmost confidence in his ability to execute the commission with
+> credit to himself.  The old man made a descent on him.
 
-	"What are you going to do with that pile of books?"
+> "What are you going to do with that pile of books?"
 
-	"Fifteen wants 'em, sir."
+> "Fifteen wants 'em, sir."
 
-	"Fifteen, is it?  He'll want a warming-pan, next--he'll want a
-	nurse!  Take him every thing there is in the house--take him the
-	bar-keeper--take him the baggage-wagon--take him a chamber-maid!
-	Confound me, I never saw any thing like it.  What did he say he
-	wants with those books?"
+> "Fifteen, is it?  He'll want a warming-pan, next--he'll want a
+> nurse!  Take him every thing there is in the house--take him the
+> bar-keeper--take him the baggage-wagon--take him a chamber-maid!
+> Confound me, I never saw any thing like it.  What did he say he
+> wants with those books?"
 
-	"Wants to read 'em, like enough; it ain't likely he wants to eat
-	'em, I don't reckon."
+> "Wants to read 'em, like enough; it ain't likely he wants to eat
+> 'em, I don't reckon."
 
-	"Wants to read 'em--wants to read 'em this time of night, the
-	infernal lunatic!  Well, he can't have them."
+> "Wants to read 'em--wants to read 'em this time of night, the
+> infernal lunatic!  Well, he can't have them."
 
-	"But he says he's mor'ly bound to have 'em; he says he'll just go
-	a-rairin' and a-chargin' through this house and raise more--well,
-	there's no tellin' what he won't do if he don't get 'em; because
-	he's drunk and crazy and desperate, and nothing'll soothe him down
-	but them cussed books."  [I had not made any threats, and was not in
-	the condition ascribed to me by the porter.]
+> "But he says he's mor'ly bound to have 'em; he says he'll just go
+> a-rairin' and a-chargin' through this house and raise more--well,
+> there's no tellin' what he won't do if he don't get 'em; because
+> he's drunk and crazy and desperate, and nothing'll soothe him down
+> but them cussed books."  [I had not made any threats, and was not in
+> the condition ascribed to me by the porter.]
 
-	"Well, go on; but I will be around when he goes to rairing and
-	charging, and the first rair he makes I'll make him rair out of the
-	window."  And then the old gentleman went off, growling as before.
+> "Well, go on; but I will be around when he goes to rairing and
+> charging, and the first rair he makes I'll make him rair out of the
+> window."  And then the old gentleman went off, growling as before.
 
-	The genius of that porter was something wonderful.  He put an armful
-	of books on the bed and said "Good night" as confidently as if he
-	knew perfectly well that those books were exactly my style of
-	reading matter.  And well he might.  His selection covered the whole
-	range of legitimate literature.  It comprised "The Great
-	Consummation," by Rev. Dr. Cummings--theology; "Revised Statutes of
-	the State of Missouri"--law; "The Complete Horse-Doctor"--medicine;
-	"The Toilers of the Sea," by Victor Hugo--romance; "The works of
-	William Shakspeare"--poetry.  I shall never cease to admire the tact
-	and the intelligence of that gifted porter.
+> The genius of that porter was something wonderful.  He put an armful
+> of books on the bed and said "Good night" as confidently as if he
+> knew perfectly well that those books were exactly my style of
+> reading matter.  And well he might.  His selection covered the whole
+> range of legitimate literature.  It comprised "The Great
+> Consummation," by Rev. Dr. Cummings--theology; "Revised Statutes of
+> the State of Missouri"--law; "The Complete Horse-Doctor"--medicine;
+> "The Toilers of the Sea," by Victor Hugo--romance; "The works of
+> William Shakspeare"--poetry.  I shall never cease to admire the tact
+> and the intelligence of that gifted porter.
 
 But all the donkeys in Christendom, and most of the Egyptian boys, I
 think, are at the door, and there is some noise going on, not to put it
@@ -18113,68 +18113,68 @@ note-book (that sure index, to me, of my condition), prove.  What a
 stupid thing a note-book gets to be at sea, any way.  Please observe the
 style:
 
-	"Sunday--Services, as usual, at four bells.  Services at night,
-	also.  No cards.
+> "Sunday--Services, as usual, at four bells.  Services at night,
+> also.  No cards.
 
-	"Monday--Beautiful day, but rained hard.  The cattle purchased at
-	Alexandria for beef ought to be shingled.  Or else fattened.  The
-	water stands in deep puddles in the depressions forward of their
-	after shoulders.  Also here and there all over their backs.  It is
-	well they are not cows--it would soak in and ruin the milk.  The
-	poor devil eagle--[Afterwards presented to the Central Park.]--from
-	Syria looks miserable and droopy in the rain, perched on the forward
-	capstan.  He appears to have his own opinion of a sea voyage, and if
-	it were put into language and the language solidified, it would
-	probably essentially dam the widest river in the world.
+> "Monday--Beautiful day, but rained hard.  The cattle purchased at
+> Alexandria for beef ought to be shingled.  Or else fattened.  The
+> water stands in deep puddles in the depressions forward of their
+> after shoulders.  Also here and there all over their backs.  It is
+> well they are not cows--it would soak in and ruin the milk.  The
+> poor devil eagle--[Afterwards presented to the Central Park.]--from
+> Syria looks miserable and droopy in the rain, perched on the forward
+> capstan.  He appears to have his own opinion of a sea voyage, and if
+> it were put into language and the language solidified, it would
+> probably essentially dam the widest river in the world.
 
-	"Tuesday--Somewhere in the neighborhood of the island of Malta.  Can
-	not stop there.  Cholera.  Weather very stormy.  Many passengers
-	seasick and invisible.
+> "Tuesday--Somewhere in the neighborhood of the island of Malta.  Can
+> not stop there.  Cholera.  Weather very stormy.  Many passengers
+> seasick and invisible.
 
-	"Wednesday--Weather still very savage.  Storm blew two land birds to
-	sea, and they came on board.  A hawk was blown off, also.  He
-	circled round and round the ship, wanting to light, but afraid of
-	the people.  He was so tired, though, that he had to light, at last,
-	or perish.  He stopped in the foretop, repeatedly, and was as often
-	blown away by the wind.  At last Harry caught him.  Sea full of
-	flying-fish.  They rise in flocks of three hundred and flash along
-	above the tops of the waves a distance of two or three hundred feet,
-	then fall and disappear.
+> "Wednesday--Weather still very savage.  Storm blew two land birds to
+> sea, and they came on board.  A hawk was blown off, also.  He
+> circled round and round the ship, wanting to light, but afraid of
+> the people.  He was so tired, though, that he had to light, at last,
+> or perish.  He stopped in the foretop, repeatedly, and was as often
+> blown away by the wind.  At last Harry caught him.  Sea full of
+> flying-fish.  They rise in flocks of three hundred and flash along
+> above the tops of the waves a distance of two or three hundred feet,
+> then fall and disappear.
 
-	"Thursday--Anchored off Algiers, Africa.  Beautiful city, beautiful
-	green hilly landscape behind it.  Staid half a day and left.  Not
-	permitted to land, though we showed a clean bill of health.  They
-	were afraid of Egyptian plague and cholera.
+> "Thursday--Anchored off Algiers, Africa.  Beautiful city, beautiful
+> green hilly landscape behind it.  Staid half a day and left.  Not
+> permitted to land, though we showed a clean bill of health.  They
+> were afraid of Egyptian plague and cholera.
 
-	"Friday--Morning, dominoes.  Afternoon, dominoes.  Evening,
-	promenading the deck.  Afterwards, charades.
+> "Friday--Morning, dominoes.  Afternoon, dominoes.  Evening,
+> promenading the deck.  Afterwards, charades.
 
-	"Saturday--Morning, dominoes.  Afternoon, dominoes.  Evening,
-	promenading the decks.  Afterwards, dominoes.
+> "Saturday--Morning, dominoes.  Afternoon, dominoes.  Evening,
+> promenading the decks.  Afterwards, dominoes.
 
-	"Sunday--Morning service, four bells.  Evening service, eight bells.
-	Monotony till midnight.--Whereupon, dominoes.
+> "Sunday--Morning service, four bells.  Evening service, eight bells.
+> Monotony till midnight.--Whereupon, dominoes.
 
-	"Monday--Morning, dominoes.  Afternoon, dominoes.  Evening,
-	promenading the decks.  Afterward, charades and a lecture from Dr.
-	C. Dominoes.
+> "Monday--Morning, dominoes.  Afternoon, dominoes.  Evening,
+> promenading the decks.  Afterward, charades and a lecture from Dr.
+> C. Dominoes.
 
-	"No date--Anchored off the picturesque city of Cagliari, Sardinia.
-	Staid till midnight, but not permitted to land by these infamous
-	foreigners.  They smell inodorously--they do not wash--they dare not
-	risk cholera.
+> "No date--Anchored off the picturesque city of Cagliari, Sardinia.
+> Staid till midnight, but not permitted to land by these infamous
+> foreigners.  They smell inodorously--they do not wash--they dare not
+> risk cholera.
 
-	"Thursday--Anchored off the beautiful cathedral city of Malaga,
-	Spain.--Went ashore in the captain's boat--not ashore, either, for
-	they would not let us land.  Quarantine.  Shipped my newspaper
-	correspondence, which they took with tongs, dipped it in sea water,
-	clipped it full of holes, and then fumigated it with villainous
-	vapors till it smelt like a Spaniard.  Inquired about chances to run
-	to blockade and visit the Alhambra at Granada.  Too risky--they
-	might hang a body.  Set sail--middle of afternoon.
+> "Thursday--Anchored off the beautiful cathedral city of Malaga,
+> Spain.--Went ashore in the captain's boat--not ashore, either, for
+> they would not let us land.  Quarantine.  Shipped my newspaper
+> correspondence, which they took with tongs, dipped it in sea water,
+> clipped it full of holes, and then fumigated it with villainous
+> vapors till it smelt like a Spaniard.  Inquired about chances to run
+> to blockade and visit the Alhambra at Granada.  Too risky--they
+> might hang a body.  Set sail--middle of afternoon.
 
-	"And so on, and so on, and so forth, for several days.  Finally,
-	anchored off Gibraltar, which looks familiar and home-like."
+> "And so on, and so on, and so forth, for several days.  Finally,
+> anchored off Gibraltar, which looks familiar and home-like."
 
 It reminds me of the journal I opened with the New Year, once, when I was
 a boy and a confiding and a willing prey to those impossible schemes of
@@ -18354,205 +18354,205 @@ is not a chapter that any company might be proud to have a body write
 about them, my judgment is fit for nothing.  With these remarks I
 confidently submit it to the unprejudiced judgment of the reader:
 
-	RETURN OF THE HOLY LAND EXCURSIONISTS--THE STORY OF THE CRUISE.
+> RETURN OF THE HOLY LAND EXCURSIONISTS--THE STORY OF THE CRUISE.
 
-	TO THE EDITOR OF THE HERALD:
+> TO THE EDITOR OF THE HERALD:
 
-	The steamer Quaker City has accomplished at last her extraordinary
-	voyage and returned to her old pier at the foot of Wall street.
-	The expedition was a success in some respects, in some it was not.
-	Originally it was advertised as a "pleasure excursion."  Well,
-	perhaps, it was a pleasure excursion, but certainly it did not look
-	like one; certainly it did not act like one.  Any body's and every
-	body's notion of a pleasure excursion is that the parties to it will
-	of a necessity be young and giddy and somewhat boisterous.  They
-	will dance a good deal, sing a good deal, make love, but sermonize
-	very little.  Any body's and every body's notion of a well conducted
-	funeral is that there must be a hearse and a corpse, and chief
-	mourners and mourners by courtesy, many old people, much solemnity,
-	no levity, and a prayer and a sermon withal.  Three-fourths of the
-	Quaker City's passengers were between forty and seventy years of
-	age!  There was a picnic crowd for you!  It may be supposed that the
-	other fourth was composed of young girls.  But it was not.  It was
-	chiefly composed of rusty old bachelors and a child of six years.
-	Let us average the ages of the Quaker City's pilgrims and set the
-	figure down as fifty years.  Is any man insane enough to imagine
-	that this picnic of patriarchs sang, made love, danced, laughed,
-	told anecdotes, dealt in ungodly levity?  In my experience they
-	sinned little in these matters.  No doubt it was presumed here at
-	home that these frolicsome veterans laughed and sang and romped all
-	day, and day after day, and kept up a noisy excitement from one end
-	of the ship to the other; and that they played blind-man's buff or
-	danced quadrilles and waltzes on moonlight evenings on the
-	quarter-deck; and that at odd moments of unoccupied time they jotted
-	a laconic item or two in the journals they opened on such an
-	elaborate plan when they left home, and then skurried off to their
-	whist and euchre labors under the cabin lamps.  If these things were
-	presumed, the presumption was at fault.  The venerable excursionists
-	were not gay and frisky.  They played no blind-man's buff; they
-	dealt not in whist; they shirked not the irksome journal, for alas!
-	most of them were even writing books.  They never romped, they
-	talked but little, they never sang, save in the nightly
-	prayer-meeting.  The pleasure ship was a synagogue, and the pleasure
-	trip was a funeral excursion without a corpse.  (There is nothing
-	exhilarating about a funeral excursion without a corpse.) A free,
-	hearty laugh was a sound that was not heard oftener than once in
-	seven days about those decks or in those cabins, and when it was
-	heard it met with precious little sympathy.  The excursionists
-	danced, on three separate evenings, long, long ago, (it seems an
-	age.) quadrilles, of a single set, made up of three ladies and five
-	gentlemen, (the latter with handkerchiefs around their arms to
-	signify their sex.) who timed their feet to the solemn wheezing of a
-	melodeon; but even this melancholy orgie was voted to be sinful, and
-	dancing was discontinued.
+> The steamer Quaker City has accomplished at last her extraordinary
+> voyage and returned to her old pier at the foot of Wall street.
+> The expedition was a success in some respects, in some it was not.
+> Originally it was advertised as a "pleasure excursion."  Well,
+> perhaps, it was a pleasure excursion, but certainly it did not look
+> like one; certainly it did not act like one.  Any body's and every
+> body's notion of a pleasure excursion is that the parties to it will
+> of a necessity be young and giddy and somewhat boisterous.  They
+> will dance a good deal, sing a good deal, make love, but sermonize
+> very little.  Any body's and every body's notion of a well conducted
+> funeral is that there must be a hearse and a corpse, and chief
+> mourners and mourners by courtesy, many old people, much solemnity,
+> no levity, and a prayer and a sermon withal.  Three-fourths of the
+> Quaker City's passengers were between forty and seventy years of
+> age!  There was a picnic crowd for you!  It may be supposed that the
+> other fourth was composed of young girls.  But it was not.  It was
+> chiefly composed of rusty old bachelors and a child of six years.
+> Let us average the ages of the Quaker City's pilgrims and set the
+> figure down as fifty years.  Is any man insane enough to imagine
+> that this picnic of patriarchs sang, made love, danced, laughed,
+> told anecdotes, dealt in ungodly levity?  In my experience they
+> sinned little in these matters.  No doubt it was presumed here at
+> home that these frolicsome veterans laughed and sang and romped all
+> day, and day after day, and kept up a noisy excitement from one end
+> of the ship to the other; and that they played blind-man's buff or
+> danced quadrilles and waltzes on moonlight evenings on the
+> quarter-deck; and that at odd moments of unoccupied time they jotted
+> a laconic item or two in the journals they opened on such an
+> elaborate plan when they left home, and then skurried off to their
+> whist and euchre labors under the cabin lamps.  If these things were
+> presumed, the presumption was at fault.  The venerable excursionists
+> were not gay and frisky.  They played no blind-man's buff; they
+> dealt not in whist; they shirked not the irksome journal, for alas!
+> most of them were even writing books.  They never romped, they
+> talked but little, they never sang, save in the nightly
+> prayer-meeting.  The pleasure ship was a synagogue, and the pleasure
+> trip was a funeral excursion without a corpse.  (There is nothing
+> exhilarating about a funeral excursion without a corpse.) A free,
+> hearty laugh was a sound that was not heard oftener than once in
+> seven days about those decks or in those cabins, and when it was
+> heard it met with precious little sympathy.  The excursionists
+> danced, on three separate evenings, long, long ago, (it seems an
+> age.) quadrilles, of a single set, made up of three ladies and five
+> gentlemen, (the latter with handkerchiefs around their arms to
+> signify their sex.) who timed their feet to the solemn wheezing of a
+> melodeon; but even this melancholy orgie was voted to be sinful, and
+> dancing was discontinued.
 
-	The pilgrims played dominoes when too much Josephus or Robinson's
-	Holy Land Researches, or book-writing, made recreation necessary
-	--for dominoes is about as mild and sinless a game as any in the
-	world, perhaps, excepting always the ineffably insipid diversion
-	they call croquet, which is a game where you don't pocket any balls
-	and don't carom on any thing of any consequence, and when you are
-	done nobody has to pay, and there are no refreshments to saw off,
-	and, consequently, there isn't any satisfaction whatever about it
-	--they played dominoes till they were rested, and then they
-	blackguarded each other privately till prayer-time.  When they were
-	not seasick they were uncommonly prompt when the dinner-gong
-	sounded.  Such was our daily life on board the ship--solemnity,
-	decorum, dinner, dominoes, devotions, slander.  It was not lively
-	enough for a pleasure trip; but if we had only had a corpse it would
-	have made a noble funeral excursion.  It is all over now; but when I
-	look back, the idea of these venerable fossils skipping forth on a
-	six months' picnic, seems exquisitely refreshing.  The advertised
-	title of the expedition--"The Grand Holy Land Pleasure Excursion"
-	--was a misnomer.  "The Grand Holy Land Funeral Procession" would have
-	been better--much better.
+> The pilgrims played dominoes when too much Josephus or Robinson's
+> Holy Land Researches, or book-writing, made recreation necessary
+> --for dominoes is about as mild and sinless a game as any in the
+> world, perhaps, excepting always the ineffably insipid diversion
+> they call croquet, which is a game where you don't pocket any balls
+> and don't carom on any thing of any consequence, and when you are
+> done nobody has to pay, and there are no refreshments to saw off,
+> and, consequently, there isn't any satisfaction whatever about it
+> --they played dominoes till they were rested, and then they
+> blackguarded each other privately till prayer-time.  When they were
+> not seasick they were uncommonly prompt when the dinner-gong
+> sounded.  Such was our daily life on board the ship--solemnity,
+> decorum, dinner, dominoes, devotions, slander.  It was not lively
+> enough for a pleasure trip; but if we had only had a corpse it would
+> have made a noble funeral excursion.  It is all over now; but when I
+> look back, the idea of these venerable fossils skipping forth on a
+> six months' picnic, seems exquisitely refreshing.  The advertised
+> title of the expedition--"The Grand Holy Land Pleasure Excursion"
+> --was a misnomer.  "The Grand Holy Land Funeral Procession" would have
+> been better--much better.
 
-	Wherever we went, in Europe, Asia, or Africa, we made a sensation,
-	and, I suppose I may add, created a famine.  None of us had ever
-	been any where before; we all hailed from the interior; travel was a
-	wild novelty to us, and we conducted ourselves in accordance with
-	the natural instincts that were in us, and trammeled ourselves with
-	no ceremonies, no conventionalities.  We always took care to make it
-	understood that we were Americans--Americans!  When we found that a
-	good many foreigners had hardly ever heard of America, and that a
-	good many more knew it only as a barbarous province away off
-	somewhere, that had lately been at war with somebody, we pitied the
-	ignorance of the Old World, but abated no jot of our importance.
-	Many and many a simple community in the Eastern hemisphere will
-	remember for years the incursion of the strange horde in the year of
-	our Lord 1867, that called themselves Americans, and seemed to
-	imagine in some unaccountable way that they had a right to be proud
-	of it.  We generally created a famine, partly because the coffee on
-	the Quaker City was unendurable, and sometimes the more substantial
-	fare was not strictly first class; and partly because one naturally
-	tires of sitting long at the same board and eating from the same
-	dishes.
+> Wherever we went, in Europe, Asia, or Africa, we made a sensation,
+> and, I suppose I may add, created a famine.  None of us had ever
+> been any where before; we all hailed from the interior; travel was a
+> wild novelty to us, and we conducted ourselves in accordance with
+> the natural instincts that were in us, and trammeled ourselves with
+> no ceremonies, no conventionalities.  We always took care to make it
+> understood that we were Americans--Americans!  When we found that a
+> good many foreigners had hardly ever heard of America, and that a
+> good many more knew it only as a barbarous province away off
+> somewhere, that had lately been at war with somebody, we pitied the
+> ignorance of the Old World, but abated no jot of our importance.
+> Many and many a simple community in the Eastern hemisphere will
+> remember for years the incursion of the strange horde in the year of
+> our Lord 1867, that called themselves Americans, and seemed to
+> imagine in some unaccountable way that they had a right to be proud
+> of it.  We generally created a famine, partly because the coffee on
+> the Quaker City was unendurable, and sometimes the more substantial
+> fare was not strictly first class; and partly because one naturally
+> tires of sitting long at the same board and eating from the same
+> dishes.
 
-	The people of those foreign countries are very, very ignorant.  They
-	looked curiously at the costumes we had brought from the wilds of
-	America.  They observed that we talked loudly at table sometimes.
-	They noticed that we looked out for expenses, and got what we
-	conveniently could out of a franc, and wondered where in the
-	mischief we came from.  In Paris they just simply opened their eyes
-	and stared when we spoke to them in French!  We never did succeed in
-	making those idiots understand their own language.  One of our
-	passengers said to a shopkeeper, in reference to a proposed return
-	to buy a pair of gloves, "Allong restay trankeel--may be ve coom
-	Moonday;" and would you believe it, that shopkeeper, a born
-	Frenchman, had to ask what it was that had been said.  Sometimes it
-	seems to me, somehow, that there must be a difference between
-	Parisian French and Quaker City French.
+> The people of those foreign countries are very, very ignorant.  They
+> looked curiously at the costumes we had brought from the wilds of
+> America.  They observed that we talked loudly at table sometimes.
+> They noticed that we looked out for expenses, and got what we
+> conveniently could out of a franc, and wondered where in the
+> mischief we came from.  In Paris they just simply opened their eyes
+> and stared when we spoke to them in French!  We never did succeed in
+> making those idiots understand their own language.  One of our
+> passengers said to a shopkeeper, in reference to a proposed return
+> to buy a pair of gloves, "Allong restay trankeel--may be ve coom
+> Moonday;" and would you believe it, that shopkeeper, a born
+> Frenchman, had to ask what it was that had been said.  Sometimes it
+> seems to me, somehow, that there must be a difference between
+> Parisian French and Quaker City French.
 
-	The people stared at us every where, and we stared at them.  We
-	generally made them feel rather small, too, before we got done with
-	them, because we bore down on them with America's greatness until we
-	crushed them.  And yet we took kindly to the manners and customs,
-	and especially to the fashions of the various people we visited.
-	When we left the Azores, we wore awful capotes and used fine tooth
-	combs--successfully.  When we came back from Tangier, in Africa, we
-	were topped with fezzes of the bloodiest hue, hung with tassels like
-	an Indian's scalp-lock.  In France and Spain we attracted some
-	attention in these costumes.  In Italy they naturally took us for
-	distempered Garibaldians, and set a gunboat to look for any thing
-	significant in our changes of uniform.  We made Rome howl.  We could
-	have made any place howl when we had all our clothes on.  We got no
-	fresh raiment in Greece--they had but little there of any kind.  But
-	at Constantinople, how we turned out!  Turbans, scimetars, fezzes,
-	horse-pistols, tunics, sashes, baggy trowsers, yellow slippers--Oh,
-	we were gorgeous!  The illustrious dogs of Constantinople barked
-	their under jaws off, and even then failed to do us justice.  They
-	are all dead by this time.  They could not go through such a run of
-	business as we gave them and survive.
+> The people stared at us every where, and we stared at them.  We
+> generally made them feel rather small, too, before we got done with
+> them, because we bore down on them with America's greatness until we
+> crushed them.  And yet we took kindly to the manners and customs,
+> and especially to the fashions of the various people we visited.
+> When we left the Azores, we wore awful capotes and used fine tooth
+> combs--successfully.  When we came back from Tangier, in Africa, we
+> were topped with fezzes of the bloodiest hue, hung with tassels like
+> an Indian's scalp-lock.  In France and Spain we attracted some
+> attention in these costumes.  In Italy they naturally took us for
+> distempered Garibaldians, and set a gunboat to look for any thing
+> significant in our changes of uniform.  We made Rome howl.  We could
+> have made any place howl when we had all our clothes on.  We got no
+> fresh raiment in Greece--they had but little there of any kind.  But
+> at Constantinople, how we turned out!  Turbans, scimetars, fezzes,
+> horse-pistols, tunics, sashes, baggy trowsers, yellow slippers--Oh,
+> we were gorgeous!  The illustrious dogs of Constantinople barked
+> their under jaws off, and even then failed to do us justice.  They
+> are all dead by this time.  They could not go through such a run of
+> business as we gave them and survive.
 
-	And then we went to see the Emperor of Russia.  We just called on
-	him as comfortably as if we had known him a century or so, and when
-	we had finished our visit we variegated ourselves with selections
-	from Russian costumes and sailed away again more picturesque than
-	ever.  In Smyrna we picked up camel's hair shawls and other dressy
-	things from Persia; but in Palestine--ah, in Palestine--our splendid
-	career ended.  They didn't wear any clothes there to speak of.  We
-	were satisfied, and stopped.  We made no experiments.  We did not
-	try their costume.  But we astonished the natives of that country.
-	We astonished them with such eccentricities of dress as we could
-	muster.  We prowled through the Holy Land, from Cesarea Philippi to
-	Jerusalem and the Dead Sea, a weird procession of pilgrims, gotten
-	up regardless of expense, solemn, gorgeous, green-spectacled,
-	drowsing under blue umbrellas, and astride of a sorrier lot of
-	horses, camels and asses than those that came out of Noah's ark,
-	after eleven months of seasickness and short rations.  If ever those
-	children of Israel in Palestine forget when Gideon's Band went
-	through there from America, they ought to be cursed once more and
-	finished.  It was the rarest spectacle that ever astounded mortal
-	eyes, perhaps.
+> And then we went to see the Emperor of Russia.  We just called on
+> him as comfortably as if we had known him a century or so, and when
+> we had finished our visit we variegated ourselves with selections
+> from Russian costumes and sailed away again more picturesque than
+> ever.  In Smyrna we picked up camel's hair shawls and other dressy
+> things from Persia; but in Palestine--ah, in Palestine--our splendid
+> career ended.  They didn't wear any clothes there to speak of.  We
+> were satisfied, and stopped.  We made no experiments.  We did not
+> try their costume.  But we astonished the natives of that country.
+> We astonished them with such eccentricities of dress as we could
+> muster.  We prowled through the Holy Land, from Cesarea Philippi to
+> Jerusalem and the Dead Sea, a weird procession of pilgrims, gotten
+> up regardless of expense, solemn, gorgeous, green-spectacled,
+> drowsing under blue umbrellas, and astride of a sorrier lot of
+> horses, camels and asses than those that came out of Noah's ark,
+> after eleven months of seasickness and short rations.  If ever those
+> children of Israel in Palestine forget when Gideon's Band went
+> through there from America, they ought to be cursed once more and
+> finished.  It was the rarest spectacle that ever astounded mortal
+> eyes, perhaps.
 
-	Well, we were at home in Palestine.  It was easy to see that that
-	was the grand feature of the expedition.  We had cared nothing much
-	about Europe.  We galloped through the Louvre, the Pitti, the
-	Ufizzi, the Vatican--all the galleries--and through the pictured and
-	frescoed churches of Venice, Naples, and the cathedrals of Spain;
-	some of us said that certain of the great works of the old masters
-	were glorious creations of genius, (we found it out in the
-	guide-book, though we got hold of the wrong picture sometimes,) and
-	the others said they were disgraceful old daubs.  We examined modern
-	and ancient statuary with a critical eye in Florence, Rome, or any
-	where we found it, and praised it if we saw fit, and if we didn't we
-	said we preferred the wooden Indians in front of the cigar stores of
-	America.  But the Holy Land brought out all our enthusiasm.  We fell
-	into raptures by the barren shores of Galilee; we pondered at Tabor
-	and at Nazareth; we exploded into poetry over the questionable
-	loveliness of Esdraelon; we meditated at Jezreel and Samaria over
-	the missionary zeal of Jehu; we rioted--fairly rioted among the holy
-	places of Jerusalem; we bathed in Jordan and the Dead Sea, reckless
-	whether our accident-insurance policies were extra-hazardous or not,
-	and brought away so many jugs of precious water from both places
-	that all the country from Jericho to the mountains of Moab will
-	suffer from drouth this year, I think.  Yet, the pilgrimage part of
-	the excursion was its pet feature--there is no question about that.
-	After dismal, smileless Palestine, beautiful Egypt had few charms
-	for us.  We merely glanced at it and were ready for home.
+> Well, we were at home in Palestine.  It was easy to see that that
+> was the grand feature of the expedition.  We had cared nothing much
+> about Europe.  We galloped through the Louvre, the Pitti, the
+> Ufizzi, the Vatican--all the galleries--and through the pictured and
+> frescoed churches of Venice, Naples, and the cathedrals of Spain;
+> some of us said that certain of the great works of the old masters
+> were glorious creations of genius, (we found it out in the
+> guide-book, though we got hold of the wrong picture sometimes,) and
+> the others said they were disgraceful old daubs.  We examined modern
+> and ancient statuary with a critical eye in Florence, Rome, or any
+> where we found it, and praised it if we saw fit, and if we didn't we
+> said we preferred the wooden Indians in front of the cigar stores of
+> America.  But the Holy Land brought out all our enthusiasm.  We fell
+> into raptures by the barren shores of Galilee; we pondered at Tabor
+> and at Nazareth; we exploded into poetry over the questionable
+> loveliness of Esdraelon; we meditated at Jezreel and Samaria over
+> the missionary zeal of Jehu; we rioted--fairly rioted among the holy
+> places of Jerusalem; we bathed in Jordan and the Dead Sea, reckless
+> whether our accident-insurance policies were extra-hazardous or not,
+> and brought away so many jugs of precious water from both places
+> that all the country from Jericho to the mountains of Moab will
+> suffer from drouth this year, I think.  Yet, the pilgrimage part of
+> the excursion was its pet feature--there is no question about that.
+> After dismal, smileless Palestine, beautiful Egypt had few charms
+> for us.  We merely glanced at it and were ready for home.
 
-	They wouldn't let us land at Malta--quarantine; they would not let
-	us land in Sardinia; nor at Algiers, Africa; nor at Malaga, Spain,
-	nor Cadiz, nor at the Madeira islands.  So we got offended at all
-	foreigners and turned our backs upon them and came home.  I suppose
-	we only stopped at the Bermudas because they were in the programme.
-	We did not care any thing about any place at all.  We wanted to go
-	home.  Homesickness was abroad in the ship--it was epidemic.  If the
-	authorities of New York had known how badly we had it, they would
-	have quarantined us here.
+> They wouldn't let us land at Malta--quarantine; they would not let
+> us land in Sardinia; nor at Algiers, Africa; nor at Malaga, Spain,
+> nor Cadiz, nor at the Madeira islands.  So we got offended at all
+> foreigners and turned our backs upon them and came home.  I suppose
+> we only stopped at the Bermudas because they were in the programme.
+> We did not care any thing about any place at all.  We wanted to go
+> home.  Homesickness was abroad in the ship--it was epidemic.  If the
+> authorities of New York had known how badly we had it, they would
+> have quarantined us here.
 
-	The grand pilgrimage is over.  Good-bye to it, and a pleasant memory
-	to it, I am able to say in all kindness.  I bear no malice, no
-	ill-will toward any individual that was connected with it, either as
-	passenger or officer.  Things I did not like at all yesterday I like
-	very well to-day, now that I am at home, and always hereafter I
-	shall be able to poke fun at the whole gang if the spirit so moves
-	me to do, without ever saying a malicious word.  The expedition
-	accomplished all that its programme promised that it should
-	accomplish, and we ought all to be satisfied with the management of
-	the matter, certainly.  Bye-bye!
+> The grand pilgrimage is over.  Good-bye to it, and a pleasant memory
+> to it, I am able to say in all kindness.  I bear no malice, no
+> ill-will toward any individual that was connected with it, either as
+> passenger or officer.  Things I did not like at all yesterday I like
+> very well to-day, now that I am at home, and always hereafter I
+> shall be able to poke fun at the whole gang if the spirit so moves
+> me to do, without ever saying a malicious word.  The expedition
+> accomplished all that its programme promised that it should
+> accomplish, and we ought all to be satisfied with the management of
+> the matter, certainly.  Bye-bye!
 
-		 MARK TWAIN.
+> MARK TWAIN.
 
 
 I call that complimentary.  It is complimentary; and yet I never have

@@ -5199,23 +5199,23 @@ Let us return to the "Examination." The first composition that was read
 was one entitled "Is this, then, Life?" Perhaps the reader can endure an
 extract from it:
 
-	"In the common walks of life, with what delightful emotions does the
-	youthful mind look forward to some anticipated scene of festivity!
-	Imagination is busy sketching rose-tinted pictures of joy. In fancy, the
-	voluptuous votary of fashion sees herself amid the festive throng, ‘the
-	observed of all observers.’ Her graceful form, arrayed in snowy robes,
-	is whirling through the mazes of the joyous dance; her eye is brightest,
-	her step is lightest in the gay assembly.
+> "In the common walks of life, with what delightful emotions does the
+> youthful mind look forward to some anticipated scene of festivity!
+> Imagination is busy sketching rose-tinted pictures of joy. In fancy, the
+> voluptuous votary of fashion sees herself amid the festive throng, ‘the
+> observed of all observers.’ Her graceful form, arrayed in snowy robes,
+> is whirling through the mazes of the joyous dance; her eye is brightest,
+> her step is lightest in the gay assembly.
 
-	"In such delicious fancies time quickly glides by, and the welcome hour
-	arrives for her entrance into the Elysian world, of which she has
-	had such bright dreams. How fairy-like does everything appear to her
-	enchanted vision! Each new scene is more charming than the last. But
-	after a while she finds that beneath this goodly exterior, all is
-	vanity, the flattery which once charmed her soul, now grates harshly
-	upon her ear; the ballroom has lost its charms; and with wasted health
-	and imbittered heart, she turns away with the conviction that earthly
-	pleasures cannot satisfy the longings of the soul!"
+> "In such delicious fancies time quickly glides by, and the welcome hour
+> arrives for her entrance into the Elysian world, of which she has
+> had such bright dreams. How fairy-like does everything appear to her
+> enchanted vision! Each new scene is more charming than the last. But
+> after a while she finds that beneath this goodly exterior, all is
+> vanity, the flattery which once charmed her soul, now grates harshly
+> upon her ear; the ballroom has lost its charms; and with wasted health
+> and imbittered heart, she turns away with the conviction that earthly
+> pleasures cannot satisfy the longings of the soul!"
 
 And so forth and so on. There was a buzz of gratification from time to
 time during the reading, accompanied by whispered ejaculations of "How
@@ -5226,49 +5226,49 @@ Then arose a slim, melancholy girl, whose face had the "interesting"
 paleness that comes of pills and indigestion, and read a "poem." Two
 stanzas of it will do:
 
-	"A MISSOURI MAIDEN’S FAREWELL TO ALABAMA
+> "A MISSOURI MAIDEN’S FAREWELL TO ALABAMA
 
-	"Alabama, goodbye! I love thee well! But yet for a while do I leave thee
-	now! Sad, yes, sad thoughts of thee my heart doth swell, And burning
-	recollections throng my brow! For I have wandered through thy flowery
-	woods; Have roamed and read near Tallapoosa’s stream; Have listened to
-	Tallassee’s warring floods, And wooed on Coosa’s side Aurora’s beam.
+> "Alabama, goodbye! I love thee well! But yet for a while do I leave thee
+> now! Sad, yes, sad thoughts of thee my heart doth swell, And burning
+> recollections throng my brow! For I have wandered through thy flowery
+> woods; Have roamed and read near Tallapoosa’s stream; Have listened to
+> Tallassee’s warring floods, And wooed on Coosa’s side Aurora’s beam.
 
-	"Yet shame I not to bear an o’erfull heart, Nor blush to turn behind
-	my tearful eyes; ’Tis from no stranger land I now must part, ’Tis to no
-	strangers left I yield these sighs. Welcome and home were mine within
-	this State, Whose vales I leave--whose spires fade fast from me And cold
-	must be mine eyes, and heart, and tete, When, dear Alabama! they turn
-	cold on thee!" There were very few there who knew what "tete" meant, but
-	the poem was very satisfactory, nevertheless.
+> "Yet shame I not to bear an o’erfull heart, Nor blush to turn behind
+> my tearful eyes; ’Tis from no stranger land I now must part, ’Tis to no
+> strangers left I yield these sighs. Welcome and home were mine within
+> this State, Whose vales I leave--whose spires fade fast from me And cold
+> must be mine eyes, and heart, and tete, When, dear Alabama! they turn
+> cold on thee!" There were very few there who knew what "tete" meant, but
+> the poem was very satisfactory, nevertheless.
 
 Next appeared a dark-complexioned, black-eyed, black-haired young lady,
 who paused an impressive moment, assumed a tragic expression, and began
 to read in a measured, solemn tone:
 
-	"A VISION
+> "A VISION
 
-	"Dark and tempestuous was night. Around the throne on high not a single
-	star quivered; but the deep intonations of the heavy thunder constantly
-	vibrated upon the ear; whilst the terrific lightning revelled in angry
-	mood through the cloudy chambers of heaven, seeming to scorn the power
-	exerted over its terror by the illustrious Franklin! Even the boisterous
-	winds unanimously came forth from their mystic homes, and blustered
-	about as if to enhance by their aid the wildness of the scene.
+> "Dark and tempestuous was night. Around the throne on high not a single
+> star quivered; but the deep intonations of the heavy thunder constantly
+> vibrated upon the ear; whilst the terrific lightning revelled in angry
+> mood through the cloudy chambers of heaven, seeming to scorn the power
+> exerted over its terror by the illustrious Franklin! Even the boisterous
+> winds unanimously came forth from their mystic homes, and blustered
+> about as if to enhance by their aid the wildness of the scene.
 
-	"At such a time, so dark, so dreary, for human sympathy my very spirit
-	sighed; but instead thereof,
+> "At such a time, so dark, so dreary, for human sympathy my very spirit
+> sighed; but instead thereof,
 
-	"‘My dearest friend, my counsellor, my comforter and guide--My joy in
-	grief, my second bliss in joy,’ came to my side. She moved like one of
-	those bright beings pictured in the sunny walks of fancy’s Eden by
-	the romantic and young, a queen of beauty unadorned save by her own
-	transcendent loveliness. So soft was her step, it failed to make even a
-	sound, and but for the magical thrill imparted by her genial touch,
-	as other unobtrusive beauties, she would have glided away
-	unperceived--unsought. A strange sadness rested upon her features, like
-	icy tears upon the robe of December, as she pointed to the contending
-	elements without, and bade me contemplate the two beings presented."
+> "‘My dearest friend, my counsellor, my comforter and guide--My joy in
+> grief, my second bliss in joy,’ came to my side. She moved like one of
+> those bright beings pictured in the sunny walks of fancy’s Eden by
+> the romantic and young, a queen of beauty unadorned save by her own
+> transcendent loveliness. So soft was her step, it failed to make even a
+> sound, and but for the magical thrill imparted by her genial touch,
+> as other unobtrusive beauties, she would have glided away
+> unperceived--unsought. A strange sadness rested upon her features, like
+> icy tears upon the robe of December, as she pointed to the contending
+> elements without, and bade me contemplate the two beings presented."
 
 This nightmare occupied some ten pages of manuscript and wound up with a
 sermon so destructive of all hope to non-Presbyterians that it took
@@ -5306,10 +5306,10 @@ bald pate--for the signpainter’s boy had _gilded_ it!
 
 That broke up the meeting. The boys were avenged. Vacation had come.
 
-	NOTE:--The pretended "compositions" quoted in this chapter are taken
-	without alteration from a volume entitled "Prose and Poetry, by a
-	Western Lady"--but they are exactly and precisely after the schoolgirl
-	pattern, and hence are much happier than any mere imitations could be.
+> NOTE:--The pretended "compositions" quoted in this chapter are taken
+> without alteration from a volume entitled "Prose and Poetry, by a
+> Western Lady"--but they are exactly and precisely after the schoolgirl
+> pattern, and hence are much happier than any mere imitations could be.
 
 
 CHAPTER XXII

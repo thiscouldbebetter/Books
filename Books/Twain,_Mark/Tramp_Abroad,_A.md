@@ -2785,8 +2785,8 @@ wretched village while he munches a petrified sandwich and waits for the
 train.
 
 
-A TRAMP ABROAD, Part 3.
-=======================
+Part 3
+======
 
 CONTENTS:
 ---------
@@ -4850,8 +4850,8 @@ and made plenty of money out of it. The den could be moved into some
 portions of France and made a good property even now.
 
 
-A TRAMP ABROAD, Part 4.
-=======================
+Part 4
+======
 
 CONTENTS:
 ---------
@@ -7406,8 +7406,8 @@ you get. He promised to make us hear his horn in the morning, if we were
 alive.
 
 
-A TRAMP ABROAD, Part 5.
-=======================
+Part 5
+======
 
 CONTENTS:
 ---------
@@ -9598,8 +9598,8 @@ had noticed that a clergyman at dinner without any breeches was almost
 sure to excite remark.
 
 
-A TRAMP ABROAD, Part 6.
-=======================
+Part 6
+======
 
 CONTENTS:
 ---------
@@ -11880,8 +11880,8 @@ his majesty had been a slower artist--or rather, if he hadn't most
 providentially got drunk before he left Argentière.
 
 
-A TRAMP ABROAD, Part 7.
-=======================
+Part 7
+======
 
 CHAPTER XLIII--Chamonix--Contrasts--Magnificent Spectacle--The Guild
 of Guides--The Guide--in--Chief--The Returned Tourist--Getting

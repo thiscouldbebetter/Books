@@ -141,7 +141,7 @@ I make this explanation for the reason that without it many readers
 would suppose that all these characters were trying to talk alike and
 not succeeding.
 
-	THE AUTHOR.
+> THE AUTHOR.
 
 
 HUCKLEBERRY FINN
@@ -4085,37 +4085,37 @@ Presbyterian Observer, and write poetry after them out of her own head.
 It was very good poetry. This is what she wrote about a boy by the name
 of Stephen Dowling Bots that fell down a well and was drownded:
 
-	ODE TO STEPHEN DOWLING BOTS, DEC'D
+> ODE TO STEPHEN DOWLING BOTS, DEC'D
 
-	And did young Stephen sicken, 
-	And did young Stephen die? 
-	And did the sad hearts thicken, 
-	And did the mourners cry? 
+> And did young Stephen sicken, 
+> And did young Stephen die? 
+> And did the sad hearts thicken, 
+> And did the mourners cry? 
 
-	No; such was not the fate of 
-	Young Stephen Dowling Bots; 
-	Though sad hearts round him thickened, 
-	'Twas not from sickness' shots. 
+> No; such was not the fate of 
+> Young Stephen Dowling Bots; 
+> Though sad hearts round him thickened, 
+> 'Twas not from sickness' shots. 
 
-	No whooping-cough did rack his frame, 
-	Nor measles drear with spots; 
-	Not these impaired the sacred name 
-	Of Stephen Dowling Bots. 
+> No whooping-cough did rack his frame, 
+> Nor measles drear with spots; 
+> Not these impaired the sacred name 
+> Of Stephen Dowling Bots. 
 
-	Despised love struck not with woe 
-	That head of curly knots, 
-	Nor stomach troubles laid him low, 
-	Young Stephen Dowling Bots. 
+> Despised love struck not with woe 
+> That head of curly knots, 
+> Nor stomach troubles laid him low, 
+> Young Stephen Dowling Bots. 
 
-	O no. Then list with tearful eye, 
-	Whilst I his fate do tell. 
-	His soul did from this cold world fly 
-	By falling down a well. 
+> O no. Then list with tearful eye, 
+> Whilst I his fate do tell. 
+> His soul did from this cold world fly 
+> By falling down a well. 
 
-	They got him out and emptied him; 
-	Alas it was too late; 
-	His spirit was gone for to sport aloft 
-	In the realms of the good and great. 
+> They got him out and emptied him; 
+> Alas it was too late; 
+> His spirit was gone for to sport aloft 
+> In the realms of the good and great. 
 
 If Emmeline Grangerford could make poetry like that before she was
 fourteen, there ain't no telling what she could a done by and by. Buck
@@ -5391,54 +5391,54 @@ before night, so our show would have a pretty good chance. The duke he
 hired the court house, and we went around and stuck up our bills. They
 read like this:
 
-	Shaksperean Revival!!!
+> Shaksperean Revival!!!
 
-	Wonderful Attraction!
+> Wonderful Attraction!
 
-	For One Night Only! The world renowned tragedians,
+> For One Night Only! The world renowned tragedians,
 
-	David Garrick the younger, of Drury Lane Theatre, London,
+> David Garrick the younger, of Drury Lane Theatre, London,
 
-	and
+> and
 
-	Edmund Kean the elder, of the Royal Haymarket Theatre, Whitechapel,
-	Pudding Lane, Piccadilly, London, and the Royal Continental Theatres, in
-	their sublime Shaksperean Spectacle entitled The Balcony Scene in
+> Edmund Kean the elder, of the Royal Haymarket Theatre, Whitechapel,
+> Pudding Lane, Piccadilly, London, and the Royal Continental Theatres, in
+> their sublime Shaksperean Spectacle entitled The Balcony Scene in
 
-	Romeo and Juliet!!!
+> Romeo and Juliet!!!
 
-	Romeo...................................... Mr. Garrick.
+> Romeo...................................... Mr. Garrick.
 
-	Juliet..................................... Mr. Kean.
+> Juliet..................................... Mr. Kean.
 
-	Assisted by the whole strength of the company!
+> Assisted by the whole strength of the company!
 
-	New costumes, new scenery, new appointments!
+> New costumes, new scenery, new appointments!
 
-	Also:
+> Also:
 
-	The thrilling, masterly, and blood-curdling Broad-sword conflict In
-	Richard III.!!!
+> The thrilling, masterly, and blood-curdling Broad-sword conflict In
+> Richard III.!!!
 
-	Richard III................................ Mr. Garrick.
+> Richard III................................ Mr. Garrick.
 
-	Richmond................................... Mr. Kean.
+> Richmond................................... Mr. Kean.
 
-	also:
+> also:
 
-	(by special request,)
+> (by special request,)
 
-	Hamlet's Immortal Soliloquy!!
+> Hamlet's Immortal Soliloquy!!
 
-	By the Illustrious Kean!
+> By the Illustrious Kean!
 
-	Done by him 300 consecutive nights in Paris!
+> Done by him 300 consecutive nights in Paris!
 
-	For One Night Only,
+> For One Night Only,
 
-	On account of imperative European engagements!
+> On account of imperative European engagements!
 
-	Admission 25 cents; children and servants, 10 cents.
+> Admission 25 cents; children and servants, 10 cents.
 
 Then we went loafing around the town. The stores and houses was most all
 old shackly dried-up frame concerns that hadn't ever been painted; they
@@ -5852,23 +5852,23 @@ reckoned. He said he could size their style. So next morning he got
 some big sheets of wrapping paper and some black paint, and drawed off
 some handbills, and stuck them up all over the village. The bills said:
 
-	AT THE COURT HOUSE!
-	FOR 3 NIGHTS ONLY!
-	The World-Renowned Tragedians
-	DAVID GARRICK THE YOUNGER!
-	AND
-	EDMUND KEAN THE ELDER!
-	Of the London and Continental
-	Theatres,
-	In their Thrilling Tragedy of
-	THE KING’S CAMELOPARD
-	OR
-	THE ROYAL NONESUCH!!!
-	Admission 50 cents.
+> AT THE COURT HOUSE!
+> FOR 3 NIGHTS ONLY!
+> The World-Renowned Tragedians
+> DAVID GARRICK THE YOUNGER!
+> AND
+> EDMUND KEAN THE ELDER!
+> Of the London and Continental
+> Theatres,
+> In their Thrilling Tragedy of
+> THE KING’S CAMELOPARD
+> OR
+> THE ROYAL NONESUCH!!!
+> Admission 50 cents.
 
 Then at the bottom was the biggest line of all—which said:
 
-	LADIES AND CHILDREN NOT ADMITTED.
+> LADIES AND CHILDREN NOT ADMITTED.
 
 "There," says he, "if that line don’t fetch them, I dont know Arkansaw!"
 
@@ -8389,11 +8389,11 @@ light as a feather right straight off, and my troubles all gone. So I
 got a piece of paper and a pencil, all glad and excited, and set down
 and wrote:
 
-	Miss Watson, your runaway n----r Jim is down here two mile below
-	Pikesville, and Mr. Phelps has got him and he will give him up for the
-	reward if you send.
+> Miss Watson, your runaway n----r Jim is down here two mile below
+> Pikesville, and Mr. Phelps has got him and he will give him up for the
+> reward if you send.
 
-	_Huck Finn._
+> _Huck Finn._
 
 I felt good and all washed clean of sin for the first time I had ever
 felt so in my life, and I knowed I could pray now. But I didn't do it
@@ -10643,22 +10643,22 @@ lightning-rod to spy around; and the n----r at the back door was asleep,
 and he stuck it in the back of his neck and come back. This letter
 said:
 
-	Don't betray me, I wish to be your friend. There is a desprate gang of
-	cutthroats from over in the Indian Territory going to steal your runaway
-	n----r to-night, and they have been trying to scare you so as you will
-	stay in the house and not bother them. I am one of the gang, but have
-	got religgion and wish to quit it and lead an honest life again, and
-	will betray the helish design. They will sneak down from northards,
-	along the fence, at midnight exact, with a false key, and go in the
-	n----r's cabin to get him. I am to be off a piece and blow a tin horn
-	if I see any danger; but stead of that I will _baa_ like a sheep soon as
-	they get in and not blow at all; then whilst they are getting his
-	chains loose, you slip there and lock them in, and can kill them at your
-	leasure. Don't do anything but just the way I am telling you, if you do
-	they will suspicion something and raise whoop-jamboreehoo. I do not wish
-	any reward but to know I have done the right thing.
+> Don't betray me, I wish to be your friend. There is a desprate gang of
+> cutthroats from over in the Indian Territory going to steal your runaway
+> n----r to-night, and they have been trying to scare you so as you will
+> stay in the house and not bother them. I am one of the gang, but have
+> got religgion and wish to quit it and lead an honest life again, and
+> will betray the helish design. They will sneak down from northards,
+> along the fence, at midnight exact, with a false key, and go in the
+> n----r's cabin to get him. I am to be off a piece and blow a tin horn
+> if I see any danger; but stead of that I will _baa_ like a sheep soon as
+> they get in and not blow at all; then whilst they are getting his
+> chains loose, you slip there and lock them in, and can kill them at your
+> leasure. Don't do anything but just the way I am telling you, if you do
+> they will suspicion something and raise whoop-jamboreehoo. I do not wish
+> any reward but to know I have done the right thing.
 
-	_Unknown Friend._
+> _Unknown Friend._
 
 
 CHAPTER XL.
@@ -11576,6 +11576,6 @@ and sivilize me, and I can't stand it. I been there before.
 
 THE END.
 
-	YOURS TRULY,
+> YOURS TRULY,
 
-	_HUCK FINN_.
+> _HUCK FINN_.

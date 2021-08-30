@@ -189,11 +189,11 @@ MARK TWAIN'S SPEECHES
 THE STORY OF A SPEECH
 ---------------------
 
-	An address delivered in 1877, and a review of it twenty-nine
-	years later.  The original speech was delivered at a dinner
-	given by the publishers of The Atlantic Monthly in honor of the
-	seventieth anniversary o f the birth of John Greenleaf
-	Whittier, at the Hotel Brunswick, Boston, December 17, 1877.
+> An address delivered in 1877, and a review of it twenty-nine
+> years later.  The original speech was delivered at a dinner
+> given by the publishers of The Atlantic Monthly in honor of the
+> seventieth anniversary o f the birth of John Greenleaf
+> Whittier, at the Hotel Brunswick, Boston, December 17, 1877.
 
 This is an occasion peculiarly meet for the digging up of pleasant
 reminiscences concerning literary folk; therefore I will drop lightly
@@ -234,10 +234,10 @@ with the end joint tilted up. They had been drinking, I could see that.
 And what queer talk they used! Mr. Holmes inspected this cabin, then he
 took me by the buttonhole, and says he:
 
-	"'Through the deep caves of thought 
-	I hear a voice that sings, 
-	Build thee more stately mansions, 
-	O my soul!' 
+> "'Through the deep caves of thought 
+> I hear a voice that sings, 
+> Build thee more stately mansions, 
+> O my soul!' 
 
 "Says I, 'I can't afford it, Mr. Holmes, and moreover I don't want to.'
 Blamed if I liked it pretty well, either, coming from a stranger, that
@@ -245,18 +245,18 @@ way. However, I started to get out my bacon and beans, when Mr. Emerson
 came and looked on awhile, and then he takes me aside by the buttonhole
 and says:
 
-	"'Give me agates for my meat; 
-	Give me cantharids to eat; 
-	From air and ocean bring me foods, 
-	From all zones and altitudes.' 
+> "'Give me agates for my meat; 
+> Give me cantharids to eat; 
+> From air and ocean bring me foods, 
+> From all zones and altitudes.' 
 
 "Says I, 'Mr. Emerson, if you'll excuse me, this ain't no hotel.' You
 see it sort of riled me--I warn't used to the ways of littery swells.
 But I went on a-sweating over my work, and next comes Mr. Longfellow and
 buttonholes me, and interrupts me. Says he:
 
-	"'Honor be to Mudjekeewis! 
-	You shall hear how Pau-Puk-Keewis--' 
+> "'Honor be to Mudjekeewis! 
+> You shall hear how Pau-Puk-Keewis--' 
 
 "But I broke in, and says I, 'Beg your pardon, Mr. Longfellow, if you'll
 be so kind as to hold your yawp for about five minutes and let me get
@@ -264,8 +264,8 @@ this grub ready, you'll do me proud.' Well, sir, after they'd filled up
 I set out the jug. Mr. Holmes looks at it, and then he fires up all of a
 sudden and yells:
 
-	"Flash out a stream of blood-red wine!
-	For I would drink to other days.'
+> "Flash out a stream of blood-red wine!
+> For I would drink to other days.'
 
 "By George, I was getting kind of worked up. I don't deny it, I was
 getting kind of worked up. I turns to Mr. Holmes, and says I, 'Looky
@@ -282,14 +282,14 @@ got out a greasy old deck and went to playing euchre at ten cents a
 corner--on trust. I began to notice some pretty suspicious things. Mr.
 Emerson dealt, looked at his hand, shook his head, says:
 
-	"'I am the doubter and the doubt--'
+> "'I am the doubter and the doubt--'
 
 and ca'mly bunched the hands and went to shuffling for a new layout.
 Says he:
 
-	"'They reckon ill who leave me out;
-	They know not well the subtle ways I keep.
-	I pass and deal again!'
+> "'They reckon ill who leave me out;
+> They know not well the subtle ways I keep.
+> I pass and deal again!'
 
 Hang'd if he didn't go ahead and do it, too! Oh, he was a cool one!
 Well, in about a minute things were running pretty tight, but all of a
@@ -297,14 +297,14 @@ sudden I see by Mr. Emerson's eye he judged he had 'em. He had already
 corralled two tricks, and each of the others one. So now he kind of
 lifts a little in his chair and says:
 
-	"'I tire of globes and aces!
-	Too long the game is played!'
+> "'I tire of globes and aces!
+> Too long the game is played!'
 
 --and down he fetched a right bower. Mr. Longfellow smiles as sweet as
 pie and says:
 
-	"'Thanks, thanks to thee, my worthy friend,
-	For the lesson thou hast taught,'
+> "'Thanks, thanks to thee, my worthy friend,
+> For the lesson thou hast taught,'
 
 --and blamed if he didn't down with another right bower! Emerson claps
 his hand on his bowie, Longfellow claps his on his revolver, and I went
@@ -320,8 +320,8 @@ Says Longfellow, 'It don't begin with my "Biglow Papers."' Says Holmes,
 fight. Then they wished they had some more company--and Mr. Emerson
 pointed to me and says:
 
-	"'Is yonder squalid peasant all
-	That this proud nursery could breed?'
+> "'Is yonder squalid peasant all
+> That this proud nursery could breed?'
 
 He was a-whetting his bowie on his boot--so I let it pass. Well, sir,
 next they took it into their heads that they would like some music; so
@@ -332,10 +332,10 @@ goodness, and Mr. Longfellow had my only boots on, and his'n under his
 arm. Says I, 'Hold on, there, Evangeline, what are you going to do with
 them?' He says, 'Going to make tracks with 'em; because:
 
-	"'Lives of great men all remind us
-	We can make our lives sublime;
-	And, departing, leave behind us
-	Footprints on the sands of time.'
+> "'Lives of great men all remind us
+> We can make our lives sublime;
+> And, departing, leave behind us
+> Footprints on the sands of time.'
 
 "As I said, Mr. Twain, you are the fourth in twenty-four hours--and I'm
 going to move; I ain't suited to a littery atmosphere."
@@ -364,22 +364,22 @@ Answer to a letter received this morning:
 
 
 
-	DEAR MRS. H.,--I am forever your debtor for reminding me of that
-	curious passage in my life.  During the first year or, two after it
-	happened, I could not bear to think of it.  My pain and shame were
-	so intense, and my sense of having been an imbecile so settled,
-	established and confirmed, that I drove the episode entirely from my
-	mind--and so all these twenty-eight or twenty-nine years I have
-	lived in the conviction that my performance of that time was coarse,
-	vulgar, and destitute of humor.  But your suggestion that you and
-	your family found humor in it twenty-eight years ago moved me to
-	look into the matter.  So I commissioned a Boston typewriter to
-	delve among the Boston papers of that bygone time and send me a copy
-	of it.
+> DEAR MRS. H.,--I am forever your debtor for reminding me of that
+> curious passage in my life.  During the first year or, two after it
+> happened, I could not bear to think of it.  My pain and shame were
+> so intense, and my sense of having been an imbecile so settled,
+> established and confirmed, that I drove the episode entirely from my
+> mind--and so all these twenty-eight or twenty-nine years I have
+> lived in the conviction that my performance of that time was coarse,
+> vulgar, and destitute of humor.  But your suggestion that you and
+> your family found humor in it twenty-eight years ago moved me to
+> look into the matter.  So I commissioned a Boston typewriter to
+> delve among the Boston papers of that bygone time and send me a copy
+> of it.
 
-	It came this morning, and if there is any vulgarity about it I am
-	not able to discover it.  If it isn't innocently and ridiculously
-	funny, I am no judge.  I will see to it that you get a copy.
+> It came this morning, and if there is any vulgarity about it I am
+> not able to discover it.  If it isn't innocently and ridiculously
+> funny, I am no judge.  I will see to it that you get a copy.
 
 What I have said to Mrs. H. is true. I did suffer during a year or two
 from the deep humiliations of that episode. But at last, in 1888, in
@@ -553,26 +553,26 @@ PLYMOUTH ROCK AND THE PILGRIMS
 ------------------------------
 
 
-	ADDRESS AT THE FIRST ANNUAL DINNER, N. E.  SOCIETY,
-	PHILADELPHIA, DECEMBER 22, 1881
+> ADDRESS AT THE FIRST ANNUAL DINNER, N. E.  SOCIETY,
+> PHILADELPHIA, DECEMBER 22, 1881
 
-	On calling upon Mr. Clemens to make response,
-	President Rollins said:
+> On calling upon Mr. Clemens to make response,
+> President Rollins said:
 
-	"This sentiment has been assigned to one who was never exactly
-	born in New England, nor, perhaps, were any of his ancestors.
-	He is not technically, therefore, of New England descent.
-	Under the painful circumstances in which he has found himself,
-	however, he has done the best he could--he has had all his
-	children born there, and has made of himself a New England
-	ancestor.  He is a self-made man.  More than this, and better
-	even, in cheerful, hopeful, helpful literature he is of New
-	England ascent.  To ascend there in any thing that's reasonable
-	is difficult; for--confidentially, with the door shut--we all
-	know that they are the brightest, ablest sons of that goodly
-	land who never leave it, and it is among and above them that
-	Mr. Twain has made his brilliant and permanent ascent--become
-	a man of mark."
+> "This sentiment has been assigned to one who was never exactly
+> born in New England, nor, perhaps, were any of his ancestors.
+> He is not technically, therefore, of New England descent.
+> Under the painful circumstances in which he has found himself,
+> however, he has done the best he could--he has had all his
+> children born there, and has made of himself a New England
+> ancestor.  He is a self-made man.  More than this, and better
+> even, in cheerful, hopeful, helpful literature he is of New
+> England ascent.  To ascend there in any thing that's reasonable
+> is difficult; for--confidentially, with the door shut--we all
+> know that they are the brightest, ablest sons of that goodly
+> land who never leave it, and it is among and above them that
+> Mr. Twain has made his brilliant and permanent ascent--become
+> a man of mark."
 
 I rise to protest. I have kept still for years; but really I think there
 is no sufficient justification for this sort of thing. What do you want
@@ -731,12 +731,12 @@ way to improve on them--except having them born in Missouri!"
 COMPLIMENTS AND DEGREES
 -----------------------
 
-	DELIVERED AT THE LOTOS CLUB, JANUARY 11, 1908
+> DELIVERED AT THE LOTOS CLUB, JANUARY 11, 1908
 
-	In introducing Mr. Clemens, Frank R.  Lawrence, the President
-	of the Lotos Club, recalled the fact that the first club dinner
-	in the present club-house, some fourteen years ago, was in
-	honor of Mark Twain.
+> In introducing Mr. Clemens, Frank R.  Lawrence, the President
+> of the Lotos Club, recalled the fact that the first club dinner
+> in the present club-house, some fourteen years ago, was in
+> honor of Mark Twain.
 
 I wish to begin this time at the beginning, lest I forget it altogether;
 that is to say, I wish to thank you for this welcome that you are
@@ -851,12 +851,12 @@ with you." She replied, "You know I've got to go; they never let me come
 in here before, and they never will again." That is one of the beautiful
 incidents that I cherish.
 
-	[At the conclusion of his speech, and while the diners were still
-	cheering him, Colonel Porter brought forward the red-and-gray gown
-	of the Oxford "doctor," and Mr. Clemens was made to don it.
-	The diners rose to their feet in their enthusiasm. With the
-	mortar-board on his head, and looking down admiringly at himself,
-	Mr. Twain said--]
+> [At the conclusion of his speech, and while the diners were still
+> cheering him, Colonel Porter brought forward the red-and-gray gown
+> of the Oxford "doctor," and Mr. Clemens was made to don it.
+> The diners rose to their feet in their enthusiasm. With the
+> mortar-board on his head, and looking down admiringly at himself,
+> Mr. Twain said--]
 
 I like that gown. I always did like red. The redder it is the better I
 like it. I was born for a savage. Now, whoever saw any red like this?
@@ -870,52 +870,52 @@ BOOKS, AUTHORS, AND HATS
 ------------------------
 
 
-	ADDRESS AT THE PILGRIMS' CLUB LUNCHEON, GIVEN IN HONOR OF Mr.
-	CLEMENS AT THE SAVOY HOTEL, LONDON, JUNE 25, 1907.
+> ADDRESS AT THE PILGRIMS' CLUB LUNCHEON, GIVEN IN HONOR OF Mr.
+> CLEMENS AT THE SAVOY HOTEL, LONDON, JUNE 25, 1907.
 
-	Mr. Birrell, M.P., Chief-Secretary for Ireland, in introducing
-	Mr. Clemens said: "We all love Mark Twain, and we are here to
-	tell him so.  One more point--all the world knows it, and that
-	is why it is dangerous to omit it--our guest is a distinguished
-	citizen of the Great Republic beyond the seas.  In America his
-	'Huckleberry Finn' and his 'Tom Sawyer' are what 'Robinson
-	Crusoe' and 'Tom Brown's School Days' have been to us.  They
-	are racy of the soil.  They are books to which it is impossible
-	to place any period of termination.  I will not speak of the
-	classics--reminiscences of much evil in our early lives.  We do
-	not meet here to-day as critics with our appreciations and
-	depreciations, our twopenny little prefaces or our forewords.
-	I am not going to say what the world a thousand years hence
-	will think of Mark Twain.  Posterity will take care of itself,
-	will read what it wants to read, will forget what it chooses to
-	forget, and will pay no attention whatsoever to our critical
-	mumblings and jumblings.  Let us therefore be content to say to
-	our friend and guest that we are here speaking for ourselves
-	and for our children, to say what he has been to us.  I
-	remember in Liverpool, in 1867, first buying the copy, which I
-	still preserve, of the celebrated 'Jumping Frog.'  It had a few
-	words of preface which reminded me then that our guest in those
-	days was called 'the wild humorist of the Pacific slope,' and a
-	few lines later down, 'the moralist of the Main.'  That was
-	some forty years ago.  Here he is, still the humorist, still
-	the moralist.  His humor enlivens and enlightens his morality,
-	and his morality is all the better for his humor.  That is one
-	of the reasons why we love him.  I am not here to mention any
-	book of his--that is a subject of dispute in my family circle,
-	which is the best and which is the next best--but I must put in
-	a word, lest I should not be true to myself--a terrible thing
-	--for his Joan of Arc, a book of chivalry, of nobility, and of
-	manly sincerity for which I take this opportunity of thanking
-	him.  But you can all drink this toast, each one of you with
-	his own intention.  You can get into it what meaning you like.
-	Mark Twain is a man whom English and Americans do well to
-	honor.  He is the true consolidator of nations.  His delightful
-	humor is of the kind which dissipates and destroys national
-	prejudices.  His truth and his honor, his love of truth, and
-	his love of honor, overflow all boundaries.  He has made the
-	world better by his presence.  We rejoice to see him here.
-	Long may he live to reap the plentiful harvest of hearty,
-	honest human affection!"
+> Mr. Birrell, M.P., Chief-Secretary for Ireland, in introducing
+> Mr. Clemens said: "We all love Mark Twain, and we are here to
+> tell him so.  One more point--all the world knows it, and that
+> is why it is dangerous to omit it--our guest is a distinguished
+> citizen of the Great Republic beyond the seas.  In America his
+> 'Huckleberry Finn' and his 'Tom Sawyer' are what 'Robinson
+> Crusoe' and 'Tom Brown's School Days' have been to us.  They
+> are racy of the soil.  They are books to which it is impossible
+> to place any period of termination.  I will not speak of the
+> classics--reminiscences of much evil in our early lives.  We do
+> not meet here to-day as critics with our appreciations and
+> depreciations, our twopenny little prefaces or our forewords.
+> I am not going to say what the world a thousand years hence
+> will think of Mark Twain.  Posterity will take care of itself,
+> will read what it wants to read, will forget what it chooses to
+> forget, and will pay no attention whatsoever to our critical
+> mumblings and jumblings.  Let us therefore be content to say to
+> our friend and guest that we are here speaking for ourselves
+> and for our children, to say what he has been to us.  I
+> remember in Liverpool, in 1867, first buying the copy, which I
+> still preserve, of the celebrated 'Jumping Frog.'  It had a few
+> words of preface which reminded me then that our guest in those
+> days was called 'the wild humorist of the Pacific slope,' and a
+> few lines later down, 'the moralist of the Main.'  That was
+> some forty years ago.  Here he is, still the humorist, still
+> the moralist.  His humor enlivens and enlightens his morality,
+> and his morality is all the better for his humor.  That is one
+> of the reasons why we love him.  I am not here to mention any
+> book of his--that is a subject of dispute in my family circle,
+> which is the best and which is the next best--but I must put in
+> a word, lest I should not be true to myself--a terrible thing
+> --for his Joan of Arc, a book of chivalry, of nobility, and of
+> manly sincerity for which I take this opportunity of thanking
+> him.  But you can all drink this toast, each one of you with
+> his own intention.  You can get into it what meaning you like.
+> Mark Twain is a man whom English and Americans do well to
+> honor.  He is the true consolidator of nations.  His delightful
+> humor is of the kind which dissipates and destroys national
+> prejudices.  His truth and his honor, his love of truth, and
+> his love of honor, overflow all boundaries.  He has made the
+> world better by his presence.  We rejoice to see him here.
+> Long may he live to reap the plentiful harvest of hearty,
+> honest human affection!"
 
 Pilgrims, I desire first to thank those undergraduates of Oxford. When
 a man has grown so old as I am, when he has reached the verge of
@@ -1073,10 +1073,10 @@ cares and griefs. And therefore I noticed what Mr. Birrell said--I was so
 glad to hear him say it--something that was in the nature of these verses
 here at the top of this:
 
-	"He lit our life with shafts of sun
-	And vanquished pain.
-	Thus two great nations stand as one
-	In honoring Twain."
+> "He lit our life with shafts of sun
+> And vanquished pain.
+> Thus two great nations stand as one
+> In honoring Twain."
 
 I am very glad to have those verses. I am very glad and very grateful
 for what Mr. Birrell said in that connection. I have received since
@@ -1094,11 +1094,11 @@ stranger. I am not an alien, but at home.
 DEDICATION SPEECH
 -----------------
 
-	AT THE DEDICATION OF THE COLLEGE OF THE CITY OF NEW YORK,
-	MAY 14, 1908
+> AT THE DEDICATION OF THE COLLEGE OF THE CITY OF NEW YORK,
+> MAY 14, 1908
 
-	Mr. Clemens wore his gown as Doctor of Laws, Oxford University.
-	Ambassador Bryce and Mr. Choate had made the formal addresses.
+> Mr. Clemens wore his gown as Doctor of Laws, Oxford University.
+> Ambassador Bryce and Mr. Choate had made the formal addresses.
 
 How difficult, indeed, is the higher education. Mr. Choate needs a
 little of it. He is not only short as a statistician of New York, but
@@ -1126,8 +1126,8 @@ longer.
 DIE SCHRECKEN DER DEUTSCHEN SPRACHE [THE HORRORS OF THE GERMAN LANGUAGE]
 ------------------------------------------------------------------------
 
-	ADDRESS TO THE VIENNA PRESS CLUB, NOVEMBER 21, 1897,
-	DELIVERED IN GERMAN [Here in literal translation]
+> ADDRESS TO THE VIENNA PRESS CLUB, NOVEMBER 21, 1897,
+> DELIVERED IN GERMAN [Here in literal translation]
 
 It has me deeply touched, my gentlemen, here so hospitably received to
 be. From colleagues out of my own profession, in this from my own home
@@ -1213,15 +1213,15 @@ again and yet again proffer I you my heartiest thanks.
 GERMAN FOR THE HUNGARIANS
 -------------------------
 
-	ADDRESS AT THE JUBILEE CELEBRATION OF THE EMANCIPATION OF THE
-	HUNGARIAN PRESS,  MARCH 26, 1899
+> ADDRESS AT THE JUBILEE CELEBRATION OF THE EMANCIPATION OF THE
+> HUNGARIAN PRESS,  MARCH 26, 1899
 
-	The Ministry and members of Parliament were present.  The
-	subject was the "Ausgleich"--i. e., the arrangement for the
-	apportionment of the taxes between Hungary and Austria.
-	Paragraph 14 of the ausgleich fixes the proportion each country
-	must pay to the support of the army.  It is the paragraph which
-	caused the trouble and prevented its renewal.
+> The Ministry and members of Parliament were present.  The
+> subject was the "Ausgleich"--i. e., the arrangement for the
+> apportionment of the taxes between Hungary and Austria.
+> Paragraph 14 of the ausgleich fixes the proportion each country
+> must pay to the support of the army.  It is the paragraph which
+> caused the trouble and prevented its renewal.
 
 Now that we are all here together, I think it will be a good idea to
 arrange the ausgleich. If you will act for Hungary I shall be quite
@@ -1268,10 +1268,10 @@ humble self at this moment than paragraph 14.
 A NEW GERMAN WORD
 -----------------
 
-	To aid a local charity Mr. Clemens appeared before a
-	fashionable audience in Vienna, March 10, 1899, reading his
-	sketch "The Lucerne Girl," and describing how he had been
-	interviewed and ridiculed.  He said in part:
+> To aid a local charity Mr. Clemens appeared before a
+> fashionable audience in Vienna, March 10, 1899, reading his
+> sketch "The Lucerne Girl," and describing how he had been
+> interviewed and ridiculed.  He said in part:
 
 I have not sufficiently mastered German, to allow my using it with
 impunity. My collection of fourteen-syllable German words is still
@@ -1279,8 +1279,8 @@ incomplete. But I have just added to that collection a jewel--a veritable
 jewel. I found it in a telegram from Linz, and it contains ninety-five
 letters:
 
-	Personaleinkommensteuerschatzungskommissionsmitgliedsreisekostenrechnungs
-	erganzungsrevisionsfund
+> Personaleinkommensteuerschatzungskommissionsmitgliedsreisekostenrechnungs
+> erganzungsrevisionsfund
 
 If I could get a similar word engraved upon my tombstone I should sleep
 beneath it in peace.
@@ -1289,9 +1289,9 @@ beneath it in peace.
 UNCONSCIOUS PLAGIARISM
 ----------------------
 
-	DELIVERED AT THE DINNER GIVEN BY THE PUBLISHERS OF "THE
-	ATLANTIC MONTHLY" TO OLIVER WENDELL HOLMES, IN HONOR OF HIS
-	SEVENTIETH BIRTHDAY, AUGUST 29, 1879
+> DELIVERED AT THE DINNER GIVEN BY THE PUBLISHERS OF "THE
+> ATLANTIC MONTHLY" TO OLIVER WENDELL HOLMES, IN HONOR OF HIS
+> SEVENTIETH BIRTHDAY, AUGUST 29, 1879
 
 I would have travelled a much greater distance than I have come to
 witness the paying of honors to Doctor Holmes; for my feeling toward him
@@ -1353,16 +1353,16 @@ THE WEATHER
 -----------
 
 
-	ADDRESS AT THE NEW ENGLAND SOCIETY'S SEVENTY FIRST
-	ANNUAL DINNER, NEW YORK CITY
+> ADDRESS AT THE NEW ENGLAND SOCIETY'S SEVENTY FIRST
+> ANNUAL DINNER, NEW YORK CITY
 
 The next toast was: "The Oldest Inhabitant-The Weather of New England."
 
-	"Who can lose it and forget it?
-	Who can have it and regret it?
-	Be interposer 'twixt us Twain."
-	
-	--Merchant of Venice.
+> "Who can lose it and forget it?
+> Who can have it and regret it?
+> Be interposer 'twixt us Twain."
+> 
+> --Merchant of Venice.
 
 I reverently believe that the Maker who made us all makes everything in
 New England but the weather. I don't know who makes that, but I think
@@ -1460,12 +1460,12 @@ strong.
 THE BABIES
 ----------
 
-	DELIVERED AT THE BANQUET, IN CHICAGO, GIVEN BY THE ARMY OF THE
-	TENNESSEE TO THEIR FIRST COMMANDER, GENERAL U. S. GRANT,
-	NOVEMBER, 1879
+> DELIVERED AT THE BANQUET, IN CHICAGO, GIVEN BY THE ARMY OF THE
+> TENNESSEE TO THEIR FIRST COMMANDER, GENERAL U. S. GRANT,
+> NOVEMBER, 1879
 
-	The fifteenth regular toast was "The Babies.--As they comfort
-	us in our sorrows, let us not forget them in our festivities."
+> The fifteenth regular toast was "The Babies.--As they comfort
+> us in our sorrows, let us not forget them in our festivities."
 
 I like that. We have not all had the good fortune to be ladies. We have
 not all been generals, or poets, or statesmen; but when the toast works
@@ -1560,7 +1560,7 @@ there are mighty few who will doubt that he succeeded.
 OUR CHILDREN AND GREAT DISCOVERIES
 ----------------------------------
 
-	DELIVERED AT THE AUTHORS' CLUB, NEW YORK
+> DELIVERED AT THE AUTHORS' CLUB, NEW YORK
 
 Our children--yours--and--mine. They seem like little things to talk
 about--our children, but little things often make up the sum of human
@@ -1600,12 +1600,12 @@ EDUCATING THEATRE-GOERS
 -----------------------
 
 
-	The children of the Educational Alliance gave a performance of
-	"The Prince and the Pauper" on the afternoon of April 14, 1907,
-	in the theatre of the Alliance Building in East Broadway.  The
-	audience was composed of nearly one thousand children of the
-	neighborhood.  Mr. Clemens, Mr. Howells, and Mr. Daniel Frohman
-	were among the invited guests.
+> The children of the Educational Alliance gave a performance of
+> "The Prince and the Pauper" on the afternoon of April 14, 1907,
+> in the theatre of the Alliance Building in East Broadway.  The
+> audience was composed of nearly one thousand children of the
+> neighborhood.  Mr. Clemens, Mr. Howells, and Mr. Daniel Frohman
+> were among the invited guests.
 
 I have not enjoyed a play so much, so heartily, and so thoroughly since
 I played Miles Hendon twenty-two years ago. I used to play in this piece
@@ -1630,14 +1630,14 @@ the player did whom you saw to-day. The words of my part I could supply
 on the spot. The words of the song that Miles Hendon sang here I did not
 catch. But I was great in that song.
 
-	[Then Mr. Clemens hummed a bit of doggerel that the reporter
-	made out as this:
+> [Then Mr. Clemens hummed a bit of doggerel that the reporter
+> made out as this:
 
-		"There was a woman in her town,
-		She loved her husband well,
-		But another man just twice as well."
+> 	"There was a woman in her town,
+> 	She loved her husband well,
+> 	But another man just twice as well."
 
-	"How is that?" demanded Mr. Clemens.  Then resuming]
+> "How is that?" demanded Mr. Clemens.  Then resuming]
 
 It was so fresh and enjoyable to make up a new set of words each time
 that I played the part.
@@ -1666,11 +1666,11 @@ would make of you a real Republic, and bring about an educational level.
 
 THE EDUCATIONAL THEATRE
 
-	On November 19, 1907, Mr. Clemens entertained a party of six or
-	seven hundred of his friends, inviting them to witness the
-	representation of "The Prince and the Pauper," played by boys
-	and girls of the East Side at the Children's Educational
-	Theatre, New York.
+> On November 19, 1907, Mr. Clemens entertained a party of six or
+> seven hundred of his friends, inviting them to witness the
+> representation of "The Prince and the Pauper," played by boys
+> and girls of the East Side at the Children's Educational
+> Theatre, New York.
 
 Just a word or two to let you know how deeply I appreciate the honor
 which the children who are the actors and frequenters of this cozy
@@ -1699,7 +1699,7 @@ woman who conceived this splendid idea. She is the originator and the
 creator of this theatre. Educationally, this institution coins the gold
 of young hearts into external good.
 
-	[On April 23, 1908, he spoke again at the same place]
+> [On April 23, 1908, he spoke again at the same place]
 
 I will be strictly honest with you; I am only fit to be honorary
 president. It is not to be expected that I should be useful as a real
@@ -1727,9 +1727,9 @@ POETS AS POLICEMEN
 ------------------
 
 
-	Mr. Clemens was one of the speakers at the Lotos Club dinner to
-	Governor Odell, March 24, 1900.  The police problem was
-	referred to at length.
+> Mr. Clemens was one of the speakers at the Lotos Club dinner to
+> Governor Odell, March 24, 1900.  The police problem was
+> referred to at length.
 
 Let us abolish policemen who carry clubs and revolvers, and put in a
 squad of poets armed to the teeth with poems on Spring and Love. I
@@ -1753,10 +1753,10 @@ element.
 PUDD'NHEAD WILSON DRAMATIZED
 ----------------------------
 
-	When Mr. Clemens arrived from Europe in 1895 one of the first
-	things he did was to see the dramatization of Pudd'nhead
-	Wilson.  The audience becoming aware of the fact that Mr.
-	Clemens was in the house called upon him for a speech.
+> When Mr. Clemens arrived from Europe in 1895 one of the first
+> things he did was to see the dramatization of Pudd'nhead
+> Wilson.  The audience becoming aware of the fact that Mr.
+> Clemens was in the house called upon him for a speech.
 
 Never in my life have I been able to make a speech without preparation,
 and I assure you that this position in which I find myself is one
@@ -1775,11 +1775,11 @@ encountered a manager who has agreed with me.
 DALY THEATRE
 ------------
 
-	ADDRESS AT A DINNER AFTER THE ONE HUNDREDTH PERFORMANCE OF
-	"THE TAMING OF THE SHREW."
+> ADDRESS AT A DINNER AFTER THE ONE HUNDREDTH PERFORMANCE OF
+> "THE TAMING OF THE SHREW."
 
-	Mr. Clemens made the following speech, which he incorporated
-	afterward in Following the Equator.
+> Mr. Clemens made the following speech, which he incorporated
+> afterward in Following the Equator.
 
 I am glad to be here. This is the hardest theatre in New York to get
 into, even at the front door. I never got in without hard work. I am
@@ -1888,37 +1888,37 @@ DRESS REFORM AND COPYRIGHT
 --------------------------
 
 
-	When the present copyright law was under discussion, Mr.
-	Clemens appeared before the committee.  He had sent Speaker
-	Cannon the following letter:
+> When the present copyright law was under discussion, Mr.
+> Clemens appeared before the committee.  He had sent Speaker
+> Cannon the following letter:
 
-	"DEAR UNCLE JOSEPH,--Please get me the thanks of Congress, not
-	next week but right away.  It is very necessary.  Do accomplish
-	this for your affectionate old friend right away--by
-	persuasion if you can, by violence if you must, for it is
-	imperatively necessary that I get on the floor of the House for
-	two or three hours and talk to the members, man by man, in
-	behalf of support, encouragement, and protection of one of the
-	nation's most valuable assets and industries--its literature.
-	I have arguments with me--also a barrel with liquid in it.
+> "DEAR UNCLE JOSEPH,--Please get me the thanks of Congress, not
+> next week but right away.  It is very necessary.  Do accomplish
+> this for your affectionate old friend right away--by
+> persuasion if you can, by violence if you must, for it is
+> imperatively necessary that I get on the floor of the House for
+> two or three hours and talk to the members, man by man, in
+> behalf of support, encouragement, and protection of one of the
+> nation's most valuable assets and industries--its literature.
+> I have arguments with me--also a barrel with liquid in it.
 
-	"Give me a chance.  Get me the thanks of Congress.  Don't wait
-	for others--there isn't time; furnish them to me yourself and
-	let Congress ratify later.  I have stayed away and let Congress
-	alone for seventy-one years and am entitled to the thanks.
-	Congress knows this perfectly well, and I have long felt hurt
-	that this quite proper and earned expression of gratitude has
-	been merely felt by the House and never publicly uttered.
+> "Give me a chance.  Get me the thanks of Congress.  Don't wait
+> for others--there isn't time; furnish them to me yourself and
+> let Congress ratify later.  I have stayed away and let Congress
+> alone for seventy-one years and am entitled to the thanks.
+> Congress knows this perfectly well, and I have long felt hurt
+> that this quite proper and earned expression of gratitude has
+> been merely felt by the House and never publicly uttered.
 
-	"Send me an order on the sergeant-at-arms quick.  When shall I
-	come?
+> "Send me an order on the sergeant-at-arms quick.  When shall I
+> come?
 
-	"With love and a benediction,
-	"MARK TWAIN."
+> "With love and a benediction,
+> "MARK TWAIN."
 
 
-	While waiting to appear before the committee, Mr. Clemens
-	talked to the reporters:
+> While waiting to appear before the committee, Mr. Clemens
+> talked to the reporters:
 
 Why don't you ask why I am wearing such apparently unseasonable clothes?
 I'll tell you. I have found that when a man reaches the advanced age of
@@ -2012,11 +2012,11 @@ and offer him a few suggestions.
 COLLEGE GIRLS
 -------------
 
-	Five hundred undergraduates, under the auspices of the Woman's
-	University Club, New York, welcomed Mr. Clemens as their guest,
-	April 3, 1906, and gave him the freedom of the club, which the
-	chairman explained was freedom to talk individually to any girl
-	present.
+> Five hundred undergraduates, under the auspices of the Woman's
+> University Club, New York, welcomed Mr. Clemens as their guest,
+> April 3, 1906, and gave him the freedom of the club, which the
+> chairman explained was freedom to talk individually to any girl
+> present.
 
 I've worked for the public good thirty years, so for the rest of my life
 I shall work for my personal contentment. I am glad Miss Neron has fed
@@ -2071,10 +2071,10 @@ is they al-ways now their lessons bettern boys."
 THE LADIES
 -----------
 
-	DELIVERED AT THE ANNIVERSARY FESTIVAL, 1872, OF THE SCOTTISH
-	CORPORATION OF LONDON
+> DELIVERED AT THE ANNIVERSARY FESTIVAL, 1872, OF THE SCOTTISH
+> CORPORATION OF LONDON
 
-	Mr. Clemens replied to the toast "The Ladies."
+> Mr. Clemens replied to the toast "The Ladies."
 
 I am proud, indeed, of the distinction of being chosen to respond to
 this especial toast, to "The Ladies," or to women if you please, for
@@ -2096,8 +2096,8 @@ instantly the present toast recalls the verses to all our minds when
 the most noble, the most gracious, the purest, and sweetest of all poets
 says:
 
-	"Woman!  O woman!---er
-	Wom----"
+> "Woman!  O woman!---er
+> Wom----"
 
 However, you remember the lines; and you remember how feelingly, how
 daintily, how almost imperceptibly the verses raise up before you,
@@ -2111,8 +2111,8 @@ to all, sooner or later, that abide in the earth, and how the pathetic
 story culminates in that apostrophe--so wild, so regretful, so full of
 mournful retrospection. The lines run thus:
 
-	"Alas!--alas!--a--alas!
-	----Alas!--------alas!"
+> "Alas!--alas!--a--alas!
+> ----Alas!--------alas!"
 
 --and so on. I do not remember the rest; but, taken together, it seems to
 me that poem is the noblest tribute to woman that human genius has ever
@@ -2136,8 +2136,8 @@ have been poets. As long as language lives the name of Cleopatra will
 live. And not because she conquered George III.--but because she wrote
 those divine lines:
 
-	"Let dogs delight to bark and bite,
-	For God hath made them so."
+> "Let dogs delight to bark and bite,
+> For God hath made them so."
 
 The story of the world is adorned with the names of illustrious ones of
 our own sex--some of them sons of St. Andrew, too--Scott, Bruce, Burns,
@@ -2167,8 +2167,8 @@ in his heart will say, Amen!
 WOMAN'S PRESS CLUB
 ------------------
 
-	On October 27, 1900, the New York Woman's Press Club gave a tea
-	in Carnegie Hall.  Mr. Clemens was the guest of honor.
+> On October 27, 1900, the New York Woman's Press Club gave a tea
+> in Carnegie Hall.  Mr. Clemens was the guest of honor.
 
 If I were asked an opinion I would call this an ungrammatical nation.
 There is no such thing as perfect grammar, and I don't always speak good
@@ -2201,16 +2201,16 @@ something.
 VOTES FOR WOMEN
 ---------------
 
-	AT THE ANNUAL MEETING OF THE HEBREW TECHNICAL SCHOOL FOR GIRLS,
-	HELD IN THE TEMPLE EMMANUEL, JANUARY 20, 1901
+> AT THE ANNUAL MEETING OF THE HEBREW TECHNICAL SCHOOL FOR GIRLS,
+> HELD IN THE TEMPLE EMMANUEL, JANUARY 20, 1901
 
-	Mr. Clemens was introduced by President Meyer, who said: "In
-	one of Mr. Clemens's works he expressed his opinion of men,
-	saying he had no choice between Hebrew and Gentile, black men
-	or white; to him all men were alike.  But I never could find
-	that he expressed his opinion of women; perhaps that opinion
-	was so exalted that he could not express it.  We shall now be
-	called to hear what he thinks of women."
+> Mr. Clemens was introduced by President Meyer, who said: "In
+> one of Mr. Clemens's works he expressed his opinion of men,
+> saying he had no choice between Hebrew and Gentile, black men
+> or white; to him all men were alike.  But I never could find
+> that he expressed his opinion of women; perhaps that opinion
+> was so exalted that he could not express it.  We shall now be
+> called to hear what he thinks of women."
 
 LADIES AND GENTLEMEN,--It is a small help that I can afford, but it is
 just such help that one can give as coming from the heart through the
@@ -2268,11 +2268,11 @@ awful state of things now existing here.
 WOMAN-AN OPINION
 ----------------
 
-	ADDRESS AT AN EARLY BANQUET OF THE WASHINGTON
-	CORRESPONDENTS' CLUB
+> ADDRESS AT AN EARLY BANQUET OF THE WASHINGTON
+> CORRESPONDENTS' CLUB
 
-	The twelfth toast was as follows: "Woman--The pride of any
-	profession, and the jewel of ours."
+> The twelfth toast was as follows: "Woman--The pride of any
+> profession, and the jewel of ours."
 
 MR. PRESIDENT,--I do not know why I should be singled out to receive the
 greatest distinction of the evening--for so the office of replying to the
@@ -2332,12 +2332,12 @@ and honored the very best one of them all--his own mother.
 ADVICE TO GIRLS
 ---------------
 
-	In 1907 a young girl whom Mr. Clemens met on the steamer
-	Minnehaha called him "grandpa," and he called her his
-	granddaughter.  She was attending St. Timothy's School, at
-	Catonsville, Maryland, and Mr. Clemens promised her to see her
-	graduate.  He accordingly made the journey from New York on
-	June 10, 1909, and delivered a short address.
+> In 1907 a young girl whom Mr. Clemens met on the steamer
+> Minnehaha called him "grandpa," and he called her his
+> granddaughter.  She was attending St. Timothy's School, at
+> Catonsville, Maryland, and Mr. Clemens promised her to see her
+> graduate.  He accordingly made the journey from New York on
+> June 10, 1909, and delivered a short address.
 
 I don't know what to tell you girls to do. Mr. Martin has told you
 everything you ought to do, and now I must give you some don'ts.
@@ -2362,13 +2362,13 @@ ever to forget it in your journey through life.
 TAXES AND MORALS
 ----------------
 
-	ADDRESS DELIVERED IN NEW YORK, JANUARY 22, 1906
+> ADDRESS DELIVERED IN NEW YORK, JANUARY 22, 1906
 
-	At the twenty-fifth anniversary of the founding of Tuskeegee
-	Institute by Booker Washington, Mr. Choate presided, and in
-	introducing Mr. Clemens made fun of him because he made play
-	his work, and that when he worked hardest he did so lying in
-	bed.
+> At the twenty-fifth anniversary of the founding of Tuskeegee
+> Institute by Booker Washington, Mr. Choate presided, and in
+> introducing Mr. Clemens made fun of him because he made play
+> his work, and that when he worked hardest he did so lying in
+> bed.
 
 I came here in the responsible capacity of policeman to watch Mr.
 Choate. This is an occasion of grave and serious importance, and it
@@ -2486,12 +2486,12 @@ proteges for the struggle of life.
 TAMMANY AND CROKER
 ------------------
 
-	Mr. Clemens made his debut as a campaign orator on October 7,
-	1901, advocating the election of Seth Low for Mayor, not as a
-	Republican, but as a member of the "Acorns," which he described
-	as a "third party having no political affiliation, but was
-	concerned only in the selection of the best candidates and the
-	best member."
+> Mr. Clemens made his debut as a campaign orator on October 7,
+> 1901, advocating the election of Seth Low for Mayor, not as a
+> Republican, but as a member of the "Acorns," which he described
+> as a "third party having no political affiliation, but was
+> concerned only in the selection of the best candidates and the
+> best member."
 
 Great Britain had a Tammany and a Croker a good while ago. This Tammany
 was in India, and it began its career with the spread of the English
@@ -2556,7 +2556,7 @@ considerable part of the city of the Americans, which is concerned,
 but the credit and honor of the nation itself will be decided by this
 decision."
 
-	At a later meeting of the Acorn Club, Mr. Clemens said:
+> At a later meeting of the Acorn Club, Mr. Clemens said:
 
 Tammany is dead, and there's no use in blackguarding a corpse.
 
@@ -2571,14 +2571,14 @@ MUNICIPAL CORRUPTION
 --------------------
 
 
-	ADDRESS AT THE CITY CLUB DINNER, JANUARY 4,1901
+> ADDRESS AT THE CITY CLUB DINNER, JANUARY 4,1901
 
-	Bishop Potter told how an alleged representative of Tammany
-	Hall asked him in effect if he would cease his warfare upon the
-	Police Department if a certain captain and inspector were
-	dismissed.  He replied that he would never be satisfied until
-	the "man at the top" and the "system" which permitted evils in
-	the Police Department were crushed.
+> Bishop Potter told how an alleged representative of Tammany
+> Hall asked him in effect if he would cease his warfare upon the
+> Police Department if a certain captain and inspector were
+> dismissed.  He replied that he would never be satisfied until
+> the "man at the top" and the "system" which permitted evils in
+> the Police Department were crushed.
 
 The Bishop has just spoken of a condition of things which none of us
 can deny, and which ought not to exist; that is, the lust of gain--a lust
@@ -2679,17 +2679,17 @@ flag.
 MUNICIPAL GOVERNMENT
 --------------------
 
-	ADDRESS AT THE ANNUAL DINNER OF THE ST. NICHOLAS SOCIETY, NEW YORK,
-	DECEMBER 6, 1900.
+> ADDRESS AT THE ANNUAL DINNER OF THE ST. NICHOLAS SOCIETY, NEW YORK,
+> DECEMBER 6, 1900.
 
 
-	Doctor Mackay, in his response to the toast "St. Nicholas,"
-	referred to Mr. Clemens, saying:--"Mark Twain is as true a
-	preacher of true righteousness as any bishop, priest, or
-	minister of any church to-day, because he moves men to forget
-	their faults by cheerful well-doing instead of making them sour
-	and morbid by everlastingly bending their attention to the
-	seamy and sober side of life."
+> Doctor Mackay, in his response to the toast "St. Nicholas,"
+> referred to Mr. Clemens, saying:--"Mark Twain is as true a
+> preacher of true righteousness as any bishop, priest, or
+> minister of any church to-day, because he moves men to forget
+> their faults by cheerful well-doing instead of making them sour
+> and morbid by everlastingly bending their attention to the
+> seamy and sober side of life."
 
 MR. CHAIRMAN AND GENTLEMEN OF THE ST. NICHOLAS SOCIETY,--These are,
 indeed, prosperous days for me. Night before last, in a speech, the
@@ -2784,9 +2784,9 @@ lime-light on them!"
 CHINA AND THE PHILIPPINES
 -------------------------
 
-	AT A DINNER GIVEN IN THE WALDORF-ASTORIA HOTEL, DECEMBER, 1900
+> AT A DINNER GIVEN IN THE WALDORF-ASTORIA HOTEL, DECEMBER, 1900
 
-	Winston Spencer Churchill was introduced by Mr. Clemens.
+> Winston Spencer Churchill was introduced by Mr. Clemens.
 
 For years I've been a self-appointed missionary to bring about the union
 of America and the motherland. They ought to be united. Behold America,
@@ -2810,9 +2810,9 @@ blend is perfect.
 THEORETICAL MORALS
 ------------------
 
-	The New Vagabonds Club of London, made up of the leading
-	younger literary men of the day, gave a dinner in honor of Mr.
-	and Mrs. Clemens, July 8, 1899.
+> The New Vagabonds Club of London, made up of the leading
+> younger literary men of the day, gave a dinner in honor of Mr.
+> and Mrs. Clemens, July 8, 1899.
 
 It has always been difficult--leave that word difficult--not exceedingly
 difficult, but just difficult, nothing more than that, not the slightest
@@ -2936,14 +2936,14 @@ graves, and I hope that it will be a long time before you arrive there.
 LAYMAN'S SERMON
 ---------------
 
-	The Young Men's Christian Association asked Mr. Clemens to
-	deliver a lay sermon at the Majestic Theatre, New York, March
-	4, 1906.  More than five thousand young men tried to get into
-	the theatre, and in a short time traffic was practically
-	stopped in the adjacent streets.  The police reserves had to be
-	called out to thin the crowd.  Doctor Fagnani had said
-	something before about the police episode, and Mr. Clemens took
-	it up.
+> The Young Men's Christian Association asked Mr. Clemens to
+> deliver a lay sermon at the Majestic Theatre, New York, March
+> 4, 1906.  More than five thousand young men tried to get into
+> the theatre, and in a short time traffic was practically
+> stopped in the adjacent streets.  The police reserves had to be
+> called out to thin the crowd.  Doctor Fagnani had said
+> something before about the police episode, and Mr. Clemens took
+> it up.
 
 I have been listening to what was said here, and there is in it a lesson
 of citizenship. You created the police, and you are responsible for
@@ -3018,8 +3018,8 @@ for my idea of an ideal gentleman, and I give it to you Patrick McAleer.
 UNIVERSITY SETTLEMENT SOCIETY
 -----------------------------
 
-	After the serious addresses were made, Seth Low introduced Mr.
-	Clemens at the Settlement House, February 2, 1901.
+> After the serious addresses were made, Seth Low introduced Mr.
+> Clemens at the Settlement House, February 2, 1901.
 
 The older we grow the greater becomes our wonder at how much ignorance
 one can contain without bursting one's clothes. Ten days ago I did not
@@ -3094,8 +3094,8 @@ copies of what one of your little members called 'Strawberry Finn'.
 PUBLIC EDUCATION ASSOCIATION
 ----------------------------
 
-	ADDRESS AT A MEETING OF THE BERKELEY LYCEUM, NEW YORK,
-	NOVEMBER 23, 1900
+> ADDRESS AT A MEETING OF THE BERKELEY LYCEUM, NEW YORK,
+> NOVEMBER 23, 1900
 
 I don't suppose that I am called here as an expert on education, for
 that would show a lack of foresight on your part and a deliberate
@@ -3160,10 +3160,10 @@ it's the best I've got in stock.
 EDUCATION AND CITIZENSHIP
 -------------------------
 
-	On the evening of May 14, 1908, the alumni of the College of
-	the City of New York celebrated the opening of the new college
-	buildings at a banquet in the Waldorf Astoria.  Mr. Clemens
-	followed Mayor McClellan.
+> On the evening of May 14, 1908, the alumni of the College of
+> the City of New York celebrated the opening of the new college
+> buildings at a banquet in the Waldorf Astoria.  Mr. Clemens
+> followed Mayor McClellan.
 
 I agreed when the Mayor said that there was not a man within hearing who
 did not agree that citizenship should be placed above everything else,
@@ -3251,10 +3251,10 @@ Mary Ann."
 COURAGE
 -------
 
-	At a beefsteak dinner, given by artists, caricaturists, and
-	humorists of New York City, April 18, 1908, Mr. Clemens, Mr. H.
-	H. Rogers, and Mr. Patrick McCarren were the guests of honor.
-	Each wore a white apron, and each made a short speech.
+> At a beefsteak dinner, given by artists, caricaturists, and
+> humorists of New York City, April 18, 1908, Mr. Clemens, Mr. H.
+> H. Rogers, and Mr. Patrick McCarren were the guests of honor.
+> Each wore a white apron, and each made a short speech.
 
 In the matter of courage we all have our limits.
 
@@ -3281,12 +3281,12 @@ THE DINNER TO MR. CHOATE
 ------------------------
 
 
-	AT A DINNER GIVEN IN HONOR OF AMBASSADOR JOSEPH H. CHOATE AT
-	THE LOTOS CLUB, NOVEMBER 24, 1902
+> AT A DINNER GIVEN IN HONOR OF AMBASSADOR JOSEPH H. CHOATE AT
+> THE LOTOS CLUB, NOVEMBER 24, 1902
 
-	The speakers, among others, were: Senator Depew, William Henry
-	White, Speaker Thomas Reed, and Mr. Choate.  Mr. Clemens spoke,
-	in part, as follows:
+> The speakers, among others, were: Senator Depew, William Henry
+> White, Speaker Thomas Reed, and Mr. Choate.  Mr. Clemens spoke,
+> in part, as follows:
 
 The greatness of this country rests on two anecdotes. The first one is
 that of Washington and his hatchet, representing the foundation of true
@@ -3331,9 +3331,9 @@ take--give one and take ten--the principle of diplomacy.
 ON STANLEY AND LIVINGSTONE
 --------------------------
 
-	Mr. Clemens was entertained at dinner by the Whitefriars' Club,
-	London, at the Mitre Tavern, on the evening of August 6, 1872.
-	In reply to the toast in his honor he said:
+> Mr. Clemens was entertained at dinner by the Whitefriars' Club,
+> London, at the Mitre Tavern, on the evening of August 6, 1872.
+> In reply to the toast in his honor he said:
 
 GENTLEMEN,--I thank you very heartily indeed for this expression of
 kindness toward me. What I have done for England and civilization in the
@@ -3389,9 +3389,9 @@ Whitefriars' Club, and to sink down to my accustomed level.
 HENRY M. STANLEY
 ----------------
 
-	ADDRESS DELIVERED IN BOSTON, NOVEMBER, 1886
+> ADDRESS DELIVERED IN BOSTON, NOVEMBER, 1886
 
-	Mr. Clemens introduced Mr. Stanley.
+> Mr. Clemens introduced Mr. Stanley.
 
 LADIES AND GENTLEMEN, if any should ask, Why is it that you are here as
 introducer of the lecturer? I should answer that I happened to be around
@@ -3441,10 +3441,10 @@ man. I introduce Henry M. Stanley.
 DINNER TO MR. JEROME
 --------------------
 
-	A dinner to express their confidence in the integrity and good
-	judgment of District-Attorney Jerome was given at Delmonico's
-	by over three hundred of his admirers on the evening of May 7,
-	1909.
+> A dinner to express their confidence in the integrity and good
+> judgment of District-Attorney Jerome was given at Delmonico's
+> by over three hundred of his admirers on the evening of May 7,
+> 1909.
 
 Indeed, that is very sudden. I was not informed that the verdict
 was going to depend upon my judgment, but that makes not the least
@@ -3481,9 +3481,9 @@ vote for Mr. Jerome.
 HENRY IRVING
 ------------
 
-	The Dramatic and Literary Society of London gave a welcome-home
-	dinner to Sir Henry Irving at the Savoy Hotel, London, June 9,
-	1900.  In proposing the toast of "The Drama" Mr. Clemens said:
+> The Dramatic and Literary Society of London gave a welcome-home
+> dinner to Sir Henry Irving at the Savoy Hotel, London, June 9,
+> 1900.  In proposing the toast of "The Drama" Mr. Clemens said:
 
 I find my task a very easy one. I have been a dramatist for thirty
 years. I have had an ambition in all that time to overdo the work of the
@@ -3538,19 +3538,19 @@ gift, and that he will long live to continue his fine work.
 DINNER TO HAMILTON W. MABIE
 ---------------------------
 
-	ADDRESS DELIVERED APRIL 29, 1901
+> ADDRESS DELIVERED APRIL 29, 1901
 
-	In introducing Mr. Clemens, Doctor Van Dyke said:
+> In introducing Mr. Clemens, Doctor Van Dyke said:
 
-	"The longer the speaking goes on to-night the more I wonder how
-	I got this job, and the only explanation I can give for it is
-	that it is the same kind of compensation for the number of
-	articles I have sent to The Outlook, to be rejected by Hamilton
-	W. Mabie.  There is one man here to-night that has a job cut
-	out for him that none of you would have had--a man whose humor
-	has put a girdle of light around the globe, and whose sense of
-	humor has been an example for all five continents.  He is going
-	to speak to you.  Gentlemen, you know him best as Mark Twain."
+> "The longer the speaking goes on to-night the more I wonder how
+> I got this job, and the only explanation I can give for it is
+> that it is the same kind of compensation for the number of
+> articles I have sent to The Outlook, to be rejected by Hamilton
+> W. Mabie.  There is one man here to-night that has a job cut
+> out for him that none of you would have had--a man whose humor
+> has put a girdle of light around the globe, and whose sense of
+> humor has been an example for all five continents.  He is going
+> to speak to you.  Gentlemen, you know him best as Mark Twain."
 
 MR. CHAIRMAN AND GENTLEMEN,--This man knows now how it feels to be the
 chief guest, and if he has enjoyed it he is the first man I have ever
@@ -3608,11 +3608,11 @@ short of the real Mabie.
 INTRODUCING NYE AND RILEY
 -------------------------
 
-	James Whitcomb Riley and Edgar Wilson Nye (Bill Nye) were to
-	give readings in Tremont Temple, Boston, November, 1888.  Mr.
-	Clemens was induced to introduce Messrs. Riley and Nye.  His
-	appearance on the platform was a surprise to the audience, and
-	when they recognized him there was a tremendous demonstration.
+> James Whitcomb Riley and Edgar Wilson Nye (Bill Nye) were to
+> give readings in Tremont Temple, Boston, November, 1888.  Mr.
+> Clemens was induced to introduce Messrs. Riley and Nye.  His
+> appearance on the platform was a surprise to the audience, and
+> when they recognized him there was a tremendous demonstration.
 
 I am very glad indeed to introduce these young people to you, and at the
 same time get acquainted with them myself. I have seen them more than
@@ -3679,8 +3679,8 @@ now go to the bat.
 DINNER TO WHITELAW REID
 -----------------------
 
-	ADDRESS AT THE DINNER IN HONOR OF AMBASSADOR REID, GIVEN BY THE
-	PILGRIMS' CLUB OF NEW YORK ON FEBRUARY 19, 1908
+> ADDRESS AT THE DINNER IN HONOR OF AMBASSADOR REID, GIVEN BY THE
+> PILGRIMS' CLUB OF NEW YORK ON FEBRUARY 19, 1908
 
 I am very proud to respond to this toast, as it recalls the proudest day
 of my life. The delightful hospitality shown me at the time of my visit
@@ -3770,24 +3770,24 @@ always rest on such distinguished men as it has in the past!
 ROGERS AND RAILROADS
 --------------------
 
-	AT A BANQUET GIVEN MR. H. H. ROGERS BY THE BUSINESS MEN OF
-	NORFOLK, VA., CELEBRATING THE OPENING OF THE VIRGINIAN RAILWAY,
-	APRIL, 3, 1909
+> AT A BANQUET GIVEN MR. H. H. ROGERS BY THE BUSINESS MEN OF
+> NORFOLK, VA., CELEBRATING THE OPENING OF THE VIRGINIAN RAILWAY,
+> APRIL, 3, 1909
 
-	Toastmaster:
+> Toastmaster:
 
-	"I have often thought that when the time comes, which must come
-	to all of us, when we reach that Great Way in the Great Beyond,
-	and the question is propounded, 'What have you done to gain
-	admission into this great realm?' if the answer could be
-	sincerely made, 'I have made men laugh,' it would be the surest
-	passport to a welcome entrance.  We have here to-night one who
-	has made millions laugh--not the loud laughter that bespeaks
-	the vacant mind, but the laugh of intelligent mirth that helps
-	the human heart and the human mind.  I refer, of course, to
-	Doctor Clemens.  I was going to say Mark Twain, his literary
-	title, which is a household phrase in more homes than that of
-	any other man, and you know him best by that dear old title."
+> "I have often thought that when the time comes, which must come
+> to all of us, when we reach that Great Way in the Great Beyond,
+> and the question is propounded, 'What have you done to gain
+> admission into this great realm?' if the answer could be
+> sincerely made, 'I have made men laugh,' it would be the surest
+> passport to a welcome entrance.  We have here to-night one who
+> has made millions laugh--not the loud laughter that bespeaks
+> the vacant mind, but the laugh of intelligent mirth that helps
+> the human heart and the human mind.  I refer, of course, to
+> Doctor Clemens.  I was going to say Mark Twain, his literary
+> title, which is a household phrase in more homes than that of
+> any other man, and you know him best by that dear old title."
 
 I thank you, Mr. Toastmaster, for the compliment which you have paid me,
 and I am sure I would rather have made people laugh than cry, yet in my
@@ -3918,11 +3918,11 @@ exception, hair and all, he is the whitest man I have ever known.
 THE OLD-FASHIONED PRINTER
 -------------------------
 
-	ADDRESS AT THE TYPOTHETAE DINNER GIVEN AT DELMONICO'S,
-	JANUARY 18, 1886, COMMEMORATING THE BIRTHDAY OF
-	BENJAMIN FRANKLIN
+> ADDRESS AT THE TYPOTHETAE DINNER GIVEN AT DELMONICO'S,
+> JANUARY 18, 1886, COMMEMORATING THE BIRTHDAY OF
+> BENJAMIN FRANKLIN
 
-	Mr. Clemens responded to the toast "The Compositor."
+> Mr. Clemens responded to the toast "The Compositor."
 
 The chairman's historical reminiscences of Gutenberg have caused me to
 fall into reminiscences, for I myself am something of an antiquity. All
@@ -3998,10 +3998,10 @@ and sing the glories of a forgotten age to unfamiliar ears, so I will
 SOCIETY OF AMERICAN AUTHORS
 ---------------------------
 
-	On November 15, 1900, the society gave a reception to Mr.
-	Clemens, who came with his wife and daughter.  So many members
-	surrounded the guests that Mr. Clemens asked: "Is this genuine
-	popularity or is it all a part of a prearranged programme?"
+> On November 15, 1900, the society gave a reception to Mr.
+> Clemens, who came with his wife and daughter.  So many members
+> surrounded the guests that Mr. Clemens asked: "Is this genuine
+> popularity or is it all a part of a prearranged programme?"
 
 MR. CHAIRMAN, LADIES AND GENTLEMEN,--It seems a most difficult thing for
 any man to say anything about me that is not complimentary. I don't know
@@ -4057,8 +4057,8 @@ praised any more than I am entitled to be.
 READING-ROOM OPENING
 --------------------
 
-	On October 13, 1900, Mr. Clemens made his last address
-	preceding his departure for America at Kensal Rise, London.
+> On October 13, 1900, Mr. Clemens made his last address
+> preceding his departure for America at Kensal Rise, London.
 
 I formally declare this reading-room open, and I think that the
 legislature should not compel a community to provide itself with
@@ -4104,10 +4104,10 @@ making it worthy.
 LITERATURE
 ----------
 
-	ADDRESS AT THE ROYAL LITERARY FUND BANQUET, LONDON, MAY 4, 1900
+> ADDRESS AT THE ROYAL LITERARY FUND BANQUET, LONDON, MAY 4, 1900
 
-	Anthony Hope introduced Mr. Clemens to make the response to the
-	toast "Literature."
+> Anthony Hope introduced Mr. Clemens to make the response to the
+> toast "Literature."
 
 MR. HOPE has been able to deal adequately with this toast without
 assistance from me. Still, I was born generous. If he had advanced any
@@ -4150,15 +4150,15 @@ Therefore, double your subscriptions to the literary fund!
 DISAPPEARANCE OF LITERATURE
 ---------------------------
 
-	ADDRESS AT THE DINNER OF THE NINETEENTH CENTURY CLUB, AT
-	SHERRY'S, NEW YORK, NOVEMBER 20, 1900
+> ADDRESS AT THE DINNER OF THE NINETEENTH CENTURY CLUB, AT
+> SHERRY'S, NEW YORK, NOVEMBER 20, 1900
 
-	Mr. Clemens spoke to the toast "The Disappearance of
-	Literature."  Doctor Gould presided, and in introducing
-	Mr. Clemens said that he (the speaker), when in Germany, had to
-	do a lot of apologizing for a certain literary man who was
-	taking what the Germans thought undue liberties with their
-	language.
+> Mr. Clemens spoke to the toast "The Disappearance of
+> Literature."  Doctor Gould presided, and in introducing
+> Mr. Clemens said that he (the speaker), when in Germany, had to
+> do a lot of apologizing for a certain literary man who was
+> taking what the Germans thought undue liberties with their
+> language.
 
 It wasn't necessary for your chairman to apologize for me in Germany. It
 wasn't necessary at all. Instead of that he ought to have impressed upon
@@ -4238,11 +4238,11 @@ THE NEW YORK PRESS CLUB DINNER
 ------------------------------
 
 
-	AT THE ANNUAL DINNER, NOVEMBER 13, 1900
+> AT THE ANNUAL DINNER, NOVEMBER 13, 1900
 
-	Col. William L. Brown, the former editor of the Daily News, as
-	president of the club, introduced Mr. Clemens as the principal
-	ornament of American literature.
+> Col. William L. Brown, the former editor of the Daily News, as
+> president of the club, introduced Mr. Clemens as the principal
+> ornament of American literature.
 
 I must say that I have already begun to regret that I left my gun at
 home. I've said so many times when a chairman has distressed me with
@@ -4268,13 +4268,13 @@ Colonel Brown.
 THE ALPHABET AND SIMPLIFIED SPELLING
 ------------------------------------
 
-	ADDRESS AT THE DINNER GIVEN TO MR. CARNEGIE AT THE DEDICATION
-	OF THE NEW YORK ENGINEERS' CLUB, DECEMBER 9, 1907
+> ADDRESS AT THE DINNER GIVEN TO MR. CARNEGIE AT THE DEDICATION
+> OF THE NEW YORK ENGINEERS' CLUB, DECEMBER 9, 1907
 
-	Mr. Clemens was introduced by the president of the club, who,
-	quoting from the Mark Twain autobiography, recalled the day
-	when the distinguished writer came to New York with $3 in small
-	change in his pockets and a $10 bill sewed in his clothes.
+> Mr. Clemens was introduced by the president of the club, who,
+> quoting from the Mark Twain autobiography, recalled the day
+> when the distinguished writer came to New York with $3 in small
+> change in his pockets and a $10 bill sewed in his clothes.
 
 It seems to me that I was around here in the neighborhood of the Public
 Library about fifty or sixty years ago. I don't deny the circumstance,
@@ -4372,8 +4372,8 @@ right, but, like chastity, you can carry it too far.
 SPELLING AND PICTURES
 ---------------------
 
-	ADDRESS AT THE ANNUAL DINNER OF THE ASSOCIATED PRESS, AT THE
-	WALDORF-ASTORIA, SEPTEMBER 18, 1906
+> ADDRESS AT THE ANNUAL DINNER OF THE ASSOCIATED PRESS, AT THE
+> WALDORF-ASTORIA, SEPTEMBER 18, 1906
 
 I am here to make an appeal to the nations in behalf of the simplified
 spelling. I have come here because they cannot all be reached except
@@ -4583,8 +4583,8 @@ always keep your youth.
 BOOKS AND BURGLARS
 ------------------
 
-	ADDRESS TO THE REDDING (CONN.) LIBRARY ASSOCIATION,
-	OCTOBER 28, 1908
+> ADDRESS TO THE REDDING (CONN.) LIBRARY ASSOCIATION,
+> OCTOBER 28, 1908
 
 Suppose this library had been in operation a few weeks ago, and the
 burglars who happened along and broke into my house--taking a lot of
@@ -4622,10 +4622,10 @@ seek to know that. He will never be heard of more.
 AUTHORS' CLUB
 -------------
 
-	ADDRESS AT THE DINNER GIVEN IN HONOR OF MR. CLEMENS, LONDON,
-	JUNE, 1899
+> ADDRESS AT THE DINNER GIVEN IN HONOR OF MR. CLEMENS, LONDON,
+> JUNE, 1899
 
-	Mr. Clemens was introduced by Sir Walter Besant.
+> Mr. Clemens was introduced by Sir Walter Besant.
 
 It does not embarrass me to hear my books praised so much. It
 only pleases and delights me. I have not gone beyond the age when
@@ -4687,10 +4687,10 @@ Kipling, may they not be severed in 'Twain.'"
 BOOKSELLERS
 -----------
 
-	Address at banquet on Wednesday evening, May 20, 1908, of the
-	American Booksellers' Association, which included most of the
-	leading booksellers of America, held at the rooms of the Aldine
-	Association, New York.
+> Address at banquet on Wednesday evening, May 20, 1908, of the
+> American Booksellers' Association, which included most of the
+> leading booksellers of America, held at the rooms of the Aldine
+> Association, New York.
 
 This annual gathering of booksellers from all over America comes
 together ostensibly to eat and drink, but really to discuss business;
@@ -4743,12 +4743,12 @@ sold 1726 copies; in 1905, 2445; in 1906, 5381; and last year, 6574.
 "MARK TWAIN'S FIRST APPEARANCE"
 -------------------------------
 
-	On October 5, 1906, Mr. Clemens, following a musical recital by
-	his daughter in Norfolk, Conn., addressed her audience on the
-	subject of stage-fright.  He thanked the people for making
-	things as easy as possible for his daughter's American debut as
-	a contralto, and then told of his first experience before the
-	public.
+> On October 5, 1906, Mr. Clemens, following a musical recital by
+> his daughter in Norfolk, Conn., addressed her audience on the
+> subject of stage-fright.  He thanked the people for making
+> things as easy as possible for his daughter's American debut as
+> a contralto, and then told of his first experience before the
+> public.
 
 My heart goes out in sympathy to any one who is making his first
 appearance before an audience of human beings. By a direct process of
@@ -4804,12 +4804,12 @@ singing, which is, by-the-way, hereditary.
 MORALS AND MEMORY
 -----------------
 
-	Mr. Clemens was the guest of honor at a reception held at
-	Barnard College (Columbia University), March 7, 1906, by the
-	Barnard Union.  One of the young ladies presented Mr. Clemens,
-	and thanked him for his amiability in coming to make them an
-	address.  She closed with the expression of the great joy it
-	gave her fellow-collegians, "because we all love you."
+> Mr. Clemens was the guest of honor at a reception held at
+> Barnard College (Columbia University), March 7, 1906, by the
+> Barnard Union.  One of the young ladies presented Mr. Clemens,
+> and thanked him for his amiability in coming to make them an
+> address.  She closed with the expression of the great joy it
+> gave her fellow-collegians, "because we all love you."
 
 If any one here loves me, she has my sincere thanks. Nay, if any one
 here is so good as to love me--why, I'll be a brother to her. She shall
@@ -5165,15 +5165,15 @@ to-day than with that peach fifty-three years ago.
 QUEEN VICTORIA
 --------------
 
-	ADDRESS TO THE BRITISH SCHOOLS AND UNIVERSITIES CLUB, AT
-	DELMONICO'S, MONDAY, MAY 25, 1908, IN HONOR OF QUEEN VICTORIA'S
-	BIRTHDAY
+> ADDRESS TO THE BRITISH SCHOOLS AND UNIVERSITIES CLUB, AT
+> DELMONICO'S, MONDAY, MAY 25, 1908, IN HONOR OF QUEEN VICTORIA'S
+> BIRTHDAY
 
-	Mr. Clemens told the story of his duel with a rival editor: how
-	he practised firing at a barn door and failed to hit it, but a
-	friend of his took off the head of a little bird at thirty-five
-	yards and attributed the shot to Mark twain.  The duel did not
-	take place.  Mr. Clemens continued as follows:
+> Mr. Clemens told the story of his duel with a rival editor: how
+> he practised firing at a barn door and failed to hit it, but a
+> friend of his took off the head of a little bird at thirty-five
+> yards and attributed the shot to Mark twain.  The duel did not
+> take place.  Mr. Clemens continued as follows:
 
 It also happened that I was the means of stopping duelling in Nevada,
 for a law was passed sending all duellists to jail for two years, and
@@ -5227,15 +5227,15 @@ reign.
 JOAN OF ARC
 -----------
 
-	ADDRESS AT THE DINNER OF THE SOCIETY OF ILLUSTRATORS, GIVEN AT
-	THE ALDINE ASSOCIATION CLUB, DECEMBER 22, 1905
+> ADDRESS AT THE DINNER OF THE SOCIETY OF ILLUSTRATORS, GIVEN AT
+> THE ALDINE ASSOCIATION CLUB, DECEMBER 22, 1905
 
-	Just before Mr. Clemens made his speech, a young woman attired
-	as Joan of Arc, with a page bearing her flag of battle,
-	courtesied reverently and tendered Mr. Clemens a laurel wreath
-	on a satin pillow.  He tried to speak, but his voice failed
-	from excess of emotion. "I thank you!" he finally exclaimed,
-	and, pulling himself together, he began his speech.
+> Just before Mr. Clemens made his speech, a young woman attired
+> as Joan of Arc, with a page bearing her flag of battle,
+> courtesied reverently and tendered Mr. Clemens a laurel wreath
+> on a satin pillow.  He tried to speak, but his voice failed
+> from excess of emotion. "I thank you!" he finally exclaimed,
+> and, pulling himself together, he began his speech.
 
 Now there is an illustration [pointing to the retreating Joan of
 Arc]. That is exactly what I wanted--precisely what I wanted--when I was
@@ -5394,10 +5394,10 @@ know where they came from, but I thought of them to-day when I saw that
 letter--that that boy could have been talking of himself in those quoted
 lines from that unknown poet:
 
-	"For he had sat at Sidney's feet
-	And walked with him in plain apart,
-	And through the centuries heard the beat
-	Of Freedom's march through Cromwell's heart."
+> "For he had sat at Sidney's feet
+> And walked with him in plain apart,
+> And through the centuries heard the beat
+> Of Freedom's march through Cromwell's heart."
 
 And he was that kind of a boy. He should have lived, and yet he should
 not have lived, because he died at that early age--he couldn't have been
@@ -5412,8 +5412,8 @@ realities of life, and God help the man that has arrived at that point.
 ACCIDENT INSURANCE--ETC.
 -----------------------
 
-	DELIVERED IN HARTFORD, AT A DINNER TO CORNELIUS WALFORD,
-	OF LONDON
+> DELIVERED IN HARTFORD, AT A DINNER TO CORNELIUS WALFORD,
+> OF LONDON
 
 GENTLEMEN,--I am glad, indeed, to assist in welcoming the distinguished
 guest of this occasion to a city whose fame as an insurance centre has
@@ -5472,9 +5472,9 @@ can say the same far the rest of the speakers.
 OSTEOPATHY
 ----------
 
-	On February 27, 1901, Mr. Clemens appeared before the Assembly
-	Committee in Albany, New York, in favor of the Seymour bill
-	legalizing the practice of osteopathy.
+> On February 27, 1901, Mr. Clemens appeared before the Assembly
+> Committee in Albany, New York, in favor of the Seymour bill
+> legalizing the practice of osteopathy.
 
 MR. CHAIRMAN AND GENTLEMEN,--Dr. Van Fleet is the gentleman who gave
 me the character. I have heard my character discussed a thousand times
@@ -5564,9 +5564,9 @@ replied "Humph, he ain't got no license."
 WATER-SUPPLY
 ------------
 
-	Mr. Clemens visited Albany on February 27 and 28, 1901. The
-	privileges of the floor were granted to him and he was asked to make a
-	short address to the Senate.
+> Mr. Clemens visited Albany on February 27 and 28, 1901. The
+> privileges of the floor were granted to him and he was asked to make a
+> short address to the Senate.
 
 MR. PRESIDENT AND GENTLEMEN,--I do not know how to thank you sufficiently
 for this high honor which you are conferring upon me. I have for the
@@ -5687,8 +5687,8 @@ ago--viz., I was speechless, and that is my condition now. Perceive it?
 CATS AND CANDY
 --------------
 
-	The following address was delivered at a social meeting of
-	literary men in New York in 1874:
+> The following address was delivered at a social meeting of
+> literary men in New York in 1874:
 
 When I was fourteen I was living with my parents, who were very poor--and
 correspondently honest. We had a youth living with us by the name of
@@ -5737,7 +5737,7 @@ them cats if I had had on a good ready."
 OBITUARY POETRY
 ---------------
 
-	ADDRESS AT THE ACTORS' FUND FAIR, PHILADELPHIA, in 1895
+> ADDRESS AT THE ACTORS' FUND FAIR, PHILADELPHIA, in 1895
 
 LADIES AND GENTLEMEN,--The--er this--er--welcome occasion gives me
 an--er--opportunity to make an--er--explanation that I have long desired to
@@ -5815,8 +5815,8 @@ after all.
 BILLIARDS
 ---------
 
-	Mr. Clemens attended a billiard tourney on the evening of April
-	24, 1906, and was called on to tell a story.
+> Mr. Clemens attended a billiard tourney on the evening of April
+> 24, 1906, and was called on to tell a story.
 
 The game of billiards has destroyed my naturally sweet disposition.
 Once, when I was an underpaid reporter in Virginia City, whenever I
@@ -5840,7 +5840,7 @@ see you play with your right."
 THE UNION RIGHT OR WRONG
 ------------------------
 
-	REMINISCENCES OF NEVADA
+> REMINISCENCES OF NEVADA
 
 I can assure you, ladies and gentlemen, that Nevada had lively
 newspapers in those days.
@@ -5977,7 +5977,7 @@ We had no school report next morning--but the Union had.
 AN IDEAL FRENCH ADDRESS
 -----------------------
 
-	EXTRACT FROM "PARIS NOTES," IN "TOM SAWYER ABROAD," ETC.
+> EXTRACT FROM "PARIS NOTES," IN "TOM SAWYER ABROAD," ETC.
 
 I am told that a French sermon is like a French speech--it never names an
 historical event, but only the date of it; if you are not up in dates,
@@ -6027,47 +6027,47 @@ STATISTICS
 ----------
 
 
-	EXTRACT FROM "THE HISTORY OF THE SAVAGE CLUB"
+> EXTRACT FROM "THE HISTORY OF THE SAVAGE CLUB"
 
-	During that period of gloom when domestic bereavement had
-	forced Mr. Clemens and his dear ones to secure the privacy they
-	craved until their wounds should heal, his address was known to
-	only a very few of his closest friends.  One old friend in New
-	York, after vain efforts to get his address, wrote him a letter
-	addressed as follows
+> During that period of gloom when domestic bereavement had
+> forced Mr. Clemens and his dear ones to secure the privacy they
+> craved until their wounds should heal, his address was known to
+> only a very few of his closest friends.  One old friend in New
+> York, after vain efforts to get his address, wrote him a letter
+> addressed as follows
 
-		MARK TWAIN,
-		God Knows Where,
-		Try London.
+> 	MARK TWAIN,
+> 	God Knows Where,
+> 	Try London.
 
-	The letter found him, and Mr. Clemens replied to the letter
-	expressing himself surprised and complimented that the person
-	who was credited with knowing his whereabouts should take so
-	much interest in him, adding: "Had the letter been addressed to
-	the care of the 'other party,' I would naturally have expected
-	to receive it without delay."
+> The letter found him, and Mr. Clemens replied to the letter
+> expressing himself surprised and complimented that the person
+> who was credited with knowing his whereabouts should take so
+> much interest in him, adding: "Had the letter been addressed to
+> the care of the 'other party,' I would naturally have expected
+> to receive it without delay."
 
-	His correspondent tried again, and addressed the second letter:
+> His correspondent tried again, and addressed the second letter:
 
-		MARK TWAIN,
-		The Devil Knows Where,
-		Try London.
+> 	MARK TWAIN,
+> 	The Devil Knows Where,
+> 	Try London.
 
-	This found him also no less promptly.
+> This found him also no less promptly.
 
-	On June 9, 1899, he consented to visit the Savage Club, London,
-	on condition that there was to be no publicity and no speech
-	was to be expected from him.  The toastmaster, in proposing the
-	health of their guest, said that as a Scotchman, and therefore
-	as a born expert, he thought Mark Twain had little or no claim
-	to the title of humorist.  Mr. Clemens had tried to be funny
-	but had failed, and his true role in life was statistics; that
-	he was a master of statistics, and loved them for their own
-	sake, and it would be the easiest task he ever undertook if he
-	would try to count all the real jokes he had ever made.  While
-	the toastmaster was speaking, the members saw Mr. Clemens's
-	eyes begin to sparkle and his cheeks to flush.  He jumped up,
-	and made a characteristic speech.
+> On June 9, 1899, he consented to visit the Savage Club, London,
+> on condition that there was to be no publicity and no speech
+> was to be expected from him.  The toastmaster, in proposing the
+> health of their guest, said that as a Scotchman, and therefore
+> as a born expert, he thought Mark Twain had little or no claim
+> to the title of humorist.  Mr. Clemens had tried to be funny
+> but had failed, and his true role in life was statistics; that
+> he was a master of statistics, and loved them for their own
+> sake, and it would be the easiest task he ever undertook if he
+> would try to count all the real jokes he had ever made.  While
+> the toastmaster was speaking, the members saw Mr. Clemens's
+> eyes begin to sparkle and his cheeks to flush.  He jumped up,
+> and made a characteristic speech.
 
 Perhaps I am not a humorist, but I am a first-class fool--a simpleton;
 for up to this moment I have believed Chairman MacAlister to be a decent
@@ -6090,8 +6090,8 @@ myself.
 GALVESTON ORPHAN BAZAAR
 -----------------------
 
-	ADDRESS AT A FAIR HELD AT THE WALDORF-ASTORIA, NEW YORK, IN
-	OCTOBER, 1900, IN AID OF THE ORPHANS AT GALVESTON
+> ADDRESS AT A FAIR HELD AT THE WALDORF-ASTORIA, NEW YORK, IN
+> OCTOBER, 1900, IN AID OF THE ORPHANS AT GALVESTON
 
 I expected that the Governor of Texas would occupy this place first and
 would speak to you, and in the course of his remarks would drop a
@@ -6161,9 +6161,9 @@ not playing a part.
 SAN FRANCISCO EARTHQUAKE
 ------------------------
 
-	After the address at the Robert Fulton Fund meeting, June 19,
-	1906, Mr. Clemens talked to the assembled reporters about the
-	San Francisco earthquake.
+> After the address at the Robert Fulton Fund meeting, June 19,
+> 1906, Mr. Clemens talked to the assembled reporters about the
+> San Francisco earthquake.
 
 I haven't been there since 1868, and that great city of San Francisco
 has grown up since my day. When I was there she had one hundred and
@@ -6191,20 +6191,20 @@ regions.
 CHARITY AND ACTORS
 ------------------
 
-	ADDRESS AT THE ACTORS' FUND FAIR IN THE METROPOLITAN
-	OPERA HOUSE, NEW YORK, MAY 6, 1907
+> ADDRESS AT THE ACTORS' FUND FAIR IN THE METROPOLITAN
+> OPERA HOUSE, NEW YORK, MAY 6, 1907
 
-	Mr. Clemens, in his white suit, formally declared the fair
-	open.  Mr. Daniel Frohman, in introducing Mr. Clemens, said:
+> Mr. Clemens, in his white suit, formally declared the fair
+> open.  Mr. Daniel Frohman, in introducing Mr. Clemens, said:
 
-	"We intend to make this a banner week in the history of the
-	Fund, which takes an interest in every one on the stage, be he
-	actor, singer, dancer, or workman.  We have spent more than
-	$40,000 during the past year.  Charity covers a multitude of
-	sins, but it also reveals a multitude of virtues.  At the
-	opening of the former fair we had the assistance of Edwin Booth
-	and Joseph Jefferson.  In their place we have to-day that
-	American institution and apostle of wide humanity--Mark Twain."
+> "We intend to make this a banner week in the history of the
+> Fund, which takes an interest in every one on the stage, be he
+> actor, singer, dancer, or workman.  We have spent more than
+> $40,000 during the past year.  Charity covers a multitude of
+> sins, but it also reveals a multitude of virtues.  At the
+> opening of the former fair we had the assistance of Edwin Booth
+> and Joseph Jefferson.  In their place we have to-day that
+> American institution and apostle of wide humanity--Mark Twain."
 
 As Mr. Frohman has said, charity reveals a multitude of virtues. This is
 true, and it is to be proved here before the week is over. Mr. Frohman
@@ -6235,10 +6235,10 @@ the ball game. Let the transmuting begin!
 RUSSIAN REPUBLIC
 ----------------
 
-	The American auxiliary movement to aid the cause of freedom in Russia was
-	launched on the evening of April 11, 1906, at the Club A house, 3 Fifth
-	Avenue, with Mr. Clemens and Maxim Gorky as the principal spokesmen. Mr.
-	Clemens made an introductory address, presenting Mr. Gorky.
+> The American auxiliary movement to aid the cause of freedom in Russia was
+> launched on the evening of April 11, 1906, at the Club A house, 3 Fifth
+> Avenue, with Mr. Clemens and Maxim Gorky as the principal spokesmen. Mr.
+> Clemens made an introductory address, presenting Mr. Gorky.
 
 If we can build a Russian republic to give to the persecuted people of
 the Tsar's domain the same measure of freedom that we enjoy, let us go
@@ -6265,9 +6265,9 @@ If we keep our hearts in this matter Russia will be free.
 RUSSIAN SUFFERERS
 -----------------
 
-	On December 18, 1905, an entertainment was given at the Casino
-	for the benefit of the Russian sufferers.  After the
-	performance Mr. Clemens spoke.
+> On December 18, 1905, an entertainment was given at the Casino
+> for the benefit of the Russian sufferers.  After the
+> performance Mr. Clemens spoke.
 
 LADIES AND GENTLEMEN,--It seems a sort of cruelty to inflict upon an
 audience like this our rude English tongue, after we have heard that
@@ -6432,9 +6432,9 @@ got a three years' thirst on.'
 WATTERSON AND TWAIN AS REBELS
 -----------------------------
 
-	ADDRESS AT THE CELEBRATION OF ABRAHAM LINCOLN'S 92ND BIRTHDAY
-	ANNIVERSARY, CARNEGIE HALL, FEBRUARY 11, 1901, TO RAISE FUNDS
-	FOR THE LINCOLN MEMORIAL UNIVERSITY AT CUMBERLAND GAP, TENN.
+> ADDRESS AT THE CELEBRATION OF ABRAHAM LINCOLN'S 92ND BIRTHDAY
+> ANNIVERSARY, CARNEGIE HALL, FEBRUARY 11, 1901, TO RAISE FUNDS
+> FOR THE LINCOLN MEMORIAL UNIVERSITY AT CUMBERLAND GAP, TENN.
 
 LADIES AND GENTLEMEN,--The remainder of my duties as presiding chairman
 here this evening are but two--only two. One of them is easy, and the
@@ -6483,35 +6483,35 @@ ROBERT FULTON FUND
 ------------------
 
 
-	ADDRESS MADE ON THE EVENING OF APRIL 19, 1906
+> ADDRESS MADE ON THE EVENING OF APRIL 19, 1906
 
-	Mr. Clemens had been asked to address the association by Gen.
-	Frederick D. Grant, president.  He was offered a fee of $1,000,
-	but refused it, saying:
+> Mr. Clemens had been asked to address the association by Gen.
+> Frederick D. Grant, president.  He was offered a fee of $1,000,
+> but refused it, saying:
 
-	"I shall be glad to do it, but I must stipulate that you keep
-	the $1,000, and add it to the Memorial Fund as my contribution
-	to erect a monument in New York to the memory of the man who
-	applied steam to navigation."
+> "I shall be glad to do it, but I must stipulate that you keep
+> the $1,000, and add it to the Memorial Fund as my contribution
+> to erect a monument in New York to the memory of the man who
+> applied steam to navigation."
 
-	At this meeting Mr. Clemens made this formal announcement from
-	the platform:
+> At this meeting Mr. Clemens made this formal announcement from
+> the platform:
 
-	"This is my last appearance on the paid platform.  I shall not
-	retire from the gratis platform until I am buried, and courtesy
-	will compel me to keep still and not disturb the others.  Now,
-	since I must, I shall say good-bye.  I see many faces in this
-	audience well known to me.  They are all my friends, and I feel
-	that those I don't know are my friends, too.  I wish to
-	consider that you represent the nation, and  that in saying
-	good-bye to you I am saying good-bye to the nation.  In the
-	great name of humanity, let me say this final word: I offer an
-	appeal in behalf of that vast, pathetic multitude of fathers,
-	mothers, and helpless little children.  They were sheltered and
-	happy two days ago.  Now they are wandering, forlorn, hopeless,
-	and homeless, the victims of a great disaster.  So I beg of
-	you, I beg of you, to open your hearts and open your purses and
-	remember San Francisco, the smitten city."
+> "This is my last appearance on the paid platform.  I shall not
+> retire from the gratis platform until I am buried, and courtesy
+> will compel me to keep still and not disturb the others.  Now,
+> since I must, I shall say good-bye.  I see many faces in this
+> audience well known to me.  They are all my friends, and I feel
+> that those I don't know are my friends, too.  I wish to
+> consider that you represent the nation, and  that in saying
+> good-bye to you I am saying good-bye to the nation.  In the
+> great name of humanity, let me say this final word: I offer an
+> appeal in behalf of that vast, pathetic multitude of fathers,
+> mothers, and helpless little children.  They were sheltered and
+> happy two days ago.  Now they are wandering, forlorn, hopeless,
+> and homeless, the victims of a great disaster.  So I beg of
+> you, I beg of you, to open your hearts and open your purses and
+> remember San Francisco, the smitten city."
 
 I wish to deliver a historical address. I've been studying the history
 of---er--a--let me see--a [then he stopped in confusion, and walked over to
@@ -6615,14 +6615,14 @@ properly distributed and was woven into sixty-nine yards of the best
 three-ply carpet. His wife bought the carpet, and then she erected a
 monument to his memory. It read:
 
-	Sacred to the memory
-	of
-	sixty-nine yards of the best three-ply carpet
-	containing the mortal remainders of
+> Sacred to the memory
+> of
+> sixty-nine yards of the best three-ply carpet
+> containing the mortal remainders of
 
-	REGINALD WILSON
+> REGINALD WILSON
 
-	Go thou and do likewise
+> Go thou and do likewise
 
 And so on he would ramble about telling the story of his grandfather
 until we never were told whether he found the ten-cent piece or whether
@@ -6632,20 +6632,20 @@ something else happened.
 FULTON DAY, JAMESTOWN
 ---------------------
 
-	ADDRESS DELIVERED SEPTEMBER 23, 1907
+> ADDRESS DELIVERED SEPTEMBER 23, 1907
 
-	Lieutenant-Governor Ellyson, of Virginia, in introducing Mr.
-	Clemens, said:
+> Lieutenant-Governor Ellyson, of Virginia, in introducing Mr.
+> Clemens, said:
 
-	"The people have come here to bring a tribute of affectionate
-	recollection for the man who has contributed so much to the
-	progress of the world and the happiness of mankind."  As Mr.
-	Clemens came down to the platform the applause became louder
-	and louder, until Mr. Clemens held out his hand for silence.
-	It was a great triumph, and it was almost a minute after the
-	applause ceased before Mr. Clemens could speak.  He attempted
-	it once, and when the audience noticed his emotion, it cheered
-	again loudly.
+> "The people have come here to bring a tribute of affectionate
+> recollection for the man who has contributed so much to the
+> progress of the world and the happiness of mankind."  As Mr.
+> Clemens came down to the platform the applause became louder
+> and louder, until Mr. Clemens held out his hand for silence.
+> It was a great triumph, and it was almost a minute after the
+> applause ceased before Mr. Clemens could speak.  He attempted
+> it once, and when the audience noticed his emotion, it cheered
+> again loudly.
 
 LADIES AND GENTLEMEN,--I am but human, and when you, give me a reception
 like that I am obliged to wait a little while I get my voice. When you
@@ -6749,8 +6749,8 @@ difficult task to make the second line rhyme with the first. When I was
 down in Australia there were two towns named Johnswood and Par-am. I
 made this rhyme:
 
-	"The people of Johnswood are pious and good;
-	The people of Par-am they don't care a----."
+> "The people of Johnswood are pious and good;
+> The people of Par-am they don't care a----."
 
 I do not want to compliment Admiral Harrington, but as long as such men
 as he devote their lives to the public service the credit of the country
@@ -6767,38 +6767,38 @@ LOTOS CLUB DINNER IN HONOR OF MARK TWAIN
 ----------------------------------------
 
 
-	ADDRESS AT THE FIRST FORMAL DINNER IN THE NEW CLUB-HOUSE,
-	NOVEMBER 11, 1893
+> ADDRESS AT THE FIRST FORMAL DINNER IN THE NEW CLUB-HOUSE,
+> NOVEMBER 11, 1893
 
-	In introducing the guest of the evening, Mr. Lawrence said:
+> In introducing the guest of the evening, Mr. Lawrence said:
 
-	"To-night the old faces appear once more amid new surroundings.
-	The place where last we met about the table has vanished, and
-	to-night we have our first Lotos dinner in a home that is all
-	our own.  It is peculiarly fitting that the board should now be
-	spread in honor of one who has been a member of the club for
-	full a score of years, and it is a happy augury for the future
-	that our fellow-member whom we assemble to greet should be the
-	bearer of a most distinguished name in the world of letters;
-	for the Lotos Club is ever at its best when paying homage to
-	genius in literature or in art.  Is there a civilized being who
-	has not heard the name of Mark Twain?  We knew him long years
-	ago, before he came out of the boundless West, brimful of wit
-	and eloquence, with no reverence for anything, and went abroad
-	to educate the untutored European in the subtleties of the
-	American joke.  The world has looked on and applauded while he
-	has broken many images.  He has led us in imagination all over
-	the globe.  With him as our guide we have traversed alike the
-	Mississippi and the Sea of Galilee.  At his bidding we have
-	laughed at a thousand absurdities.  By a laborious process of
-	reasoning he has convinced us that the Egyptian mummies are
-	actually dead.  He has held us spellbound upon the plain at the
-	foot of the great Sphinx, and we have joined him in weeping
-	bitter tears at the tomb of Adam.  To-night we greet him in the
-	flesh.  What name is there in literature that can be likened to
-	his?  Perhaps some of the distinguished gentlemen about this
-	table can tell us, but I know of none.  Himself his only
-	parallel!"
+> "To-night the old faces appear once more amid new surroundings.
+> The place where last we met about the table has vanished, and
+> to-night we have our first Lotos dinner in a home that is all
+> our own.  It is peculiarly fitting that the board should now be
+> spread in honor of one who has been a member of the club for
+> full a score of years, and it is a happy augury for the future
+> that our fellow-member whom we assemble to greet should be the
+> bearer of a most distinguished name in the world of letters;
+> for the Lotos Club is ever at its best when paying homage to
+> genius in literature or in art.  Is there a civilized being who
+> has not heard the name of Mark Twain?  We knew him long years
+> ago, before he came out of the boundless West, brimful of wit
+> and eloquence, with no reverence for anything, and went abroad
+> to educate the untutored European in the subtleties of the
+> American joke.  The world has looked on and applauded while he
+> has broken many images.  He has led us in imagination all over
+> the globe.  With him as our guide we have traversed alike the
+> Mississippi and the Sea of Galilee.  At his bidding we have
+> laughed at a thousand absurdities.  By a laborious process of
+> reasoning he has convinced us that the Egyptian mummies are
+> actually dead.  He has held us spellbound upon the plain at the
+> foot of the great Sphinx, and we have joined him in weeping
+> bitter tears at the tomb of Adam.  To-night we greet him in the
+> flesh.  What name is there in literature that can be likened to
+> his?  Perhaps some of the distinguished gentlemen about this
+> table can tell us, but I know of none.  Himself his only
+> parallel!"
 
 MR. PRESIDENT, GENTLEMEN, AND FELLOW-MEMBERS OF THE LOTOS CLUB,--I have
 seldom in my lifetime listened to compliments so felicitously phrased
@@ -6826,10 +6826,10 @@ others hand in their testimony; then if it is necessary for me to make
 an explanation, I will get up and explain, and if I cannot do that, I'll
 deny it happened.
 
-	Later in the evening Mr. Clemens made another speech, replying
-	to a fire of short speeches by Charles Dudley Warner, Charles
-	A. Dana, Seth Low, General Porter, and many others, each
-	welcoming the guest of honor.
+> Later in the evening Mr. Clemens made another speech, replying
+> to a fire of short speeches by Charles Dudley Warner, Charles
+> A. Dana, Seth Low, General Porter, and many others, each
+> welcoming the guest of honor.
 
 I don't see that I have a great deal to explain. I got off very well,
 considering the opportunities that these other fellows had. I don't
@@ -6860,19 +6860,19 @@ to leave it. Thank God, we don't!"
 COPYRIGHT
 ---------
 
-	With Mr. Howells, Edward Everett Hale, Thomas Nelson Page, and
-	a number of other authors, Mr. Clemens appeared before the
-	committee December 6, 1906.  The new Copyright Bill
-	contemplated an author's copyright for the term of his life and
-	for fifty years thereafter, applying also for the benefit of
-	artists, musicians, and others, but the authors did most of the
-	talking.  F. D. Millet made a speech for the artists, and John
-	Philip Sousa for the musicians.
+> With Mr. Howells, Edward Everett Hale, Thomas Nelson Page, and
+> a number of other authors, Mr. Clemens appeared before the
+> committee December 6, 1906.  The new Copyright Bill
+> contemplated an author's copyright for the term of his life and
+> for fifty years thereafter, applying also for the benefit of
+> artists, musicians, and others, but the authors did most of the
+> talking.  F. D. Millet made a speech for the artists, and John
+> Philip Sousa for the musicians.
 
-	Mr. Clemens was the last speaker of the day, and its chief
-	feature.  He made a speech, the serious parts of which created
-	a strong impression, and the humorous parts set the Senators
-	and Representatives in roars of laughter.
+> Mr. Clemens was the last speaker of the day, and its chief
+> feature.  He made a speech, the serious parts of which created
+> a strong impression, and the humorous parts set the Senators
+> and Representatives in roars of laughter.
 
 I have read this bill. At least I have read such portions as I could
 understand. Nobody but a practised legislator can read the bill and
@@ -7040,9 +7040,9 @@ step, with his arm around the newel-post, and he said:
 IN AID OF THE BLIND
 -------------------
 
-	ADDRESS AT A PUBLIC MEETING OF THE NEW YORK ASSOCIATION FOR
-	PROMOTING THE INTERESTS OF THE BLIND AT THE WALDORF ASTORIA,
-	MARCH 29, 1906
+> ADDRESS AT A PUBLIC MEETING OF THE NEW YORK ASSOCIATION FOR
+> PROMOTING THE INTERESTS OF THE BLIND AT THE WALDORF ASTORIA,
+> MARCH 29, 1906
 
 If you detect any awkwardness in my movements and infelicities in my
 conduct I will offer the explanation that I never presided at a meeting
@@ -7284,11 +7284,11 @@ it was true or not.
 DR. MARK TWAIN, FARMEOPATH
 --------------------------
 
-	ADDRESS AT THE ANNUAL DINNER OF THE NEW YORK POST-GRADUATE
-	MEDICAL SCHOOL AND HOSPITAL, JANUARY 21, 1909
+> ADDRESS AT THE ANNUAL DINNER OF THE NEW YORK POST-GRADUATE
+> MEDICAL SCHOOL AND HOSPITAL, JANUARY 21, 1909
 
-	The president, Dr.  George N.  Miller, in introducing Mr.
-	Clemens, referred to his late experience with burglars.
+> The president, Dr.  George N.  Miller, in introducing Mr.
+> Clemens, referred to his late experience with burglars.
 
 GENTLEMEN AND DOCTORS,--I am glad to be among my own kind to-night. I
 was once a sharpshooter, but now I practise a much higher and equally as
@@ -7391,15 +7391,15 @@ Rule 3. This is always indispensable: Bleed your patient.
 MISSOURI UNIVERSITY SPEECH
 --------------------------
 
-	ADDRESS DELIVERED JUNE 4, 1902, AT COLUMBIA, MO.
+> ADDRESS DELIVERED JUNE 4, 1902, AT COLUMBIA, MO.
 
-	When the name of Samuel L. Clemens was called the humorist
-	stepped forward, put his hand to his hair, and apparently
-	hesitated.  There was a dead silence for a moment.  Suddenly
-	the entire audience rose and stood in silence.  Some one began
-	to spell out the word Missouri with an interval between the
-	letters.  All joined in.  Then the house again became silent.
-	Mr. Clemens broke the spell:
+> When the name of Samuel L. Clemens was called the humorist
+> stepped forward, put his hand to his hair, and apparently
+> hesitated.  There was a dead silence for a moment.  Suddenly
+> the entire audience rose and stood in silence.  Some one began
+> to spell out the word Missouri with an interval between the
+> letters.  All joined in.  Then the house again became silent.
+> Mr. Clemens broke the spell:
 
 As you are all standing [he drawled in his characteristic voice], I
 guess, I suppose I had better stand too.
@@ -7449,12 +7449,12 @@ memory.
 BUSINESS
 --------
 
-	The alumni of Eastman College gave their annual banquet,
-	March 30, 1901, at the Y. M. C. A. Building. Mr. James G.
-	Cannon, of the Fourth National Bank, made the first speech of
-	the evening, after which Mr. Clemens was introduced by Mr.
-	Bailey as the personal friend of Tom Sawyer, who was one of the
-	types of successful business men.
+> The alumni of Eastman College gave their annual banquet,
+> March 30, 1901, at the Y. M. C. A. Building. Mr. James G.
+> Cannon, of the Fourth National Bank, made the first speech of
+> the evening, after which Mr. Clemens was introduced by Mr.
+> Bailey as the personal friend of Tom Sawyer, who was one of the
+> types of successful business men.
 
 MR. CANNON has furnished me with texts enough to last as slow a speaker
 as myself all the rest of the night. I took exception to the introducing
@@ -7502,19 +7502,19 @@ satisfy her, and so she sat down and let me proceed. I then--finished my
 first note--and so sent what I intended. I never could have done this if
 I had let my wife know the truth about it. Here is what I wrote:
 
-	TO THE OHIO SOCIETY,--I have at this moment received a most kind
-	invitation (eleven days old) from Mr. Southard, president; and a
-	like one (ten days old) from Mr. Bryant, president of the Press
-	Club.  I thank the society cordially for the compliment of these
-	invitations, although I am booked elsewhere and cannot come.
+> TO THE OHIO SOCIETY,--I have at this moment received a most kind
+> invitation (eleven days old) from Mr. Southard, president; and a
+> like one (ten days old) from Mr. Bryant, president of the Press
+> Club.  I thank the society cordially for the compliment of these
+> invitations, although I am booked elsewhere and cannot come.
 
-	But, oh, I should like to know the name of the Lightning Express by
-	which they were forwarded; for I owe a friend a dozen chickens, and
-	I believe it will be cheaper to send eggs instead, and let them
-	develop on the road.
+> But, oh, I should like to know the name of the Lightning Express by
+> which they were forwarded; for I owe a friend a dozen chickens, and
+> I believe it will be cheaper to send eggs instead, and let them
+> develop on the road.
 
-	Sincerely yours,
-	Mark TWAIN.
+> Sincerely yours,
+> Mark TWAIN.
 
 I want to tell you of some of my experiences in business, and then I
 will be in a position to lay down one general rule for the guidance
@@ -7547,12 +7547,12 @@ in business: avoid my example.
 CARNEGIE THE BENEFACTOR
 -----------------------
 
-	At the dinner given in honor of Andrew Carnegie by the Lotos
-	Club, March 17, 1909, Mr. Clemens appeared in a white suit from
-	head to feet.  He wore a white double-breasted coat, white
-	trousers, and white shoes.  The only relief was a big black
-	cigar, which he confidentially informed the company was not
-	from his usual stack bought at $3 per barrel.
+> At the dinner given in honor of Andrew Carnegie by the Lotos
+> Club, March 17, 1909, Mr. Clemens appeared in a white suit from
+> head to feet.  He wore a white double-breasted coat, white
+> trousers, and white shoes.  The only relief was a big black
+> cigar, which he confidentially informed the company was not
+> from his usual stack bought at $3 per barrel.
 
 The State of Missouri has for its coat of arms a barrel-head with two
 Missourians, one on each side of it, and mark the motto--"United We
@@ -7581,13 +7581,13 @@ modesty.
 ON POETRY, VERACITY, AND SUICIDE
 --------------------------------
 
-	ADDRESS AT A DINNER OF THE MANHATTAN DICKENS FELLOWSHIP,
-	NEW YORK CITY, FEBRUARY 7, 1906
+> ADDRESS AT A DINNER OF THE MANHATTAN DICKENS FELLOWSHIP,
+> NEW YORK CITY, FEBRUARY 7, 1906
 
-	This dinner was in commemoration of the ninety-fourth
-	anniversary of the birth of Charles Dickens.  On an other
-	occasion Mr. Clemens told the same story with variations and a
-	different conclusion to the University Settlement Society.
+> This dinner was in commemoration of the ninety-fourth
+> anniversary of the birth of Charles Dickens.  On an other
+> occasion Mr. Clemens told the same story with variations and a
+> different conclusion to the University Settlement Society.
 
 I always had taken an interest in young people who wanted to become
 poets. I remember I was particularly interested in one budding poet when
@@ -7673,11 +7673,11 @@ lie.
 WELCOME HOME
 ------------
 
-	ADDRESS AT THE DINNER IN HIS HONOR AT THE LOTOS CLUB,
-	NOVEMBER 10, 1900
+> ADDRESS AT THE DINNER IN HIS HONOR AT THE LOTOS CLUB,
+> NOVEMBER 10, 1900
 
-	In August, 1895, just before sailing for Australia, Mr. Clemens
-	issued the following statement:
+> In August, 1895, just before sailing for Australia, Mr. Clemens
+> issued the following statement:
 
 "It has been reported that I sacrificed, for the benefit of the
 creditors, the property of the publishing firm whose financial backer I
@@ -7842,20 +7842,20 @@ must vanish with the morning. I thank you.
 AN UNDELIVERED SPEECH
 ---------------------
 
-	The steamship St. Paul was to have been launched from Cramp's
-	shipyard in Philadelphia on March 25, 1895.  After the
-	launching a luncheon was to have been given, at which Mr.
-	Clemens was to make a speech.  Just before the final word was
-	given a reporter asked Mr. Clemens for a copy of his speech to
-	be delivered at the luncheon.  To facilitate the work of the
-	reporter he loaned him a typewritten copy of the speech.  It
-	happened, however, that when the blocks were knocked away the
-	big ship refused to budge, and no amount of labor could move
-	her an inch.  She had stuck fast upon the ways.  As a result,
-	the launching was postponed for a week or two; but in the mean
-	time Mr. Clemens had gone to Europe.  Years after a reporter
-	called on Mr. Clemens and submitted the manuscript of the
-	speech, which was as follows:
+> The steamship St. Paul was to have been launched from Cramp's
+> shipyard in Philadelphia on March 25, 1895.  After the
+> launching a luncheon was to have been given, at which Mr.
+> Clemens was to make a speech.  Just before the final word was
+> given a reporter asked Mr. Clemens for a copy of his speech to
+> be delivered at the luncheon.  To facilitate the work of the
+> reporter he loaned him a typewritten copy of the speech.  It
+> happened, however, that when the blocks were knocked away the
+> big ship refused to budge, and no amount of labor could move
+> her an inch.  She had stuck fast upon the ways.  As a result,
+> the launching was postponed for a week or two; but in the mean
+> time Mr. Clemens had gone to Europe.  Years after a reporter
+> called on Mr. Clemens and submitted the manuscript of the
+> speech, which was as follows:
 
 Day after to-morrow I sail for England in a ship of this line, the
 Paris. It will be my fourteenth crossing in three years and a half.
@@ -7939,10 +7939,10 @@ godspeed.
 SIXTY-SEVENTH BIRTHDAY
 ----------------------
 
-	AT THE METROPOLITAN CLUB, NEW YORK, NOVEMBER 28, 1902
+> AT THE METROPOLITAN CLUB, NEW YORK, NOVEMBER 28, 1902
 
-	Address at a dinner given in honor of Mr. Clemens by Colonel
-	Harvey, President of Harper &amp; Brothers.
+> Address at a dinner given in honor of Mr. Clemens by Colonel
+> Harvey, President of Harper &amp; Brothers.
 
 I think I ought to be allowed to talk as long as I want to, for the
 reason that I have cancelled all my winter's engagements of every kind,
@@ -8175,16 +8175,16 @@ and most grateful thanks, and--yesterday was her birthday.
 TO THE WHITEFRIARS
 ------------------
 
-	ADDRESS AT THE DINNER GIVEN BY THE WHITEFRIARS CLUB IN HONOR OF
-	MR. CLEMENS, LONDON, JUNE 20, 1899
+> ADDRESS AT THE DINNER GIVEN BY THE WHITEFRIARS CLUB IN HONOR OF
+> MR. CLEMENS, LONDON, JUNE 20, 1899
 
-	The Whitefriars Club was founded by Dr. Samuel Johnson, and Mr.
-	Clemens was made an honorary member in 1874.  The members are
-	representative of literary and journalistic London.  The toast
-	of "Our Guest" was proposed by Louis F. Austin, of the
-	Illustrated London News, and in the course of some humorous
-	remarks he referred to the vow and to the imaginary woes of the
-	"Friars," as the members of the club style themselves.
+> The Whitefriars Club was founded by Dr. Samuel Johnson, and Mr.
+> Clemens was made an honorary member in 1874.  The members are
+> representative of literary and journalistic London.  The toast
+> of "Our Guest" was proposed by Louis F. Austin, of the
+> Illustrated London News, and in the course of some humorous
+> remarks he referred to the vow and to the imaginary woes of the
+> "Friars," as the members of the club style themselves.
 
 MR. CHAIRMAN AND BRETHREN OF THE VOW--in whatever the vow is; for
 although I have been a member of this club for five-and twenty years, I
@@ -8380,13 +8380,13 @@ from me, and it is "When in doubt, tell the truth."
 THE ASCOT GOLD CUP
 ------------------
 
-	The news of Mr. Clemens's arrival in England in June, 1907, was
-	announced in the papers with big headlines.  Immediately
-	following the announcement was the news--also with big
-	headlines--that the Ascot Gold Cup had been stolen the same
-	day.  The combination, MARK TWAIN ARRIVES-ASCOT CUP STOLEN,
-	amused the public.  The Lord Mayor of London gave a banquet at
-	the Mansion House in honor of Mr. Clemens.
+> The news of Mr. Clemens's arrival in England in June, 1907, was
+> announced in the papers with big headlines.  Immediately
+> following the announcement was the news--also with big
+> headlines--that the Ascot Gold Cup had been stolen the same
+> day.  The combination, MARK TWAIN ARRIVES-ASCOT CUP STOLEN,
+> amused the public.  The Lord Mayor of London gave a banquet at
+> the Mansion House in honor of Mr. Clemens.
 
 I do assure you that I am not so dishonest as I look. I have been so
 busy trying to rehabilitate my honor about that Ascot Cup that I have
@@ -8428,12 +8428,12 @@ from the heart.
 THE SAVAGE CLUB DINNER
 ----------------------
 
-	A portrait of Mr. Clemens, signed by all the members of the
-	club attending the dinner, was presented to him, July 6, 1907,
-	and in submitting the toast "The Health of Mark Twain" Mr. J.
-	Scott Stokes recalled the fact that he had read parts of Doctor
-	Clemens's works to Harold Frederic during Frederic's last
-	illness.
+> A portrait of Mr. Clemens, signed by all the members of the
+> club attending the dinner, was presented to him, July 6, 1907,
+> and in submitting the toast "The Health of Mark Twain" Mr. J.
+> Scott Stokes recalled the fact that he had read parts of Doctor
+> Clemens's works to Harold Frederic during Frederic's last
+> illness.
 
 MR. CHAIRMAN AND FELLOW-SAVAGES,--I am very glad indeed to have that
 portrait. I think it is the best one that I have ever had, and there
@@ -8584,11 +8584,11 @@ this happy meeting with the Savages who destroy it.
 GENERAL MILES AND THE DOG
 -------------------------
 
-	Mr. Clemens was the guest of honor at a dinner given by the
-	Pleiades Club at the Hotel Brevoort, December 22, 1907.  The
-	toastmaster introduced the guest of the evening with a high
-	tribute to his place in American literature, saying that he was
-	dear to the hearts of all Americans.
+> Mr. Clemens was the guest of honor at a dinner given by the
+> Pleiades Club at the Hotel Brevoort, December 22, 1907.  The
+> toastmaster introduced the guest of the evening with a high
+> tribute to his place in American literature, saying that he was
+> dear to the hearts of all Americans.
 
 It is hard work to make a speech when you have listened to compliments
 from the powers in authority. A compliment is a hard text to preach to.
@@ -8670,11 +8670,11 @@ never had the heart to tell him about it.
 WHEN IN DOUBT, TELL THE TRUTH
 -----------------------------
 
-	Mark Twain's speech at the dinner of the "Freundschaft
-	Society," March 9, 1906, had as a basis the words of
-	introduction used by Toastmaster Frank, who, referring to
-	Pudd'nhead Wilson, used the phrase, "When in doubt, tell the
-	truth."
+> Mark Twain's speech at the dinner of the "Freundschaft
+> Society," March 9, 1906, had as a basis the words of
+> introduction used by Toastmaster Frank, who, referring to
+> Pudd'nhead Wilson, used the phrase, "When in doubt, tell the
+> truth."
 
 MR. CHAIRMAN, Mr. PUTZEL, AND GENTLEMEN OF THE FREUNDSCHAFT,--That maxim
 I did invent, but never expected it to be applied to me. I did say,
@@ -8790,8 +8790,8 @@ York morals--had no more conscience than a millionaire.
 THE DAY WE CELEBRATE
 --------------------
 
-	ADDRESS AT THE FOURTH-OF-JULY DINNER OF THE AMERICAN SOCIETY,
-	LONDON, 1899.
+> ADDRESS AT THE FOURTH-OF-JULY DINNER OF THE AMERICAN SOCIETY,
+> LONDON, 1899.
 
 I noticed in Ambassador Choate's speech that he said: "You may be
 Americans or Englishmen, but you cannot be both at the same time." You
@@ -8856,9 +8856,9 @@ profession, in which I distinguished myself, short as my career was.
 INDEPENDENCE DAY
 ----------------
 
-	The American Society in London gave a banquet, July 4, 1907, at
-	the Hotel Cecil.  Ambassador Choate called on Mr. Clemens to
-	respond to the toast "The Day We Celebrate."
+> The American Society in London gave a banquet, July 4, 1907, at
+> the Hotel Cecil.  Ambassador Choate called on Mr. Clemens to
+> respond to the toast "The Day We Celebrate."
 
 MR. CHAIRMAN, MY LORD, AND GENTLEMEN,--Once more it happens, as it has
 happened so often since I arrived in England a week or two ago,
@@ -9032,7 +9032,7 @@ them.
 AMERICANS AND THE ENGLISH
 -------------------------
 
-	ADDRESS AT A GATHERING OF AMERICANS IN LONDON, JULY 4, 1872
+> ADDRESS AT A GATHERING OF AMERICANS IN LONDON, JULY 4, 1872
 
 MR. CHAIRMAN AND LADIES AND GENTLEMEN,--I thank you for the compliment
 which has just been tendered me, and to show my appreciation of it I
@@ -9097,30 +9097,30 @@ of a far fouler since the days when Charles I. ennobled courtesans and
 all political place was a matter of bargain and sale. There is hope for
 us yet.*
 
-	*At least the above is the speech which I was going to make,
-	but our minister, General Schenck, presided, and after the
-	blessing, got up and made a great, long, inconceivably dull
-	harangue, and wound up by saying that inasmuch as speech-making
-	did not seem to exhilarate the guests much, all further oratory
-	would be dispensed with during the evening, and we could just
-	sit and talk privately to our elbow-neighbors and have a good,
-	sociable time.  It is known that in consequence of that remark
-	forty-four perfected speeches died in the womb.  The
-	depression, the gloom, the solemnity that reigned over the
-	banquet from that time forth will be a lasting memory with many
-	that were there.  By that one thoughtless remark General
-	Schenck lost forty-four of the best friends he had in England.
-	More than one said that night: "And this is the sort of person
-	that is sent to represent us in a great sister empire!"
+> *At least the above is the speech which I was going to make,
+> but our minister, General Schenck, presided, and after the
+> blessing, got up and made a great, long, inconceivably dull
+> harangue, and wound up by saying that inasmuch as speech-making
+> did not seem to exhilarate the guests much, all further oratory
+> would be dispensed with during the evening, and we could just
+> sit and talk privately to our elbow-neighbors and have a good,
+> sociable time.  It is known that in consequence of that remark
+> forty-four perfected speeches died in the womb.  The
+> depression, the gloom, the solemnity that reigned over the
+> banquet from that time forth will be a lasting memory with many
+> that were there.  By that one thoughtless remark General
+> Schenck lost forty-four of the best friends he had in England.
+> More than one said that night: "And this is the sort of person
+> that is sent to represent us in a great sister empire!"
 
 
 ABOUT LONDON
 ------------
 
-	ADDRESS AT A DINNER GIVEN BY THE SAVAGE CLUB,
-	LONDON, SEPTEMBER 28, 1872.
+> ADDRESS AT A DINNER GIVEN BY THE SAVAGE CLUB,
+> LONDON, SEPTEMBER 28, 1872.
 
-	Reported by Moncure D. Conway in the Cincinnati Commercial.
+> Reported by Moncure D. Conway in the Cincinnati Commercial.
 
 It affords me sincere pleasure to meet this distinguished club, a club
 which has extended its hospitalities and its cordial welcome to so many
@@ -9223,10 +9223,10 @@ I give you his memory.
 PRINCETON
 ---------
 
-	Mr. Clemens spent several days in May, 1901, in Princeton, New
-	Jersey, as the guest of Lawrence Hutton.  He gave a reading one
-	evening before a large audience composed of university students
-	and professors.  Before the reading Mr. Clemens said:
+> Mr. Clemens spent several days in May, 1901, in Princeton, New
+> Jersey, as the guest of Lawrence Hutton.  He gave a reading one
+> evening before a large audience composed of university students
+> and professors.  Before the reading Mr. Clemens said:
 
 I feel exceedingly surreptitious in coming down here without an
 announcement of any kind. I do not want to see any advertisements
@@ -9241,19 +9241,19 @@ something like that.
 THE ST. LOUIS HARBOR-BOAT "MARK TWAIN"
 --------------------------------------
 
-	The Countess de Rochambeau christened the St. Louis harbor-boat
-	'Mark Twain' in honor of Mr. Clemens, June 6, 1902.  Just
-	before the luncheon he acted as pilot.
+> The Countess de Rochambeau christened the St. Louis harbor-boat
+> 'Mark Twain' in honor of Mr. Clemens, June 6, 1902.  Just
+> before the luncheon he acted as pilot.
 
-	"Lower away lead!" boomed out the voice of the pilot.
+> "Lower away lead!" boomed out the voice of the pilot.
 
-	"Mark twain, quarter five and one-half-six feet!" replied the
-	leadsman below.
+> "Mark twain, quarter five and one-half-six feet!" replied the
+> leadsman below.
 
-	"You are all dead safe as long as I have the wheel--but this is
-	my last time at the wheel."
+> "You are all dead safe as long as I have the wheel--but this is
+> my last time at the wheel."
 
-	At the luncheon Mr. Clemens made a short address.
+> At the luncheon Mr. Clemens made a short address.
 
 First of all, no--second of all--I wish to offer my thanks for the honor
 done me by naming this last rose of summer of the Mississippi Valley for
@@ -9276,18 +9276,18 @@ have done it myself for half the money.
 SEVENTIETH BIRTHDAY
 -------------------
 
-	ADDRESS AT A DINNER GIVEN BY COLONEL GEORGE HARVEY AT
-	DELMONICO'S, DECEMBER 5, 1905, TO CELEBRATE THE SEVENTIETH
-	ANNIVERSARY OF MR. CLEMENS' BIRTH
+> ADDRESS AT A DINNER GIVEN BY COLONEL GEORGE HARVEY AT
+> DELMONICO'S, DECEMBER 5, 1905, TO CELEBRATE THE SEVENTIETH
+> ANNIVERSARY OF MR. CLEMENS' BIRTH
 
-	Mr. Howells introduced Mr. Clemens:
+> Mr. Howells introduced Mr. Clemens:
 
-	"Now, ladies and gentlemen, and Colonel Harvey, I will try not
-	to be greedy on your behalf in wishing the health of our
-	honored and, in view of his great age, our revered guest.  I
-	will not say, 'Oh King, live forever!' but 'Oh King, live as
-	long as you like!'" [Amid great applause and waving of napkins
-	all rise and drink to Mark Twain.]
+> "Now, ladies and gentlemen, and Colonel Harvey, I will try not
+> to be greedy on your behalf in wishing the health of our
+> honored and, in view of his great age, our revered guest.  I
+> will not say, 'Oh King, live forever!' but 'Oh King, live as
+> long as you like!'" [Amid great applause and waving of napkins
+> all rise and drink to Mark Twain.]
 
 Well, if I made that joke, it is the best one I ever made, and it is in
 the prettiest language, too.--I never can get quite to that height. But

@@ -495,8 +495,8 @@ FOLLOWING THE EQUATOR
 CHAPTER I.
 ----------
 
-	A man may have no bad habits and have worse.
-		--Pudd'nhead Wilson's New Calendar.
+> A man may have no bad habits and have worse.
+> --Pudd'nhead Wilson's New Calendar.
 
 The starting point of this lecturing-trip around the world was Paris,
 where we had been living a year or two.
@@ -764,8 +764,8 @@ earl in the police court in the morning and fail to prove it.
 CHAPTER II.
 -----------
 
-	When in doubt, tell the truth.
-		--Pudd'nhead Wilson's New Calendar.
+> When in doubt, tell the truth.
+> --Pudd'nhead Wilson's New Calendar.
 
 About four days out from Victoria we plunged into hot weather, and all
 the male passengers put on white linen clothes.  One or two days later we
@@ -1230,8 +1230,8 @@ determine for himself how the thing came out.
 CHAPTER III.
 ------------
 
-	It is more trouble to make a maxim than it is to do right.
-		--Pudd'nhead Wilson's New Calendar.
+> It is more trouble to make a maxim than it is to do right.
+> --Pudd'nhead Wilson's New Calendar.
 
 On the seventh day out we saw a dim vast bulk standing up out of the
 wastes of the Pacific and knew that that spectral promontory was Diamond
@@ -1510,44 +1510,44 @@ But Honolulu has grown wealthy since then, and of course wealth has
 introduced changes; some of the old simplicities have disappeared.  Here
 is a modern house, as pictured by Mrs.  Krout:
 
-	"Almost every house is surrounded by extensive lawns and gardens
-	enclosed by walls of volcanic stone or by thick hedges of the
-	brilliant hibiscus.
+> "Almost every house is surrounded by extensive lawns and gardens
+> enclosed by walls of volcanic stone or by thick hedges of the
+> brilliant hibiscus.
 
-	"The houses are most tastefully and comfortably furnished; the
-	floors are either of hard wood covered with rugs or with fine Indian
-	matting, while there is a preference, as in most warm countries, for
-	rattan or bamboo furniture; there are the usual accessories of
-	bric-a-brac, pictures, books, and curios from all parts of the world,
-	for these island dwellers are indefatigable travelers.
+> "The houses are most tastefully and comfortably furnished; the
+> floors are either of hard wood covered with rugs or with fine Indian
+> matting, while there is a preference, as in most warm countries, for
+> rattan or bamboo furniture; there are the usual accessories of
+> bric-a-brac, pictures, books, and curios from all parts of the world,
+> for these island dwellers are indefatigable travelers.
 
-	"Nearly every house has what is called a lanai.  It is a large
-	apartment, roofed, floored, open on three sides, with a door or a
-	draped archway opening into the drawing-room.  Frequently the roof
-	is formed by the thick interlacing boughs of the hou tree,
-	impervious to the sun and even to the rain, except in violent
-	storms.  Vines are trained about the sides--the stephanotis or some
-	one of the countless fragrant and blossoming trailers which abound
-	in the islands.  There are also curtains of matting that may be
-	drawn to exclude the sun or rain.  The floor is bare for coolness,
-	or partially covered with rugs, and the lanai is prettily furnished
-	with comfortable chairs, sofas, and tables loaded with flowers, or
-	wonderful ferns in pots.
+> "Nearly every house has what is called a lanai.  It is a large
+> apartment, roofed, floored, open on three sides, with a door or a
+> draped archway opening into the drawing-room.  Frequently the roof
+> is formed by the thick interlacing boughs of the hou tree,
+> impervious to the sun and even to the rain, except in violent
+> storms.  Vines are trained about the sides--the stephanotis or some
+> one of the countless fragrant and blossoming trailers which abound
+> in the islands.  There are also curtains of matting that may be
+> drawn to exclude the sun or rain.  The floor is bare for coolness,
+> or partially covered with rugs, and the lanai is prettily furnished
+> with comfortable chairs, sofas, and tables loaded with flowers, or
+> wonderful ferns in pots.
 
-	"The lanai is the favorite reception room, and here at any social
-	function the musical program is given and cakes and ices are served;
-	here morning callers are received, or gay riding parties, the ladies
-	in pretty divided skirts, worn for convenience in riding astride,
-	--the universal mode adopted by Europeans and Americans, as well as
-	by the natives.
+> "The lanai is the favorite reception room, and here at any social
+> function the musical program is given and cakes and ices are served;
+> here morning callers are received, or gay riding parties, the ladies
+> in pretty divided skirts, worn for convenience in riding astride,
+> --the universal mode adopted by Europeans and Americans, as well as
+> by the natives.
 
-	"The comfort and luxury of such an apartment, especially at a
-	seashore villa, can hardly be imagined.  The soft breezes sweep
-	across it, heavy with the fragrance of jasmine and gardenia, and
-	through the swaying boughs of palm and mimosa there are glimpses of
-	rugged mountains, their summits veiled in clouds, of purple sea with
-	the white surf beating eternally against the reefs, whiter still in
-	the yellow sunlight or the magical moonlight of the tropics."
+> "The comfort and luxury of such an apartment, especially at a
+> seashore villa, can hardly be imagined.  The soft breezes sweep
+> across it, heavy with the fragrance of jasmine and gardenia, and
+> through the swaying boughs of palm and mimosa there are glimpses of
+> rugged mountains, their summits veiled in clouds, of purple sea with
+> the white surf beating eternally against the reefs, whiter still in
+> the yellow sunlight or the magical moonlight of the tropics."
 
 There: rugs, ices, pictures, lanais, worldly books, sinful bric-a-brac
 fetched from everywhere.  And the ladies riding astride.  These are
@@ -1596,46 +1596,46 @@ all lepers die.
 In this place let me insert a paragraph or two from "The Paradise of
 the Pacific" (Rev. H. H. Gowen)--
 
-	"Poor lepers!  It is easy for those who have no relatives or friends
-	among them to enforce the decree of segregation to the letter, but
-	who can write of the terrible, the heart-breaking scenes which that
-	enforcement has brought about?
+> "Poor lepers!  It is easy for those who have no relatives or friends
+> among them to enforce the decree of segregation to the letter, but
+> who can write of the terrible, the heart-breaking scenes which that
+> enforcement has brought about?
 
-	"A man upon Hawaii was suddenly taken away after a summary arrest,
-	leaving behind him a helpless wife about to give birth to a babe.
-	The devoted wife with great pain and risk came the whole journey to
-	Honolulu, and pleaded until the authorities were unable to resist
-	her entreaty that she might go and live like a leper with her leper
-	husband.
+> "A man upon Hawaii was suddenly taken away after a summary arrest,
+> leaving behind him a helpless wife about to give birth to a babe.
+> The devoted wife with great pain and risk came the whole journey to
+> Honolulu, and pleaded until the authorities were unable to resist
+> her entreaty that she might go and live like a leper with her leper
+> husband.
 
-	"A woman in the prime of life and activity is condemned as an
-	incipient leper, suddenly removed from her home, and her husband
-	returns to find his two helpless babes moaning for their lost
-	mother.
+> "A woman in the prime of life and activity is condemned as an
+> incipient leper, suddenly removed from her home, and her husband
+> returns to find his two helpless babes moaning for their lost
+> mother.
 
-	"Imagine it!  The case of the babies is hard, but its bitterness is
-	a trifle--less than a trifle--less than nothing--compared to what
-	the mother must suffer; and suffer minute by minute, hour by hour,
-	day by day, month by month, year by year, without respite, relief,
-	or any abatement of her pain till she dies.
+> "Imagine it!  The case of the babies is hard, but its bitterness is
+> a trifle--less than a trifle--less than nothing--compared to what
+> the mother must suffer; and suffer minute by minute, hour by hour,
+> day by day, month by month, year by year, without respite, relief,
+> or any abatement of her pain till she dies.
 
-	"One woman, Luka Kaaukau, has been living with her leper husband in
-	the settlement for twelve years.  The man has scarcely a joint left,
-	his limbs are only distorted ulcerated stumps, for four years his
-	wife has put every particle of food into his mouth.  He wanted his
-	wife to abandon his wretched carcass long ago, as she herself was
-	sound and well, but Luka said that she was content to remain and
-	wait on the man she loved till the spirit should be freed from its
-	burden.
+> "One woman, Luka Kaaukau, has been living with her leper husband in
+> the settlement for twelve years.  The man has scarcely a joint left,
+> his limbs are only distorted ulcerated stumps, for four years his
+> wife has put every particle of food into his mouth.  He wanted his
+> wife to abandon his wretched carcass long ago, as she herself was
+> sound and well, but Luka said that she was content to remain and
+> wait on the man she loved till the spirit should be freed from its
+> burden.
 
-	"I myself have known hard cases enough:--of a girl, apparently in
-	full health, decorating the church with me at Easter, who before
-	Christmas is taken away as a confirmed leper; of a mother hiding her
-	child in the mountains for years so that not even her dearest
-	friends knew that she had a child alive, that he might not be taken
-	away; of a respectable white man taken away from his wife and
-	family, and compelled to become a dweller in the Leper Settlement,
-	where he is counted dead, even by the insurance companies."
+> "I myself have known hard cases enough:--of a girl, apparently in
+> full health, decorating the church with me at Easter, who before
+> Christmas is taken away as a confirmed leper; of a mother hiding her
+> child in the mountains for years so that not even her dearest
+> friends knew that she had a child alive, that he might not be taken
+> away; of a respectable white man taken away from his wife and
+> family, and compelled to become a dweller in the Leper Settlement,
+> where he is counted dead, even by the insurance companies."
 
 And one great pity of it all is, that these poor sufferers are innocent.
 The leprosy does not come of sins which they committed, but of sins
@@ -1652,9 +1652,9 @@ of glad music!
 CHAPTER IV.
 -----------
 
-	A dozen direct censures are easier to bear than one morganatic
-	compliment.
-		--Pudd'nhead Wilson's New Calendar.
+> A dozen direct censures are easier to bear than one morganatic
+> compliment.
+> --Pudd'nhead Wilson's New Calendar.
 
 Sailed from Honolulu.--From diary:
 
@@ -1749,11 +1749,11 @@ first tournament will show, better than any description, how very chancy
 the game is.  The losers here represented had all been winners in the
 previous games of the series, some of them by fine majorities:
 
-	Chase,102	 Mrs.  D.,57    Mortimer, 105  The Surgeon, 92
-	Miss C.,105    Mrs.  T.,9	Clemens, 101   Taylor,92
-	Taylor,109	Davies,95	 Miss C., 108   Mortimer,55
-	Thomas,102	Roper,76	  Clemens, 111   Miss C.,89
-	Coomber, 106   Chase,98
+> Chase,102	 Mrs.  D.,57    Mortimer, 105  The Surgeon, 92
+> Miss C.,105    Mrs.  T.,9	Clemens, 101   Taylor,92
+> Taylor,109	Davies,95	 Miss C., 108   Mortimer,55
+> Thomas,102	Roper,76	  Clemens, 111   Miss C.,89
+> Coomber, 106   Chase,98
 
 And so on; until but three couples of winners were left.  Then I beat my
 man, young Smith beat his man, and Thomas beat his.  This reduced the
@@ -1932,9 +1932,9 @@ them.
 CHAPTER V.
 ----------
 
-	Noise proves nothing.  Often a hen who has merely laid an egg cackles as
-	if she had laid an asteroid.
-		--Pudd'nhead Wilson's New Calendar.
+> Noise proves nothing.  Often a hen who has merely laid an egg cackles as
+> if she had laid an asteroid.
+> --Pudd'nhead Wilson's New Calendar.
 
 WEDNESDAY, Sept. 11.  In this world we often make mistakes of judgment.
 We do not as a rule get out of them sound and whole, but sometimes we do.
@@ -1977,8 +1977,8 @@ a Scotchman's tone when he utters the name.
 
 "This is what he says:
 
-	'There were nae bairns but only three
-	--Ane at the breast, twa at the knee.'"
+> 'There were nae bairns but only three
+> --Ane at the breast, twa at the knee.'"
 
 It ended the discussion.  There was no man there profane enough, disloyal
 enough, to say any word against a thing which Robert Burns had settled.
@@ -2078,38 +2078,38 @@ popular with the islanders, as a rule.  And yet that did not make the
 business wholly dull and uninteresting; for one finds rather frequent
 little breaks in the monotony of it--like this, for instance:
 
-	"The afternoon of our arrival at Leper Island the schooner was lying
-	almost becalmed under the lee of the lofty central portion of the
-	island, about three-quarters of a mile from the shore.  The boats
-	were in sight at some distance.  The recruiter-boat had run into a
-	small nook on the rocky coast, under a high bank, above which stood
-	a solitary hut backed by dense forest.  The government agent and
-	mate in the second boat lay about 400 yards to the westward.
+> "The afternoon of our arrival at Leper Island the schooner was lying
+> almost becalmed under the lee of the lofty central portion of the
+> island, about three-quarters of a mile from the shore.  The boats
+> were in sight at some distance.  The recruiter-boat had run into a
+> small nook on the rocky coast, under a high bank, above which stood
+> a solitary hut backed by dense forest.  The government agent and
+> mate in the second boat lay about 400 yards to the westward.
 
-	"Suddenly we heard the sound of firing, followed by yells from the
-	natives on shore, and then we saw the recruiter-boat push out with a
-	seemingly diminished crew.  The mate's boat pulled quickly up, took
-	her in tow, and presently brought her alongside, all her own crew
-	being more or less hurt.  It seems the natives had called them into
-	the place on pretence of friendship.  A crowd gathered about the
-	stern of the boat, and several fellows even got into her.  All of a
-	sudden our men were attacked with clubs and tomahawks.  The
-	recruiter escaped the first blows aimed at him, making play with his
-	fists until he had an opportunity to draw his revolver.  'Tom
-	Sayers,' a Mare man, received a tomahawk blow on the head which laid
-	the scalp open but did not penetrate his skull, fortunately.  'Bobby
-	Towns,' another Mare boatman, had both his thumbs cut in warding off
-	blows, one of them being so nearly severed from the hand that the
-	doctors had to finish the operation.  Lihu, a Lifu boy, the
-	recruiter's special attendant, was cut and pricked in various
-	places, but nowhere seriously.  Jack, an unlucky Tanna recruit, who
-	had been engaged to act as boatman, received an arrow through his
-	forearm, the head of which--apiece of bone seven or eight inches
-	long--was still in the limb, protruding from both sides, when the
-	boats returned.  The recruiter himself would have got off scot-free
-	had not an arrow pinned one of his fingers to the loom of the
-	steering-oar just as they were getting off.  The fight had been
-	short but sharp.  The enemy lost two men, both shot dead."
+> "Suddenly we heard the sound of firing, followed by yells from the
+> natives on shore, and then we saw the recruiter-boat push out with a
+> seemingly diminished crew.  The mate's boat pulled quickly up, took
+> her in tow, and presently brought her alongside, all her own crew
+> being more or less hurt.  It seems the natives had called them into
+> the place on pretence of friendship.  A crowd gathered about the
+> stern of the boat, and several fellows even got into her.  All of a
+> sudden our men were attacked with clubs and tomahawks.  The
+> recruiter escaped the first blows aimed at him, making play with his
+> fists until he had an opportunity to draw his revolver.  'Tom
+> Sayers,' a Mare man, received a tomahawk blow on the head which laid
+> the scalp open but did not penetrate his skull, fortunately.  'Bobby
+> Towns,' another Mare boatman, had both his thumbs cut in warding off
+> blows, one of them being so nearly severed from the hand that the
+> doctors had to finish the operation.  Lihu, a Lifu boy, the
+> recruiter's special attendant, was cut and pricked in various
+> places, but nowhere seriously.  Jack, an unlucky Tanna recruit, who
+> had been engaged to act as boatman, received an arrow through his
+> forearm, the head of which--apiece of bone seven or eight inches
+> long--was still in the limb, protruding from both sides, when the
+> boats returned.  The recruiter himself would have got off scot-free
+> had not an arrow pinned one of his fingers to the loom of the
+> steering-oar just as they were getting off.  The fight had been
+> short but sharp.  The enemy lost two men, both shot dead."
 
 The truth is, Captain Wawn furnishes such a crowd of instances of fatal
 encounters between natives and French and English recruiting-crews (for
@@ -2126,8 +2126,8 @@ kind recruiters.
 CHAPTER VI.
 -----------
 
-	He was as shy as a newspaper is when referring to its own merits.
-		--Pudd'nhead Wilson's New Calendar.
+> He was as shy as a newspaper is when referring to its own merits.
+> --Pudd'nhead Wilson's New Calendar.
 
 Captain Wawn is crystal-clear on one point: He does not approve of
 missionaries.  They obstruct his business.  They make "Recruiting," as he
@@ -2170,13 +2170,13 @@ puzzle to me.  Here is the explanation, from the planter's point of view;
 at least I gather from the missionary's pamphlet that it is the
 planter's:
 
-	"When he comes from his home he is a savage, pure and simple.  He
-	feels no shame at his nakedness and want of adornment.  When he
-	returns home he does so well dressed, sporting a Waterbury watch,
-	collars, cuffs, boots, and jewelry.  He takes with him one or more
-	boxes--["Box" is English for trunk.]--well filled with clothing, a
-	musical instrument or two, and perfumery and other articles of
-	luxury he has learned to appreciate."
+> "When he comes from his home he is a savage, pure and simple.  He
+> feels no shame at his nakedness and want of adornment.  When he
+> returns home he does so well dressed, sporting a Waterbury watch,
+> collars, cuffs, boots, and jewelry.  He takes with him one or more
+> boxes--["Box" is English for trunk.]--well filled with clothing, a
+> musical instrument or two, and perfumery and other articles of
+> luxury he has learned to appreciate."
 
 For just one moment we have a seeming flash of comprehension of, the
 Kanaka's reason for exiling himself: he goes away to acquire
@@ -2190,28 +2190,28 @@ It all looks plausible--for a moment.  Then the missionary takes hold of
 this explanation and pulls it to pieces, and dances on it, and damages it
 beyond recognition.
 
-	"Admitting that the foregoing description is the average one, the
-	average sequel is this: The cuffs and collars, if used at all, are
-	carried off by youngsters, who fasten them round the leg, just below
-	the knee, as ornaments.  The Waterbury, broken and dirty, finds its
-	way to the trader, who gives a trifle for it; or the inside is taken
-	out, the wheels strung on a thread and hung round the neck.  Knives,
-	axes, calico, and handkerchiefs are divided among friends, and there
-	is hardly one of these apiece.  The boxes, the keys often lost on
-	the road home, can be bought for 2s. 6d.  They are to be seen
-	rotting outside in almost any shore village on Tanna.  (I speak of
-	what I have seen.) A returned Kanaka has been furiously angry with
-	me because I would not buy his trousers, which he declared were just
-	my fit.  He sold them afterwards to one of my Aniwan teachers for
-	9d. worth of tobacco--a pair of trousers that probably cost him 8s.
-	or 10s. in Queensland.  A coat or shirt is handy for cold weather.
-	The white handkerchiefs, the 'senet' (perfumery), the umbrella, and
-	perhaps the hat, are kept.  The boots have to take their chance, if
-	they do not happen to fit the copra trader.  'Senet' on the hair,
-	streaks of paint on the face, a dirty white handkerchief round the
-	neck, strips of turtle shell in the ears, a belt, a sheath and
-	knife, and an umbrella constitute the rig of returned Kanaka at home
-	the day after landing."
+> "Admitting that the foregoing description is the average one, the
+> average sequel is this: The cuffs and collars, if used at all, are
+> carried off by youngsters, who fasten them round the leg, just below
+> the knee, as ornaments.  The Waterbury, broken and dirty, finds its
+> way to the trader, who gives a trifle for it; or the inside is taken
+> out, the wheels strung on a thread and hung round the neck.  Knives,
+> axes, calico, and handkerchiefs are divided among friends, and there
+> is hardly one of these apiece.  The boxes, the keys often lost on
+> the road home, can be bought for 2s. 6d.  They are to be seen
+> rotting outside in almost any shore village on Tanna.  (I speak of
+> what I have seen.) A returned Kanaka has been furiously angry with
+> me because I would not buy his trousers, which he declared were just
+> my fit.  He sold them afterwards to one of my Aniwan teachers for
+> 9d. worth of tobacco--a pair of trousers that probably cost him 8s.
+> or 10s. in Queensland.  A coat or shirt is handy for cold weather.
+> The white handkerchiefs, the 'senet' (perfumery), the umbrella, and
+> perhaps the hat, are kept.  The boots have to take their chance, if
+> they do not happen to fit the copra trader.  'Senet' on the hair,
+> streaks of paint on the face, a dirty white handkerchief round the
+> neck, strips of turtle shell in the ears, a belt, a sheath and
+> knife, and an umbrella constitute the rig of returned Kanaka at home
+> the day after landing."
 
 A hat, an umbrella, a belt, a neckerchief.  Otherwise stark naked.  All
 in a day the hard-earned "civilization" has melted away to this.  And
@@ -2236,33 +2236,33 @@ requires that he shall be allowed to go free; and another clause of it
 requires the recruiter to set him ashore--per boat, because of the
 prevalence of sharks.  Testimony from Rev. Mr. Gray:
 
-	"There are 'wrinkles' for taking the penitent Kanaka.  My first
-	experience of the Traffic was a case of this kind in 1884.  A vessel
-	anchored just out of sight of our station, word was brought to me
-	that some boys were stolen, and the relatives wished me to go and
-	get them back.  The facts were, as I found, that six boys had
-	recruited, had rushed into the boat, the Government Agent informed
-	me.  They had all 'signed'; and, said the Government Agent, 'on
-	board they shall remain.'  I was assured that the six boys were of
-	age and willing to go.  Yet on getting ready to leave the ship I
-	found four of the lads ready to come ashore in the boat!  This I
-	forbade.  One of them jumped into the water and persisted in coming
-	ashore in my boat.  When appealed to, the Government Agent suggested
-	that we go and leave him to be picked up by the ship's boat, a
-	quarter mile distant at the time!"
+> "There are 'wrinkles' for taking the penitent Kanaka.  My first
+> experience of the Traffic was a case of this kind in 1884.  A vessel
+> anchored just out of sight of our station, word was brought to me
+> that some boys were stolen, and the relatives wished me to go and
+> get them back.  The facts were, as I found, that six boys had
+> recruited, had rushed into the boat, the Government Agent informed
+> me.  They had all 'signed'; and, said the Government Agent, 'on
+> board they shall remain.'  I was assured that the six boys were of
+> age and willing to go.  Yet on getting ready to leave the ship I
+> found four of the lads ready to come ashore in the boat!  This I
+> forbade.  One of them jumped into the water and persisted in coming
+> ashore in my boat.  When appealed to, the Government Agent suggested
+> that we go and leave him to be picked up by the ship's boat, a
+> quarter mile distant at the time!"
 
 The law and the missionaries feel for the repentant recruit--and
 properly, one may be permitted to think, for he is only a youth and
 ignorant and persuadable to his hurt--but sympathy for him is not kept in
 stock by the recruiter.  Rev. Mr. Gray says:
 
-	"A captain many years in the traffic explained to me how a penitent
-	could betaken.  'When a boy jumps overboard we just take a boat and
-	pull ahead of him, then lie between him and the shore.  If he has
-	not tired himself swimming, and passes the boat, keep on heading him
-	in this way.  The dodge rarely fails.  The boy generally tires of
-	swimming, gets into the boat of his own accord, and goes quietly on
-	board."
+> "A captain many years in the traffic explained to me how a penitent
+> could betaken.  'When a boy jumps overboard we just take a boat and
+> pull ahead of him, then lie between him and the shore.  If he has
+> not tired himself swimming, and passes the boat, keep on heading him
+> in this way.  The dodge rarely fails.  The boy generally tires of
+> swimming, gets into the boat of his own accord, and goes quietly on
+> board."
 
 Yes, exhaustion is likely to make a boy quiet.  If the distressed boy had
 been the speaker's son, and the captors savages, the speaker would have
@@ -2280,13 +2280,13 @@ regulations."  They and the missionaries have poisoned his life.  He
 grieves for the good old days, vanished to come no more.  See him weep;
 hear him cuss between the lines!
 
-	"For a long time we were allowed to apprehend and detain all
-	deserters who had signed the agreement on board ship, but the
-	'cast-iron' regulations of the Act of 1884 put a stop to that,
-	allowing the Kanaka to sign the agreement for three years' service,
-	travel about in the ship in receipt of the regular rations, cadge
-	all he could, and leave when he thought fit, so long as he did not
-	extend his pleasure trip to Queensland."
+> "For a long time we were allowed to apprehend and detain all
+> deserters who had signed the agreement on board ship, but the
+> 'cast-iron' regulations of the Act of 1884 put a stop to that,
+> allowing the Kanaka to sign the agreement for three years' service,
+> travel about in the ship in receipt of the regular rations, cadge
+> all he could, and leave when he thought fit, so long as he did not
+> extend his pleasure trip to Queensland."
 
 Rev. Mr. Gray calls this same restrictive cast-iron law a "farce." "There
 is as much cruelty and injustice done to natives by acts that are legal
@@ -2322,30 +2322,30 @@ little too early.  Prophecy is a good line of business, but it is full of
 risks.  This prophet was the Right Rev. M. Russell, LL.D., D.C.L., of
 Edinburgh:
 
-	"Is the tide of civilization to roll only to the foot of the Rocky
-	Mountains, and is the sun of knowledge to set at last in the waves
-	of the Pacific?  No; the mighty day of four thousand years is
-	drawing to its close; the sun of humanity has performed its destined
-	course; but long ere its setting rays are extinguished in the west,
-	its ascending beams have glittered on the isles of the eastern seas
-	.  .  .  .  And now we see the race of Japhet setting forth to
-	people the isles, and the seeds of another Europe and a second
-	England sown in the regions of the sun.  But mark the words of the
-	prophecy: 'He shall dwell in the tents of Shem, and Canaan shall be
-	his servant.'  It is not said Canaan shall be his slave.  To the
-	Anglo-Saxon race is given the scepter of the globe, but there is not
-	given either the lash of the slave-driver or the rack of the
-	executioner.  The East will not be stained with the same atrocities
-	as the West; the frightful gangrene of an enthralled race is not to
-	mar the destinies of the family of Japhet in the Oriental world;
-	humanizing, not destroying, as they advance; uniting with, not
-	enslaving, the inhabitants with whom they dwell, the British race
-	may,"  etc., etc.
+> "Is the tide of civilization to roll only to the foot of the Rocky
+> Mountains, and is the sun of knowledge to set at last in the waves
+> of the Pacific?  No; the mighty day of four thousand years is
+> drawing to its close; the sun of humanity has performed its destined
+> course; but long ere its setting rays are extinguished in the west,
+> its ascending beams have glittered on the isles of the eastern seas
+> .  .  .  .  And now we see the race of Japhet setting forth to
+> people the isles, and the seeds of another Europe and a second
+> England sown in the regions of the sun.  But mark the words of the
+> prophecy: 'He shall dwell in the tents of Shem, and Canaan shall be
+> his servant.'  It is not said Canaan shall be his slave.  To the
+> Anglo-Saxon race is given the scepter of the globe, but there is not
+> given either the lash of the slave-driver or the rack of the
+> executioner.  The East will not be stained with the same atrocities
+> as the West; the frightful gangrene of an enthralled race is not to
+> mar the destinies of the family of Japhet in the Oriental world;
+> humanizing, not destroying, as they advance; uniting with, not
+> enslaving, the inhabitants with whom they dwell, the British race
+> may,"  etc., etc.
 
 And he closes his vision with an invocation from Thomson:
 
-	"Come, bright Improvement! on the car of Time,
-	And rule the spacious world from clime to clime."
+> "Come, bright Improvement! on the car of Time,
+> And rule the spacious world from clime to clime."
 
 Very well, Bright Improvement has arrived, you see, with her
 civilization, and her Waterbury, and her umbrella, and her third-quality
@@ -2356,48 +2356,48 @@ handsome!
 But the prophet that speaks last has an advantage over the pioneer in the
 business.  Rev. Mr. Gray says:
 
-	"What I am concerned about is that we as a Christian nation should
-	wipe out these races to enrich ourselves."
+> "What I am concerned about is that we as a Christian nation should
+> wipe out these races to enrich ourselves."
 
 And he closes his pamphlet with a grim Indictment which is as eloquent in
 its flowerless straightforward English as is the hand-painted rhapsody of
 the early prophet:
 
-	"My indictment of the Queensland-Kanaka Labor Traffic is this
+> "My indictment of the Queensland-Kanaka Labor Traffic is this
 
-	"1. It generally demoralizes and always impoverishes the Kanaka,
-	deprives him of his citizenship, and depopulates the islands fitted
-	to his home.
+> "1. It generally demoralizes and always impoverishes the Kanaka,
+> deprives him of his citizenship, and depopulates the islands fitted
+> to his home.
 
-	"2. It is felt to lower the dignity of the white agricultural
-	laborer in Queensland, and beyond a doubt it lowers his wages there.
+> "2. It is felt to lower the dignity of the white agricultural
+> laborer in Queensland, and beyond a doubt it lowers his wages there.
 
-	"3. The whole system is fraught with danger to Australia and the
-	islands on the score of health.
+> "3. The whole system is fraught with danger to Australia and the
+> islands on the score of health.
 
-	"4. On social and political grounds the continuance of the
-	Queensland Kanaka Labor Traffic must be a barrier to the true
-	federation of the Australian colonies.
+> "4. On social and political grounds the continuance of the
+> Queensland Kanaka Labor Traffic must be a barrier to the true
+> federation of the Australian colonies.
 
-	"5. The Regulations under which the Traffic exists in Queensland are
-	inadequate to prevent abuses, and in the nature of things they must
-	remain so.
+> "5. The Regulations under which the Traffic exists in Queensland are
+> inadequate to prevent abuses, and in the nature of things they must
+> remain so.
 
-	"6. The whole system is contrary to the spirit and doctrine of the
-	Gospel of Jesus Christ.  The Gospel requires us to help the weak,
-	but the Kanaka is fleeced and trodden down.
+> "6. The whole system is contrary to the spirit and doctrine of the
+> Gospel of Jesus Christ.  The Gospel requires us to help the weak,
+> but the Kanaka is fleeced and trodden down.
 
-	"7. The bed-rock of this Traffic is that the life and liberty of a
-	black man are of less value than those of a white man.  And a
-	Traffic that has grown out of 'slave-hunting' will certainly remain
-	to the end not unlike its origin."
+> "7. The bed-rock of this Traffic is that the life and liberty of a
+> black man are of less value than those of a white man.  And a
+> Traffic that has grown out of 'slave-hunting' will certainly remain
+> to the end not unlike its origin."
 
 
 CHAPTER VII.
 ------------
 
-	Truth is the most valuable thing we have.  Let us economize it.
-		--Pudd'nhead Wilson's New Calendar.
+> Truth is the most valuable thing we have.  Let us economize it.
+> --Pudd'nhead Wilson's New Calendar.
 
 From Diary:--For a day or two we have been plowing among an invisible
 vast wilderness of islands, catching now and then a shadowy glimpse of a
@@ -2597,9 +2597,9 @@ and flourish there forever in immortal beauty!
 CHAPTER VIII.
 -------------
 
-	It could probably be shown by facts and figures that there is no
-	distinctly native American criminal class except Congress.
-		--Pudd'nhead Wilson's New Calendar.
+> It could probably be shown by facts and figures that there is no
+> distinctly native American criminal class except Congress.
+> --Pudd'nhead Wilson's New Calendar.
 
 When one glances at the map the members of the stupendous island
 wilderness of the Pacific seem to crowd upon each other; but no, there is
@@ -2707,96 +2707,96 @@ quadruped, and Christian called the Ornithorhynchus--grotesquest of
 animals, king of the animalculae of the world for versatility of
 character and make-up.  Said he:
 
-	"You can call it anything you want to, and be right.  It is a fish,
-	for it lives in the river half the time; it is a land animal, for it
-	resides on the land half the time; it is an amphibian, since it
-	likes both and does not know which it prefers; it is a hybernian,
-	for when times are dull and nothing much going on it buries itself
-	under the mud at the bottom of a puddle and hybernates there a
-	couple of weeks at a time; it is a kind of duck, for it has a
-	duck-bill and four webbed paddles; it is a fish and quadruped
-	together, for in the water it swims with the paddles and on shore it
-	paws itself across country with them; it is a kind of seal, for it
-	has a seal's fur; it is carnivorous, herbivorous, insectivorous, and
-	vermifuginous, for it eats fish and grass and butterflies, and in
-	the season digs worms out of the mud and devours them; it is clearly
-	a bird, for it lays eggs, and hatches them; it is clearly a mammal,
-	for it nurses its young; and it is manifestly a kind of Christian,
-	for it keeps the Sabbath when there is anybody around, and when
-	there isn't, doesn't.  It has all the tastes there are except
-	refined ones, it has all the habits there are except good ones.
+> "You can call it anything you want to, and be right.  It is a fish,
+> for it lives in the river half the time; it is a land animal, for it
+> resides on the land half the time; it is an amphibian, since it
+> likes both and does not know which it prefers; it is a hybernian,
+> for when times are dull and nothing much going on it buries itself
+> under the mud at the bottom of a puddle and hybernates there a
+> couple of weeks at a time; it is a kind of duck, for it has a
+> duck-bill and four webbed paddles; it is a fish and quadruped
+> together, for in the water it swims with the paddles and on shore it
+> paws itself across country with them; it is a kind of seal, for it
+> has a seal's fur; it is carnivorous, herbivorous, insectivorous, and
+> vermifuginous, for it eats fish and grass and butterflies, and in
+> the season digs worms out of the mud and devours them; it is clearly
+> a bird, for it lays eggs, and hatches them; it is clearly a mammal,
+> for it nurses its young; and it is manifestly a kind of Christian,
+> for it keeps the Sabbath when there is anybody around, and when
+> there isn't, doesn't.  It has all the tastes there are except
+> refined ones, it has all the habits there are except good ones.
 
-	"It is a survival--a survival of the fittest.  Mr. Darwin invented
-	the theory that goes by that name, but the Ornithorhynchus was the
-	first to put it to actual experiment and prove that it could be
-	done.  Hence it should have as much of the credit as Mr. Darwin.
-	It was never in the Ark; you will find no mention of it there; it
-	nobly stayed out and worked the theory.  Of all creatures in the
-	world it was the only one properly equipped for the test.  The Ark
-	was thirteen months afloat, and all the globe submerged; no land
-	visible above the flood, no vegetation, no food for a mammal to eat,
-	nor water for a mammal to drink; for all mammal food was destroyed,
-	and when the pure floods from heaven and the salt oceans of the
-	earth mingled their waters and rose above the mountain tops, the
-	result was a drink which no bird or beast of ordinary construction
-	could use and live.  But this combination was nuts for the
-	Ornithorhynchus, if I may use a term like that without offense.
-	Its river home had always been salted by the flood-tides of the sea.
-	On the face of the Noachian deluge innumerable forest trees were
-	floating.  Upon these the Ornithorhynchus voyaged in peace; voyaged
-	from clime to clime, from hemisphere to hemisphere, in contentment
-	and comfort, in virile interest in the constant change of scene, in
-	humble thankfulness for its privileges, in ever-increasing
-	enthusiasm in the development of the great theory upon whose
-	validity it had staked its life, its fortunes, and its sacred honor,
-	if I may use such expressions without impropriety in connection with
-	an episode of this nature.
+> "It is a survival--a survival of the fittest.  Mr. Darwin invented
+> the theory that goes by that name, but the Ornithorhynchus was the
+> first to put it to actual experiment and prove that it could be
+> done.  Hence it should have as much of the credit as Mr. Darwin.
+> It was never in the Ark; you will find no mention of it there; it
+> nobly stayed out and worked the theory.  Of all creatures in the
+> world it was the only one properly equipped for the test.  The Ark
+> was thirteen months afloat, and all the globe submerged; no land
+> visible above the flood, no vegetation, no food for a mammal to eat,
+> nor water for a mammal to drink; for all mammal food was destroyed,
+> and when the pure floods from heaven and the salt oceans of the
+> earth mingled their waters and rose above the mountain tops, the
+> result was a drink which no bird or beast of ordinary construction
+> could use and live.  But this combination was nuts for the
+> Ornithorhynchus, if I may use a term like that without offense.
+> Its river home had always been salted by the flood-tides of the sea.
+> On the face of the Noachian deluge innumerable forest trees were
+> floating.  Upon these the Ornithorhynchus voyaged in peace; voyaged
+> from clime to clime, from hemisphere to hemisphere, in contentment
+> and comfort, in virile interest in the constant change of scene, in
+> humble thankfulness for its privileges, in ever-increasing
+> enthusiasm in the development of the great theory upon whose
+> validity it had staked its life, its fortunes, and its sacred honor,
+> if I may use such expressions without impropriety in connection with
+> an episode of this nature.
 
-	"It lived the tranquil and luxurious life of a creature of
-	independent means.  Of things actually necessary to its existence
-	and its happiness not a detail was wanting.  When it wished to walk,
-	it scrambled along the tree-trunk; it mused in the shade of the
-	leaves by day, it slept in their shelter by night; when it wanted
-	the refreshment of a swim, it had it; it ate leaves when it wanted a
-	vegetable diet, it dug under the bark for worms and grubs; when it
-	wanted fish it caught them, when it wanted eggs it laid them.  If
-	the grubs gave out in one tree it swam to another; and as for fish,
-	the very opulence of the supply was an embarrassment.  And finally,
-	when it was thirsty it smacked its chops in gratitude over a blend
-	that would have slain a crocodile.
+> "It lived the tranquil and luxurious life of a creature of
+> independent means.  Of things actually necessary to its existence
+> and its happiness not a detail was wanting.  When it wished to walk,
+> it scrambled along the tree-trunk; it mused in the shade of the
+> leaves by day, it slept in their shelter by night; when it wanted
+> the refreshment of a swim, it had it; it ate leaves when it wanted a
+> vegetable diet, it dug under the bark for worms and grubs; when it
+> wanted fish it caught them, when it wanted eggs it laid them.  If
+> the grubs gave out in one tree it swam to another; and as for fish,
+> the very opulence of the supply was an embarrassment.  And finally,
+> when it was thirsty it smacked its chops in gratitude over a blend
+> that would have slain a crocodile.
 
-	"When at last, after thirteen months of travel and research in all
-	the Zones it went aground on a mountain-summit, it strode ashore,
-	saying in its heart, 'Let them that come after me invent theories
-	and dream dreams about the Survival of the Fittest if they like, but
-	I am the first that has done it!
+> "When at last, after thirteen months of travel and research in all
+> the Zones it went aground on a mountain-summit, it strode ashore,
+> saying in its heart, 'Let them that come after me invent theories
+> and dream dreams about the Survival of the Fittest if they like, but
+> I am the first that has done it!
 
-	"This wonderful creature dates back like the kangaroo and many other
-	Australian hydrocephalous invertebrates, to an age long anterior to
-	the advent of man upon the earth; they date back, indeed, to a time
-	when a causeway hundreds of miles wide, and thousands of miles long,
-	joined Australia to Africa, and the animals of the two countries
-	were alike, and all belonged to that remote geological epoch known
-	to science as the Old Red Grindstone Post-Pleosaurian.  Later the
-	causeway sank under the sea; subterranean convulsions lifted the
-	African continent a thousand feet higher than it was before, but
-	Australia kept her old level.  In Africa's new climate the animals
-	necessarily began to develop and shade off into new forms and
-	families and species, but the animals of Australia as necessarily
-	remained stationary, and have so remained until this day.  In the
-	course of some millions of years the African Ornithorhynchus
-	developed and developed and developed, and sluffed off detail after
-	detail of its make-up until at last the creature became wholly
-	disintegrated and scattered.  Whenever you see a bird or a beast or
-	a seal or an otter in Africa you know that he is merely a sorry
-	surviving fragment of that sublime original of whom I have been
-	speaking--that creature which was everything in general and nothing
-	in particular--the opulently endowed 'e pluribus unum' of the animal
-	world.
+> "This wonderful creature dates back like the kangaroo and many other
+> Australian hydrocephalous invertebrates, to an age long anterior to
+> the advent of man upon the earth; they date back, indeed, to a time
+> when a causeway hundreds of miles wide, and thousands of miles long,
+> joined Australia to Africa, and the animals of the two countries
+> were alike, and all belonged to that remote geological epoch known
+> to science as the Old Red Grindstone Post-Pleosaurian.  Later the
+> causeway sank under the sea; subterranean convulsions lifted the
+> African continent a thousand feet higher than it was before, but
+> Australia kept her old level.  In Africa's new climate the animals
+> necessarily began to develop and shade off into new forms and
+> families and species, but the animals of Australia as necessarily
+> remained stationary, and have so remained until this day.  In the
+> course of some millions of years the African Ornithorhynchus
+> developed and developed and developed, and sluffed off detail after
+> detail of its make-up until at last the creature became wholly
+> disintegrated and scattered.  Whenever you see a bird or a beast or
+> a seal or an otter in Africa you know that he is merely a sorry
+> surviving fragment of that sublime original of whom I have been
+> speaking--that creature which was everything in general and nothing
+> in particular--the opulently endowed 'e pluribus unum' of the animal
+> world.
 
-	"Such is the history of the most hoary, the most ancient, the most
-	venerable creature that exists in the earth today--Ornithorhynchus
-	Platypus Extraordinariensis--whom God preserve!"
+> "Such is the history of the most hoary, the most ancient, the most
+> venerable creature that exists in the earth today--Ornithorhynchus
+> Platypus Extraordinariensis--whom God preserve!"
 
 When he was strongly moved he could rise and soar like that with ease.
 And not only in the prose form, but in the poetical as well.  He had
@@ -2805,32 +2805,32 @@ around among the passengers, and was willing to let them be copied.  It
 seemed to me that the least technical one in the series, and the one
 which reached the loftiest note, perhaps, was his:
 
-	INVOCATION.
+> INVOCATION.
 
-	"Come forth from thy oozy couch,
-	O Ornithorhynchus dear!
-	And greet with a cordial claw
-	The stranger that longs to hear
+> "Come forth from thy oozy couch,
+> O Ornithorhynchus dear!
+> And greet with a cordial claw
+> The stranger that longs to hear
 
-	"From thy own own lips the tale
-	Of thy origin all unknown:
-	Thy misplaced bone where flesh should be
-	And flesh where should be bone;
+> "From thy own own lips the tale
+> Of thy origin all unknown:
+> Thy misplaced bone where flesh should be
+> And flesh where should be bone;
 
-	"And fishy fin where should be paw,
-	And beaver-trowel tail,
-	And snout of beast equip'd with teeth
-	Where gills ought to prevail.
+> "And fishy fin where should be paw,
+> And beaver-trowel tail,
+> And snout of beast equip'd with teeth
+> Where gills ought to prevail.
 
-	"Come, Kangaroo, the good and true
-	Foreshortened as to legs,
-	And body tapered like a churn,
-	And sack marsupial, i' fegs,
+> "Come, Kangaroo, the good and true
+> Foreshortened as to legs,
+> And body tapered like a churn,
+> And sack marsupial, i' fegs,
 
-	"And tells us why you linger here,
-	Thou relic of a vanished time,
-	When all your friends as fossils sleep,
-	Immortalized in lime!"
+> "And tells us why you linger here,
+> Thou relic of a vanished time,
+> When all your friends as fossils sleep,
+> Immortalized in lime!"
 
 Perhaps no poet is a conscious plagiarist; but there seems to be warrant
 for suspecting that there is no poet who is not at one time or another an
@@ -2844,37 +2844,37 @@ are there.  Compare this Invocation with "Frank Dutton"--particularly
 stanzas first and seventeenth--and I think the reader will feel convinced
 that he who wrote the one had read the other:
 
-	I.
+> I.
 
-	"Frank Dutton was as fine a lad
-	As ever you wish to see,
-	And he was drowned in Pine Island Lake
-	On earth no more will he be,
-	His age was near fifteen years,
-	And he was a motherless boy,
-	He was living with his grandmother
-	When he was drowned, poor boy."
+> "Frank Dutton was as fine a lad
+> As ever you wish to see,
+> And he was drowned in Pine Island Lake
+> On earth no more will he be,
+> His age was near fifteen years,
+> And he was a motherless boy,
+> He was living with his grandmother
+> When he was drowned, poor boy."
 
 
-	XVII.
+> XVII.
 
-	"He was drowned on Tuesday afternoon,
-	On Sunday he was found,
-	And the tidings of that drowned boy
-	Was heard for miles around.
-	His form was laid by his mother's side,
-	Beneath the cold, cold ground,
-	His friends for him will drop a tear
-	When they view his little mound."
+> "He was drowned on Tuesday afternoon,
+> On Sunday he was found,
+> And the tidings of that drowned boy
+> Was heard for miles around.
+> His form was laid by his mother's side,
+> Beneath the cold, cold ground,
+> His friends for him will drop a tear
+> When they view his little mound."
 
-		- The Sentimental Song Book.  By Mrs. Julia Moore, p. 36.
+> - The Sentimental Song Book.  By Mrs. Julia Moore, p. 36.
 
 
 CHAPTER IX.
 -----------
 
-	It is your human environment that makes climate.
-		--Pudd'nhead Wilson's New Calendar.
+> It is your human environment that makes climate.
+> --Pudd'nhead Wilson's New Calendar.
 
 Sept. 15--Night.  Close to Australia now.  Sydney 50 miles distant.
 
@@ -3101,24 +3101,24 @@ would not know by the thermometer that he was not in the blistering
 Plains of India.  Captain Sturt, the great explorer, gives us a sample of
 the heat.
 
-	"The wind, which had been blowing all the morning from the N.E.,
-	increased to a heavy gale, and I shall never forget its withering
-	effect.  I sought shelter behind a large gum-tree, but the blasts of
-	heat were so terrific that I wondered the very grass did not take
-	fire.  This really was nothing ideal: everything both animate and
-	inanimate gave way before it; the horses stood with their backs to
-	the wind and their noses to the ground, without the muscular
-	strength to raise their heads; the birds were mute, and the leaves
-	of the trees under which we were sitting fell like a snow shower
-	around us.  At noon I took a thermometer graded to 127 deg., out of
-	my box, and observed that the mercury was up to 125.  Thinking that
-	it had been unduly influenced, I put it in the fork of a tree close
-	to me, sheltered alike from the wind and the sun.  I went to examine
-	it about an hour afterwards, when I found the mercury had risen to
-	the-top of the instrument and had burst the bulb, a circumstance
-	that I believe no traveler has ever before had to record.  I cannot
-	find language to convey to the reader's mind an idea of the intense
-	and oppressive nature of the heat that prevailed."
+> "The wind, which had been blowing all the morning from the N.E.,
+> increased to a heavy gale, and I shall never forget its withering
+> effect.  I sought shelter behind a large gum-tree, but the blasts of
+> heat were so terrific that I wondered the very grass did not take
+> fire.  This really was nothing ideal: everything both animate and
+> inanimate gave way before it; the horses stood with their backs to
+> the wind and their noses to the ground, without the muscular
+> strength to raise their heads; the birds were mute, and the leaves
+> of the trees under which we were sitting fell like a snow shower
+> around us.  At noon I took a thermometer graded to 127 deg., out of
+> my box, and observed that the mercury was up to 125.  Thinking that
+> it had been unduly influenced, I put it in the fork of a tree close
+> to me, sheltered alike from the wind and the sun.  I went to examine
+> it about an hour afterwards, when I found the mercury had risen to
+> the-top of the instrument and had burst the bulb, a circumstance
+> that I believe no traveler has ever before had to record.  I cannot
+> find language to convey to the reader's mind an idea of the intense
+> and oppressive nature of the heat that prevailed."
 
 That hot wind sweeps over Sydney sometimes, and brings with it what is
 called a "dust-storm."  It is said that most Australian towns are
@@ -3128,22 +3128,22 @@ duststorm of Nevada, if you leave out the "shovel" part.  Still the
 shovel part is a pretty important part, and seems to indicate that my
 Nevada storm is but a poor thing, after all.
 
-	"As we proceeded the altitude became less, and the heat
-	proportionately greater until we reached Dubbo, which is only 600
-	feet above sea-level.  It is a pretty town, built on an extensive
-	plain .  .  .  .  After the effects of a shower of rain have passed
-	away the surface of the ground crumbles into a thick layer of dust,
-	and occasionally, when the wind is in a particular quarter, it is
-	lifted bodily from the ground in one long opaque cloud.  In the
-	midst of such a storm nothing can be seen a few yards ahead, and the
-	unlucky person who happens to be out at the time is compelled to
-	seek the nearest retreat at hand.  When the thrifty housewife sees
-	in the distance the dark column advancing in a steady whirl towards
-	her house, she closes the doors and windows with all expedition.  A
-	drawing-room, the window of which has been carelessly left open
-	during a dust-storm, is indeed an extraordinary sight.  A lady who
-	has resided in Dubbo for some years says that the dust lies so thick
-	on the carpet that it is necessary to use a shovel to remove it."
+> "As we proceeded the altitude became less, and the heat
+> proportionately greater until we reached Dubbo, which is only 600
+> feet above sea-level.  It is a pretty town, built on an extensive
+> plain .  .  .  .  After the effects of a shower of rain have passed
+> away the surface of the ground crumbles into a thick layer of dust,
+> and occasionally, when the wind is in a particular quarter, it is
+> lifted bodily from the ground in one long opaque cloud.  In the
+> midst of such a storm nothing can be seen a few yards ahead, and the
+> unlucky person who happens to be out at the time is compelled to
+> seek the nearest retreat at hand.  When the thrifty housewife sees
+> in the distance the dark column advancing in a steady whirl towards
+> her house, she closes the doors and windows with all expedition.  A
+> drawing-room, the window of which has been carelessly left open
+> during a dust-storm, is indeed an extraordinary sight.  A lady who
+> has resided in Dubbo for some years says that the dust lies so thick
+> on the carpet that it is necessary to use a shovel to remove it."
 
 And probably a wagon.  I was mistaken; I have not seen a proper
 duststorm.  To my mind the exterior aspects and character of Australia
@@ -3162,9 +3162,9 @@ around it.
 CHAPTER X.
 ----------
 
-	Everything human is pathetic.  The secret source of Humor itself is not
-	joy but sorrow.  There is no humor in heaven.
-		--Pudd'nhead Wilson's New Calendar.
+> Everything human is pathetic.  The secret source of Humor itself is not
+> joy but sorrow.  There is no humor in heaven.
+> --Pudd'nhead Wilson's New Calendar.
 
 Captain Cook found Australia in 1770, and eighteen years later the
 British Government began to transport convicts to it.  Altogether, New
@@ -3298,11 +3298,11 @@ over the way.
 CHAPTER XI.
 -----------
 
-	We should be careful to get out of an experience only the wisdom that is
-	in it--and stop there; lest we be like the cat that sits down on a hot
-	stove-lid.  She will never sit down on a hot stove-lid again--and that is
-	well; but also she will never sit down on a cold one any more.
-		--Pudd'nhead Wilson's New Calendar.
+> We should be careful to get out of an experience only the wisdom that is
+> in it--and stop there; lest we be like the cat that sits down on a hot
+> stove-lid.  She will never sit down on a hot stove-lid again--and that is
+> well; but also she will never sit down on a cold one any more.
+> --Pudd'nhead Wilson's New Calendar.
 
 All English-speaking colonies are made up of lavishly hospitable people,
 and New South Wales and its capital are like the rest in this.  The
@@ -3317,35 +3317,35 @@ across difficulties and do some ungraceful stumbling.
 Mr. Gane ("New South Wales and Victoria in 1885 "), tried to distribute
 his gratitude, and was not lucky:
 
-	"The inhabitants of Sydney are renowned for their hospitality.  The
-	treatment which we experienced at the hands of this generous-hearted
-	people will help more than anything else to make us recollect with
-	pleasure our stay amongst them.  In the character of hosts and
-	hostesses they excel.  The 'new chum' needs only the
-	acquaintanceship of one of their number, and he becomes at once the
-	happy recipient of numerous complimentary invitations and thoughtful
-	kindnesses.  Of the towns it has been our good fortune to visit,
-	none have portrayed home so faithfully as Sydney."
+> "The inhabitants of Sydney are renowned for their hospitality.  The
+> treatment which we experienced at the hands of this generous-hearted
+> people will help more than anything else to make us recollect with
+> pleasure our stay amongst them.  In the character of hosts and
+> hostesses they excel.  The 'new chum' needs only the
+> acquaintanceship of one of their number, and he becomes at once the
+> happy recipient of numerous complimentary invitations and thoughtful
+> kindnesses.  Of the towns it has been our good fortune to visit,
+> none have portrayed home so faithfully as Sydney."
 
 Nobody could say it finer than that.  If he had put in his cork then, and
 stayed away from Dubbo----but no; heedless man, he pulled it again.
 Pulled it when he was away along in his book, and his memory of what he
 had said about Sydney had grown dim:
 
-	"We cannot quit the promising town of Dubbo without testifying, in
-	warm praise, to the kind-hearted and hospitable usages of its
-	inhabitants.  Sydney, though well deserving the character it bears
-	of its kindly treatment of strangers, possesses a little formality
-	and reserve.  In Dubbo, on the contrary, though the same congenial
-	manners prevail, there is a pleasing degree of respectful
-	familiarity which gives the town a homely comfort not often met with
-	elsewhere.  In laying on one side our pen we feel contented in
-	having been able, though so late in this work, to bestow a
-	panegyric, however unpretentious, on a town which, though possessing
-	no picturesque natural surroundings, nor interesting architectural
-	productions, has yet a body of citizens whose hearts cannot but
-	obtain for their town a reputation for benevolence and
-	kind-heartedness."
+> "We cannot quit the promising town of Dubbo without testifying, in
+> warm praise, to the kind-hearted and hospitable usages of its
+> inhabitants.  Sydney, though well deserving the character it bears
+> of its kindly treatment of strangers, possesses a little formality
+> and reserve.  In Dubbo, on the contrary, though the same congenial
+> manners prevail, there is a pleasing degree of respectful
+> familiarity which gives the town a homely comfort not often met with
+> elsewhere.  In laying on one side our pen we feel contented in
+> having been able, though so late in this work, to bestow a
+> panegyric, however unpretentious, on a town which, though possessing
+> no picturesque natural surroundings, nor interesting architectural
+> productions, has yet a body of citizens whose hearts cannot but
+> obtain for their town a reputation for benevolence and
+> kind-heartedness."
 
 I wonder what soured him on Sydney.  It seems strange that a pleasing
 degree of three or four fingers of respectful familiarity should fill a
@@ -3475,10 +3475,10 @@ Englishman, the other by an Australian.
 CHAPTER XII.
 ------------
 
-	There are those who scoff at the schoolboy, calling him frivolous and
-	shallow: Yet it was the schoolboy who said "Faith is believing what you
-	know ain't so."
-		--Pudd'nhead Wilson's New Calendar.
+> There are those who scoff at the schoolboy, calling him frivolous and
+> shallow: Yet it was the schoolboy who said "Faith is believing what you
+> know ain't so."
+> --Pudd'nhead Wilson's New Calendar.
 
 In Sydney I had a large dream, and in the course of talk I told it to a
 missionary from India who was on his way to visit some relatives in New
@@ -3490,14 +3490,14 @@ life the corpuscles.
 
 Mr. X., the missionary, considered the dream awhile, then said:
 
-	"It is not surpassable for magnitude, since its metes and bounds are
-	the metes and bounds of the universe itself; and it seems to me that
-	it almost accounts for a thing which is otherwise nearly
-	unaccountable--the origin of the sacred legends of the Hindoos.
-	Perhaps they dream them, and then honestly believe them to be divine
-	revelations of fact.  It looks like that, for the legends are built
-	on so vast a scale that it does not seem reasonable that plodding
-	priests would happen upon such colossal fancies when awake."
+> "It is not surpassable for magnitude, since its metes and bounds are
+> the metes and bounds of the universe itself; and it seems to me that
+> it almost accounts for a thing which is otherwise nearly
+> unaccountable--the origin of the sacred legends of the Hindoos.
+> Perhaps they dream them, and then honestly believe them to be divine
+> revelations of fact.  It looks like that, for the legends are built
+> on so vast a scale that it does not seem reasonable that plodding
+> priests would happen upon such colossal fancies when awake."
 
 He told some of the legends, and said that they were implicitly believed
 by all classes of Hindoos, including those of high social position and
@@ -3505,127 +3505,127 @@ intelligence; and he said that this universal credulity was a great
 hindrance to the missionary in his work.  Then he said something like
 this:
 
-	"At home, people wonder why Christianity does not make faster
-	progress in India.  They hear that the Indians believe easily, and
-	that they have a natural trust in miracles and give them a
-	hospitable reception.  Then they argue like this: since the Indian
-	believes easily, place Christianity before them and they must
-	believe; confirm its truths by the biblical miracles, and they will
-	no longer doubt. The natural deduction is, that as Christianity
-	makes but indifferent progress in India, the fault is with us: we
-	are not fortunate in presenting the doctrines and the miracles.
+> "At home, people wonder why Christianity does not make faster
+> progress in India.  They hear that the Indians believe easily, and
+> that they have a natural trust in miracles and give them a
+> hospitable reception.  Then they argue like this: since the Indian
+> believes easily, place Christianity before them and they must
+> believe; confirm its truths by the biblical miracles, and they will
+> no longer doubt. The natural deduction is, that as Christianity
+> makes but indifferent progress in India, the fault is with us: we
+> are not fortunate in presenting the doctrines and the miracles.
 
-	"But the truth is, we are not by any means so well equipped as they
-	think.  We have not the easy task that they imagine.  To use a
-	military figure, we are sent against the enemy with good powder in
-	our guns, but only wads for bullets; that is to say, our miracles
-	are not effective; the Hindoos do not care for them; they have more
-	extraordinary ones of their own.  All the details of their own
-	religion are proven and established by miracles; the details of ours
-	must be proven in the same way.  When I first began my work in India
-	I greatly underestimated the difficulties thus put upon my task.  A
-	correction was not long in coming.  I thought as our friends think
-	at home--that to prepare my childlike wonder-lovers to listen with
-	favor to my grave message I only needed to charm the way to it with
-	wonders, marvels, miracles.  With full confidence I told the wonders
-	performed by Samson, the strongest man that had ever lived--for so I
-	called him.
+> "But the truth is, we are not by any means so well equipped as they
+> think.  We have not the easy task that they imagine.  To use a
+> military figure, we are sent against the enemy with good powder in
+> our guns, but only wads for bullets; that is to say, our miracles
+> are not effective; the Hindoos do not care for them; they have more
+> extraordinary ones of their own.  All the details of their own
+> religion are proven and established by miracles; the details of ours
+> must be proven in the same way.  When I first began my work in India
+> I greatly underestimated the difficulties thus put upon my task.  A
+> correction was not long in coming.  I thought as our friends think
+> at home--that to prepare my childlike wonder-lovers to listen with
+> favor to my grave message I only needed to charm the way to it with
+> wonders, marvels, miracles.  With full confidence I told the wonders
+> performed by Samson, the strongest man that had ever lived--for so I
+> called him.
 
-	"At first I saw lively anticipation and strong interest in the faces
-	of my people, but as I moved along from incident to incident of the
-	great story, I was distressed to see that I was steadily losing the
-	sympathy of my audience.  I could not understand it.  It was a
-	surprise to me, and a disappointment.  Before I was through, the
-	fading sympathy had paled to indifference.  Thence to the end the
-	indifference remained; I was not able to make any impression upon
-	it.
+> "At first I saw lively anticipation and strong interest in the faces
+> of my people, but as I moved along from incident to incident of the
+> great story, I was distressed to see that I was steadily losing the
+> sympathy of my audience.  I could not understand it.  It was a
+> surprise to me, and a disappointment.  Before I was through, the
+> fading sympathy had paled to indifference.  Thence to the end the
+> indifference remained; I was not able to make any impression upon
+> it.
 
-	"A good old Hindoo gentleman told me where my trouble lay.  He said
-	'We Hindoos recognize a god by the work of his hands--we accept no
-	other testimony.  Apparently, this is also the rule with you
-	Christians.  And we know when a man has his power from a god by the
-	fact that he does things which he could not do, as a man, with the
-	mere powers of a man.  Plainly, this is the Christian's way also, of
-	knowing when a man is working by a god's power and not by his own.
-	You saw that there was a supernatural property in the hair of
-	Samson; for you perceived that when his hair was gone he was as
-	other men.  It is our way, as I have said.  There are many nations
-	in the world, and each group of nations has its own gods, and will
-	pay no worship to the gods of the others.  Each group believes its
-	own gods to be strongest, and it will not exchange them except for
-	gods that shall be proven to be their superiors in power.  Man is
-	but a weak creature, and needs the help of gods--he cannot do
-	without it.  Shall he place his fate in the hands of weak gods when
-	there may be stronger ones to be found?  That would be foolish.  No,
-	if he hear of gods that are stronger than his own, he should not
-	turn a deaf ear, for it is not a light matter that is at stake.  How
-	then shall he determine which gods are the stronger, his own or
-	those that preside over the concerns of other nations?  By comparing
-	the known works of his own gods with the works of those others;
-	there is no other way.  Now, when we make this comparison, we are
-	not drawn towards the gods of any other nation.  Our gods are shown
-	by their works to be the strongest, the most powerful.  The
-	Christians have but few gods, and they are new--new, and not strong;
-	as it seems to us.  They will increase in number, it is true, for
-	this has happened with all gods, but that time is far away, many
-	ages and decades of ages away, for gods multiply slowly, as is meet
-	for beings to whom a thousand years is but a single moment.  Our own
-	gods have been born millions of years apart.  The process is slow,
-	the gathering of strength and power is similarly slow.  In the slow
-	lapse of the ages the steadily accumulating power of our gods has at
-	last become prodigious.  We have a thousand proofs of this in the
-	colossal character of their personal acts and the acts of ordinary
-	men to whom they have given supernatural qualities.  To your Samson
-	was given supernatural power, and when he broke the withes, and slew
-	the thousands with the jawbone of an ass, and carried away the
-	gate's of the city upon his shoulders, you were amazed--and also
-	awed, for you recognized the divine source of his strength.  But it
-	could not profit to place these things before your Hindoo
-	congregation and invite their wonder; for they would compare them
-	with the deed done by Hanuman, when our gods infused their divine
-	strength into his muscles; and they would be indifferent to them--as
-	you saw.  In the old, old times, ages and ages gone by, when our god
-	Rama was warring with the demon god of Ceylon, Rama bethought him to
-	bridge the sea and connect Ceylon with India, so that his armies
-	might pass easily over; and he sent his general, Hanuman, inspired
-	like your own Samson with divine strength, to bring the materials
-	for the bridge.  In two days Hanuman strode fifteen hundred miles,
-	to the Himalayas, and took upon his shoulder a range of those lofty
-	mountains two hundred miles long, and started with it toward Ceylon.
-	It was in the night; and, as he passed along the plain, the people
-	of Govardhun heard the thunder of his tread and felt the earth
-	rocking under it, and they ran out, and there, with their snowy
-	summits piled to heaven, they saw the Himalayas passing by.  And as
-	this huge continent swept along overshadowing the earth, upon its
-	slopes they discerned the twinkling lights of a thousand sleeping
-	villages, and it was as if the constellations were filing in
-	procession through the sky.  While they were looking, Hanuman
-	stumbled, and a small ridge of red sandstone twenty miles long was
-	jolted loose and fell.  Half of its length has wasted away in the
-	course of the ages, but the other ten miles of it remain in the
-	plain by Govardhun to this day as proof of the might of the
-	inspiration of our gods.  You must know, yourself, that Hanuman
-	could not have carried those mountains to Ceylon except by the
-	strength of the gods.  You know that it was not done by his own
-	strength, therefore, you know that it was done by the strength of
-	the gods, just as you know that Samson carried the gates by the
-	divine strength and not by his own.  I think you must concede two
-	things:  First, That in carrying the gates of the city upon his
-	shoulders, Samson did not establish the superiority of his gods over
-	ours; secondly, That his feat is not supported by any but verbal
-	evidence, while Hanuman's is not only supported by verbal evidence,
-	but this evidence is confirmed, established, proven, by visible,
-	tangible evidence, which is the strongest of all testimony.  We have
-	the sandstone ridge, and while it remains we cannot doubt, and shall
-	not.  Have you the gates?'"
+> "A good old Hindoo gentleman told me where my trouble lay.  He said
+> 'We Hindoos recognize a god by the work of his hands--we accept no
+> other testimony.  Apparently, this is also the rule with you
+> Christians.  And we know when a man has his power from a god by the
+> fact that he does things which he could not do, as a man, with the
+> mere powers of a man.  Plainly, this is the Christian's way also, of
+> knowing when a man is working by a god's power and not by his own.
+> You saw that there was a supernatural property in the hair of
+> Samson; for you perceived that when his hair was gone he was as
+> other men.  It is our way, as I have said.  There are many nations
+> in the world, and each group of nations has its own gods, and will
+> pay no worship to the gods of the others.  Each group believes its
+> own gods to be strongest, and it will not exchange them except for
+> gods that shall be proven to be their superiors in power.  Man is
+> but a weak creature, and needs the help of gods--he cannot do
+> without it.  Shall he place his fate in the hands of weak gods when
+> there may be stronger ones to be found?  That would be foolish.  No,
+> if he hear of gods that are stronger than his own, he should not
+> turn a deaf ear, for it is not a light matter that is at stake.  How
+> then shall he determine which gods are the stronger, his own or
+> those that preside over the concerns of other nations?  By comparing
+> the known works of his own gods with the works of those others;
+> there is no other way.  Now, when we make this comparison, we are
+> not drawn towards the gods of any other nation.  Our gods are shown
+> by their works to be the strongest, the most powerful.  The
+> Christians have but few gods, and they are new--new, and not strong;
+> as it seems to us.  They will increase in number, it is true, for
+> this has happened with all gods, but that time is far away, many
+> ages and decades of ages away, for gods multiply slowly, as is meet
+> for beings to whom a thousand years is but a single moment.  Our own
+> gods have been born millions of years apart.  The process is slow,
+> the gathering of strength and power is similarly slow.  In the slow
+> lapse of the ages the steadily accumulating power of our gods has at
+> last become prodigious.  We have a thousand proofs of this in the
+> colossal character of their personal acts and the acts of ordinary
+> men to whom they have given supernatural qualities.  To your Samson
+> was given supernatural power, and when he broke the withes, and slew
+> the thousands with the jawbone of an ass, and carried away the
+> gate's of the city upon his shoulders, you were amazed--and also
+> awed, for you recognized the divine source of his strength.  But it
+> could not profit to place these things before your Hindoo
+> congregation and invite their wonder; for they would compare them
+> with the deed done by Hanuman, when our gods infused their divine
+> strength into his muscles; and they would be indifferent to them--as
+> you saw.  In the old, old times, ages and ages gone by, when our god
+> Rama was warring with the demon god of Ceylon, Rama bethought him to
+> bridge the sea and connect Ceylon with India, so that his armies
+> might pass easily over; and he sent his general, Hanuman, inspired
+> like your own Samson with divine strength, to bring the materials
+> for the bridge.  In two days Hanuman strode fifteen hundred miles,
+> to the Himalayas, and took upon his shoulder a range of those lofty
+> mountains two hundred miles long, and started with it toward Ceylon.
+> It was in the night; and, as he passed along the plain, the people
+> of Govardhun heard the thunder of his tread and felt the earth
+> rocking under it, and they ran out, and there, with their snowy
+> summits piled to heaven, they saw the Himalayas passing by.  And as
+> this huge continent swept along overshadowing the earth, upon its
+> slopes they discerned the twinkling lights of a thousand sleeping
+> villages, and it was as if the constellations were filing in
+> procession through the sky.  While they were looking, Hanuman
+> stumbled, and a small ridge of red sandstone twenty miles long was
+> jolted loose and fell.  Half of its length has wasted away in the
+> course of the ages, but the other ten miles of it remain in the
+> plain by Govardhun to this day as proof of the might of the
+> inspiration of our gods.  You must know, yourself, that Hanuman
+> could not have carried those mountains to Ceylon except by the
+> strength of the gods.  You know that it was not done by his own
+> strength, therefore, you know that it was done by the strength of
+> the gods, just as you know that Samson carried the gates by the
+> divine strength and not by his own.  I think you must concede two
+> things:  First, That in carrying the gates of the city upon his
+> shoulders, Samson did not establish the superiority of his gods over
+> ours; secondly, That his feat is not supported by any but verbal
+> evidence, while Hanuman's is not only supported by verbal evidence,
+> but this evidence is confirmed, established, proven, by visible,
+> tangible evidence, which is the strongest of all testimony.  We have
+> the sandstone ridge, and while it remains we cannot doubt, and shall
+> not.  Have you the gates?'"
 
 
 CHAPTER XIII.
 -------------
 
-	The timid man yearns for full value and asks a tenth.  The bold man
-	strikes for double value and compromises on par.
-		--Pudd'nhead Wilson's New Calendar.
+> The timid man yearns for full value and asks a tenth.  The bold man
+> strikes for double value and compromises on par.
+> --Pudd'nhead Wilson's New Calendar.
 
 One is sure to be struck by the liberal way in which Australasia spends
 money upon public works--such as legislative buildings, town halls,
@@ -4007,10 +4007,10 @@ things in the colony.
 CHAPTER XIV.
 ------------
 
-	We can secure other people's approval, if we do right and try hard; but
-	our own is worth a hundred of it, and no way has been found out of
-	securing that.
-		--Pudd'nhead Wilson's New Calendar.
+> We can secure other people's approval, if we do right and try hard; but
+> our own is worth a hundred of it, and no way has been found out of
+> securing that.
+> --Pudd'nhead Wilson's New Calendar.
 
 My health had broken down in New York in May; it had remained in a
 doubtful but fairish condition during a succeeding period of 82 days; it
@@ -4149,13 +4149,13 @@ It is clearly an absurdity, but it never struck me before.
 CHAPTER XV.
 -----------
 
-	Truth is stranger than fiction--to some people, but I am measurably
-	familiar with it.
-		--Pudd'nhead Wilson's New Calendar.
+> Truth is stranger than fiction--to some people, but I am measurably
+> familiar with it.
+> --Pudd'nhead Wilson's New Calendar.
 
-	Truth is stranger than fiction, but it is because Fiction is obliged to
-	stick to possibilities; Truth isn't.
-		--Pudd'nhead Wilson's New Calendar.
+> Truth is stranger than fiction, but it is because Fiction is obliged to
+> stick to possibilities; Truth isn't.
+> --Pudd'nhead Wilson's New Calendar.
 
 The air was balmy and delicious, the sunshine radiant; it was a charming
 excursion.  In the course of it we came to a town whose odd name was
@@ -4314,11 +4314,11 @@ matter again, in a far-distant chapter.
 CHAPTER XVI.
 ------------
 
-	There is a Moral sense, and there is an Immoral Sense.  History shows us
-	that the Moral Sense enables us to perceive morality and how to avoid it,
-	and that the Immoral Sense enables us to perceive immorality and how to
-	enjoy it.
-		-Pudd'nhead Wilson's New Calendar.
+> There is a Moral sense, and there is an Immoral Sense.  History shows us
+> that the Moral Sense enables us to perceive morality and how to avoid it,
+> and that the Immoral Sense enables us to perceive immorality and how to
+> enjoy it.
+> -Pudd'nhead Wilson's New Calendar.
 
 Melbourne spreads around over an immense area of ground.  It is a stately
 city architecturally as well as in magnitude.  It has an elaborate system
@@ -4509,9 +4509,9 @@ true, they all happened.
 CHAPTER XVII.
 -------------
 
-	The English are mentioned in the Bible: Blessed are the meek, for they
-	shall inherit the earth.
-		--Pudd'nhead Wilson's New Calendar.
+> The English are mentioned in the Bible: Blessed are the meek, for they
+> shall inherit the earth.
+> --Pudd'nhead Wilson's New Calendar.
 
 When we consider the immensity of the British Empire in territory,
 population, and trade, it requires a stern exercise of faith to believe
@@ -4656,8 +4656,8 @@ intelligence.
 CHAPTER XVIII.
 --------------
 
-	It is easier to stay out than get out.
-		--Pudd'nhead Wilson's New Calendar.
+> It is easier to stay out than get out.
+> --Pudd'nhead Wilson's New Calendar.
 
 The train was now exploring a beautiful hill country, and went twisting
 in and out through lovely little green valleys.  There were several
@@ -4831,82 +4831,82 @@ think of.  Tabulated, these varieties of religion make a remarkable show.
 One would have to go far to find its match.  I copy here this
 cosmopolitan curiosity, and it comes from the published census:
 
-	Church of England,........... 89,271
-	Roman Catholic,.............. 47,179
-	Wesleyan,.................... 49,159
-	Lutheran,.................... 23,328
-	Presbyterian,................ 18,206
-	Congregationalist,........... 11,882
-	Bible Christian,............. 15,762
-	Primitive Methodist,......... 11,654
-	Baptist,..................... 17,547
-	Christian Brethren,..........    465
-	Methodist New Connexion,.....     39
-	Unitarian,...................    688
-	Church of Christ,............  3,367
-	Society of Friends,..........    100
-	Salvation Army,..............  4,356
-	New Jerusalem Church,........    168
-	Jews,........................    840
-	Protestants (undefined),.....  5,532
-	Mohammedans,.................    299
-	Confucians, etc.,............  3,884
-	Other religions,.............  1,719
-	Object,......................  6,940
-	Not stated,..................  8,046
+> Church of England,........... 89,271
+> Roman Catholic,.............. 47,179
+> Wesleyan,.................... 49,159
+> Lutheran,.................... 23,328
+> Presbyterian,................ 18,206
+> Congregationalist,........... 11,882
+> Bible Christian,............. 15,762
+> Primitive Methodist,......... 11,654
+> Baptist,..................... 17,547
+> Christian Brethren,..........    465
+> Methodist New Connexion,.....     39
+> Unitarian,...................    688
+> Church of Christ,............  3,367
+> Society of Friends,..........    100
+> Salvation Army,..............  4,356
+> New Jerusalem Church,........    168
+> Jews,........................    840
+> Protestants (undefined),.....  5,532
+> Mohammedans,.................    299
+> Confucians, etc.,............  3,884
+> Other religions,.............  1,719
+> Object,......................  6,940
+> Not stated,..................  8,046
 
-	Total,.......................320,431
+> Total,.......................320,431
 
 
 The item in the above list "Other religions" includes the following as
 returned:
 
-	Agnostics, 50
-	Atheists, 22
-	Believers in Christ, 4
-	Buddhists, 52
-	Calvinists, 46
-	Christadelphians, 134
-	Christians, 308
-	Christ's Chapel, 9
-	Christian Israelites, 2
-	Christian Socialists, 6
-	Church of God, 6
-	Cosmopolitans, 3
-	Deists, 14
-	Evangelists, 60
-	Exclusive Brethren, 8
-	Free Church, 21
-	Free Methodists, 5
-	Freethinkers, 258
-	Followers of Christ, 8
-	Gospel Meetings, 11
-	Greek Church, 44
-	Infidels, 9
-	Maronites, 2
-	Memnonists, 1
-	Moravians, 139
-	Mormons, 4
-	Naturalists, 2
-	Orthodox, 4
-	Others (indefinite), 17
-	Pagans, 20
-	Pantheists, 3
-	Plymouth Brethren, 111
-	Rationalists, 4
-	Reformers, 7
-	Secularists, 12
-	Seventh-day Adventists, 203
-	Shaker, 1
-	Shintoists, 24
-	Spiritualists, 37
-	Theosophists, 9
-	Town (City) Mission, 16
-	Welsh Church, 27
-	Huguenot, 2
-	Hussite, 1
-	Zoroastrians, 2
-	Zwinglian, 1
+> Agnostics, 50
+> Atheists, 22
+> Believers in Christ, 4
+> Buddhists, 52
+> Calvinists, 46
+> Christadelphians, 134
+> Christians, 308
+> Christ's Chapel, 9
+> Christian Israelites, 2
+> Christian Socialists, 6
+> Church of God, 6
+> Cosmopolitans, 3
+> Deists, 14
+> Evangelists, 60
+> Exclusive Brethren, 8
+> Free Church, 21
+> Free Methodists, 5
+> Freethinkers, 258
+> Followers of Christ, 8
+> Gospel Meetings, 11
+> Greek Church, 44
+> Infidels, 9
+> Maronites, 2
+> Memnonists, 1
+> Moravians, 139
+> Mormons, 4
+> Naturalists, 2
+> Orthodox, 4
+> Others (indefinite), 17
+> Pagans, 20
+> Pantheists, 3
+> Plymouth Brethren, 111
+> Rationalists, 4
+> Reformers, 7
+> Secularists, 12
+> Seventh-day Adventists, 203
+> Shaker, 1
+> Shintoists, 24
+> Spiritualists, 37
+> Theosophists, 9
+> Town (City) Mission, 16
+> Welsh Church, 27
+> Huguenot, 2
+> Hussite, 1
+> Zoroastrians, 2
+> Zwinglian, 1
 
 About 64 roads to the other world.  You see how healthy the religious
 atmosphere is.  Anything can live in it.  Agnostics, Atheists,
@@ -4921,8 +4921,8 @@ welcome toy everywhere else in the world.
 CHAPTER XIX.
 ------------
 
-	Pity is for the living, Envy is for the dead.
-		--Pudd'nhead Wilson's New Calendar.
+> Pity is for the living, Envy is for the dead.
+> --Pudd'nhead Wilson's New Calendar.
 
 The successor of the sheet-iron hamlet of the mangrove marshes has that
 other Australian specialty, the Botanical Gardens.  We cannot have these
@@ -5008,28 +5008,28 @@ little time is lost.  These halts, and the distances between them, are
 here tabulated.--[From "Round the Empire." (George R.  Parkin), all but
 the last two.]
 
-	Miles.
+> Miles.
 
-	Melbourne-Mount Gambier,.......300
-	Mount Gambier-Adelaide,........270
-	Adelaide-Port Augusta,.........200
-	Port Augusta-Alice Springs...1,036
-	Alice Springs-Port Darwin,.....898
-	Port Darwin-Banjoewangie,... 1,150
-	Banjoewangie-Batavia,..........480
-	Batavia-Singapore,.............553
-	Singapore-Penang,..............399
-	Penang-Madras,...............1,280
-	Madras-Bombay,.................650
-	Bombay-Aden,.................1,662
-	Aden-Suez,...................1,346
-	Suez-Alexandria,...............224
-	Alexandria-Malta,..............828
-	Malta-Gibraltar,.............1,008
-	Gibraltar-Falmouth,..........1,061
-	Falmouth-London,...............350
-	London-New York,.............2,500
-	New York-San Francisco,......3,500
+> Melbourne-Mount Gambier,.......300
+> Mount Gambier-Adelaide,........270
+> Adelaide-Port Augusta,.........200
+> Port Augusta-Alice Springs...1,036
+> Alice Springs-Port Darwin,.....898
+> Port Darwin-Banjoewangie,... 1,150
+> Banjoewangie-Batavia,..........480
+> Batavia-Singapore,.............553
+> Singapore-Penang,..............399
+> Penang-Madras,...............1,280
+> Madras-Bombay,.................650
+> Bombay-Aden,.................1,662
+> Aden-Suez,...................1,346
+> Suez-Alexandria,...............224
+> Alexandria-Malta,..............828
+> Malta-Gibraltar,.............1,008
+> Gibraltar-Falmouth,..........1,061
+> Falmouth-London,...............350
+> London-New York,.............2,500
+> New York-San Francisco,......3,500
 
 
 I was in Adelaide again, some months later, and saw the multitudes gather
@@ -5088,9 +5088,9 @@ their oratory, and wholly unconscious of what is going on at the other
 end of the room.  And so one of the great dignitaries gets a chance, and
 begins his carefully prepared speech, impressively and with solemnity--
 
-	"When we, now great and prosperous and powerful, bow our heads in
-	reverent wonder in the contemplation of those sublimities of energy,
-	of wisdom, of forethought, of----"
+> "When we, now great and prosperous and powerful, bow our heads in
+> reverent wonder in the contemplation of those sublimities of energy,
+> of wisdom, of forethought, of----"
 
 Up come the immortal six again, in a body, with a joyous "Hey, I've
 thought of another one!" and at it they go, with might and main, hearing
@@ -5141,10 +5141,10 @@ fact.  But there is no hurry.
 CHAPTER XX.
 -----------
 
-	It is by the goodness of God that in our country we have those three
-	unspeakably precious things: freedom of speech, freedom of conscience,
-	and the prudence never to practice either of them.
-		--Pudd'nhead Wilson's New Calendar.
+> It is by the goodness of God that in our country we have those three
+> unspeakably precious things: freedom of speech, freedom of conscience,
+> and the prudence never to practice either of them.
+> --Pudd'nhead Wilson's New Calendar.
 
 From diary:
 
@@ -5361,9 +5361,9 @@ I went forth to the train with the honors of war.  Tobacco and all.
 CHAPTER XXI.
 ------------
 
-	Man will do many things to get himself loved, he will do all things to
-	get himself envied.
-		--Pudd'nhead Wilson's New Calendar.
+> Man will do many things to get himself loved, he will do all things to
+> get himself envied.
+> --Pudd'nhead Wilson's New Calendar.
 
 Before I saw Australia I had never heard of the "weet-weet" at all.
 I met but few men who had seen it thrown--at least I met but few who
@@ -5468,39 +5468,39 @@ other.
 Speaking of pioneer days in the mighty wilderness of Queensland, Mrs.
 Praed says:
 
-	"At first the natives retreated before the whites; and, except that
-	they every now and then speared a beast in one of the herds, gave
-	little cause for uneasiness.  But, as the number of squatters
-	increased, each one taking up miles of country and bringing two or
-	three men in his train, so that shepherds' huts and stockmen's camps
-	lay far apart, and defenseless in the midst of hostile tribes, the
-	Blacks' depredations became more frequent and murder was no unusual
-	event.
+> "At first the natives retreated before the whites; and, except that
+> they every now and then speared a beast in one of the herds, gave
+> little cause for uneasiness.  But, as the number of squatters
+> increased, each one taking up miles of country and bringing two or
+> three men in his train, so that shepherds' huts and stockmen's camps
+> lay far apart, and defenseless in the midst of hostile tribes, the
+> Blacks' depredations became more frequent and murder was no unusual
+> event.
 
-	"The loneliness of the Australian bush can hardly be painted in
-	words.  Here extends mile after mile of primeval forest where
-	perhaps foot of white man has never trod--interminable vistas where
-	the eucalyptus trees rear their lofty trunks and spread forth their
-	lanky limbs, from which the red gum oozes and hangs in fantastic
-	pendants like crimson stalactites; ravines along the sides of which
-	the long-bladed grass grows rankly; level untimbered plains
-	alternating with undulating tracts of pasture, here and there broken
-	by a stony ridge, steep gully, or dried-up creek.  All wild, vast
-	and desolate; all the same monotonous gray coloring, except where
-	the wattle, when in blossom, shows patches of feathery gold, or a
-	belt of scrub lies green, glossy, and impenetrable as Indian jungle.
+> "The loneliness of the Australian bush can hardly be painted in
+> words.  Here extends mile after mile of primeval forest where
+> perhaps foot of white man has never trod--interminable vistas where
+> the eucalyptus trees rear their lofty trunks and spread forth their
+> lanky limbs, from which the red gum oozes and hangs in fantastic
+> pendants like crimson stalactites; ravines along the sides of which
+> the long-bladed grass grows rankly; level untimbered plains
+> alternating with undulating tracts of pasture, here and there broken
+> by a stony ridge, steep gully, or dried-up creek.  All wild, vast
+> and desolate; all the same monotonous gray coloring, except where
+> the wattle, when in blossom, shows patches of feathery gold, or a
+> belt of scrub lies green, glossy, and impenetrable as Indian jungle.
 
-	"The solitude seems intensified by the strange sounds of reptiles,
-	birds, and insects, and by the absence of larger creatures; of which
-	in the day-time, the only audible signs are the stampede of a herd
-	of kangaroo, or the rustle of a wallabi, or a dingo stirring the
-	grass as it creeps to its lair.  But there are the whirring of
-	locusts, the demoniac chuckle of the laughing jack-ass, the
-	screeching of cockatoos and parrots, the hissing of the frilled
-	lizard, and the buzzing of innumerable insects hidden under the
-	dense undergrowth. And then at night, the melancholy wailing of the
-	curlews, the dismal howling of dingoes, the discordant croaking of
-	tree-frogs, might well shake the nerves of the solitary watcher."
+> "The solitude seems intensified by the strange sounds of reptiles,
+> birds, and insects, and by the absence of larger creatures; of which
+> in the day-time, the only audible signs are the stampede of a herd
+> of kangaroo, or the rustle of a wallabi, or a dingo stirring the
+> grass as it creeps to its lair.  But there are the whirring of
+> locusts, the demoniac chuckle of the laughing jack-ass, the
+> screeching of cockatoos and parrots, the hissing of the frilled
+> lizard, and the buzzing of innumerable insects hidden under the
+> dense undergrowth. And then at night, the melancholy wailing of the
+> curlews, the dismal howling of dingoes, the discordant croaking of
+> tree-frogs, might well shake the nerves of the solitary watcher."
 
 That is the theater for the drama.  When you comprehend one or two other
 details, you will perceive how well suited for trouble it was, and how
@@ -5515,34 +5515,34 @@ ousted owners were despised by the white interlopers, and this opinion
 was not hidden under a bushel.  More promising materials for a tragedy
 could not have been collated.  Let Mrs. Praed speak:
 
-	"At Nie Nie station, one dark night, the unsuspecting hut-keeper,
-	having, as he believed, secured himself against assault, was lying
-	wrapped in his blankets sleeping profoundly.  The Blacks crept
-	stealthily down the chimney and battered in his skull while he
-	slept."
+> "At Nie Nie station, one dark night, the unsuspecting hut-keeper,
+> having, as he believed, secured himself against assault, was lying
+> wrapped in his blankets sleeping profoundly.  The Blacks crept
+> stealthily down the chimney and battered in his skull while he
+> slept."
 
 One could guess the whole drama from that little text.  The curtain was
 up.  It would not fall until the mastership of one party or the other was
 determined--and permanently:
 
-	"There was treachery on both sides.  The Blacks killed the Whites
-	when they found them defenseless, and the Whites slew the Blacks in
-	a wholesale and promiscuous fashion which offended against my
-	childish sense of justice.
+> "There was treachery on both sides.  The Blacks killed the Whites
+> when they found them defenseless, and the Whites slew the Blacks in
+> a wholesale and promiscuous fashion which offended against my
+> childish sense of justice.
 
-	"They were regarded as little above the level of brutes, and in some
-	cases were destroyed like vermin.
+> "They were regarded as little above the level of brutes, and in some
+> cases were destroyed like vermin.
 
-	"Here is an instance.  A squatter, whose station was surrounded by
-	Blacks, whom he suspected to be hostile and from whom he feared an
-	attack, parleyed with them from his house-door.  He told them it was
-	Christmas-time--a time at which all men, black or white, feasted;
-	that there were flour, sugar-plums, good things in plenty in the
-	store, and that he would make for them such a pudding as they had
-	never dreamed of--a great pudding of which all might eat and be
-	filled.  The Blacks listened and were lost.  The pudding was made
-	and distributed.  Next morning there was howling in the camp, for it
-	had been sweetened with sugar and arsenic!"
+> "Here is an instance.  A squatter, whose station was surrounded by
+> Blacks, whom he suspected to be hostile and from whom he feared an
+> attack, parleyed with them from his house-door.  He told them it was
+> Christmas-time--a time at which all men, black or white, feasted;
+> that there were flour, sugar-plums, good things in plenty in the
+> store, and that he would make for them such a pudding as they had
+> never dreamed of--a great pudding of which all might eat and be
+> filled.  The Blacks listened and were lost.  The pudding was made
+> and distributed.  Next morning there was howling in the camp, for it
+> had been sweetened with sugar and arsenic!"
 
 The white man's spirit was right, but his method was wrong.  His spirit
 was the spirit which the civilized white has always exhibited toward the
@@ -5596,17 +5596,17 @@ be handed down to posterity with homage and reverence.
 
 This paragraph is from a London journal:
 
-	"To learn what France is doing to spread the blessings of
-	civilization in her distant dependencies we may turn with advantage
-	to New Caledonia.  With a view to attracting free settlers to that
-	penal colony, M. Feillet, the Governor, forcibly expropriated the
-	Kanaka cultivators from the best of their plantations, with a
-	derisory compensation, in spite of the protests of the Council
-	General of the island.  Such immigrants as could be induced to cross
-	the seas thus found themselves in possession of thousands of coffee,
-	cocoa, banana, and bread-fruit trees, the raising of which had cost
-	the wretched natives years of toil whilst the latter had a few
-	five-franc pieces to spend in the liquor stores of Noumea."
+> "To learn what France is doing to spread the blessings of
+> civilization in her distant dependencies we may turn with advantage
+> to New Caledonia.  With a view to attracting free settlers to that
+> penal colony, M. Feillet, the Governor, forcibly expropriated the
+> Kanaka cultivators from the best of their plantations, with a
+> derisory compensation, in spite of the protests of the Council
+> General of the island.  Such immigrants as could be induced to cross
+> the seas thus found themselves in possession of thousands of coffee,
+> cocoa, banana, and bread-fruit trees, the raising of which had cost
+> the wretched natives years of toil whilst the latter had a few
+> five-franc pieces to spend in the liquor stores of Noumea."
 
 You observe the combination?  It is robbery, humiliation, and slow, slow
 murder, through poverty and the white man's whisky.  The savage's gentle
@@ -5622,8 +5622,8 @@ Tasmania, post.]
 CHAPTER XXII.
 -------------
 
-	Nothing is so ignorant as a man's left hand, except a lady's watch.
-		--Pudd'nhead Wilson's New Calendar.
+> Nothing is so ignorant as a man's left hand, except a lady's watch.
+> --Pudd'nhead Wilson's New Calendar.
 
 You notice that Mrs. Praed knows her art.  She can place a thing before
 you so that you can see it.  She is not alone in that.  Australia is
@@ -5710,14 +5710,14 @@ and make a somersault over eight horses standing side by side.  Mr.
 Chauncy saw an aboriginal do it over eleven; and was assured that he had
 sometimes done it over fourteen.  But what is that to this:
 
-	"I saw the same man leap from the ground, and in going over he
-	dipped his head, unaided by his hands, into a hat placed in an
-	inverted position on the top of the head of another man sitting
-	upright on horseback--both man and horse being of the average size.
-	The native landed on the other side of the horse with the hat fairly
-	on his head.  The prodigious height of the leap, and the precision
-	with which it was taken so as to enable him to dip his head into the
-	hat, exceeded any feat of the kind I have ever beheld."
+> "I saw the same man leap from the ground, and in going over he
+> dipped his head, unaided by his hands, into a hat placed in an
+> inverted position on the top of the head of another man sitting
+> upright on horseback--both man and horse being of the average size.
+> The native landed on the other side of the horse with the hat fairly
+> on his head.  The prodigious height of the leap, and the precision
+> with which it was taken so as to enable him to dip his head into the
+> hat, exceeded any feat of the kind I have ever beheld."
 
 I should think so!  On board a ship lately I saw a young Oxford athlete
 run four steps and spring into the air and squirm his hips by a
@@ -5742,16 +5742,16 @@ Mr. Chauncy speaks highly of the patience and skill and alert
 intelligence of the native huntsman when he is stalking the emu, the
 kangaroo, and other game:
 
-	"As he walks through the bush his step is light, elastic, and
-	noiseless; every track on the earth catches his keen eye; a leaf, or
-	fragment of a stick turned, or a blade of grass recently bent by the
-	tread of one of the lower animals, instantly arrests his attention;
-	in fact, nothing escapes his quick and powerful sight on the ground,
-	in the trees, or in the distance, which may supply him with a meal
-	or warn him of danger.  A little examination of the trunk of a tree
-	which may be nearly covered with the scratches of opossums ascending
-	and descending is sufficient to inform him whether one went up the
-	night before without coming down again or not."
+> "As he walks through the bush his step is light, elastic, and
+> noiseless; every track on the earth catches his keen eye; a leaf, or
+> fragment of a stick turned, or a blade of grass recently bent by the
+> tread of one of the lower animals, instantly arrests his attention;
+> in fact, nothing escapes his quick and powerful sight on the ground,
+> in the trees, or in the distance, which may supply him with a meal
+> or warn him of danger.  A little examination of the trunk of a tree
+> which may be nearly covered with the scratches of opossums ascending
+> and descending is sufficient to inform him whether one went up the
+> night before without coming down again or not."
 
 Fennimore Cooper lost his chance.  He would have known how to value these
 people.  He wouldn't have traded the dullest of them for the brightest
@@ -5786,72 +5786,72 @@ not read the following instances if horrors are not pleasant to you.
 They were recorded by the Rev. Henry N. Wolloston, of Melbourne, who had
 been a surgeon before he became a clergyman:
 
-	1. "In the summer of 1852 I started on horseback from Albany, King
-	George's Sound, to visit at Cape Riche, accompanied by a native on
-	foot.  We traveled about forty miles the first day, then camped by a
-	water-hole for the night.  After cooking and eating our supper, I
-	observed the native, who had said nothing to me on the subject,
-	collect the hot embers of the fire together, and deliberately place
-	his right foot in the glowing mass for a moment, then suddenly
-	withdraw it, stamping on the ground and uttering a long-drawn
-	guttural sound of mingled pain and satisfaction.  This operation he
-	repeated several times.  On my inquiring the meaning of his strange
-	conduct, he only said, 'Me carpenter-make 'em' ['I am mending my
-	foot'), and then showed me his charred great toe, the nail of which
-	had been torn off by a tea-tree stump, in which it had been caught
-	during the journey, and the pain of which he had borne with stoical
-	composure until the evening, when he had an opportunity of
-	cauterizing the wound in the primitive manner above described."
+> 1. "In the summer of 1852 I started on horseback from Albany, King
+> George's Sound, to visit at Cape Riche, accompanied by a native on
+> foot.  We traveled about forty miles the first day, then camped by a
+> water-hole for the night.  After cooking and eating our supper, I
+> observed the native, who had said nothing to me on the subject,
+> collect the hot embers of the fire together, and deliberately place
+> his right foot in the glowing mass for a moment, then suddenly
+> withdraw it, stamping on the ground and uttering a long-drawn
+> guttural sound of mingled pain and satisfaction.  This operation he
+> repeated several times.  On my inquiring the meaning of his strange
+> conduct, he only said, 'Me carpenter-make 'em' ['I am mending my
+> foot'), and then showed me his charred great toe, the nail of which
+> had been torn off by a tea-tree stump, in which it had been caught
+> during the journey, and the pain of which he had borne with stoical
+> composure until the evening, when he had an opportunity of
+> cauterizing the wound in the primitive manner above described."
 
 And he proceeded on the journey the next day, "as if nothing had
 happened"--and walked thirty miles.  It was a strange idea, to keep a
 surgeon and then do his own surgery.
 
-	2. "A native about twenty-five years of age once applied to me, as
-	a doctor, to extract the wooden barb of a spear, which, during a
-	fight in the bush some four months previously, had entered his
-	chest, just missing the heart, and penetrated the viscera to a
-	considerable depth.  The spear had been cut off, leaving the barb
-	behind, which continued to force its way by muscular action
-	gradually toward the back; and when I examined him I could feel a
-	hard substance between the ribs below the left blade-bone.  I made a
-	deep incision, and with a pair of forceps extracted the barb, which
-	was made, as usual, of hard wood about four inches long and from
-	half an inch to an inch thick.  It was very smooth, and partly
-	digested, so to speak, by the maceration to which it had been
-	exposed during its four months' journey through the body.  The wound
-	made by the spear had long since healed, leaving only a small
-	cicatrix; and after the operation, which the native bore without
-	flinching, he appeared to suffer no pain.  Indeed, judging from his
-	good state of health, the presence of the foreign matter did not
-	materially annoy him.  He was perfectly well in a few days."
+> 2. "A native about twenty-five years of age once applied to me, as
+> a doctor, to extract the wooden barb of a spear, which, during a
+> fight in the bush some four months previously, had entered his
+> chest, just missing the heart, and penetrated the viscera to a
+> considerable depth.  The spear had been cut off, leaving the barb
+> behind, which continued to force its way by muscular action
+> gradually toward the back; and when I examined him I could feel a
+> hard substance between the ribs below the left blade-bone.  I made a
+> deep incision, and with a pair of forceps extracted the barb, which
+> was made, as usual, of hard wood about four inches long and from
+> half an inch to an inch thick.  It was very smooth, and partly
+> digested, so to speak, by the maceration to which it had been
+> exposed during its four months' journey through the body.  The wound
+> made by the spear had long since healed, leaving only a small
+> cicatrix; and after the operation, which the native bore without
+> flinching, he appeared to suffer no pain.  Indeed, judging from his
+> good state of health, the presence of the foreign matter did not
+> materially annoy him.  He was perfectly well in a few days."
 
 But No. 3 is my favorite.  Whenever I read it I seem to enjoy all that
 the patient enjoyed--whatever it was:
 
-	3. "Once at King George's Sound a native presented himself to me
-	with one leg only, and requested me to supply him with a wooden leg.
-	He had traveled in this maimed state about ninety-six miles, for
-	this purpose.  I examined the limb, which had been severed just
-	below the knee, and found that it had been charred by fire, while
-	about two inches of the partially calcined bone protruded through
-	the flesh.  I at once removed this with the saw; and having made as
-	presentable a stump of it as I could, covered the amputated end of
-	the bone with a surrounding of muscle, and kept the patient a few
-	days under my care to allow the wound to heal.  On inquiring, the
-	native told me that in a fight with other black-fellows a spear had
-	struck his leg and penetrated the bone below the knee.  Finding it
-	was serious, he had recourse to the following crude and barbarous
-	operation, which it appears is not uncommon among these people in
-	their native state.  He made a fire, and dug a hole in the earth
-	only sufficiently large to admit his leg, and deep enough to allow
-	the wounded part to be on a level with the surface of the ground.
-	He then surrounded the limb with the live coals or charcoal, which
-	was replenished until the leg was literally burnt off.  The
-	cauterization thus applied completely checked the hemorrhage, and he
-	was able in a day or two to hobble down to the Sound, with the aid
-	of a long stout stick, although he was more than a week on the
-	road."
+> 3. "Once at King George's Sound a native presented himself to me
+> with one leg only, and requested me to supply him with a wooden leg.
+> He had traveled in this maimed state about ninety-six miles, for
+> this purpose.  I examined the limb, which had been severed just
+> below the knee, and found that it had been charred by fire, while
+> about two inches of the partially calcined bone protruded through
+> the flesh.  I at once removed this with the saw; and having made as
+> presentable a stump of it as I could, covered the amputated end of
+> the bone with a surrounding of muscle, and kept the patient a few
+> days under my care to allow the wound to heal.  On inquiring, the
+> native told me that in a fight with other black-fellows a spear had
+> struck his leg and penetrated the bone below the knee.  Finding it
+> was serious, he had recourse to the following crude and barbarous
+> operation, which it appears is not uncommon among these people in
+> their native state.  He made a fire, and dug a hole in the earth
+> only sufficiently large to admit his leg, and deep enough to allow
+> the wounded part to be on a level with the surface of the ground.
+> He then surrounded the limb with the live coals or charcoal, which
+> was replenished until the leg was literally burnt off.  The
+> cauterization thus applied completely checked the hemorrhage, and he
+> was able in a day or two to hobble down to the Sound, with the aid
+> of a long stout stick, although he was more than a week on the
+> road."
 
 But he was a fastidious native.  He soon discarded the wooden leg made
 for him by the doctor, because "it had no feeling in it."  It must have
@@ -5895,8 +5895,8 @@ first time I heard an Australian say it, it was positively thrilling.
 CHAPTER XXIII.
 --------------
 
-	Be careless in your dress if you must, but keep a tidy soul.
-		--Pudd'nhead Wilson's New Calendar.
+> Be careless in your dress if you must, but keep a tidy soul.
+> --Pudd'nhead Wilson's New Calendar.
 
 We left Adelaide in due course, and went to Horsham, in the colony of
 Victoria; a good deal of a journey, if I remember rightly, but pleasant.
@@ -6090,10 +6090,10 @@ tree forty feet away had tapped the pipe and was drinking the water.
 CHAPTER XXIV.
 -------------
 
-	There is no such thing as "the Queen's English." The property has gone
-	into the hands of a joint stock company and we own the bulk of the
-	shares!
-		--Pudd'nhead Wilson's New Calendar.
+> There is no such thing as "the Queen's English." The property has gone
+> into the hands of a joint stock company and we own the bulk of the
+> shares!
+> --Pudd'nhead Wilson's New Calendar.
 
 Frequently, in Australia, one has cloud-effects of an unfamiliar sort.
 We had this kind of scenery, finely staged, all the way to Ballarat.
@@ -6265,14 +6265,14 @@ man more competent to testify, too, because he belongs on the ground, and
 knows.  I clip them from a chatty speech delivered some years ago by Mr.
 William Little, who was at that time mayor of Ballarat:
 
-	"The language of our citizens, in this as in other parts of
-	Australasia, is mostly healthy Anglo-Saxon, free from Americanisms,
-	vulgarisms, and the conflicting dialects of our Fatherland, and is
-	pure enough to suit a Trench or a Latham.  Our youth, aided by
-	climatic influence, are in point of physique and comeliness
-	unsurpassed in the Sunny South.  Our young men are well ordered; and
-	our maidens, 'not stepping over the bounds of modesty,' are as fair
-	as Psyches, dispensing smiles as charming as November flowers."
+> "The language of our citizens, in this as in other parts of
+> Australasia, is mostly healthy Anglo-Saxon, free from Americanisms,
+> vulgarisms, and the conflicting dialects of our Fatherland, and is
+> pure enough to suit a Trench or a Latham.  Our youth, aided by
+> climatic influence, are in point of physique and comeliness
+> unsurpassed in the Sunny South.  Our young men are well ordered; and
+> our maidens, 'not stepping over the bounds of modesty,' are as fair
+> as Psyches, dispensing smiles as charming as November flowers."
 
 The closing clause has the seeming of a rather frosty compliment, but
 that is apparent only, not real.  November is summer-time there.
@@ -6311,8 +6311,8 @@ faint rustling of the forest leaves.
 CHAPTER XXV.
 ------------
 
-	"Classic."  A book which people praise and don't read.
-		--Pudd'nhead Wilson's New Calendar.
+> "Classic."  A book which people praise and don't read.
+> --Pudd'nhead Wilson's New Calendar.
 
 On the rail again--bound for Bendigo.  From diary:
 
@@ -6460,9 +6460,9 @@ interlaced monogram printed from steel dies in gold and blue and red, in
 the ornate English fashion of long years ago; and under it, in neat
 gothic capitals was this--printed in blue:
 
-	THE MARK TWAIN CLUB
-	CORRIGAN CASTLE
-	............187..
+> THE MARK TWAIN CLUB
+> CORRIGAN CASTLE
+> ............187..
 
 "My!" said I, "how did you come by this?"
 
@@ -6630,9 +6630,9 @@ So the mystery was cleared up, after so many, many years.
 CHAPTER XXVI.
 -------------
 
-	There are people who can do all fine and heroic things but one! keep
-	from telling their happinesses to the unhappy.
-		--Pudd'nhead Wilson's New Calendar.
+> There are people who can do all fine and heroic things but one! keep
+> from telling their happinesses to the unhappy.
+> --Pudd'nhead Wilson's New Calendar.
 
 After visits to Maryborough and some other Australian towns, we presently
 took passage for New Zealand.  If it would not look too much like showing
@@ -6801,12 +6801,12 @@ about any other Subject!'"
 CHAPTER XXVII.
 --------------
 
-	Man is the Only Animal that Blushes.  Or needs to.
-		--Pudd'nhead Wilson's New Calendar.
+> Man is the Only Animal that Blushes.  Or needs to.
+> --Pudd'nhead Wilson's New Calendar.
 
-	The universal brotherhood of man is our most precious possession, what
-	there is of it.
-		--Pudd'nhead Wilson's New Calendar.
+> The universal brotherhood of man is our most precious possession, what
+> there is of it.
+> --Pudd'nhead Wilson's New Calendar.
 
 FROM DIARY:
 
@@ -6855,13 +6855,13 @@ a picture-proclamation was issued.  It was painted up on boards, and
 these were nailed to trees in the forest.  Herewith is a photographic
 reproduction of this fashion-plate.  Substantially it means:
 
-	1. The Governor wishes the Whites and the Blacks to love each other;
+> 1. The Governor wishes the Whites and the Blacks to love each other;
 
-	2. He loves his black subjects;
+> 2. He loves his black subjects;
 
-	3. Blacks who kill Whites will be hanged;
+> 3. Blacks who kill Whites will be hanged;
 
-	4. Whites who kill Blacks will be hanged.
+> 4. Whites who kill Blacks will be hanged.
 
 Upon its several schemes the Government spent L30,000 and employed the
 labors and ingenuities of several thousand Whites for a long time with
@@ -7028,19 +7028,19 @@ persuasions upon the wild squaws.  Then the chief stepped back "to confer
 with the old women--the real arbiters of savage war."  Mr. Bonwick
 continues:
 
-	"As the fallen gladiator in the arena looks for the signal of life
-	or death from the president of the amphitheatre, so waited our
-	friends in anxious suspense while the conference continued.  In a
-	few minutes, before a word was uttered, the women of the tribe threw
-	up their arms three times.  This was the inviolable sign of peace!
-	Down fell the spears.  Forward, with a heavy sigh of relief, and
-	upward glance of gratitude, came the friends of peace.  The
-	impulsive natives rushed forth with tears and cries, as each saw in
-	the other's rank a loved one of the past.
+> "As the fallen gladiator in the arena looks for the signal of life
+> or death from the president of the amphitheatre, so waited our
+> friends in anxious suspense while the conference continued.  In a
+> few minutes, before a word was uttered, the women of the tribe threw
+> up their arms three times.  This was the inviolable sign of peace!
+> Down fell the spears.  Forward, with a heavy sigh of relief, and
+> upward glance of gratitude, came the friends of peace.  The
+> impulsive natives rushed forth with tears and cries, as each saw in
+> the other's rank a loved one of the past.
 
-	"It was a jubilee of joy.  A festival followed.  And, while tears
-	flowed at the recital of woe, a corrobory of pleasant laughter
-	closed the eventful day."
+> "It was a jubilee of joy.  A festival followed.  And, while tears
+> flowed at the recital of woe, a corrobory of pleasant laughter
+> closed the eventful day."
 
 In four years, without the spilling of a drop of blood, Robinson brought
 them all in, willing captives, and delivered them to the white governor,
@@ -7063,22 +7063,22 @@ and emphasized their praise with a large subscription of money.
 
 A good dramatic situation; but the curtain fell on another:
 
-	"When this desperate tribe was thus captured, there was much
-	surprise to find that the L30,000 of a little earlier day had been
-	spent, and the whole population of the colony placed under arms, in
-	contention with an opposing force of sixteen men with wooden spears!
-	Yet such was the fact.  The celebrated Big River tribe, that had
-	been raised by European fears to a host, consisted of sixteen men,
-	nine women, and one child.  With a knowledge of the mischief done by
-	these few, their wonderful marches and their widespread aggressions,
-	their enemies cannot deny to them the attributes of courage and
-	military tact.  A Wallace might harass a large army with a small and
-	determined band; but the contending parties were at least equal in
-	arms and civilization.  The Zulus who fought us in Africa, the
-	Maories in New Zealand, the Arabs in the Soudan, were far better
-	provided with weapons, more advanced in the science of war, and
-	considerably more numerous, than the naked Tasmanians.  Governor
-	Arthur rightly termed them a noble race."
+> "When this desperate tribe was thus captured, there was much
+> surprise to find that the L30,000 of a little earlier day had been
+> spent, and the whole population of the colony placed under arms, in
+> contention with an opposing force of sixteen men with wooden spears!
+> Yet such was the fact.  The celebrated Big River tribe, that had
+> been raised by European fears to a host, consisted of sixteen men,
+> nine women, and one child.  With a knowledge of the mischief done by
+> these few, their wonderful marches and their widespread aggressions,
+> their enemies cannot deny to them the attributes of courage and
+> military tact.  A Wallace might harass a large army with a small and
+> determined band; but the contending parties were at least equal in
+> arms and civilization.  The Zulus who fought us in Africa, the
+> Maories in New Zealand, the Arabs in the Soudan, were far better
+> provided with weapons, more advanced in the science of war, and
+> considerably more numerous, than the naked Tasmanians.  Governor
+> Arthur rightly termed them a noble race."
 
 These were indeed wonderful people, the natives.  They ought not to have
 been wasted.  They should have been crossed with the Whites.  It would
@@ -7126,8 +7126,8 @@ They didn't know why those exiled savages faded away, and they did their
 honest best to reason it out.  And one man, in a like case in New South
 Wales, did reason it out and arrive at a solution:
 
-	"It is from the wrath of God, which is revealed from heaven against
-	cold ungodliness and unrighteousness of men."
+> "It is from the wrath of God, which is revealed from heaven against
+> cold ungodliness and unrighteousness of men."
 
 That settles it.
 
@@ -7135,9 +7135,9 @@ That settles it.
 CHAPTER XXVIII.
 ---------------
 
-	Let us be thankful for the fools.  But for them the rest of us could not
-	succeed.
-		--Pudd'nhead Wilson's New Calendar.
+> Let us be thankful for the fools.  But for them the rest of us could not
+> succeed.
+> --Pudd'nhead Wilson's New Calendar.
 
 The aphorism does really seem true: "Given the Circumstances, the Man
 will appear."  But the man musn't appear ahead of time, or it will spoil
@@ -7418,9 +7418,9 @@ miles away, and has to be discovered by a practical joke.
 CHAPTER XXIX.
 -------------
 
-	When people do not respect us we are sharply offended; yet deep down in
-	his private heart no man much respects himself.
-		--Pudd'nhead Wilson's New Calendar.
+> When people do not respect us we are sharply offended; yet deep down in
+> his private heart no man much respects himself.
+> --Pudd'nhead Wilson's New Calendar.
 
 Necessarily, the human interest is the first interest in the log-book of
 any country.  The annals of Tasmania, in whose shadow we were sailing,
@@ -7609,9 +7609,9 @@ then moved on.
 CHAPTER XXX.
 ------------
 
-	Nature makes the locust with an appetite for crops; man would have made
-	him with an appetite for sand.
-		--Pudd'nhead Wilson's New Calendar.
+> Nature makes the locust with an appetite for crops; man would have made
+> him with an appetite for sand.
+> --Pudd'nhead Wilson's New Calendar.
 
 We spent part of an afternoon and a night at sea, and reached Bluff, in
 New Zealand, early in the morning.  Bluff is at the bottom of the middle
@@ -7748,9 +7748,9 @@ This S. of A. here owns its building--built it by subscription.
 CHAPTER XXXI.
 -------------
 
-	The spirit of wrath--not the words--is the sin; and the spirit of wrath
-	is cursing.  We begin to swear before we can talk.
-		--Pudd'nhead Wilson's New Calendar.
+> The spirit of wrath--not the words--is the sin; and the spirit of wrath
+> is cursing.  We begin to swear before we can talk.
+> --Pudd'nhead Wilson's New Calendar.
 
 November 11.  On the road.  This train-express goes twenty and one-half
 miles an hour, schedule time; but it is fast enough, the outlook upon sea
@@ -7988,8 +7988,8 @@ Then he was gone.  I turned to the other gentleman:
 CHAPTER XXXII.
 --------------
 
-	The man with a new idea is a Crank until the idea succeeds.
-		--Pudd'nhead Wilson's New Calendar.
+> The man with a new idea is a Crank until the idea succeeds.
+> --Pudd'nhead Wilson's New Calendar.
 
 It was Junior England all the way to Christchurch--in fact, just a
 garden.  And Christchurch is an English town, with an English-park annex,
@@ -8207,9 +8207,9 @@ away again.
 CHAPTER XXXIII.
 ---------------
 
-	Let us be grateful to Adam our benefactor.  He cut us out of the
-	"blessing of idleness," and won for us the "curse of labor."
-		--Pudd'nhead Wilson's New Calendar.
+> Let us be grateful to Adam our benefactor.  He cut us out of the
+> "blessing of idleness," and won for us the "curse of labor."
+> --Pudd'nhead Wilson's New Calendar.
 
 We soon reached the town of Nelson, and spent the most of the day there,
 visiting acquaintances and driving with them about the garden--the whole
@@ -8234,69 +8234,69 @@ statement--for that is what it is: a business statement of a murder, by
 the chief engineer of it, or superintendent, or foreman, or whatever one
 may prefer to call him.
 
-	"We were getting impatient, when we saw four men and a pack-horse
-	coming.  I left my cover and had a look at the men, for Levy had
-	told me that Mathieu was a small man and wore a large beard, and
-	that it was a chestnut horse.  I said, 'Here they come.'  They were
-	then a good distance away; I took the caps off my gun, and put fresh
-	ones on.  I said, 'You keep where you are, I'll put them up, and you
-	give me your gun while you tie them.'  It was arranged as I have
-	described.  The men came; they arrived within about fifteen yards
-	when I stepped up and said, 'Stand! bail up!'  That means all of
-	them to get together.  I made them fall back on the upper side of
-	the road with their faces up the range, and Sullivan brought me his
-	gun, and then tied their hands behind them.  The horse was very
-	quiet all the time, he did not move.  When they were all tied,
-	Sullivan took the horse up the hill, and put him in the bush; he cut
-	the rope and let the swags--[A "swag" is a kit, a pack, small
-	baggage.]--fall on the ground, and then came to me.  We then marched
-	the men down the incline to the creek; the water at this time barely
-	running.  Up this creek we took the men; we went, I daresay, five or
-	six hundred yards up it, which took us nearly half-an-hour to
-	accomplish.  Then we turned to the right up the range; we went, I
-	daresay, one hundred and fifty yards from the creek, and there we
-	sat down with the men.  I said to Sullivan, 'Put down your gun and
-	search these men,' which he did.  I asked them their several names;
-	they told me.  I asked them if they were expected at Nelson.  They
-	said, 'No.'  If such their lives would have been spared.  In money
-	we took L60 odd.  I said, 'Is this all you have?  You had better
-	tell me.' Sullivan said, 'Here is a bag of gold.' I said, 'What's on
-	that pack-horse?  Is there any gold?' when Kempthorne said, 'Yes,
-	my gold is in the portmanteau, and I trust you will not take it
-	all.' 'Well,' I said, 'we must take you away one at a time, because
-	the range is steep just here, and then we will let you go.' They
-	said, 'All right,' most cheerfully.  We tied their feet, and took
-	Dudley with us; we went about sixty yards with him.  This was
-	through a scrub.  It was arranged the night previously that it would
-	be best to choke them, in case the report of the arms might be heard
-	from the road, and if they were missed they never would be found.
-	So we tied a handkerchief over his eyes, when Sullivan took the sash
-	off his waist, put it round his neck, and so strangled him.
-	Sullivan, after I had killed the old laboring man, found fault with
-	the way he was choked.  He said, 'The next we do I'll show you my
-	way.'  I said, 'I have never done such a thing before.  I have shot
-	a man, but never choked one.'  We returned to the others, when
-	Kempthorne said, 'What noise was that?'  I said it was caused by
-	breaking through the scrub.  This was taking too much time, so it
-	was agreed to shoot them.  With that I said, 'We'll take you no
-	further, but separate you, and then loose one of you, and he can
-	relieve the others.'  So with that, Sullivan took De Pontius to the
-	left of where Kempthorne was sitting.  I took Mathieu to the right.
-	I tied a strap round his legs, and shot him with a revolver.  He
-	yelled, I ran from him with my gun in my hand, I sighted Kempthorne,
-	who had risen to his feet.  I presented the gun, and shot him behind
-	the right ear; his life's blood welled from him, and he died
-	instantaneously.  Sullivan had shot De Pontius in the meantime,
-	and then came to me.  I said, 'Look to Mathieu,' indicating the spot
-	where he lay.  He shortly returned and said, 'I had to "chiv" that
-	fellow, he was not dead,' a cant word, meaning that he had to stab
-	him.  Returning to the road we passed where De Pontius lay and was
-	dead.  Sullivan said, 'This is the digger, the others were all
-	storekeepers; this is the digger, let's cover him up, for should the
-	others be found, they'll think he done it and sloped,' meaning he
-	had gone.  So with that we threw all the stones on him, and then
-	left him.  This bloody work took nearly an hour and a half from the
-	time we stopped the men."
+> "We were getting impatient, when we saw four men and a pack-horse
+> coming.  I left my cover and had a look at the men, for Levy had
+> told me that Mathieu was a small man and wore a large beard, and
+> that it was a chestnut horse.  I said, 'Here they come.'  They were
+> then a good distance away; I took the caps off my gun, and put fresh
+> ones on.  I said, 'You keep where you are, I'll put them up, and you
+> give me your gun while you tie them.'  It was arranged as I have
+> described.  The men came; they arrived within about fifteen yards
+> when I stepped up and said, 'Stand! bail up!'  That means all of
+> them to get together.  I made them fall back on the upper side of
+> the road with their faces up the range, and Sullivan brought me his
+> gun, and then tied their hands behind them.  The horse was very
+> quiet all the time, he did not move.  When they were all tied,
+> Sullivan took the horse up the hill, and put him in the bush; he cut
+> the rope and let the swags--[A "swag" is a kit, a pack, small
+> baggage.]--fall on the ground, and then came to me.  We then marched
+> the men down the incline to the creek; the water at this time barely
+> running.  Up this creek we took the men; we went, I daresay, five or
+> six hundred yards up it, which took us nearly half-an-hour to
+> accomplish.  Then we turned to the right up the range; we went, I
+> daresay, one hundred and fifty yards from the creek, and there we
+> sat down with the men.  I said to Sullivan, 'Put down your gun and
+> search these men,' which he did.  I asked them their several names;
+> they told me.  I asked them if they were expected at Nelson.  They
+> said, 'No.'  If such their lives would have been spared.  In money
+> we took L60 odd.  I said, 'Is this all you have?  You had better
+> tell me.' Sullivan said, 'Here is a bag of gold.' I said, 'What's on
+> that pack-horse?  Is there any gold?' when Kempthorne said, 'Yes,
+> my gold is in the portmanteau, and I trust you will not take it
+> all.' 'Well,' I said, 'we must take you away one at a time, because
+> the range is steep just here, and then we will let you go.' They
+> said, 'All right,' most cheerfully.  We tied their feet, and took
+> Dudley with us; we went about sixty yards with him.  This was
+> through a scrub.  It was arranged the night previously that it would
+> be best to choke them, in case the report of the arms might be heard
+> from the road, and if they were missed they never would be found.
+> So we tied a handkerchief over his eyes, when Sullivan took the sash
+> off his waist, put it round his neck, and so strangled him.
+> Sullivan, after I had killed the old laboring man, found fault with
+> the way he was choked.  He said, 'The next we do I'll show you my
+> way.'  I said, 'I have never done such a thing before.  I have shot
+> a man, but never choked one.'  We returned to the others, when
+> Kempthorne said, 'What noise was that?'  I said it was caused by
+> breaking through the scrub.  This was taking too much time, so it
+> was agreed to shoot them.  With that I said, 'We'll take you no
+> further, but separate you, and then loose one of you, and he can
+> relieve the others.'  So with that, Sullivan took De Pontius to the
+> left of where Kempthorne was sitting.  I took Mathieu to the right.
+> I tied a strap round his legs, and shot him with a revolver.  He
+> yelled, I ran from him with my gun in my hand, I sighted Kempthorne,
+> who had risen to his feet.  I presented the gun, and shot him behind
+> the right ear; his life's blood welled from him, and he died
+> instantaneously.  Sullivan had shot De Pontius in the meantime,
+> and then came to me.  I said, 'Look to Mathieu,' indicating the spot
+> where he lay.  He shortly returned and said, 'I had to "chiv" that
+> fellow, he was not dead,' a cant word, meaning that he had to stab
+> him.  Returning to the road we passed where De Pontius lay and was
+> dead.  Sullivan said, 'This is the digger, the others were all
+> storekeepers; this is the digger, let's cover him up, for should the
+> others be found, they'll think he done it and sloped,' meaning he
+> had gone.  So with that we threw all the stones on him, and then
+> left him.  This bloody work took nearly an hour and a half from the
+> time we stopped the men."
 
 Anyone who reads that confession will think that the man who wrote it was
 destitute of emotions, destitute of feeling.  That is partly true.  As
@@ -8313,18 +8313,18 @@ stake.  We dwellers in this world are strangely made, and mysteriously
 circumstanced.  We have to suppose that the murdered men are lost, and
 that Burgess is saved; but we cannot suppress our natural regrets.
 
-	"Written in my dungeon drear this 7th of August, in the year of
-	Grace, 1866.  To God be ascribed all power and glory in subduing the
-	rebellious spirit of a most guilty wretch, who has been brought,
-	through the instrumentality of a faithful follower of Christ, to see
-	his wretched and guilty state, inasmuch as hitherto he has led an
-	awful and wretched life, and through the assurance of this faithful
-	soldier of Christ, he has been led and also believes that Christ
-	will yet receive and cleanse him from all his deep-dyed and bloody
-	sins.  I lie under the imputation which says, 'Come now and let us
-	reason together, saith the Lord: though your sins be as scarlet,
-	they shall be as white as snow; though they be red like crimson,
-	they shall be as wool.' On this promise I rely."
+> "Written in my dungeon drear this 7th of August, in the year of
+> Grace, 1866.  To God be ascribed all power and glory in subduing the
+> rebellious spirit of a most guilty wretch, who has been brought,
+> through the instrumentality of a faithful follower of Christ, to see
+> his wretched and guilty state, inasmuch as hitherto he has led an
+> awful and wretched life, and through the assurance of this faithful
+> soldier of Christ, he has been led and also believes that Christ
+> will yet receive and cleanse him from all his deep-dyed and bloody
+> sins.  I lie under the imputation which says, 'Come now and let us
+> reason together, saith the Lord: though your sins be as scarlet,
+> they shall be as white as snow; though they be red like crimson,
+> they shall be as wool.' On this promise I rely."
 
 We sailed in the afternoon late, spent a few hours at New Plymouth, then
 sailed again and reached Auckland the next day, November 20th, and
@@ -8395,9 +8395,9 @@ chance to make a livelihood would be permanently gone.
 CHAPTER XXXIV.
 --------------
 
-	Let us not be too particular.  It is better to have old second-hand
-	diamonds than none at all.
-		--Pudd'nhead Wilson's New Calendar.
+> Let us not be too particular.  It is better to have old second-hand
+> diamonds than none at all.
+> --Pudd'nhead Wilson's New Calendar.
 
 November 27.   To-day we reached Gisborne, and anchored in a big bay;
 there was a heavy sea on, so we remained on board.
@@ -8510,9 +8510,9 @@ She had to get the error from my head--it existed nowhere else.
 CHAPTER XXXV.
 -------------
 
-	The Autocrat of Russia possesses more power than any other man in the
-	earth; but he cannot stop a sneeze.
-		--Pudd'nhead Wilson's New Calendar.
+> The Autocrat of Russia possesses more power than any other man in the
+> earth; but he cannot stop a sneeze.
+> --Pudd'nhead Wilson's New Calendar.
 
 WAUGANUI, December 3.  A pleasant trip, yesterday, per Ballarat Fly.
 Four hours.  I do not know the distance, but it must have been well along
@@ -8671,13 +8671,13 @@ brought to a definite end until more than a generation had sped.
 CHAPTER XXXVI.
 --------------
 
-	There are several good protections against temptations, but the surest is
-	cowardice.
-		--Pudd'nhead Wilson's New Calendar.
+> There are several good protections against temptations, but the surest is
+> cowardice.
+> --Pudd'nhead Wilson's New Calendar.
 
-	Names are not always what they seem.  The common Welsh name Bzjxxllwep is
-	pronounced Jackson.
-		--Pudd'nhead Wilson's New Calendar.
+> Names are not always what they seem.  The common Welsh name Bzjxxllwep is
+> pronounced Jackson.
+> --Pudd'nhead Wilson's New Calendar.
 
 Friday, December 13.   Sailed, at 3 p.m., in the 'Mararoa'.  Summer seas
 and a good ship--life has nothing better.
@@ -8703,58 +8703,58 @@ today, with the purpose of determining which of her pieces has most
 merit, and I am persuaded that for wide grasp and sustained power,
 "William Upson" may claim first place:
 
-	WILLIAM UPSON.
+> WILLIAM UPSON.
 
-	Air--"The Major's Only Son."
-	 Come all good people far and near,
-	Oh, come and see what you can hear,
-	It's of a young man true and brave,
-	That is now sleeping in his grave.
+> Air--"The Major's Only Son."
+>  Come all good people far and near,
+> Oh, come and see what you can hear,
+> It's of a young man true and brave,
+> That is now sleeping in his grave.
 
-	Now, William Upson was his name
-	If it's not that, it's all the same
-	He did enlist in a cruel strife,
-	And it caused him to lose his life.
+> Now, William Upson was his name
+> If it's not that, it's all the same
+> He did enlist in a cruel strife,
+> And it caused him to lose his life.
 
-	He was Perry Upson's eldest son,
-	His father loved his noble son,
-	This son was nineteen years of age
-	When first in the rebellion he engaged.
+> He was Perry Upson's eldest son,
+> His father loved his noble son,
+> This son was nineteen years of age
+> When first in the rebellion he engaged.
 
-	His father said that he might go,
-	But his dear mother she said no,
-	"Oh! stay at home, dear Billy," she said,
-	But she could not turn his head.
+> His father said that he might go,
+> But his dear mother she said no,
+> "Oh! stay at home, dear Billy," she said,
+> But she could not turn his head.
 
-	He went to Nashville, in Tennessee,
-	There his kind friends he could not see;
-	He died among strangers, so far away,
-	They did not know where his body lay.
+> He went to Nashville, in Tennessee,
+> There his kind friends he could not see;
+> He died among strangers, so far away,
+> They did not know where his body lay.
 
-	He was taken sick and lived four weeks,
-	And Oh! how his parents weep,
-	But now they must in sorrow mourn,
-	For Billy has gone to his heavenly home.
+> He was taken sick and lived four weeks,
+> And Oh! how his parents weep,
+> But now they must in sorrow mourn,
+> For Billy has gone to his heavenly home.
 
-	Oh! if his mother could have seen her son,
-	For she loved him, her darling son;
-	If she could heard his dying prayer,
-	It would ease her heart till she met him there.
+> Oh! if his mother could have seen her son,
+> For she loved him, her darling son;
+> If she could heard his dying prayer,
+> It would ease her heart till she met him there.
 
-	How it would relieve his mother's heart
-	To see her son from this world depart,
-	And hear his noble words of love,
-	As he left this world for that above.
+> How it would relieve his mother's heart
+> To see her son from this world depart,
+> And hear his noble words of love,
+> As he left this world for that above.
 
-	Now it will relieve his mother's heart,
-	For her son is laid in our graveyard;
-	For now she knows that his grave is near,
-	She will not shed so many tears.
+> Now it will relieve his mother's heart,
+> For her son is laid in our graveyard;
+> For now she knows that his grave is near,
+> She will not shed so many tears.
 
-	Although she knows not that it was her son,
-	For his coffin could not be opened
-	It might be someone in his place,
-	For she could not see his noble face.
+> Although she knows not that it was her son,
+> For his coffin could not be opened
+> It might be someone in his place,
+> For she could not see his noble face.
 
 December, 17.  Reached Sydney.
 
@@ -8811,154 +8811,154 @@ December 20.  Back to Sydney.  Blazing hot again.  From the newspaper,
 and from the map, I have made a collection of curious names of
 Australasian towns, with the idea of making a poem out of them:
 
-	Tumut
-	Takee
-	Murriwillumba
-	Bowral
-	Ballarat
-	Mullengudgery
-	Murrurundi
-	Wagga-Wagga
-	Wyalong
-	Murrumbidgee
-	Goomeroo
-	Wolloway
-	Wangary
-	Wanilla
-	Worrow
-	Koppio
-	Yankalilla
-	Yaranyacka
-	Yackamoorundie
-	Kaiwaka
-	Coomooroo
-	Tauranga
-	Geelong
-	Tongariro
-	Kaikoura
-	Wakatipu
-	Oohipara
-	Waitpinga
-	Goelwa
-	Munno Para
-	Nangkita
-	Myponga
-	Kapunda
-	Kooringa
-	Penola
-	Nangwarry
-	Kongorong
-	Comaum
-	Koolywurtie
-	Killanoola
-	Naracoorte
-	Muloowurtie
-	Binnum
-	Wallaroo
-	Wirrega
-	Mundoora
-	Hauraki
-	Rangiriri
-	Teawamute
-	Taranaki
-	Toowoomba
-	Goondiwindi
-	Jerrilderie
-	Whangaroa
-	Wollongong
-	Woolloomooloo
-	Bombola
-	Coolgardie
-	Bendigo
-	Coonamble
-	Cootamundra
-	Woolgoolga
-	Mittagong
-	Jamberoo
-	Kondoparinga
-	Kuitpo
-	Tungkillo
-	Oukaparinga
-	Talunga
-	Yatala
-	Parawirra
-	Moorooroo
-	Whangarei
-	Woolundunga
-	Booleroo
-	Pernatty
-	Parramatta
-	Taroom
-	Narrandera
-	Deniliquin
-	Kawakawa.
+> Tumut
+> Takee
+> Murriwillumba
+> Bowral
+> Ballarat
+> Mullengudgery
+> Murrurundi
+> Wagga-Wagga
+> Wyalong
+> Murrumbidgee
+> Goomeroo
+> Wolloway
+> Wangary
+> Wanilla
+> Worrow
+> Koppio
+> Yankalilla
+> Yaranyacka
+> Yackamoorundie
+> Kaiwaka
+> Coomooroo
+> Tauranga
+> Geelong
+> Tongariro
+> Kaikoura
+> Wakatipu
+> Oohipara
+> Waitpinga
+> Goelwa
+> Munno Para
+> Nangkita
+> Myponga
+> Kapunda
+> Kooringa
+> Penola
+> Nangwarry
+> Kongorong
+> Comaum
+> Koolywurtie
+> Killanoola
+> Naracoorte
+> Muloowurtie
+> Binnum
+> Wallaroo
+> Wirrega
+> Mundoora
+> Hauraki
+> Rangiriri
+> Teawamute
+> Taranaki
+> Toowoomba
+> Goondiwindi
+> Jerrilderie
+> Whangaroa
+> Wollongong
+> Woolloomooloo
+> Bombola
+> Coolgardie
+> Bendigo
+> Coonamble
+> Cootamundra
+> Woolgoolga
+> Mittagong
+> Jamberoo
+> Kondoparinga
+> Kuitpo
+> Tungkillo
+> Oukaparinga
+> Talunga
+> Yatala
+> Parawirra
+> Moorooroo
+> Whangarei
+> Woolundunga
+> Booleroo
+> Pernatty
+> Parramatta
+> Taroom
+> Narrandera
+> Deniliquin
+> Kawakawa.
 
 It may be best to build the poem now, and make the weather help.
 
-	A SWELTERING DAY IN AUSTRALIA.
+> A SWELTERING DAY IN AUSTRALIA.
 
-	(To be read soft and low, with the lights turned down.)
+> (To be read soft and low, with the lights turned down.)
 
-	The Bombola faints in the hot Bowral tree,
-	Where fierce Mullengudgery's smothering fires
-	Far from the breezes of Coolgardie
-	Burn ghastly and blue as the day expires;
+> The Bombola faints in the hot Bowral tree,
+> Where fierce Mullengudgery's smothering fires
+> Far from the breezes of Coolgardie
+> Burn ghastly and blue as the day expires;
 
-	And Murriwillumba complaineth in song
-	For the garlanded bowers of Woolloomooloo,
-	And the Ballarat Fly and the lone Wollongong
-	They dream of the gardens of Jamberoo;
+> And Murriwillumba complaineth in song
+> For the garlanded bowers of Woolloomooloo,
+> And the Ballarat Fly and the lone Wollongong
+> They dream of the gardens of Jamberoo;
 
-	The wallabi sighs for the Murrubidgee,
-	For the velvety sod of the Munno Parah,
-	Where the waters of healing from Muloowurtie
-	Flow dim in the gloaming by Yaranyackah;
+> The wallabi sighs for the Murrubidgee,
+> For the velvety sod of the Munno Parah,
+> Where the waters of healing from Muloowurtie
+> Flow dim in the gloaming by Yaranyackah;
 
-	The Koppio sorrows for lost Wolloway,
-	And sigheth in secret for Murrurundi,
-	The Whangeroo wombat lamenteth the day
-	That made him an exile from Jerrilderie;
+> The Koppio sorrows for lost Wolloway,
+> And sigheth in secret for Murrurundi,
+> The Whangeroo wombat lamenteth the day
+> That made him an exile from Jerrilderie;
 
-	The Teawamute Tumut from Wirrega's glade,
-	The Nangkita swallow, the Wallaroo swan,
-	They long for the peace of the Timaru shade
-	And thy balmy soft airs, O sweet Mittagong!
+> The Teawamute Tumut from Wirrega's glade,
+> The Nangkita swallow, the Wallaroo swan,
+> They long for the peace of the Timaru shade
+> And thy balmy soft airs, O sweet Mittagong!
 
-	The Kooringa buffalo pants in the sun,
-	The Kondoparinga lies gaping for breath,
-	The Kongorong Camaum to the shadow has won,
-	But the Goomeroo sinks in the slumber of death;
+> The Kooringa buffalo pants in the sun,
+> The Kondoparinga lies gaping for breath,
+> The Kongorong Camaum to the shadow has won,
+> But the Goomeroo sinks in the slumber of death;
 
-	In the weltering hell of the Moorooroo plain
-	The Yatala Wangary withers and dies,
-	And the Worrow Wanilla, demented with pain,
-	To the Woolgoolga woodlands despairingly flies;
+> In the weltering hell of the Moorooroo plain
+> The Yatala Wangary withers and dies,
+> And the Worrow Wanilla, demented with pain,
+> To the Woolgoolga woodlands despairingly flies;
 
-	Sweet Nangwarry's desolate, Coonamble wails,
-	And Tungkillo Kuito in sables is drest,
-	For the Whangerei winds fall asleep in the sails
-	And the Booleroo life-breeze is dead in the west.
+> Sweet Nangwarry's desolate, Coonamble wails,
+> And Tungkillo Kuito in sables is drest,
+> For the Whangerei winds fall asleep in the sails
+> And the Booleroo life-breeze is dead in the west.
 
-	Mypongo, Kapunda, O slumber no more
-	Yankalilla, Parawirra, be warned
-	There's death in the air!
-	Killanoola, wherefore
-	Shall the prayer of Penola be scorned?
+> Mypongo, Kapunda, O slumber no more
+> Yankalilla, Parawirra, be warned
+> There's death in the air!
+> Killanoola, wherefore
+> Shall the prayer of Penola be scorned?
 
-	Cootamundra, and Takee, and Wakatipu,
-	Toowoomba, Kaikoura are lost
-	From Onkaparinga to far Oamaru
-	All burn in this hell's holocaust!
+> Cootamundra, and Takee, and Wakatipu,
+> Toowoomba, Kaikoura are lost
+> From Onkaparinga to far Oamaru
+> All burn in this hell's holocaust!
 
-	Paramatta and Binnum are gone to their rest
-	In the vale of Tapanni Taroom,
-	Kawakawa, Deniliquin--all that was best
-	In the earth are but graves and a tomb!
+> Paramatta and Binnum are gone to their rest
+> In the vale of Tapanni Taroom,
+> Kawakawa, Deniliquin--all that was best
+> In the earth are but graves and a tomb!
 
-	Narrandera mourns, Cameron answers not
-	When the roll of the scathless we cry
-	Tongariro, Goondiwindi, Woolundunga, the spot
-	Is mute and forlorn where ye lie.
+> Narrandera mourns, Cameron answers not
+> When the roll of the scathless we cry
+> Tongariro, Goondiwindi, Woolundunga, the spot
+> Is mute and forlorn where ye lie.
 
 Those are good words for poetry.  Among the best I have ever seen.
 There are 81 in the list.  I did not need them all, but I have knocked
@@ -8973,9 +8973,9 @@ Sydney, and is a favorite pleasure-resort.  It has eight O's in it.
 CHAPTER XXXVII.
 ---------------
 
-	To succeed in the other trades, capacity must be shown; in the law,
-	concealment of it will do.
-		--Pudd'nhead Wilson's New Calendar.
+> To succeed in the other trades, capacity must be shown; in the law,
+> concealment of it will do.
+> --Pudd'nhead Wilson's New Calendar.
 
 MONDAY,--December 23, 1895.  Sailed from Sydney for Ceylon in the P. & O.
 steamer 'Oceana'.  A Lascar crew mans this ship--the first I have seen.
@@ -9256,8 +9256,8 @@ dowdies were masquerading.
 CHAPTER XXXVIII.
 ----------------
 
-	Prosperity is the best protector of principle.
-		--Pudd'nhead Wilson's New Calendar.
+> Prosperity is the best protector of principle.
+> --Pudd'nhead Wilson's New Calendar.
 
 EVENING--14th.   Sailed in the Rosetta.  This is a poor old ship, and
 ought to be insured and sunk.  As in the 'Oceana', just so here:
@@ -9510,9 +9510,9 @@ of it.
 CHAPTER XXXIX.
 --------------
 
-	By trying we can easily learn to endure adversity.  Another man's,
-	I mean.
-		--Pudd'nhead Wilson's New Calendar.
+> By trying we can easily learn to endure adversity.  Another man's,
+> I mean.
+> --Pudd'nhead Wilson's New Calendar.
 
 You soon find your long-ago dreams of India rising in a sort of vague and
 luscious moonlight above the horizon-rim of your opaque consciousness,
@@ -9887,8 +9887,8 @@ The Other following after.
 CHAPTER XL.
 -----------
 
-	Few of us can stand prosperity.  Another man's, I mean.
-		--Pudd'nhead Wilson's New Calendar.
+> Few of us can stand prosperity.  Another man's, I mean.
+> --Pudd'nhead Wilson's New Calendar.
 
 The next picture in my mind is Government House, on Malabar Point, with
 the wide sea-view from the windows and broad balconies; abode of His
@@ -10114,9 +10114,9 @@ a mortuary look, too, which was in keeping with the place.
 CHAPTER XLI.
 ------------
 
-	There is an old-time toast which is golden for its beauty.
-	"When you ascend the hill of prosperity may you not meet a friend."
-		--Pudd'nhead Wilson's New Calendar.
+> There is an old-time toast which is golden for its beauty.
+> "When you ascend the hill of prosperity may you not meet a friend."
+> --Pudd'nhead Wilson's New Calendar.
 
 The next picture that drifts across the field of my memory is one which
 is connected with religious things.  We were taken by friends to see a
@@ -10199,31 +10199,31 @@ whiteness made the black all the blacker by contrast.  Keeping that group
 in my mind, I can compare those complexions with the white ones which are
 streaming past this London window now:
 
-	A lady.  Complexion, new parchment.  Another lady.  Complexion, old
-	parchment.
+> A lady.  Complexion, new parchment.  Another lady.  Complexion, old
+> parchment.
 
-	Another.  Pink and white, very fine.
+> Another.  Pink and white, very fine.
 
-	Man.  Grayish skin, with purple areas.
+> Man.  Grayish skin, with purple areas.
 
-	Man.  Unwholesome fish-belly skin.
+> Man.  Unwholesome fish-belly skin.
 
-	Girl.  Sallow face, sprinkled with freckles.
+> Girl.  Sallow face, sprinkled with freckles.
 
-	Old woman.  Face whitey-gray.
+> Old woman.  Face whitey-gray.
 
-	Young butcher.  Face a general red flush.
+> Young butcher.  Face a general red flush.
 
-	Jaundiced man--mustard yellow.
+> Jaundiced man--mustard yellow.
 
-	Elderly lady.  Colorless skin, with two conspicuous moles.
+> Elderly lady.  Colorless skin, with two conspicuous moles.
 
-	Elderly man--a drinker.  Boiled-cauliflower nose in a flabby face
-	veined with purple crinklings.
+> Elderly man--a drinker.  Boiled-cauliflower nose in a flabby face
+> veined with purple crinklings.
 
-	Healthy young gentleman.  Fine fresh complexion.
+> Healthy young gentleman.  Fine fresh complexion.
 
-	Sick young man.  His face a ghastly white.
+> Sick young man.  His face a ghastly white.
 
 No end of people whose skins are dull and characterless modifications of
 the tint which we miscall white.  Some of these faces are pimply; some
@@ -10284,57 +10284,57 @@ ago--the days of freedom unhampered by English interference.  A century
 and a half ago an address of thanks could have been put into small space.
 It would have thanked the prince--
 
-	1. For not slaughtering too many of his people upon mere caprice;
+> 1. For not slaughtering too many of his people upon mere caprice;
 
-	2. For not stripping them bare by sudden and arbitrary tax levies,
-	and bringing famine upon them;
+> 2. For not stripping them bare by sudden and arbitrary tax levies,
+> and bringing famine upon them;
 
-	3. For not upon empty pretext destroying the rich and seizing their
-	property;
+> 3. For not upon empty pretext destroying the rich and seizing their
+> property;
 
-	4. For not killing, blinding, imprisoning, or banishing the
-	relatives of the royal house to protect the throne from possible
-	plots;
+> 4. For not killing, blinding, imprisoning, or banishing the
+> relatives of the royal house to protect the throne from possible
+> plots;
 
-	5. For not betraying the subject secretly, for a bribe, into the
-	hands of bands of professional Thugs, to be murdered and robbed in
-	the prince's back lot.
+> 5. For not betraying the subject secretly, for a bribe, into the
+> hands of bands of professional Thugs, to be murdered and robbed in
+> the prince's back lot.
 
 Those were rather common princely industries in the old times, but they
 and some others of a harsh sort ceased long ago under English rule.
 Better industries have taken their place, as this Address from the Jain
 community will show:
 
-	"Your Highness,--We the undersigned members of the Jain community of
-	Bombay have the pleasure to approach your Highness with the
-	expression of our heartfelt congratulations on the recent conference
-	on your Highness of the Knighthood of the Most Exalted Order of the
-	Star of India.  Ten years ago we had the pleasure and privilege of
-	welcoming your Highness to this city under circumstances which have
-	made a memorable epoch in the history of your State, for had it not
-	been for a generous and reasonable spirit that your Highness
-	displayed in the negotiations between the Palitana Durbar and the
-	Jain community, the conciliatory spirit that animated our people
-	could not have borne fruit.  That was the first step in your
-	Highness's administration, and it fitly elicited the praise of the
-	Jain community, and of the Bombay Government.  A decade of your
-	Highness's administration, combined with the abilities, training,
-	and acquirements that your Highness brought to bear upon it, has
-	justly earned for your Highness the unique and honourable
-	distinction--the Knighthood of the Most Exalted Order of the Star of
-	India, which we understand your Highness is the first to enjoy among
-	Chiefs of your Highness's rank and standing.  And we assure your
-	Highness that for this mark of honour that has been conferred on you
-	by Her Most Gracious Majesty, the Queen-Empress, we feel no less
-	proud than your Highness.  Establishment of commercial factories,
-	schools, hospitals, etc., by your Highness in your State has marked
-	your Highness's career during these ten years, and we trust that
-	your Highness will be spared to rule over your people with wisdom
-	and foresight, and foster the many reforms that your Highness has
-	been pleased to introduce in your State.  We again offer your
-	Highness our warmest felicitations for the honour that has been
-	conferred on you.  We beg to remain your Highness's obedient
-	servants."
+> "Your Highness,--We the undersigned members of the Jain community of
+> Bombay have the pleasure to approach your Highness with the
+> expression of our heartfelt congratulations on the recent conference
+> on your Highness of the Knighthood of the Most Exalted Order of the
+> Star of India.  Ten years ago we had the pleasure and privilege of
+> welcoming your Highness to this city under circumstances which have
+> made a memorable epoch in the history of your State, for had it not
+> been for a generous and reasonable spirit that your Highness
+> displayed in the negotiations between the Palitana Durbar and the
+> Jain community, the conciliatory spirit that animated our people
+> could not have borne fruit.  That was the first step in your
+> Highness's administration, and it fitly elicited the praise of the
+> Jain community, and of the Bombay Government.  A decade of your
+> Highness's administration, combined with the abilities, training,
+> and acquirements that your Highness brought to bear upon it, has
+> justly earned for your Highness the unique and honourable
+> distinction--the Knighthood of the Most Exalted Order of the Star of
+> India, which we understand your Highness is the first to enjoy among
+> Chiefs of your Highness's rank and standing.  And we assure your
+> Highness that for this mark of honour that has been conferred on you
+> by Her Most Gracious Majesty, the Queen-Empress, we feel no less
+> proud than your Highness.  Establishment of commercial factories,
+> schools, hospitals, etc., by your Highness in your State has marked
+> your Highness's career during these ten years, and we trust that
+> your Highness will be spared to rule over your people with wisdom
+> and foresight, and foster the many reforms that your Highness has
+> been pleased to introduce in your State.  We again offer your
+> Highness our warmest felicitations for the honour that has been
+> conferred on you.  We beg to remain your Highness's obedient
+> servants."
 
 Factories, schools, hospitals, reforms.  The prince propagates that kind
 of things in the modern times, and gets knighthood and guns for it.
@@ -10348,9 +10348,9 @@ function ended.
 CHAPTER XLII.
 -------------
 
-	Each person is born to one possession which outvalues all his others--his
-	last breath.
-		--Pudd'nhead Wilson's New Calendar.
+> Each person is born to one possession which outvalues all his others--his
+> last breath.
+> --Pudd'nhead Wilson's New Calendar.
 
 Toward midnight, that night, there was another function.  This was a
 Hindoo wedding--no, I think it was a betrothal ceremony.  Always before,
@@ -10462,75 +10462,75 @@ they themselves breed the fatal sign in the armpit, and then the delirium
 with confused images, and home-dreams, and reeling billiard-tables, and
 then the sudden blank of death:
 
-	"To the contagionist, filled as he is with the dread of final
-	causes, having no faith in destiny, nor in the fixed will of God,
-	and with none of the devil-may-care indifference which might stand
-	him instead of creeds--to such one, every rag that shivers in the
-	breeze of a plague-stricken city has this sort of sublimity.  If by
-	any terrible ordinance he be forced to venture forth, he sees death
-	dangling from every sleeve; and, as he creeps forward, he poises his
-	shuddering limbs between the imminent jacket that is stabbing at his
-	right elbow and the murderous pelisse that threatens to mow him
-	clean down as it sweeps along on his left.  But most of all he
-	dreads that which most of all he should love--the touch of a woman's
-	dress; for mothers and wives, hurrying forth on kindly errands from
-	the bedsides of the dying, go slouching along through the streets
-	more willfully and less courteously than the men.  For a while it
-	may be that the caution of the poor Levantine may enable him to
-	avoid contact, but sooner or later, perhaps, the dreaded chance
-	arrives; that bundle of linen, with the dark tearful eyes at the top
-	of it, that labors along with the voluptuous clumsiness of Grisi
-	--she has touched the poor Levantine with the hem of her sleeve!
-	From that dread moment his peace is gone; his mind for ever hanging upon
-	the fatal touch invites the blow which he fears; he watches for the
-	symptoms of plague so carefully, that sooner or later they come in
-	truth.  The parched mouth is a sign--his mouth is parched; the
-	throbbing brain--his brain does throb; the rapid pulse--he touches
-	his own wrist (for he dares not ask counsel of any man lest he be
-	deserted), he touches his wrist, and feels how his frighted blood
-	goes galloping out of his heart.  There is nothing but the fatal
-	swelling that is wanting to make his sad conviction complete;
-	immediately, he has an odd feel under the arm--no pain, but a little
-	straining of the skin; he would to God it were his fancy that were
-	strong enough to give him that sensation; this is the worst of all.
-	It now seems to him that he could be happy and contented with his
-	parched mouth, and his throbbing brain, and his rapid pulse, if only
-	he could know that there were no swelling under the left arm; but
-	dares he try?--in a moment of calmness and deliberation he dares
-	not; but when for a while he has writhed under the torture of
-	suspense, a sudden strength of will drives him to seek and know his
-	fate; he touches the gland, and finds the skin sane and sound but
-	under the cuticle there lies a small lump like a pistol-bullet, that
-	moves as he pushes it.  Oh! but is this for all certainty, is this
-	the sentence of death?  Feel the gland of the other arm.  There is
-	not the same lump exactly, yet something a little like it.  Have not
-	some people glands naturally enlarged?--would to heaven he were one!
-	So he does for himself the work of the plague, and when the Angel of
-	Death thus courted does indeed and in truth come, he has only to
-	finish that which has been so well begun; he passes his fiery hand
-	over the brain of the victim, and lets him rave for a season, but
-	all chance-wise, of people and things once dear, or of people and
-	things indifferent.  Once more the poor fellow is back at his home
-	in fair Provence, and sees the sundial that stood in his childhood's
-	garden--sees his mother, and the long-since forgotten face of that
-	little dear sister--(he sees her, he says, on a Sunday morning, for
-	all the church bells are ringing); he looks up and down through the
-	universe, and owns it well piled with bales upon bales of cotton,
-	and cotton eternal--so much so that he feels--he knows--he swears he
-	could make that winning hazard, if the billiard-table would not
-	slant upwards, and if the cue were a cue worth playing with; but it
-	is not--it's a cue that won't move--his own arm won't move--in
-	short, there's the devil to pay in the brain of the poor Levantine;
-	and perhaps, the next night but one he becomes the 'life and the
-	soul' of some squalling jackal family, who fish him out by the foot
-	from his shallow and sandy grave."
+> "To the contagionist, filled as he is with the dread of final
+> causes, having no faith in destiny, nor in the fixed will of God,
+> and with none of the devil-may-care indifference which might stand
+> him instead of creeds--to such one, every rag that shivers in the
+> breeze of a plague-stricken city has this sort of sublimity.  If by
+> any terrible ordinance he be forced to venture forth, he sees death
+> dangling from every sleeve; and, as he creeps forward, he poises his
+> shuddering limbs between the imminent jacket that is stabbing at his
+> right elbow and the murderous pelisse that threatens to mow him
+> clean down as it sweeps along on his left.  But most of all he
+> dreads that which most of all he should love--the touch of a woman's
+> dress; for mothers and wives, hurrying forth on kindly errands from
+> the bedsides of the dying, go slouching along through the streets
+> more willfully and less courteously than the men.  For a while it
+> may be that the caution of the poor Levantine may enable him to
+> avoid contact, but sooner or later, perhaps, the dreaded chance
+> arrives; that bundle of linen, with the dark tearful eyes at the top
+> of it, that labors along with the voluptuous clumsiness of Grisi
+> --she has touched the poor Levantine with the hem of her sleeve!
+> From that dread moment his peace is gone; his mind for ever hanging upon
+> the fatal touch invites the blow which he fears; he watches for the
+> symptoms of plague so carefully, that sooner or later they come in
+> truth.  The parched mouth is a sign--his mouth is parched; the
+> throbbing brain--his brain does throb; the rapid pulse--he touches
+> his own wrist (for he dares not ask counsel of any man lest he be
+> deserted), he touches his wrist, and feels how his frighted blood
+> goes galloping out of his heart.  There is nothing but the fatal
+> swelling that is wanting to make his sad conviction complete;
+> immediately, he has an odd feel under the arm--no pain, but a little
+> straining of the skin; he would to God it were his fancy that were
+> strong enough to give him that sensation; this is the worst of all.
+> It now seems to him that he could be happy and contented with his
+> parched mouth, and his throbbing brain, and his rapid pulse, if only
+> he could know that there were no swelling under the left arm; but
+> dares he try?--in a moment of calmness and deliberation he dares
+> not; but when for a while he has writhed under the torture of
+> suspense, a sudden strength of will drives him to seek and know his
+> fate; he touches the gland, and finds the skin sane and sound but
+> under the cuticle there lies a small lump like a pistol-bullet, that
+> moves as he pushes it.  Oh! but is this for all certainty, is this
+> the sentence of death?  Feel the gland of the other arm.  There is
+> not the same lump exactly, yet something a little like it.  Have not
+> some people glands naturally enlarged?--would to heaven he were one!
+> So he does for himself the work of the plague, and when the Angel of
+> Death thus courted does indeed and in truth come, he has only to
+> finish that which has been so well begun; he passes his fiery hand
+> over the brain of the victim, and lets him rave for a season, but
+> all chance-wise, of people and things once dear, or of people and
+> things indifferent.  Once more the poor fellow is back at his home
+> in fair Provence, and sees the sundial that stood in his childhood's
+> garden--sees his mother, and the long-since forgotten face of that
+> little dear sister--(he sees her, he says, on a Sunday morning, for
+> all the church bells are ringing); he looks up and down through the
+> universe, and owns it well piled with bales upon bales of cotton,
+> and cotton eternal--so much so that he feels--he knows--he swears he
+> could make that winning hazard, if the billiard-table would not
+> slant upwards, and if the cue were a cue worth playing with; but it
+> is not--it's a cue that won't move--his own arm won't move--in
+> short, there's the devil to pay in the brain of the poor Levantine;
+> and perhaps, the next night but one he becomes the 'life and the
+> soul' of some squalling jackal family, who fish him out by the foot
+> from his shallow and sandy grave."
 
 
 CHAPTER XLIII.
 --------------
 
-	Hunger is the handmaid of genius
-		--Pudd'nhead Wilson's New Calendar.
+> Hunger is the handmaid of genius
+> --Pudd'nhead Wilson's New Calendar.
 
 One day during our stay in Bombay there was a criminal trial of a most
 interesting sort, a terribly realistic chapter out of the "Arabian
@@ -10556,138 +10556,138 @@ with a religious service. The thing reads like a Meadows-Taylor Thug-tale
 of half a century ago, as may be seen by the official report of the
 trial:
 
-	"At the Mazagon Police Court yesterday, Superintendent Nolan again
-	charged Tookaram Suntoo Savat Baya, woman, her daughter Krishni, and
-	Gopal Vithoo Bhanayker, before Mr. Phiroze Hoshang Dastur, Fourth
-	Presidency Magistrate, under sections 302 and 109 of the Code, with
-	having on the night of the 30th of December last murdered a Hindoo
-	girl named Cassi, aged 12, by strangulation, in the room of a chawl
-	at Jakaria Bunder, on the Sewriroad, and also with aiding and
-	abetting each other in the commission of the offense.
+> "At the Mazagon Police Court yesterday, Superintendent Nolan again
+> charged Tookaram Suntoo Savat Baya, woman, her daughter Krishni, and
+> Gopal Vithoo Bhanayker, before Mr. Phiroze Hoshang Dastur, Fourth
+> Presidency Magistrate, under sections 302 and 109 of the Code, with
+> having on the night of the 30th of December last murdered a Hindoo
+> girl named Cassi, aged 12, by strangulation, in the room of a chawl
+> at Jakaria Bunder, on the Sewriroad, and also with aiding and
+> abetting each other in the commission of the offense.
 
-	"Mr. F. A. Little, Public Prosecutor, conducted the case on behalf
-	of the Crown, the accused being undefended.
+> "Mr. F. A. Little, Public Prosecutor, conducted the case on behalf
+> of the Crown, the accused being undefended.
 
-	"Mr. Little applied under the provisions of the Criminal Procedure
-	Code to tender pardon to one of the accused, Krishni, woman, aged
-	22, on her undertaking to make a true and full statement of facts
-	under which the deceased girl Cassi was murdered.
+> "Mr. Little applied under the provisions of the Criminal Procedure
+> Code to tender pardon to one of the accused, Krishni, woman, aged
+> 22, on her undertaking to make a true and full statement of facts
+> under which the deceased girl Cassi was murdered.
 
-	"The Magistrate having granted the Public Prosecutor's application,
-	the accused Krishni went into the witness-box, and, on being
-	examined by Mr. Little, made the following confession:--I am a
-	mill-hand employed at the Jubilee Mill.  I recollect the day
-	(Tuesday); on which the body of the deceased Cassi was found.
-	Previous to that I attended the mill for half a day, and then
-	returned home at 3 in the afternoon, when I saw five persons in the
-	house, viz.: the first accused Tookaram, who is my paramour, my
-	mother, the second accused Baya, the accused Gopal, and two guests
-	named Ramji Daji and Annaji Gungaram.  Tookaram rented the room of
-	the chawl situated at Jakaria Bunder-road from its owner,
-	Girdharilal Radhakishan, and in that room I, my paramour, Tookaram,
-	and his younger brother, Yesso Mahadhoo, live.  Since his arrival in
-	Bombay from his native country Yesso came and lived with us.  When I
-	returned from the mill on the afternoon of that day, I saw the two
-	guests seated on a cot in the veranda, and a few minutes after the
-	accused Gopal came and took his seat by their side, while I and my
-	mother were seated inside the room.  Tookaram, who had gone out to
-	fetch some 'pan' and betelnuts, on his return home had brought the
-	two guests with him.  After returning home he gave them 'pan
-	supari'.  While they were eating it my mother came out of the room
-	and inquired of one of the guests, Ramji, what had happened to his
-	foot, when he replied that he had tried many remedies, but they had
-	done him no good.  My mother then took some rice in her hand and
-	prophesied that the disease which Ramji was suffering from would not
-	be cured until he returned to his native country.  In the meantime
-	the deceased Casi came from the direction of an out-house, and stood
-	in front on the threshold of our room with a 'lota' in her hand.
-	Tookaram then told his two guests to leave the room, and they then
-	went up the steps towards the quarry.  After the guests had gone
-	away, Tookaram seized the deceased, who had come into the room, and
-	he afterwards put a waistband around her, and tied her to a post
-	which supports a loft. After doing this, he pressed the girl's
-	throat, and, having tied her mouth with the 'dhotur' (now shown in
-	Court), fastened it to the post.  Having killed the girl, Tookaram
-	removed her gold head ornament and a gold 'putlee', and also took
-	charge of her 'lota'. Besides these two ornaments Cassi had on her
-	person ear-studs, a nose-ring, some silver toe-rings, two necklaces,
-	a pair of silver anklets and bracelets.  Tookaram afterwards tried
-	to remove the silver amulets, the ear-studs, and the nose-ring; but
-	he failed in his attempt.  While he was doing so, I, my mother, and
-	Gopal were present.  After removing the two gold ornaments, he
-	handed them over to Gopal, who was at the time standing near me.
-	When he killed Cassi, Tookaram threatened to strangle me also if I
-	informed any one of this.  Gopal and myself were then standing at
-	the door of our room, and we both were threatened by Tookaram.  My
-	mother, Baya, had seized the legs of the deceased at the time she
-	was killed, and whilst she was being tied to the post.  Cassi then
-	made a noise. Tookaram and my mother took part in killing the girl.
-	After the murder her body was wrapped up in a mattress and kept on
-	the loft over the door of our room.  When Cassi was strangled, the
-	door of the room was fastened from the inside by Tookaram.  This
-	deed was committed shortly after my return home from work in the
-	mill. Tookaram put the body of the deceased in the mattress, and,
-	after it was left on the loft, he went to have his head shaved by a
-	barber named Sambhoo Raghoo, who lives only one door away from me.
-	My mother and myself then remained in the possession of the
-	information.  I was slapped and threatened by my paramour, Tookaram,
-	and that was the only reason why I did not inform any one at that
-	time.  When I told Tookaram that I would give information of the
-	occurrence, he slapped me.  The accused Gopal was asked by Tookaram
-	to go back to his room, and he did so, taking away with him the two
-	gold ornaments and the 'lota'.  Yesso Mahadhoo, a brother-in-law of
-	Tookaram, came to the house and asked Tookaram why he was washing,
-	the water-pipe being just opposite.  Tookaram replied that he was
-	washing his dhotur, as a fowl had polluted it.  About 6 o'clock of
-	the evening of that day my mother gave me three pice and asked me to
-	buy a cocoanut, and I gave the money to Yessoo, who went and fetched
-	a cocoanut and some betel leaves.  When Yessoo and others were in
-	the room I was bathing, and, after I finished my bath, my mother
-	took the cocoanut and the betel leaves from Yessoo, and we five went
-	to the sea.  The party consisted of Tookaram, my mother, Yessoo,
-	Tookaram's younger brother, and myself.  On reaching the seashore,
-	my mother made the offering to the sea, and prayed to be pardoned
-	for what we had done.  Before we went to the sea, some one came to
-	inquire after the girl Cassi.  The police and other people came to
-	make these inquiries both before and after we left the house for the
-	seashore.  The police questioned my mother about the girl, and she
-	replied that Cassi had come to her door, but had left.  The next day
-	the police questioned Tookaram, and he, too, gave a similar reply.
-	This was said the same night when the search was made for the girl.
-	After the offering was made to the sea, we partook of the cocoanut
-	and returned home, when my mother gave me some food; but Tookaram
-	did not partake of any food that night.  After dinner I and my
-	mother slept inside the room, and Tookaram slept on a cot near his
-	brother-in-law, Yessoo Mahadhoo, just outside the door.  That was
-	not the usual place where Tookaram slept.  He usually slept inside
-	the room.  The body of the deceased remained on the loft when I went
-	to sleep.  The room in which we slept was locked, and I heard that
-	my paramour, Tookaram, was restless outside.  About 3 o'clock the
-	following morning Tookaram knocked at the door, when both myself and
-	my mother opened it.  He then told me to go to the steps leading to
-	the quarry, and see if any one was about.  Those steps lead to a
-	stable, through which we go to the quarry at the back of the
-	compound.  When I got to the steps I saw no one there.  Tookaram
-	asked me if any one was there, and I replied that I could see no one
-	about.  He then took the body of the deceased from the loft, and
-	having wrapped it up in his saree, asked me to accompany him to the
-	steps of the quarry, and I did so.  The 'saree' now produced here
-	was the same.  Besides the 'saree', there was also a 'cholee' on the
-	body.  He then carried the body in his arms, and went up the steps,
-	through the stable, and then to the right hand towards a Sahib's
-	bungalow, where Tookaram placed the body near a wall.  All the time
-	I and my mother were with him.  When the body was taken down, Yessoo
-	was lying on the cot.  After depositing the body under the wall, we
-	all returned home, and soon after 5 a.m.  the police again came and
-	took Tookaram away.  About an hour after they returned and took me
-	and my mother away.  We were questioned about it, when I made a
-	statement.  Two hours later I was taken to the room, and I pointed
-	out this waistband, the 'dhotur', the mattress, and the wooden post
-	to Superintendent Nolan and Inspectors Roberts and Rashanali, in the
-	presence of my mother and Tookaram.  Tookaram killed the girl Cassi
-	for her ornaments, which he wanted for the girl to whom he was
-	shortly going to be married.  The body was found in the same place
-	where it was deposited by Tookaram."
+> "The Magistrate having granted the Public Prosecutor's application,
+> the accused Krishni went into the witness-box, and, on being
+> examined by Mr. Little, made the following confession:--I am a
+> mill-hand employed at the Jubilee Mill.  I recollect the day
+> (Tuesday); on which the body of the deceased Cassi was found.
+> Previous to that I attended the mill for half a day, and then
+> returned home at 3 in the afternoon, when I saw five persons in the
+> house, viz.: the first accused Tookaram, who is my paramour, my
+> mother, the second accused Baya, the accused Gopal, and two guests
+> named Ramji Daji and Annaji Gungaram.  Tookaram rented the room of
+> the chawl situated at Jakaria Bunder-road from its owner,
+> Girdharilal Radhakishan, and in that room I, my paramour, Tookaram,
+> and his younger brother, Yesso Mahadhoo, live.  Since his arrival in
+> Bombay from his native country Yesso came and lived with us.  When I
+> returned from the mill on the afternoon of that day, I saw the two
+> guests seated on a cot in the veranda, and a few minutes after the
+> accused Gopal came and took his seat by their side, while I and my
+> mother were seated inside the room.  Tookaram, who had gone out to
+> fetch some 'pan' and betelnuts, on his return home had brought the
+> two guests with him.  After returning home he gave them 'pan
+> supari'.  While they were eating it my mother came out of the room
+> and inquired of one of the guests, Ramji, what had happened to his
+> foot, when he replied that he had tried many remedies, but they had
+> done him no good.  My mother then took some rice in her hand and
+> prophesied that the disease which Ramji was suffering from would not
+> be cured until he returned to his native country.  In the meantime
+> the deceased Casi came from the direction of an out-house, and stood
+> in front on the threshold of our room with a 'lota' in her hand.
+> Tookaram then told his two guests to leave the room, and they then
+> went up the steps towards the quarry.  After the guests had gone
+> away, Tookaram seized the deceased, who had come into the room, and
+> he afterwards put a waistband around her, and tied her to a post
+> which supports a loft. After doing this, he pressed the girl's
+> throat, and, having tied her mouth with the 'dhotur' (now shown in
+> Court), fastened it to the post.  Having killed the girl, Tookaram
+> removed her gold head ornament and a gold 'putlee', and also took
+> charge of her 'lota'. Besides these two ornaments Cassi had on her
+> person ear-studs, a nose-ring, some silver toe-rings, two necklaces,
+> a pair of silver anklets and bracelets.  Tookaram afterwards tried
+> to remove the silver amulets, the ear-studs, and the nose-ring; but
+> he failed in his attempt.  While he was doing so, I, my mother, and
+> Gopal were present.  After removing the two gold ornaments, he
+> handed them over to Gopal, who was at the time standing near me.
+> When he killed Cassi, Tookaram threatened to strangle me also if I
+> informed any one of this.  Gopal and myself were then standing at
+> the door of our room, and we both were threatened by Tookaram.  My
+> mother, Baya, had seized the legs of the deceased at the time she
+> was killed, and whilst she was being tied to the post.  Cassi then
+> made a noise. Tookaram and my mother took part in killing the girl.
+> After the murder her body was wrapped up in a mattress and kept on
+> the loft over the door of our room.  When Cassi was strangled, the
+> door of the room was fastened from the inside by Tookaram.  This
+> deed was committed shortly after my return home from work in the
+> mill. Tookaram put the body of the deceased in the mattress, and,
+> after it was left on the loft, he went to have his head shaved by a
+> barber named Sambhoo Raghoo, who lives only one door away from me.
+> My mother and myself then remained in the possession of the
+> information.  I was slapped and threatened by my paramour, Tookaram,
+> and that was the only reason why I did not inform any one at that
+> time.  When I told Tookaram that I would give information of the
+> occurrence, he slapped me.  The accused Gopal was asked by Tookaram
+> to go back to his room, and he did so, taking away with him the two
+> gold ornaments and the 'lota'.  Yesso Mahadhoo, a brother-in-law of
+> Tookaram, came to the house and asked Tookaram why he was washing,
+> the water-pipe being just opposite.  Tookaram replied that he was
+> washing his dhotur, as a fowl had polluted it.  About 6 o'clock of
+> the evening of that day my mother gave me three pice and asked me to
+> buy a cocoanut, and I gave the money to Yessoo, who went and fetched
+> a cocoanut and some betel leaves.  When Yessoo and others were in
+> the room I was bathing, and, after I finished my bath, my mother
+> took the cocoanut and the betel leaves from Yessoo, and we five went
+> to the sea.  The party consisted of Tookaram, my mother, Yessoo,
+> Tookaram's younger brother, and myself.  On reaching the seashore,
+> my mother made the offering to the sea, and prayed to be pardoned
+> for what we had done.  Before we went to the sea, some one came to
+> inquire after the girl Cassi.  The police and other people came to
+> make these inquiries both before and after we left the house for the
+> seashore.  The police questioned my mother about the girl, and she
+> replied that Cassi had come to her door, but had left.  The next day
+> the police questioned Tookaram, and he, too, gave a similar reply.
+> This was said the same night when the search was made for the girl.
+> After the offering was made to the sea, we partook of the cocoanut
+> and returned home, when my mother gave me some food; but Tookaram
+> did not partake of any food that night.  After dinner I and my
+> mother slept inside the room, and Tookaram slept on a cot near his
+> brother-in-law, Yessoo Mahadhoo, just outside the door.  That was
+> not the usual place where Tookaram slept.  He usually slept inside
+> the room.  The body of the deceased remained on the loft when I went
+> to sleep.  The room in which we slept was locked, and I heard that
+> my paramour, Tookaram, was restless outside.  About 3 o'clock the
+> following morning Tookaram knocked at the door, when both myself and
+> my mother opened it.  He then told me to go to the steps leading to
+> the quarry, and see if any one was about.  Those steps lead to a
+> stable, through which we go to the quarry at the back of the
+> compound.  When I got to the steps I saw no one there.  Tookaram
+> asked me if any one was there, and I replied that I could see no one
+> about.  He then took the body of the deceased from the loft, and
+> having wrapped it up in his saree, asked me to accompany him to the
+> steps of the quarry, and I did so.  The 'saree' now produced here
+> was the same.  Besides the 'saree', there was also a 'cholee' on the
+> body.  He then carried the body in his arms, and went up the steps,
+> through the stable, and then to the right hand towards a Sahib's
+> bungalow, where Tookaram placed the body near a wall.  All the time
+> I and my mother were with him.  When the body was taken down, Yessoo
+> was lying on the cot.  After depositing the body under the wall, we
+> all returned home, and soon after 5 a.m.  the police again came and
+> took Tookaram away.  About an hour after they returned and took me
+> and my mother away.  We were questioned about it, when I made a
+> statement.  Two hours later I was taken to the room, and I pointed
+> out this waistband, the 'dhotur', the mattress, and the wooden post
+> to Superintendent Nolan and Inspectors Roberts and Rashanali, in the
+> presence of my mother and Tookaram.  Tookaram killed the girl Cassi
+> for her ornaments, which he wanted for the girl to whom he was
+> shortly going to be married.  The body was found in the same place
+> where it was deposited by Tookaram."
 
 The criminal side of the native has always been picturesque, always
 readable.  The Thuggee and one or two other particularly outrageous
@@ -10699,21 +10699,21 @@ is describing some effects which followed the temporary paralysis of
 Hastings' powerful government brought about by Sir Philip Francis and his
 party:
 
-	"The natives considered Hastings as a fallen man; and they acted
-	after their kind.  Some of our readers may have seen, in India, a
-	cloud of crows pecking a sick vulture to death--no bad type of what
-	happens in that country as often as fortune deserts one who has been
-	great and dreaded.  In an instant all the sycophants, who had lately
-	been ready to lie for him, to forge for him, to pander for him, to
-	poison for him, hasten to purchase the favor of his victorious
-	enemies by accusing him.  An Indian government has only to let it be
-	understood that it wishes a particular man to be ruined, and in
-	twenty-four hours it will be furnished with grave charges, supported
-	by depositions so full and circumstantial that any person
-	unaccustomed to Asiatic mendacity would regard them as decisive.  It
-	is well if the signature of the destined victim is not counterfeited
-	at the foot of some illegal compact, and if some treasonable paper
-	is not slipped into a hiding-place in his house."
+> "The natives considered Hastings as a fallen man; and they acted
+> after their kind.  Some of our readers may have seen, in India, a
+> cloud of crows pecking a sick vulture to death--no bad type of what
+> happens in that country as often as fortune deserts one who has been
+> great and dreaded.  In an instant all the sycophants, who had lately
+> been ready to lie for him, to forge for him, to pander for him, to
+> poison for him, hasten to purchase the favor of his victorious
+> enemies by accusing him.  An Indian government has only to let it be
+> understood that it wishes a particular man to be ruined, and in
+> twenty-four hours it will be furnished with grave charges, supported
+> by depositions so full and circumstantial that any person
+> unaccustomed to Asiatic mendacity would regard them as decisive.  It
+> is well if the signature of the destined victim is not counterfeited
+> at the foot of some illegal compact, and if some treasonable paper
+> is not slipped into a hiding-place in his house."
 
 That was nearly a century and a quarter ago.  An article in one of the
 chief journals of India (the Pioneer) shows that in some respects the
@@ -10721,23 +10721,23 @@ native of to-day is just what his ancestor was then.  Here are niceties
 of so subtle and delicate a sort that they lift their breed of rascality
 to a place among the fine arts, and almost entitle it to respect:
 
-	"The records of the Indian courts might certainly be relied upon to
-	prove that swindlers as a class in the East come very close to, if
-	they do not surpass, in brilliancy of execution and originality of
-	design the most expert of their fraternity in Europe and America.
-	India in especial is the home of forgery.  There are some particular
-	districts which are noted as marts for the finest specimens of the
-	forger's handiwork.  The business is carried on by firms who possess
-	stores of stamped papers to suit every emergency.  They habitually
-	lay in a store of fresh stamped papers every year, and some of the
-	older and more thriving houses can supply documents for the past
-	forty years, bearing the proper water-mark and possessing the
-	genuine appearance of age.  Other districts have earned notoriety
-	for skilled perjury, a pre-eminence that excites a respectful
-	admiration when one thinks of the universal prevalence of the art,
-	and persons desirous of succeeding in false suits are ready to pay
-	handsomely to avail themselves of the services of these local
-	experts as witnesses."
+> "The records of the Indian courts might certainly be relied upon to
+> prove that swindlers as a class in the East come very close to, if
+> they do not surpass, in brilliancy of execution and originality of
+> design the most expert of their fraternity in Europe and America.
+> India in especial is the home of forgery.  There are some particular
+> districts which are noted as marts for the finest specimens of the
+> forger's handiwork.  The business is carried on by firms who possess
+> stores of stamped papers to suit every emergency.  They habitually
+> lay in a store of fresh stamped papers every year, and some of the
+> older and more thriving houses can supply documents for the past
+> forty years, bearing the proper water-mark and possessing the
+> genuine appearance of age.  Other districts have earned notoriety
+> for skilled perjury, a pre-eminence that excites a respectful
+> admiration when one thinks of the universal prevalence of the art,
+> and persons desirous of succeeding in false suits are ready to pay
+> handsomely to avail themselves of the services of these local
+> experts as witnesses."
 
 Various instances illustrative of the methods of these swindlers are
 given.  They exhibit deep cunning and total depravity on the part of the
@@ -10747,35 +10747,35 @@ must surely be one of the earliest things learned.  The favorite subject
 is the young fool who has just come into a fortune and is trying to see
 how poor a use he can put it to.  I will quote one example:
 
-	"Sometimes another form of confidence trick is adopted, which is
-	invariably successful.  The particular pigeon is spotted, and, his
-	acquaintance having been made, he is encouraged in every form of
-	vice.  When the friendship is thoroughly established, the swindler
-	remarks to the young man that he has a brother who has asked him to
-	lend him Rs.10,000.  The swindler says he has the money and would
-	lend it; but, as the borrower is his brother, he cannot charge
-	interest.  So he proposes that he should hand the dupe the money,
-	and the latter should lend it to the swindler's brother, exacting a
-	heavy pre-payment of interest which, it is pointed out, they may
-	equally enjoy in dissipation.  The dupe sees no objection, and on
-	the appointed day receives Rs.7,000 from the swindler, which he
-	hands over to the confederate.  The latter is profuse in his thanks,
-	and executes a promissory note for Rs.10,000, payable to bearer.
-	The swindler allows the scheme to remain quiescent for a time, and
-	then suggests that, as the money has not been repaid and as it would
-	be unpleasant to sue his brother, it would be better to sell the
-	note in the bazaar.  The dupe hands the note over, for the money he
-	advanced was not his, and, on being informed that it would be
-	necessary to have his signature on the back so as to render the
-	security negotiable, he signs without any hesitation.  The swindler
-	passes it on to confederates, and the latter employ a respectable
-	firm of solicitors to ask the dupe if his signature is genuine.  He
-	admits it at once, and his fate is sealed.  A suit is filed by a
-	confederate against the dupe, two accomplices being made
-	co-defendants.  They admit their Signatures as indorsers, and the
-	one swears he bought the note for value from the dupe.  The latter
-	has no defense, for no court would believe the apparently idle
-	explanation of the manner in which he came to endorse the note."
+> "Sometimes another form of confidence trick is adopted, which is
+> invariably successful.  The particular pigeon is spotted, and, his
+> acquaintance having been made, he is encouraged in every form of
+> vice.  When the friendship is thoroughly established, the swindler
+> remarks to the young man that he has a brother who has asked him to
+> lend him Rs.10,000.  The swindler says he has the money and would
+> lend it; but, as the borrower is his brother, he cannot charge
+> interest.  So he proposes that he should hand the dupe the money,
+> and the latter should lend it to the swindler's brother, exacting a
+> heavy pre-payment of interest which, it is pointed out, they may
+> equally enjoy in dissipation.  The dupe sees no objection, and on
+> the appointed day receives Rs.7,000 from the swindler, which he
+> hands over to the confederate.  The latter is profuse in his thanks,
+> and executes a promissory note for Rs.10,000, payable to bearer.
+> The swindler allows the scheme to remain quiescent for a time, and
+> then suggests that, as the money has not been repaid and as it would
+> be unpleasant to sue his brother, it would be better to sell the
+> note in the bazaar.  The dupe hands the note over, for the money he
+> advanced was not his, and, on being informed that it would be
+> necessary to have his signature on the back so as to render the
+> security negotiable, he signs without any hesitation.  The swindler
+> passes it on to confederates, and the latter employ a respectable
+> firm of solicitors to ask the dupe if his signature is genuine.  He
+> admits it at once, and his fate is sealed.  A suit is filed by a
+> confederate against the dupe, two accomplices being made
+> co-defendants.  They admit their Signatures as indorsers, and the
+> one swears he bought the note for value from the dupe.  The latter
+> has no defense, for no court would believe the apparently idle
+> explanation of the manner in which he came to endorse the note."
 
 There is only one India!  It is the only country that has a monopoly of
 grand and imposing specialties.  When another country has a remarkable
@@ -10866,9 +10866,9 @@ thousands all around him every year, the whole time.
 CHAPTER XLIV.
 -------------
 
-	The old saw says, "Let a sleeping dog lie."  Right....  Still, when there
-	is much at stake it is better to get a newspaper to do it.
-		--Pudd'nhead Wilson's New Calendar.
+> The old saw says, "Let a sleeping dog lie."  Right....  Still, when there
+> is much at stake it is better to get a newspaper to do it.
+> --Pudd'nhead Wilson's New Calendar.
 
 FROM DIARY:
 
@@ -11011,17 +11011,17 @@ the one and unfailing great quality which distinguishes her poetry from
 Shakespeare's and makes it precious to us is its stern and simple
 irrelevancy:
 
-	My heart was gay and happy,
-	This was ever in my mind,
-	There is better times a coming,
-	And I hope some day to find
-	Myself capable of composing,
-	It was my heart's delight
-	To compose on a sentimental subject
-	If it came in my mind just right.
+> My heart was gay and happy,
+> This was ever in my mind,
+> There is better times a coming,
+> And I hope some day to find
+> Myself capable of composing,
+> It was my heart's delight
+> To compose on a sentimental subject
+> If it came in my mind just right.
 
-	--["The Sentimental Song Book," p. 49; theme, "The Author's Early Life,"
-	 19th stanza.]
+> --["The Sentimental Song Book," p. 49; theme, "The Author's Early Life,"
+>  19th stanza.]
 
 Barroda.   Arrived at 7 this morning.  The dawn was just beginning to
 show.  It was forlorn to have to turn out in a strange place at such a
@@ -11088,9 +11088,9 @@ splendors, and for the wealth of its princes.
 CHAPTER XLV.
 ------------
 
-	It takes your enemy and your friend, working together, to hurt you to the
-	heart; the one to slander you and the other to get the news to you.
-		--Pudd'nhead Wilson's New Calendar.
+> It takes your enemy and your friend, working together, to hurt you to the
+> heart; the one to slander you and the other to get the news to you.
+> --Pudd'nhead Wilson's New Calendar.
 
 Out of the town again; a long drive through open country, by winding
 roads among secluded villages nestling in the inviting shade of tropic
@@ -11488,9 +11488,9 @@ run the blockade of Augustin Daly's back door.
 CHAPTER XLVI.
 -------------
 
-	If the desire to kill and the opportunity to kill came always together,
-	who would escape hanging.
-		--Pudd'nhead Wilson's New Calendar.
+> If the desire to kill and the opportunity to kill came always together,
+> who would escape hanging.
+> --Pudd'nhead Wilson's New Calendar.
 
 On the Train.  Fifty years ago, when I was a boy in the then remote and
 sparsely peopled Mississippi valley, vague tales and rumors of a
@@ -11527,9 +11527,9 @@ Thuggee, and he and his seventeen assistants accomplished it.  It was the
 Augean Stables over again.  Captain Vallancey, writing in a Madras
 journal in those old times, makes this remark:
 
-	"The day that sees this far-spread evil eradicated from India and
-	known only in name, will greatly tend to immortalize British rule in
-	the East."
+> "The day that sees this far-spread evil eradicated from India and
+> known only in name, will greatly tend to immortalize British rule in
+> the East."
 
 He did not overestimate the magnitude and difficulty of the work, nor the
 immensity of the credit which would justly be due to British rule in case
@@ -11678,42 +11678,42 @@ they murdered 385 people.
 Here is the tally-sheet of a gang of sixty Thugs for a whole season--gang
 under two noted chiefs, "Chotee and Sheik Nungoo from Gwalior":
 
-	"Left Poora, in Jhansee, and on arrival at Sarora murdered a
-	traveler.
+> "Left Poora, in Jhansee, and on arrival at Sarora murdered a
+> traveler.
 
-	"On nearly reaching Bhopal, met 3 Brahmins, and murdered them.
+> "On nearly reaching Bhopal, met 3 Brahmins, and murdered them.
 
-	"Cross the Nerbudda; at a village called Hutteea, murdered a Hindoo.
+> "Cross the Nerbudda; at a village called Hutteea, murdered a Hindoo.
 
-	"Went through Aurungabad to Walagow; there met a Havildar of the
-	barber caste and 5 sepoys (native soldiers); in the evening came to
-	Jokur, and in the morning killed them near the place where the
-	treasure-bearers were killed the year before.
+> "Went through Aurungabad to Walagow; there met a Havildar of the
+> barber caste and 5 sepoys (native soldiers); in the evening came to
+> Jokur, and in the morning killed them near the place where the
+> treasure-bearers were killed the year before.
 
-	"Between Jokur and Dholeea met a sepoy of the shepherd caste; killed
-	him in the jungle.
+> "Between Jokur and Dholeea met a sepoy of the shepherd caste; killed
+> him in the jungle.
 
-	"Passed through Dholeea and lodged in a village; two miles beyond,
-	on the road to Indore, met a Byragee (beggar-holy mendicant);
-	murdered him at the Thapa.
+> "Passed through Dholeea and lodged in a village; two miles beyond,
+> on the road to Indore, met a Byragee (beggar-holy mendicant);
+> murdered him at the Thapa.
 
-	"In the morning, beyond the Thapa, fell in with 3 Marwarie
-	travelers; murdered them.
+> "In the morning, beyond the Thapa, fell in with 3 Marwarie
+> travelers; murdered them.
 
-	"Near a village on the banks of the Taptee met 4 travelers and
-	killed them.
+> "Near a village on the banks of the Taptee met 4 travelers and
+> killed them.
 
-	"Between Choupra and Dhoreea met a Marwarie; murdered him.
+> "Between Choupra and Dhoreea met a Marwarie; murdered him.
 
-	"At Dhoreea met 3 Marwaries; took them two miles and murdered them.
+> "At Dhoreea met 3 Marwaries; took them two miles and murdered them.
 
-	"Two miles further on, overtaken by three treasure-bearers; took
-	them two miles and murdered them in the jungle.
+> "Two miles further on, overtaken by three treasure-bearers; took
+> them two miles and murdered them in the jungle.
 
-	"Came on to Khurgore Bateesa in Indore, divided spoil, and
-	dispersed.
+> "Came on to Khurgore Bateesa in Indore, divided spoil, and
+> dispersed.
 
-	"A total of 27 men murdered on one expedition."
+> "A total of 27 men murdered on one expedition."
 
 Chotee (to save his neck) was informer, and furnished these facts.
 Several things are noticeable about his resume.  1. Business brevity;
@@ -11734,24 +11734,24 @@ tally-sheet of Feringhea's, who had been out with forty Thugs, I find a
 case of the kind.  After the killing of thirty-nine men and one woman,
 the fakeer appears on the scene:
 
-	"Approaching Doregow, met 3 pundits; also a fakeer, mounted on a
-	pony; he was plastered over with sugar to collect flies, and was
-	covered with them.  Drove off the fakeer, and killed the other
-	three.
+> "Approaching Doregow, met 3 pundits; also a fakeer, mounted on a
+> pony; he was plastered over with sugar to collect flies, and was
+> covered with them.  Drove off the fakeer, and killed the other
+> three.
 
-	"Leaving Doregow, the fakeer joined again, and went on in company to
-	Raojana; met 6 Khutries on their way from Bombay to Nagpore.  Drove
-	off the fakeer with stones, and killed the 6 men in camp, and buried
-	them in the grove.
+> "Leaving Doregow, the fakeer joined again, and went on in company to
+> Raojana; met 6 Khutries on their way from Bombay to Nagpore.  Drove
+> off the fakeer with stones, and killed the 6 men in camp, and buried
+> them in the grove.
 
-	"Next day the fakeer joined again; made him leave at Mana.  Beyond
-	there, fell in with two Kahars and a sepoy, and came on towards the
-	place selected for the murder.  When near it, the fakeer came again.
-	Losing all patience with him, gave Mithoo, one of the gang, 5 rupees
-	($2.50) to murder him, and take the sin upon himself.  All four were
-	strangled, including the fakeer.  Surprised to find among the
-	fakeer's effects 30 pounds of coral, 350 strings of small pearls, 15
-	strings of large pearls, and a gilt necklace."
+> "Next day the fakeer joined again; made him leave at Mana.  Beyond
+> there, fell in with two Kahars and a sepoy, and came on towards the
+> place selected for the murder.  When near it, the fakeer came again.
+> Losing all patience with him, gave Mithoo, one of the gang, 5 rupees
+> ($2.50) to murder him, and take the sin upon himself.  All four were
+> strangled, including the fakeer.  Surprised to find among the
+> fakeer's effects 30 pounds of coral, 350 strings of small pearls, 15
+> strings of large pearls, and a gilt necklace."
 
 It it curious, the little effect that time has upon a really interesting
 circumstance.  This one, so old, so long ago gone down into oblivion,
@@ -11797,38 +11797,38 @@ strangled him.
 Among the reports of expeditions we find mention of victims of almost
 every quality and estate:
 
-	Native soldiers.
-	Fakeers.
-	Mendicants.
-	Holy-water carriers.
-	Carpenters.
-	Peddlers.
-	Tailors.
-	Blacksmiths.
-	Policemen (native).
-	Pastry cooks.
-	Grooms.
-	Mecca pilgrims.
-	Chuprassies.
-	Treasure-bearers.
-	Children.
-	Cowherds.
-	Gardeners.
-	Shopkeepers.
-	Palanquin-bearers.
-	Farmers.
-	Bullock-drivers.
-	Male servants seeking work.
-	Women servants seeking work.
-	Shepherds.
-	Archers.
-	Table-waiters.
-	Weavers.
-	Priests.
-	Bankers.
-	Boatmen.
-	Merchants.
-	Grass-cutters.
+> Native soldiers.
+> Fakeers.
+> Mendicants.
+> Holy-water carriers.
+> Carpenters.
+> Peddlers.
+> Tailors.
+> Blacksmiths.
+> Policemen (native).
+> Pastry cooks.
+> Grooms.
+> Mecca pilgrims.
+> Chuprassies.
+> Treasure-bearers.
+> Children.
+> Cowherds.
+> Gardeners.
+> Shopkeepers.
+> Palanquin-bearers.
+> Farmers.
+> Bullock-drivers.
+> Male servants seeking work.
+> Women servants seeking work.
+> Shepherds.
+> Archers.
+> Table-waiters.
+> Weavers.
+> Priests.
+> Bankers.
+> Boatmen.
+> Merchants.
+> Grass-cutters.
 
 Also a prince's cook; and even the water-carrier of that sublime lord of
 lords and king of kings, the Governor-General of India!  How broad they
@@ -11837,15 +11837,15 @@ barnstormers.  There are two instances recorded; the first one by a gang
 of Thugs under a chief who soils a great name borne by a better man
 --Kipling's deathless "Gungadin":
 
-	"After murdering 4 sepoys, going on toward Indore, met 4 strolling
-	players, and persuaded them to come with us, on the pretense that we
-	would see their performance at the next stage.  Murdered them at a
-	temple near Bhopal."
+> "After murdering 4 sepoys, going on toward Indore, met 4 strolling
+> players, and persuaded them to come with us, on the pretense that we
+> would see their performance at the next stage.  Murdered them at a
+> temple near Bhopal."
 
 Second instance:
 
-	"At Deohuttee, joined by comedians.  Murdered them eastward of that
-	place."
+> "At Deohuttee, joined by comedians.  Murdered them eastward of that
+> place."
 
 But this gang was a particularly bad crew.  On that expedition they
 murdered a fakeer and twelve beggars.  And yet Bhowanee protected them;
@@ -11882,10 +11882,10 @@ passage:
 CHAPTER XLVII.
 --------------
 
-	Simple rules for saving money: To save half, when you are fired by an
-	eager impulse to contribute to a charity, wait, and count forty.  To save
-	three-quarters, count sixty.  To save it all, count sixty-five.
-		--Pudd'nhead Wilson's New Calendar.
+> Simple rules for saving money: To save half, when you are fired by an
+> eager impulse to contribute to a charity, wait, and count forty.  To save
+> three-quarters, count sixty.  To save it all, count sixty-five.
+> --Pudd'nhead Wilson's New Calendar.
 
 The Thug said:
 
@@ -11920,18 +11920,18 @@ was no more ashamed of beguiling his game with deceits and abusing its
 trust than are we when we have imitated a wild animal's call and shot it
 when it honored us with its confidence and came to see what we wanted:
 
-	"Madara, son of Nihal, and I, Ramzam, set out from Kotdee in the
-	cold weather and followed the high road for about twenty days in
-	search of travelers, until we came to Selempore, where we met a very
-	old man going to the east.  We won his confidence in this manner: he
-	carried a load which was too heavy for his old age; I said to him,
-	'You are an old man, I will aid you in carrying your load, as you
-	are from my part of the country.'  He said, 'Very well, take me with
-	you.'  So we took him with us to Selempore, where we slept that
-	night.  We woke him next morning before dawn and set out, and at the
-	distance of three miles we seated him to rest while it was still
-	very dark.  Madara was ready behind him, and strangled him.  He
-	never spoke a word.  He was about 60 or 70 years of age."
+> "Madara, son of Nihal, and I, Ramzam, set out from Kotdee in the
+> cold weather and followed the high road for about twenty days in
+> search of travelers, until we came to Selempore, where we met a very
+> old man going to the east.  We won his confidence in this manner: he
+> carried a load which was too heavy for his old age; I said to him,
+> 'You are an old man, I will aid you in carrying your load, as you
+> are from my part of the country.'  He said, 'Very well, take me with
+> you.'  So we took him with us to Selempore, where we slept that
+> night.  We woke him next morning before dawn and set out, and at the
+> distance of three miles we seated him to rest while it was still
+> very dark.  Madara was ready behind him, and strangled him.  He
+> never spoke a word.  He was about 60 or 70 years of age."
 
 Another gang fell in with a couple of barbers and persuaded them to come
 along in their company by promising them the job of shaving the whole
@@ -11970,41 +11970,41 @@ heat of India, week after week, at an average of nine or ten miles a day,
 if he might but hope to find game some time or other and refresh his
 longing soul with blood.  Here is an instance:
 
-	"I (Ramzam) and Hyder set out, for the purpose of strangling
-	travelers, from Guddapore, and proceeded via the Fort of Julalabad,
-	Newulgunge, Bangermow, on the banks of the Ganges (upwards of 100
-	miles), from whence we returned by another route.  Still no
-	travelers! till we reached Bowaneegunge, where we fell in with a
-	traveler, a boatman; we inveigled him and about two miles east of
-	there Hyder strangled him as he stood--for he was troubled and
-	afraid, and would not sit.  We then made a long journey (about 130
-	miles) and reached Hussunpore Bundwa, where at the tank we fell in
-	with a traveler--he slept there that night; next morning we followed
-	him and tried to win his confidence; at the distance of two miles we
-	endeavored to induce him to sit down--but he would not, having
-	become aware of us.  I attempted to strangle him as he walked along,
-	but did not succeed; both of us then fell upon him, he made a great
-	outcry, 'They are murdering me!' at length we strangled him and
-	flung his body into a well.  After this we returned to our homes,
-	having been out a month and traveled about 260 miles.  A total of
-	two men murdered on the expedition."
+> "I (Ramzam) and Hyder set out, for the purpose of strangling
+> travelers, from Guddapore, and proceeded via the Fort of Julalabad,
+> Newulgunge, Bangermow, on the banks of the Ganges (upwards of 100
+> miles), from whence we returned by another route.  Still no
+> travelers! till we reached Bowaneegunge, where we fell in with a
+> traveler, a boatman; we inveigled him and about two miles east of
+> there Hyder strangled him as he stood--for he was troubled and
+> afraid, and would not sit.  We then made a long journey (about 130
+> miles) and reached Hussunpore Bundwa, where at the tank we fell in
+> with a traveler--he slept there that night; next morning we followed
+> him and tried to win his confidence; at the distance of two miles we
+> endeavored to induce him to sit down--but he would not, having
+> become aware of us.  I attempted to strangle him as he walked along,
+> but did not succeed; both of us then fell upon him, he made a great
+> outcry, 'They are murdering me!' at length we strangled him and
+> flung his body into a well.  After this we returned to our homes,
+> having been out a month and traveled about 260 miles.  A total of
+> two men murdered on the expedition."
 
 And here is another case-related by the terrible Futty Khan, a man with a
 tremendous record, to be re-mentioned by and by:
 
-	"I, with three others, traveled for about 45 days a distance of
-	about 200 miles in search of victims along the highway to Bundwa and
-	returned by Davodpore (another 200 miles) during which journey we
-	had only one murder, which happened in this manner.  Four miles to
-	the east of Noubustaghat we fell in with a traveler, an old man.  I,
-	with Koshal and Hyder, inveigled him and accompanied him that day
-	within 3 miles of Rampoor, where, after dark, in a lonely place, we
-	got him to sit down and rest; and while I kept him in talk, seated
-	before him, Hyder behind strangled him: he made no resistance.
-	Koshal stabbed him under the arms and in the throat, and we flung
-	the body into a running stream.  We got about 4 or 5 rupees each ($2
-	or $2.50).  We then proceeded homewards.  A total of one man
-	murdered on this expedition."
+> "I, with three others, traveled for about 45 days a distance of
+> about 200 miles in search of victims along the highway to Bundwa and
+> returned by Davodpore (another 200 miles) during which journey we
+> had only one murder, which happened in this manner.  Four miles to
+> the east of Noubustaghat we fell in with a traveler, an old man.  I,
+> with Koshal and Hyder, inveigled him and accompanied him that day
+> within 3 miles of Rampoor, where, after dark, in a lonely place, we
+> got him to sit down and rest; and while I kept him in talk, seated
+> before him, Hyder behind strangled him: he made no resistance.
+> Koshal stabbed him under the arms and in the throat, and we flung
+> the body into a running stream.  We got about 4 or 5 rupees each ($2
+> or $2.50).  We then proceeded homewards.  A total of one man
+> murdered on this expedition."
 
 There.  They tramped 400 miles, were gone about three months, and
 harvested two dollars and a half apiece.  But the mere pleasure of the
@@ -12025,10 +12025,10 @@ tasted the regal joys of man-hunting he could not be content with the
 dull monotony of a crimeless life after ward.  Example, from a Thug's
 testimony:
 
-	"We passed through to Kurnaul, where we found a former Thug named
-	Junooa, an old comrade of ours, who had turned religious mendicant
-	and become a disciple and holy.  He came to us in the serai and
-	weeping with joy returned to his old trade."
+> "We passed through to Kurnaul, where we found a former Thug named
+> Junooa, an old comrade of ours, who had turned religious mendicant
+> and become a disciple and holy.  He came to us in the serai and
+> weeping with joy returned to his old trade."
 
 Neither wealth nor honors nor dignities could satisfy a reformed Thug for
 long.  He would throw them all away, someday, and go back to the lurid
@@ -12091,10 +12091,10 @@ So many many times this Official Report leaves one's curiosity
 unsatisfied.  For instance, here is a little paragraph out of the record
 of a certain band of 193 Thugs, which has that defect:
 
-	"Fell in with Lall Sing Subahdar and his family, consisting of nine
-	persons.  Traveled with them two days, and the third put them all to
-	death except the two children, little boys of one and a half years
-	old."
+> "Fell in with Lall Sing Subahdar and his family, consisting of nine
+> persons.  Traveled with them two days, and the third put them all to
+> death except the two children, little boys of one and a half years
+> old."
 
 There it stops.  What did they do with those poor little fellows?  What
 was their subsequent history?  Did they purpose training them up as
@@ -12131,13 +12131,13 @@ foster-brother, Jhurhoo, entreated to be allowed to see the aged mother
 and the others.  The prayer was granted, and this is what took place--it
 is the British officer who speaks:
 
-	"In the morning, just before going to the scaffold, the interview
-	took place before me.  He fell at the old woman's feet and begged
-	that she would relieve him from the obligations of the milk with
-	which she had nourished him from infancy, as he was about to die
-	before he could fulfill any of them.  She placed her hands on his
-	head, and he knelt, and she said she forgave him all, and bid him
-	die like a man."
+> "In the morning, just before going to the scaffold, the interview
+> took place before me.  He fell at the old woman's feet and begged
+> that she would relieve him from the obligations of the milk with
+> which she had nourished him from infancy, as he was about to die
+> before he could fulfill any of them.  She placed her hands on his
+> head, and he knelt, and she said she forgave him all, and bid him
+> die like a man."
 
 If a capable artist should make a picture of it, it would be full of
 dignity and solemnity and pathos; and it could touch you.  You would
@@ -12194,9 +12194,9 @@ way.  That is wholly true--with one reservation.  In all the long file of
 Thug confessions an English traveler is mentioned but once--and this is
 what the Thug says of the circumstance:
 
-	"He was on his way from Mhow to Bombay.  We studiously avoided him.
-	He proceeded next morning with a number of travelers who had sought
-	his protection, and they took the road to Baroda."
+> "He was on his way from Mhow to Bombay.  We studiously avoided him.
+> He proceeded next morning with a number of travelers who had sought
+> his protection, and they took the road to Baroda."
 
 We do not know who he was; he flits across the page of this rusty old
 book and disappears in the obscurity beyond; but he is an impressive
@@ -12220,9 +12220,9 @@ confident grip upon it, and ripped it out, root and branch!  How modest
 do Captain Vallancey's words sound now, when we read them again, knowing
 what we know:
 
-	"The day that sees this far-spread evil completely eradicated from
-	India, and known only in name, will greatly tend to immortalize
-	British rule in the East."
+> "The day that sees this far-spread evil completely eradicated from
+> India, and known only in name, will greatly tend to immortalize
+> British rule in the East."
 
 It would be hard to word a claim more modestly than that for this most
 noble work.
@@ -12231,9 +12231,9 @@ noble work.
 CHAPTER XLVIII.
 ---------------
 
-	Grief can take care of itself; but to get the full value of a joy you
-	must have somebody to divide it with.
-		--Pudd'nhead Wilson's New Calendar.
+> Grief can take care of itself; but to get the full value of a joy you
+> must have somebody to divide it with.
+> --Pudd'nhead Wilson's New Calendar.
 
 We left Bombay for Allahabad by a night train.  It is the custom of the
 country to avoid day travel when it can conveniently be done.  But there
@@ -12532,10 +12532,10 @@ was to come.
 CHAPTER XLIX.
 -------------
 
-	He had had much experience of physicians, and said "the only way to keep
-	your health is to eat what you don't want, drink what you don't like,
-	and do what you'd druther not."
-		--Pudd'nhead Wilson's New Calendar.
+> He had had much experience of physicians, and said "the only way to keep
+> your health is to eat what you don't want, drink what you don't like,
+> and do what you'd druther not."
+> --Pudd'nhead Wilson's New Calendar.
 
 It was a long journey--two nights, one day, and part of another day, from
 Bombay eastward to Allahabad; but it was always interesting, and it was
@@ -12671,29 +12671,29 @@ other castes despise him and scorn his office.  But that does not trouble
 him.  His caste is a caste, and that is sufficient for him, and so he is
 proud of it, not ashamed.  Sleeman says:
 
-	"It is perhaps not known to many of my countrymen, even in India,
-	that in every town and city in the country the right of sweeping the
-	houses and streets is a monopoly, and is supported entirely by the
-	pride of castes among the scavengers, who are all of the lowest
-	class.  The right of sweeping within a certain range is recognized
-	by the caste to belong to a certain member; and if any other member
-	presumes to sweep within that range, he is excommunicated--no other
-	member will smoke out of his pipe or drink out of his jug; and he
-	can get restored to caste only by a feast to the whole body of
-	sweepers.  If any housekeeper within a particular circle happens to
-	offend the sweeper of that range, none of his filth will be removed
-	till he pacifies him, because no other sweeper will dare to touch
-	it; and the people of a town are often more tyrannized over by these
-	people than by any other."
+> "It is perhaps not known to many of my countrymen, even in India,
+> that in every town and city in the country the right of sweeping the
+> houses and streets is a monopoly, and is supported entirely by the
+> pride of castes among the scavengers, who are all of the lowest
+> class.  The right of sweeping within a certain range is recognized
+> by the caste to belong to a certain member; and if any other member
+> presumes to sweep within that range, he is excommunicated--no other
+> member will smoke out of his pipe or drink out of his jug; and he
+> can get restored to caste only by a feast to the whole body of
+> sweepers.  If any housekeeper within a particular circle happens to
+> offend the sweeper of that range, none of his filth will be removed
+> till he pacifies him, because no other sweeper will dare to touch
+> it; and the people of a town are often more tyrannized over by these
+> people than by any other."
 
 A footnote by Major Sleeman's editor, Mr. Vincent Arthur Smith, says that
 in our day this tyranny of the sweepers' guild is one of the many
 difficulties which bar the progress of Indian sanitary reform.  Think of
 this:
 
-	"The sweepers cannot be readily coerced, because no Hindoo or
-	Mussulman would do their work to save his life, nor will he pollute
-	himself by beating the refractory scavenger."
+> "The sweepers cannot be readily coerced, because no Hindoo or
+> Mussulman would do their work to save his life, nor will he pollute
+> himself by beating the refractory scavenger."
 
 They certainly do seem to have the whip-hand; it would be difficult to
 imagine a more impregnable position.  "The vested rights described in the
@@ -12926,9 +12926,9 @@ I wrenched myself away.
 CHAPTER L.
 ----------
 
-	The man who is ostentatious of his modesty is twin to the statue that
-	wears a fig-leaf.
-		--Pudd'nhead Wilson's New Calendar.
+> The man who is ostentatious of his modesty is twin to the statue that
+> wears a fig-leaf.
+> --Pudd'nhead Wilson's New Calendar.
 
 The journey to Benares was all in daylight, and occupied but a few hours.
 It was admirably dusty.  The dust settled upon you in a thick ashy layer
@@ -13161,18 +13161,18 @@ is impossible to convey any adequate idea of the intense feelings of
 veneration and affection with which the pious Hindoo regards 'Holy Kashi'
 (Benares)." And then he gives you this vivid and moving picture:
 
-	"Let a Hindoo regiment be marched through the district, and as soon
-	as they cross the line and enter the limits of the holy place they
-	rend the air with cries of 'Kashi ji ki jai--jai!  (Holy
-	Kashi!  Hail to thee!  Hail!  Hail!  Hail)'.  The weary pilgrim
-	scarcely able to stand, with age and weakness, blinded by the dust
-	and heat, and almost dead with fatigue, crawls out of the oven-like
-	railway carriage and as soon as his feet touch the ground he lifts
-	up his withered hands and utters the same pious exclamation.  Let a
-	European in some distant city in casual talk in the bazar mention
-	the fact that he has lived at Benares, and at once voices will be
-	raised to call down blessings on his head, for a dweller in Benares
-	is of all men most blessed."
+> "Let a Hindoo regiment be marched through the district, and as soon
+> as they cross the line and enter the limits of the holy place they
+> rend the air with cries of 'Kashi ji ki jai--jai!  (Holy
+> Kashi!  Hail to thee!  Hail!  Hail!  Hail)'.  The weary pilgrim
+> scarcely able to stand, with age and weakness, blinded by the dust
+> and heat, and almost dead with fatigue, crawls out of the oven-like
+> railway carriage and as soon as his feet touch the ground he lifts
+> up his withered hands and utters the same pious exclamation.  Let a
+> European in some distant city in casual talk in the bazar mention
+> the fact that he has lived at Benares, and at once voices will be
+> raised to call down blessings on his head, for a dweller in Benares
+> is of all men most blessed."
 
 It makes our own religious enthusiasm seem pale and cold.  Inasmuch as
 the life of religion is in the heart, not the head, Mr. Parker's touching
@@ -13183,9 +13183,9 @@ funeral.
 CHAPTER LI.
 -----------
 
-	Let me make the superstitions of a nation and I care not who makes its
-	laws or its songs either.
-		--Pudd'nhead Wilson's New Calendar.
+> Let me make the superstitions of a nation and I care not who makes its
+> laws or its songs either.
+> --Pudd'nhead Wilson's New Calendar.
 
 Yes, the city of Benares is in effect just a big church, a religious
 hive, whose every cell is a temple, a shrine or a mosque, and whose every
@@ -13426,8 +13426,8 @@ they were brought up in.
 CHAPTER LII.
 ------------
 
-	Wrinkles should merely indicate where smiles have been.
-		--Pudd'nhead Wilson's New Calendar.
+> Wrinkles should merely indicate where smiles have been.
+> --Pudd'nhead Wilson's New Calendar.
 
 In one of those Benares temples we saw a devotee working for salvation in
 a curious way.  He had a huge wad of clay beside him and was making it up
@@ -13715,8 +13715,8 @@ oppression and abuse.
 CHAPTER LIII.
 -------------
 
-	True irreverence is disrespect for another man's god.
-		--Pudd'nhead Wilson's New Calendar.
+> True irreverence is disrespect for another man's god.
+> --Pudd'nhead Wilson's New Calendar.
 
 It was in Benares that I saw another living god.  That makes two.
 I believe I have seen most of the greater and lesser wonders of the
@@ -13971,11 +13971,11 @@ the English.
 
 Major Sleeman wrote forty or fifty years ago (the italics are mine):
 
-	"I would here enter my humble protest against the quadrille and
-	lunch parties which are sometimes given to European ladies and
-	gentlemen of the station at this imperial tomb; drinking and dancing
-	are no doubt very good things in their season, but they are sadly
-	out of place in a sepulchre."
+> "I would here enter my humble protest against the quadrille and
+> lunch parties which are sometimes given to European ladies and
+> gentlemen of the station at this imperial tomb; drinking and dancing
+> are no doubt very good things in their season, but they are sadly
+> out of place in a sepulchre."
 
 Were there any Americans among those lunch parties?  If they were
 invited, there were.
@@ -14001,10 +14001,10 @@ that would answer.
 CHAPTER LIV.
 ------------
 
-	Do not undervalue the headache.  While it is at its sharpest it seems a
-	bad investment; but when relief begins, the unexpired remainder is worth
-	$4 a minute.
-		--Pudd'nhead Wilson's New Calendar.
+> Do not undervalue the headache.  While it is at its sharpest it seems a
+> bad investment; but when relief begins, the unexpired remainder is worth
+> $4 a minute.
+> --Pudd'nhead Wilson's New Calendar.
 
 A comfortable railway journey of seventeen and a half hours brought us to
 the capital of India, which is likewise the capital of Bengal--Calcutta.
@@ -14130,70 +14130,70 @@ gentleman was one of the twenty-three survivors, and he said it was the
 stolen perspiration that saved his life.  From the middle of Mr.
 Holwell's narrative I will make a brief excerpt:
 
-	"Then a general prayer to Heaven, to hasten the approach of the
-	flames to the right and left of us, and put a period to our misery.
-	But these failing, they whose strength and spirits were quite
-	exhausted laid themselves down and expired quietly upon their
-	fellows: others who had yet some strength and vigor left made a last
-	effort at the windows, and several succeeded by leaping and
-	scrambling over the backs and heads of those in the first rank, and
-	got hold of the bars, from which there was no removing them.  Many
-	to the right and left sunk with the violent pressure, and were soon
-	suffocated; for now a steam arose from the living and the dead,
-	which affected us in all its circumstances as if we were forcibly
-	held with our heads over a bowl full of strong volatile spirit of
-	hartshorn, until suffocated; nor could the effluvia of the one be
-	distinguished from the other, and frequently, when I was forced by
-	the load upon my head and shoulders to hold my face down, I was
-	obliged, near as I was to the window, instantly to raise it again to
-	avoid suffocation.  I need not, my dear friend, ask your
-	commiseration, when I tell you, that in this plight, from half an
-	hour past eleven till near two in the morning, I sustained the
-	weight of a heavy man, with his knees in my back, and the pressure
-	of his whole body on my head.  A Dutch surgeon who had taken his
-	seat upon my left shoulder, and a Topaz (a black Christian soldier)
-	bearing on my right; all which nothing could have enabled me to
-	support but the props and pressure equally sustaining me all around.
-	The two latter I frequently dislodged by shifting my hold on the
-	bars and driving my knuckles into their ribs; but my friend above
-	stuck fast, held immovable by two bars.
+> "Then a general prayer to Heaven, to hasten the approach of the
+> flames to the right and left of us, and put a period to our misery.
+> But these failing, they whose strength and spirits were quite
+> exhausted laid themselves down and expired quietly upon their
+> fellows: others who had yet some strength and vigor left made a last
+> effort at the windows, and several succeeded by leaping and
+> scrambling over the backs and heads of those in the first rank, and
+> got hold of the bars, from which there was no removing them.  Many
+> to the right and left sunk with the violent pressure, and were soon
+> suffocated; for now a steam arose from the living and the dead,
+> which affected us in all its circumstances as if we were forcibly
+> held with our heads over a bowl full of strong volatile spirit of
+> hartshorn, until suffocated; nor could the effluvia of the one be
+> distinguished from the other, and frequently, when I was forced by
+> the load upon my head and shoulders to hold my face down, I was
+> obliged, near as I was to the window, instantly to raise it again to
+> avoid suffocation.  I need not, my dear friend, ask your
+> commiseration, when I tell you, that in this plight, from half an
+> hour past eleven till near two in the morning, I sustained the
+> weight of a heavy man, with his knees in my back, and the pressure
+> of his whole body on my head.  A Dutch surgeon who had taken his
+> seat upon my left shoulder, and a Topaz (a black Christian soldier)
+> bearing on my right; all which nothing could have enabled me to
+> support but the props and pressure equally sustaining me all around.
+> The two latter I frequently dislodged by shifting my hold on the
+> bars and driving my knuckles into their ribs; but my friend above
+> stuck fast, held immovable by two bars.
 
-	"I exerted anew my strength and fortitude; but the repeated trials
-	and efforts I made to dislodge the insufferable incumbrances upon me
-	at last quite exhausted me; and towards two o'clock, finding I must
-	quit the window or sink where I was, I resolved on the former,
-	having bore, truly for the sake of others, infinitely more for life
-	than the best of it is worth.  In the rank close behind me was an
-	officer of one of the ships, whose name was Cary, and who had
-	behaved with much bravery during the siege (his wife, a fine woman,
-	though country born, would not quit him, but accompanied him into
-	the prison, and was one who survived).  This poor wretch had been
-	long raving for water and air; I told him I was determined to give
-	up life, and recommended his gaining my station.  On my quitting it
-	he made a fruitless attempt to get my place; but the Dutch surgeon,
-	who sat on my shoulder, supplanted him.  Poor Cary expressed his
-	thankfulness, and said he would give up life too; but it was with
-	the utmost labor we forced our way from the window (several in the
-	inner ranks appearing to me dead standing, unable to fall by the
-	throng and equal pressure around).  He laid himself down to die; and
-	his death, I believe, was very sudden; for he was a short, full,
-	sanguine man.  His strength was great; and, I imagine, had he not
-	retired with me, I should never have been able to force my way.  I
-	was at this time sensible of no pain, and little uneasiness; I can
-	give you no better idea of my situation than by repeating my simile
-	of the bowl of spirit of hartshorn.  I found a stupor coming on
-	apace, and laid myself down by that gallant old man, the Rev. Mr.
-	Jervas Bellamy, who laid dead with his son, the lieutenant, hand in
-	hand, near the southernmost wall of the prison.  When I had lain
-	there some little time, I still had reflection enough to suffer some
-	uneasiness in the thought that I should be trampled upon, when dead,
-	as I myself had done to others.  With some difficulty I raised
-	myself, and gained the platform a second time, where I presently
-	lost all sensation; the last trace of sensibility that I have been
-	able to recollect after my laying down, was my sash being uneasy
-	about my waist, which I untied, and threw from me.  Of what passed
-	in this interval, to the time of my resurrection from this hole of
-	horrors, I can give you no account."
+> "I exerted anew my strength and fortitude; but the repeated trials
+> and efforts I made to dislodge the insufferable incumbrances upon me
+> at last quite exhausted me; and towards two o'clock, finding I must
+> quit the window or sink where I was, I resolved on the former,
+> having bore, truly for the sake of others, infinitely more for life
+> than the best of it is worth.  In the rank close behind me was an
+> officer of one of the ships, whose name was Cary, and who had
+> behaved with much bravery during the siege (his wife, a fine woman,
+> though country born, would not quit him, but accompanied him into
+> the prison, and was one who survived).  This poor wretch had been
+> long raving for water and air; I told him I was determined to give
+> up life, and recommended his gaining my station.  On my quitting it
+> he made a fruitless attempt to get my place; but the Dutch surgeon,
+> who sat on my shoulder, supplanted him.  Poor Cary expressed his
+> thankfulness, and said he would give up life too; but it was with
+> the utmost labor we forced our way from the window (several in the
+> inner ranks appearing to me dead standing, unable to fall by the
+> throng and equal pressure around).  He laid himself down to die; and
+> his death, I believe, was very sudden; for he was a short, full,
+> sanguine man.  His strength was great; and, I imagine, had he not
+> retired with me, I should never have been able to force my way.  I
+> was at this time sensible of no pain, and little uneasiness; I can
+> give you no better idea of my situation than by repeating my simile
+> of the bowl of spirit of hartshorn.  I found a stupor coming on
+> apace, and laid myself down by that gallant old man, the Rev. Mr.
+> Jervas Bellamy, who laid dead with his son, the lieutenant, hand in
+> hand, near the southernmost wall of the prison.  When I had lain
+> there some little time, I still had reflection enough to suffer some
+> uneasiness in the thought that I should be trampled upon, when dead,
+> as I myself had done to others.  With some difficulty I raised
+> myself, and gained the platform a second time, where I presently
+> lost all sensation; the last trace of sensibility that I have been
+> able to recollect after my laying down, was my sash being uneasy
+> about my waist, which I untied, and threw from me.  Of what passed
+> in this interval, to the time of my resurrection from this hole of
+> horrors, I can give you no account."
 
 There was plenty to see in Calcutta, but there was not plenty of time for
 it.  I saw the fort that Clive built; and the place where Warren Hastings
@@ -14241,10 +14241,10 @@ Himalayas--a twenty-four hour journey.
 CHAPTER LV.
 -----------
 
-	There are 869 different forms of lying, but only one of them has been
-	squarely forbidden.  Thou shalt not bear false witness against thy
-	neighbor.
-		--Pudd'nhead Wilson's New Calendar.
+> There are 869 different forms of lying, but only one of them has been
+> squarely forbidden.  Thou shalt not bear false witness against thy
+> neighbor.
+> --Pudd'nhead Wilson's New Calendar.
 
 FROM DIARY:
 
@@ -14278,14 +14278,14 @@ sides and ahead--brown-bodied, naked men and boys, plowing in the fields.
 But not a woman.  In these two hours I have not seen a woman or a girl
 working in the fields.
 
-	"From Greenland's icy mountains,
-	From India's coral strand,
-	Where Afric's sunny fountains
-	Roll down their golden sand.
-	From many an ancient river,
-	From many a palmy plain,
-	They call us to deliver
-	Their land from error's chain."
+> "From Greenland's icy mountains,
+> From India's coral strand,
+> Where Afric's sunny fountains
+> Roll down their golden sand.
+> From many an ancient river,
+> From many a palmy plain,
+> They call us to deliver
+> Their land from error's chain."
 
 Those are beautiful verses, and they have remained in my memory all my
 life.  But if the closing lines are true, let us hope that when we come
@@ -14298,30 +14298,30 @@ I spent several weeks at Tolz, in Bavaria.  It is a Roman Catholic
 region, and not even Benares is more deeply or pervasively or
 intelligently devout.  In my diary of those days I find this:
 
-	"We took a long drive yesterday around about the lovely country
-	roads.  But it was a drive whose pleasure was damaged in a couple of
-	ways: by the dreadful shrines and by the shameful spectacle of gray
-	and venerable old grandmothers toiling in the fields.  The shrines
-	were frequent along the roads--figures of the Saviour nailed to the
-	cross and streaming with blood from the wounds of the nails and the
-	thorns.
+> "We took a long drive yesterday around about the lovely country
+> roads.  But it was a drive whose pleasure was damaged in a couple of
+> ways: by the dreadful shrines and by the shameful spectacle of gray
+> and venerable old grandmothers toiling in the fields.  The shrines
+> were frequent along the roads--figures of the Saviour nailed to the
+> cross and streaming with blood from the wounds of the nails and the
+> thorns.
 
-	"When missionaries go from here do they find fault with the pagan
-	idols?  I saw many women seventy and even eighty years old mowing
-	and binding in the fields, and pitchforking the loads into the
-	wagons."
+> "When missionaries go from here do they find fault with the pagan
+> idols?  I saw many women seventy and even eighty years old mowing
+> and binding in the fields, and pitchforking the loads into the
+> wagons."
 
 I was in Austria later, and in Munich.  In Munich I saw gray old women
 pushing trucks up hill and down, long distances, trucks laden with
 barrels of beer, incredible loads.  In my Austrian diary I find this:
 
-	"In the fields I often see a woman and a cow harnessed to the plow,
-	and a man driving.
+> "In the fields I often see a woman and a cow harnessed to the plow,
+> and a man driving.
 
-	"In the public street of Marienbad to-day, I saw an old, bent,
-	gray-headed woman, in harness with a dog, drawing a laden sled over
-	bare dirt roads and bare pavements; and at his ease walked the
-	driver, smoking his pipe, a hale fellow not thirty years old."
+> "In the public street of Marienbad to-day, I saw an old, bent,
+> gray-headed woman, in harness with a dog, drawing a laden sled over
+> bare dirt roads and bare pavements; and at his ease walked the
+> driver, smoking his pipe, a hale fellow not thirty years old."
 
 Five or six years ago I bought an open boat, made a kind of a canvas
 wagon-roof over the stern of it to shelter me from sun and rain; hired a
@@ -14329,70 +14329,70 @@ courier and a boatman, and made a twelve-day floating voyage down the
 Rhone from Lake Bourget to Marseilles.  In my diary of that trip I find
 this entry.  I was far down the Rhone then:
 
-	"Passing St. Etienne, 2:15 P.M.  On a distant ridge inland, a tall
-	openwork structure commandingly situated, with a statue of the
-	Virgin standing on it.  A devout country.  All down this river,
-	wherever there is a crag there is a statue of the Virgin on it.  I
-	believe I have seen a hundred of them.  And yet, in many respects,
-	the peasantry seem to be mere pagans, and destitute of any
-	considerable degree of civilization.
+> "Passing St. Etienne, 2:15 P.M.  On a distant ridge inland, a tall
+> openwork structure commandingly situated, with a statue of the
+> Virgin standing on it.  A devout country.  All down this river,
+> wherever there is a crag there is a statue of the Virgin on it.  I
+> believe I have seen a hundred of them.  And yet, in many respects,
+> the peasantry seem to be mere pagans, and destitute of any
+> considerable degree of civilization.
 
-	" .  .  .  .  We reached a not very promising looking village about
-	4 o'clock, and I concluded to tie up for the day; munching fruit and
-	fogging the hood with pipe-smoke had grown monotonous; I could not
-	have the hood furled, because the floods of rain fell unceasingly.
-	The tavern was on the river bank, as is the custom.  It was dull
-	there, and melancholy--nothing to do but look out of the window into
-	the drenching rain, and shiver; one could do that, for it was bleak
-	and cold and windy, and country France furnishes no fire.  Winter
-	overcoats did not help me much; they had to be supplemented with
-	rugs.  The raindrops were so large and struck the river with such
-	force that they knocked up the water like pebble-splashes.
+> " .  .  .  .  We reached a not very promising looking village about
+> 4 o'clock, and I concluded to tie up for the day; munching fruit and
+> fogging the hood with pipe-smoke had grown monotonous; I could not
+> have the hood furled, because the floods of rain fell unceasingly.
+> The tavern was on the river bank, as is the custom.  It was dull
+> there, and melancholy--nothing to do but look out of the window into
+> the drenching rain, and shiver; one could do that, for it was bleak
+> and cold and windy, and country France furnishes no fire.  Winter
+> overcoats did not help me much; they had to be supplemented with
+> rugs.  The raindrops were so large and struck the river with such
+> force that they knocked up the water like pebble-splashes.
 
-	"With the exception of a very occasional woodenshod peasant, nobody
-	was abroad in this bitter weather--I mean nobody of our sex.  But
-	all weathers are alike to the women in these continental countries.
-	To them and the other animals, life is serious; nothing interrupts
-	their slavery.  Three of them were washing clothes in the river
-	under the window when I arrived, and they continued at it as long as
-	there was light to work by.  One was apparently thirty; another--the
-	mother!--above fifty; the third--grandmother!--so old and worn and
-	gray she could have passed for eighty; I took her to be that old.
-	They had no waterproofs nor rubbers, of course; over their shoulders
-	they wore gunnysacks--simply conductors for rivers of water; some of
-	the volume reached the ground; the rest soaked in on the way.
+> "With the exception of a very occasional woodenshod peasant, nobody
+> was abroad in this bitter weather--I mean nobody of our sex.  But
+> all weathers are alike to the women in these continental countries.
+> To them and the other animals, life is serious; nothing interrupts
+> their slavery.  Three of them were washing clothes in the river
+> under the window when I arrived, and they continued at it as long as
+> there was light to work by.  One was apparently thirty; another--the
+> mother!--above fifty; the third--grandmother!--so old and worn and
+> gray she could have passed for eighty; I took her to be that old.
+> They had no waterproofs nor rubbers, of course; over their shoulders
+> they wore gunnysacks--simply conductors for rivers of water; some of
+> the volume reached the ground; the rest soaked in on the way.
 
-	"At last a vigorous fellow of thirty-five arrived, dry and
-	comfortable, smoking his pipe under his big umbrella in an open
-	donkey-cart-husband, son, and grandson of those women!  He stood up
-	in the cart, sheltering himself, and began to superintend, issuing
-	his orders in a masterly tone of command, and showing temper when
-	they were not obeyed swiftly enough.
+> "At last a vigorous fellow of thirty-five arrived, dry and
+> comfortable, smoking his pipe under his big umbrella in an open
+> donkey-cart-husband, son, and grandson of those women!  He stood up
+> in the cart, sheltering himself, and began to superintend, issuing
+> his orders in a masterly tone of command, and showing temper when
+> they were not obeyed swiftly enough.
 
-	"Without complaint or murmur the drowned women patiently carried out
-	the orders, lifting the immense baskets of soggy, wrung-out clothing
-	into the cart and stowing them to the man's satisfaction.  There
-	were six of the great baskets, and a man of mere ordinary strength
-	could not have lifted any one of them.  The cart being full now, the
-	Frenchman descended, still sheltered by his umbrella, entered the
-	tavern, and the women went drooping homeward, trudging in the wake
-	of the cart, and soon were blended with the deluge and lost to
-	sight.
+> "Without complaint or murmur the drowned women patiently carried out
+> the orders, lifting the immense baskets of soggy, wrung-out clothing
+> into the cart and stowing them to the man's satisfaction.  There
+> were six of the great baskets, and a man of mere ordinary strength
+> could not have lifted any one of them.  The cart being full now, the
+> Frenchman descended, still sheltered by his umbrella, entered the
+> tavern, and the women went drooping homeward, trudging in the wake
+> of the cart, and soon were blended with the deluge and lost to
+> sight.
 
-	"When I went down into the public room, the Frenchman had his bottle
-	of wine and plate of food on a bare table black with grease, and was
-	'chomping' like a horse.  He had the little religious paper which is
-	in everybody's hands on the Rhone borders, and was enlightening
-	himself with the histories of French saints who used to flee to the
-	desert in the Middle Ages to escape the contamination of woman.  For
-	two hundred years France has been sending missionaries to other
-	savage lands.  To spare to the needy from poverty like hers is fine
-	and true generosity."
+> "When I went down into the public room, the Frenchman had his bottle
+> of wine and plate of food on a bare table black with grease, and was
+> 'chomping' like a horse.  He had the little religious paper which is
+> in everybody's hands on the Rhone borders, and was enlightening
+> himself with the histories of French saints who used to flee to the
+> desert in the Middle Ages to escape the contamination of woman.  For
+> two hundred years France has been sending missionaries to other
+> savage lands.  To spare to the needy from poverty like hers is fine
+> and true generosity."
 
 But to get back to India--where, as my favorite poem says--
 
-	"Every prospect pleases,
-	And only man is vile."
+> "Every prospect pleases,
+> And only man is vile."
 
 It is because Bavaria and Austria and France have not introduced their
 civilization to him yet.  But Bavaria and Austria and France are on their
@@ -14530,9 +14530,9 @@ Kinchinjunga and Everest.
 CHAPTER LVI.
 ------------
 
-	There are two times in a man's life when he should not speculate: when he
-	can't afford it, and when he can.
-		--Pudd'nhead Wilson's New Calendar.
+> There are two times in a man's life when he should not speculate: when he
+> can't afford it, and when he can.
+> --Pudd'nhead Wilson's New Calendar.
 
 On Monday and Tuesday at sunrise we again had fair-to-middling views of
 the stupendous mountains; then, being well cooled off and refreshed, we
@@ -14714,10 +14714,10 @@ instead of five hundred.
 CHAPTER LVII.
 -------------
 
-	She was not quite what you would call refined.  She was not quite what
-	you would call unrefined.  She was the kind of person that keeps a
-	parrot.
-		--Pudd'nhead Wilson's New Calendar.
+> She was not quite what you would call refined.  She was not quite what
+> you would call unrefined.  She was the kind of person that keeps a
+> parrot.
+> --Pudd'nhead Wilson's New Calendar.
 
 So far as I am able to judge, nothing has been left undone, either by man
 or Nature, to make India the most extraordinary country that the sun
@@ -14881,10 +14881,10 @@ deg. in the shade.
 CHAPTER LVIII.
 --------------
 
-	Make it a point to do something every day that you don't want to do.
-	This is the golden rule for acquiring the habit of doing your duty
-	without pain.
-		--Pudd'nhead Wilson's New Calendar.
+> Make it a point to do something every day that you don't want to do.
+> This is the golden rule for acquiring the habit of doing your duty
+> without pain.
+> --Pudd'nhead Wilson's New Calendar.
 
 It seems to be settled, now, that among the many causes from which the
 Great Mutiny sprang, the main one was the annexation of the kingdom of
@@ -14946,79 +14946,79 @@ For ladies and children accustomed to ease and comfort and plenty, such a
 journey must have been a cruel experience.  Sir G. O.  Trevelyan quotes
 an example:
 
-	"This is what befell Mrs. M----, the wife of the surgeon at a
-	certain station on the southern confines of the insurrection.  'I
-	heard,' she says, 'a number of shots fired, and, looking out, I saw
-	my husband driving furiously from the mess-house, waving his whip.
-	I ran to him, and, seeing a bearer with my child in his arms, I
-	caught her up, and got into the buggy.  At the mess-house we found
-	all the officers assembled, together with sixty sepoys, who had
-	remained faithful.  We went off in one large party, amidst a general
-	conflagration of our late homes.  We reached the caravanserai at
-	Chattapore the next morning, and thence started for Callinger.  At
-	this point our sepoy escort deserted us.  We were fired upon by
-	match-lockmen, and one officer was shot dead.  We heard, likewise,
-	that the people had risen at Callinger, so we returned and walked
-	back ten miles that day.  M---- and I carried the child alternately.
-	Presently Mrs. Smalley died of sunstroke.  We had no food amongst
-	us.  An officer kindly lent us a horse.  We were very faint.  The
-	Major died, and was buried; also the Sergeant-major and some women.
-	The bandsmen left us on the nineteenth of June.  We were fired at
-	again by match-lockmen, and changed direction for Allahabad.  Our
-	party consisted of nine gentlemen, two children, the sergeant and
-	his wife.  On the morning of the twentieth, Captain Scott took
-	Lottie on to his horse.  I was riding behind my husband, and she was
-	so crushed between us.  She was two years old on the first of the
-	month.  We were both weak through want of food and the effect of the
-	sun.  Lottie and I had no head covering.  M---- had a sepoy's cap I
-	found on the ground.  Soon after sunrise we were followed by
-	villagers armed with clubs and spears.  One of them struck Captain
-	Scott's horse on the leg.  He galloped off with Lottie, and my poor
-	husband never saw his child again.  We rode on several miles,
-	keeping away from villages, and then crossed the river.  Our thirst
-	was extreme.  M---- had dreadful cramps, so that I had to hold him
-	on the horse.  I was very uneasy about him.  The day before I saw
-	the drummer's wife eating chupatties, and asked her to give a piece
-	to the child, which she did.  I now saw water in a ravine.  The
-	descent was steep, and our only drinking-vessel was M----'s cap.
-	Our horse got water, and I bathed my neck.  I had no stockings, and
-	my feet were torn and blistered.  Two peasants came in sight, and we
-	were frightened and rode off.  The sergeant held our horse, and
-	M---- put me up and mounted.  I think he must have got suddenly faint
-	for I fell and he over me, on the road, when the horse started off.
-	Some time before he said, and Barber, too, that he could not live
-	many hours.  I felt he was dying before we came to the ravine.  He
-	told me his wishes about his children and myself, and took leave.
-	My brain seemed burnt up.  No tears came.  As soon as we fell, the
-	sergeant let go the horse, and it went off; so that escape was cut
-	off.  We sat down on the ground waiting for death.  Poor fellow! he
-	was very weak; his thirst was frightful, and I went to get him
-	water.  Some villagers came, and took my rupees and watch.  I took
-	off my wedding-ring, and twisted it in my hair, and replaced the
-	guard.  I tore off the skirt of my dress to bring water in, but was
-	no use, for when I returned my beloved's eyes were fixed, and,
-	though I called and tried to restore him, and poured water into his
-	mouth, it only rattled in his throat.  He never spoke to me again.
-	I held him in my arms till he sank gradually down.  I felt frantic,
-	but could not cry.  I was alone.  I bound his head and face in my
-	dress, for there was no earth to bury him.  The pain in my hands and
-	feet was dreadful.  I went down to the ravine, and sat in the water
-	on a stone, hoping to get off at night and look for Lottie.  When I
-	came back from the water, I saw that they had not taken her little
-	watch, chain, and seals, so I tied them under my petticoat.  In an
-	hour, about thirty villagers came, they dragged me out of the
-	ravine, and took off my jacket, and found the little chain.  They
-	then dragged me to a village, mocking me all the way, and disputing
-	as to whom I was to belong to.  The whole population came to look at
-	me.  I asked for a bedstead, and lay down outside the door of a hut.
-	They had a dozen of cows, and yet refused me milk.  When night came,
-	and the village was quiet, some old woman brought me a leafful of
-	rice.  I was too parched to eat, and they gave me water.  The
-	morning after a neighboring Rajah sent a palanquin and a horseman to
-	fetch me, who told me that a little child and three Sahibs had come
-	to his master's house.  And so the poor mother found her lost one,
-	'greatly blistered,' poor little creature.  It is not for Europeans
-	in India to pray that their flight be not in the winter."
+> "This is what befell Mrs. M----, the wife of the surgeon at a
+> certain station on the southern confines of the insurrection.  'I
+> heard,' she says, 'a number of shots fired, and, looking out, I saw
+> my husband driving furiously from the mess-house, waving his whip.
+> I ran to him, and, seeing a bearer with my child in his arms, I
+> caught her up, and got into the buggy.  At the mess-house we found
+> all the officers assembled, together with sixty sepoys, who had
+> remained faithful.  We went off in one large party, amidst a general
+> conflagration of our late homes.  We reached the caravanserai at
+> Chattapore the next morning, and thence started for Callinger.  At
+> this point our sepoy escort deserted us.  We were fired upon by
+> match-lockmen, and one officer was shot dead.  We heard, likewise,
+> that the people had risen at Callinger, so we returned and walked
+> back ten miles that day.  M---- and I carried the child alternately.
+> Presently Mrs. Smalley died of sunstroke.  We had no food amongst
+> us.  An officer kindly lent us a horse.  We were very faint.  The
+> Major died, and was buried; also the Sergeant-major and some women.
+> The bandsmen left us on the nineteenth of June.  We were fired at
+> again by match-lockmen, and changed direction for Allahabad.  Our
+> party consisted of nine gentlemen, two children, the sergeant and
+> his wife.  On the morning of the twentieth, Captain Scott took
+> Lottie on to his horse.  I was riding behind my husband, and she was
+> so crushed between us.  She was two years old on the first of the
+> month.  We were both weak through want of food and the effect of the
+> sun.  Lottie and I had no head covering.  M---- had a sepoy's cap I
+> found on the ground.  Soon after sunrise we were followed by
+> villagers armed with clubs and spears.  One of them struck Captain
+> Scott's horse on the leg.  He galloped off with Lottie, and my poor
+> husband never saw his child again.  We rode on several miles,
+> keeping away from villages, and then crossed the river.  Our thirst
+> was extreme.  M---- had dreadful cramps, so that I had to hold him
+> on the horse.  I was very uneasy about him.  The day before I saw
+> the drummer's wife eating chupatties, and asked her to give a piece
+> to the child, which she did.  I now saw water in a ravine.  The
+> descent was steep, and our only drinking-vessel was M----'s cap.
+> Our horse got water, and I bathed my neck.  I had no stockings, and
+> my feet were torn and blistered.  Two peasants came in sight, and we
+> were frightened and rode off.  The sergeant held our horse, and
+> M---- put me up and mounted.  I think he must have got suddenly faint
+> for I fell and he over me, on the road, when the horse started off.
+> Some time before he said, and Barber, too, that he could not live
+> many hours.  I felt he was dying before we came to the ravine.  He
+> told me his wishes about his children and myself, and took leave.
+> My brain seemed burnt up.  No tears came.  As soon as we fell, the
+> sergeant let go the horse, and it went off; so that escape was cut
+> off.  We sat down on the ground waiting for death.  Poor fellow! he
+> was very weak; his thirst was frightful, and I went to get him
+> water.  Some villagers came, and took my rupees and watch.  I took
+> off my wedding-ring, and twisted it in my hair, and replaced the
+> guard.  I tore off the skirt of my dress to bring water in, but was
+> no use, for when I returned my beloved's eyes were fixed, and,
+> though I called and tried to restore him, and poured water into his
+> mouth, it only rattled in his throat.  He never spoke to me again.
+> I held him in my arms till he sank gradually down.  I felt frantic,
+> but could not cry.  I was alone.  I bound his head and face in my
+> dress, for there was no earth to bury him.  The pain in my hands and
+> feet was dreadful.  I went down to the ravine, and sat in the water
+> on a stone, hoping to get off at night and look for Lottie.  When I
+> came back from the water, I saw that they had not taken her little
+> watch, chain, and seals, so I tied them under my petticoat.  In an
+> hour, about thirty villagers came, they dragged me out of the
+> ravine, and took off my jacket, and found the little chain.  They
+> then dragged me to a village, mocking me all the way, and disputing
+> as to whom I was to belong to.  The whole population came to look at
+> me.  I asked for a bedstead, and lay down outside the door of a hut.
+> They had a dozen of cows, and yet refused me milk.  When night came,
+> and the village was quiet, some old woman brought me a leafful of
+> rice.  I was too parched to eat, and they gave me water.  The
+> morning after a neighboring Rajah sent a palanquin and a horseman to
+> fetch me, who told me that a little child and three Sahibs had come
+> to his master's house.  And so the poor mother found her lost one,
+> 'greatly blistered,' poor little creature.  It is not for Europeans
+> in India to pray that their flight be not in the winter."
 
 In the first days of June the aged general, Sir Hugh Wheeler commanding
 the forces at Cawnpore, was deserted by his native troops; then he moved
@@ -15045,35 +15045,35 @@ began.  About two hundred women and children were spared--for the
 present--but all the men except three or four were killed.  Among the
 incidents of the massacre quoted by Sir G. O. Trevelyan, is this:
 
-	"When, after the lapse of some twenty minutes, the dead began to
-	outnumber the living;--when the fire slackened, as the marks grew
-	few and far between; then the troopers who had been drawn up to the
-	right of the temple plunged into the river, sabre between teeth, and
-	pistol in hand.  Thereupon two half-caste Christian women, the wives
-	of musicians in the band of the Fifty-sixth, witnessed a scene which
-	should not be related at second-hand.  'In the boat where I was to
-	have gone,' says Mrs. Bradshaw, confirmed throughout by Mrs. Setts,
-	'was the school-mistress and twenty-two misses.  General Wheeler
-	came last in a palkee.  They carried him into the water near the
-	boat.  I stood close by.  He said, 'Carry me a little further
-	towards the boat.' But a trooper said, 'No, get out here.'  As the
-	General got out of the palkee, head-foremost, the trooper gave him a
-	cut with his sword into the neck, and he fell into the water.  My
-	son was killed near him.  I saw it; alas! alas!  Some were stabbed
-	with bayonets; others cut down.  Little infants were torn in pieces.
-	We saw it; we did; and tell you only what we saw.  Other children
-	were stabbed and thrown into the river.  The schoolgirls were burnt
-	to death.  I saw their clothes and hair catch fire.  In the water, a
-	few paces off, by the next boat, we saw the youngest daughter of
-	Colonel Williams.  A sepoy was going to kill her with his bayonet.
-	She said, 'My father was always kind to sepoys.'  He turned away,
-	and just then a villager struck her on the head with a club, and she
-	fell into the water.  These people likewise saw good Mr. Moncrieff,
-	the clergyman, take a book from his pocket that he never had leisure
-	to open, and heard him commence a prayer for mercy which he was not
-	permitted to conclude.  Another deponent observed an European making
-	for a drain like a scared water-rat, when some boatmen, armed with
-	cudgels, cut off his retreat, and beat him down dead into the mud."
+> "When, after the lapse of some twenty minutes, the dead began to
+> outnumber the living;--when the fire slackened, as the marks grew
+> few and far between; then the troopers who had been drawn up to the
+> right of the temple plunged into the river, sabre between teeth, and
+> pistol in hand.  Thereupon two half-caste Christian women, the wives
+> of musicians in the band of the Fifty-sixth, witnessed a scene which
+> should not be related at second-hand.  'In the boat where I was to
+> have gone,' says Mrs. Bradshaw, confirmed throughout by Mrs. Setts,
+> 'was the school-mistress and twenty-two misses.  General Wheeler
+> came last in a palkee.  They carried him into the water near the
+> boat.  I stood close by.  He said, 'Carry me a little further
+> towards the boat.' But a trooper said, 'No, get out here.'  As the
+> General got out of the palkee, head-foremost, the trooper gave him a
+> cut with his sword into the neck, and he fell into the water.  My
+> son was killed near him.  I saw it; alas! alas!  Some were stabbed
+> with bayonets; others cut down.  Little infants were torn in pieces.
+> We saw it; we did; and tell you only what we saw.  Other children
+> were stabbed and thrown into the river.  The schoolgirls were burnt
+> to death.  I saw their clothes and hair catch fire.  In the water, a
+> few paces off, by the next boat, we saw the youngest daughter of
+> Colonel Williams.  A sepoy was going to kill her with his bayonet.
+> She said, 'My father was always kind to sepoys.'  He turned away,
+> and just then a villager struck her on the head with a club, and she
+> fell into the water.  These people likewise saw good Mr. Moncrieff,
+> the clergyman, take a book from his pocket that he never had leisure
+> to open, and heard him commence a prayer for mercy which he was not
+> permitted to conclude.  Another deponent observed an European making
+> for a drain like a scared water-rat, when some boatmen, armed with
+> cudgels, cut off his retreat, and beat him down dead into the mud."
 
 The women and children who had been reserved from the massacre were
 imprisoned during a fortnight in a small building, one story high--a
@@ -15096,46 +15096,46 @@ had decided upon the massacre of the captive women and children, and had
 commissioned three Mohammedans and two Hindoos to do the work.  Sir G.
 O. Trevelyan says:
 
-	"Thereupon the five men entered.  It was the short gloaming of
-	Hindostan--the hour when ladies take their evening drive.  She who
-	had accosted the officer was standing in the doorway.  With her were
-	the native doctor and two Hindoo menials.  That much of the business
-	might be seen from the veranda, but all else was concealed amidst
-	the interior gloom.  Shrieks and scuffling acquainted those without
-	that the journeymen were earning their hire.  Survur Khan soon
-	emerged with his sword broken off at the hilt.  He procured another
-	from the Nana's house, and a few minutes after appeared again on the
-	same errand.  The third blade was of better temper; or perhaps the
-	thick of the work was already over.  By the time darkness had closed
-	in, the men came forth and locked up the house for the night.  Then
-	the screams ceased, but the groans lasted till morning.
+> "Thereupon the five men entered.  It was the short gloaming of
+> Hindostan--the hour when ladies take their evening drive.  She who
+> had accosted the officer was standing in the doorway.  With her were
+> the native doctor and two Hindoo menials.  That much of the business
+> might be seen from the veranda, but all else was concealed amidst
+> the interior gloom.  Shrieks and scuffling acquainted those without
+> that the journeymen were earning their hire.  Survur Khan soon
+> emerged with his sword broken off at the hilt.  He procured another
+> from the Nana's house, and a few minutes after appeared again on the
+> same errand.  The third blade was of better temper; or perhaps the
+> thick of the work was already over.  By the time darkness had closed
+> in, the men came forth and locked up the house for the night.  Then
+> the screams ceased, but the groans lasted till morning.
 
-	"The sun rose as usual.  When he had been up nearly three hours the
-	five repaired to the scene of their labors over night.  They were
-	attended by a few sweepers, who proceeded to transfer the contents
-	of the house to a dry well situated behind some trees which grew
-	hard by.  'The bodies,' says one who was present throughout, 'were
-	dragged out, most of them by the hair of the head.  Those who had
-	clothing worth taking were stripped.  Some of the women were alive.
-	I cannot say how many; but three could speak.  They prayed for the
-	sake of God that an end might be put to their sufferings.  I
-	remarked one very stout woman, a half-caste, who was severely
-	wounded in both arms, who entreated to be killed.  She and two or
-	three others were placed against the bank of the cut by which
-	bullocks go down in drawing water.  The dead were first thrown in.
-	Yes: there was a great crowd looking on; they were standing along
-	the walls of the compound.  They were principally city people and
-	villagers.  Yes: there were also sepoys.  Three boys were alive.
-	They were fair children.  The eldest, I think, must have been six or
-	seven, and the youngest five years.  They were running around the
-	well (where else could they go to?), and there was none to save
-	them.  No: none said a word or tried to save them.'
+> "The sun rose as usual.  When he had been up nearly three hours the
+> five repaired to the scene of their labors over night.  They were
+> attended by a few sweepers, who proceeded to transfer the contents
+> of the house to a dry well situated behind some trees which grew
+> hard by.  'The bodies,' says one who was present throughout, 'were
+> dragged out, most of them by the hair of the head.  Those who had
+> clothing worth taking were stripped.  Some of the women were alive.
+> I cannot say how many; but three could speak.  They prayed for the
+> sake of God that an end might be put to their sufferings.  I
+> remarked one very stout woman, a half-caste, who was severely
+> wounded in both arms, who entreated to be killed.  She and two or
+> three others were placed against the bank of the cut by which
+> bullocks go down in drawing water.  The dead were first thrown in.
+> Yes: there was a great crowd looking on; they were standing along
+> the walls of the compound.  They were principally city people and
+> villagers.  Yes: there were also sepoys.  Three boys were alive.
+> They were fair children.  The eldest, I think, must have been six or
+> seven, and the youngest five years.  They were running around the
+> well (where else could they go to?), and there was none to save
+> them.  No: none said a word or tried to save them.'
 
-	"At length the smallest of them made an infantile attempt to get
-	away.  The little thing had been frightened past bearing by the
-	murder of one of the surviving ladies.  He thus attracted the
-	observation of a native who flung him and his companions down the
-	well."
+> "At length the smallest of them made an infantile attempt to get
+> away.  The little thing had been frightened past bearing by the
+> murder of one of the surviving ladies.  He thus attracted the
+> observation of a native who flung him and his companions down the
+> well."
 
 The soldiers had made a march of eighteen days, almost without rest, to
 save the women and the children, and now they were too late--all were
@@ -15144,22 +15144,22 @@ to put into words.  "Of what took place, the less said is the better."
 
 Then he continues:
 
-	"But there was a spectacle to witness which might excuse much.
-	Those who, straight from the contested field, wandered sobbing
-	through the rooms of the ladies' house, saw what it were well could
-	the outraged earth have straightway hidden.  The inner apartment was
-	ankle-deep in blood.  The plaster was scored with sword-cuts; not
-	high up as where men have fought, but low down, and about the
-	corners, as if a creature had crouched to avoid the blow.  Strips of
-	dresses, vainly tied around the handles of the doors, signified the
-	contrivance to which feminine despair had resorted as a means of
-	keeping out the murderers.  Broken combs were there, and the frills
-	of children's trousers, and torn cuffs and pinafores, and little
-	round hats, and one or two shoes with burst latchets, and one or two
-	daguerreotype cases with cracked glasses.  An officer picked up a
-	few curls, preserved in a bit of cardboard, and marked 'Ned's hair,
-	with love'; but around were strewn locks, some near a yard in
-	length, dissevered, not as a keepsake, by quite other scissors."
+> "But there was a spectacle to witness which might excuse much.
+> Those who, straight from the contested field, wandered sobbing
+> through the rooms of the ladies' house, saw what it were well could
+> the outraged earth have straightway hidden.  The inner apartment was
+> ankle-deep in blood.  The plaster was scored with sword-cuts; not
+> high up as where men have fought, but low down, and about the
+> corners, as if a creature had crouched to avoid the blow.  Strips of
+> dresses, vainly tied around the handles of the doors, signified the
+> contrivance to which feminine despair had resorted as a means of
+> keeping out the murderers.  Broken combs were there, and the frills
+> of children's trousers, and torn cuffs and pinafores, and little
+> round hats, and one or two shoes with burst latchets, and one or two
+> daguerreotype cases with cracked glasses.  An officer picked up a
+> few curls, preserved in a bit of cardboard, and marked 'Ned's hair,
+> with love'; but around were strewn locks, some near a yard in
+> length, dissevered, not as a keepsake, by quite other scissors."
 
 The battle of Waterloo was fought on the 18th of June, 1815.  I do not
 state this fact as a reminder to the reader, but as news to him.  For a
@@ -15259,10 +15259,10 @@ The ladies got used to all the horrors of war--the shrieks of mutilated
 men, the sight of blood and death.  Lady Inglis makes this mention in her
 diary:
 
-	"Mrs. Bruere's nurse was carried past our door to-day, wounded in
-	the eye.  To extract the bullet it was found necessary to take out
-	the eye--a fearful operation.  Her mistress held her while it was
-	performed."
+> "Mrs. Bruere's nurse was carried past our door to-day, wounded in
+> the eye.  To extract the bullet it was found necessary to take out
+> the eye--a fearful operation.  Her mistress held her while it was
+> performed."
 
 The first relieving force failed to relieve.  It was under Havelock and
 Outram; and arrived when the siege had been going on for three months.
@@ -15277,17 +15277,17 @@ on.  Both sides fought with energy and industry.  Captain Birch puts this
 striking incident in evidence.  He is speaking of the third month of the
 siege:
 
-	"As an instance of the heavy firing brought to bear on our position
-	this month may be mentioned the cutting down of the upper story of a
-	brick building simply by musketry firing.  This building was in a
-	most exposed position.  All the shots which just missed the top of
-	the rampart cut into the dead wall pretty much in a straight line,
-	and at length cut right through and brought the upper story tumbling
-	down.  The upper structure on the top of the brigade-mess also fell
-	in.  The Residency house was a wreck.  Captain Anderson's post had
-	long ago been knocked down, and Innes' post also fell in.  These two
-	were riddled with round shot.  As many as 200 were picked up by
-	Colonel Masters."
+> "As an instance of the heavy firing brought to bear on our position
+> this month may be mentioned the cutting down of the upper story of a
+> brick building simply by musketry firing.  This building was in a
+> most exposed position.  All the shots which just missed the top of
+> the rampart cut into the dead wall pretty much in a straight line,
+> and at length cut right through and brought the upper story tumbling
+> down.  The upper structure on the top of the brigade-mess also fell
+> in.  The Residency house was a wreck.  Captain Anderson's post had
+> long ago been knocked down, and Innes' post also fell in.  These two
+> were riddled with round shot.  As many as 200 were picked up by
+> Colonel Masters."
 
 The exhausted garrison fought doggedly on all through the next month--
 October.  Then, November 2d, news came Sir Colin Campbell's relieving
@@ -15332,42 +15332,42 @@ of a dark night, by the principal gate, (the Bailie Guard).  The two
 hundred women and two hundred and fifty children had been previously
 removed.  Captain Birch says:
 
-	"And now commenced a movement of the most perfect arrangement and
-	successful generalship--the withdrawal of the whole of the various
-	forces, a combined movement requiring the greatest care and skill.
-	First, the garrison in immediate contact with the enemy at the
-	furthest extremity of the Residency position was marched out.  Every
-	other garrison in turn fell in behind it, and so passed out through
-	the Bailie Guard gate, till the whole of our position was evacuated.
-	Then Havelock's force was similarly withdrawn, post by post,
-	marching in rear of our garrison.  After them in turn came the
-	forces of the Commander-in-Chief, which joined on in the rear of
-	Havelock's force.  Regiment by regiment was withdrawn with the
-	utmost order and regularity.  The whole operation resembled the
-	movement of a telescope.  Stern silence was kept, and the enemy took
-	no alarm."
+> "And now commenced a movement of the most perfect arrangement and
+> successful generalship--the withdrawal of the whole of the various
+> forces, a combined movement requiring the greatest care and skill.
+> First, the garrison in immediate contact with the enemy at the
+> furthest extremity of the Residency position was marched out.  Every
+> other garrison in turn fell in behind it, and so passed out through
+> the Bailie Guard gate, till the whole of our position was evacuated.
+> Then Havelock's force was similarly withdrawn, post by post,
+> marching in rear of our garrison.  After them in turn came the
+> forces of the Commander-in-Chief, which joined on in the rear of
+> Havelock's force.  Regiment by regiment was withdrawn with the
+> utmost order and regularity.  The whole operation resembled the
+> movement of a telescope.  Stern silence was kept, and the enemy took
+> no alarm."
 
 Lady Inglis, referring to her husband and to General Sir James Outram,
 sets down the closing detail of this impressive midnight retreat, in
 darkness and by stealth, of this shadowy host through the gate which it
 had defended so long and so well:
 
-	"At twelve precisely they marched out, John and Sir James Outram
-	remaining till all had passed, and then they took off their hats to
-	the Bailie Guard, the scene of as noble a defense as I think history
-	will ever have to relate."
+> "At twelve precisely they marched out, John and Sir James Outram
+> remaining till all had passed, and then they took off their hats to
+> the Bailie Guard, the scene of as noble a defense as I think history
+> will ever have to relate."
 
 
 CHAPTER LIX.
 ------------
 
-	Don't part with your illusions.  When they are gone you may still exist
-	but you have ceased to live.
-		--Pudd'nhead Wilson's New Calendar.
+> Don't part with your illusions.  When they are gone you may still exist
+> but you have ceased to live.
+> --Pudd'nhead Wilson's New Calendar.
 
-	Often, the surest way to convey misinformation is to tell the strict
-	truth.
-		--Pudd'nhead Wilson's New Calendar.
+> Often, the surest way to convey misinformation is to tell the strict
+> truth.
+> --Pudd'nhead Wilson's New Calendar.
 
 We were driven over Sir Colin Campbell's route by a British officer, and
 when I arrived at the Residency I was so familiar with the road that I
@@ -15466,117 +15466,117 @@ I will begin with a few sentences from the excellent little local
 guide-book of Mr. Satya Chandra Mukerji.  I take them from here and there
 in his description:
 
-	"The inlaid work of the Taj and the flowers and petals that are to
-	be found on all sides on the surface of the marble evince a most
-	delicate touch."
+> "The inlaid work of the Taj and the flowers and petals that are to
+> be found on all sides on the surface of the marble evince a most
+> delicate touch."
 
 That is true.
 
-	"The inlaid work, the marble, the flowers, the buds, the leaves, the
-	petals, and the lotus stems are almost without a rival in the whole
-	of the civilized world."
+> "The inlaid work, the marble, the flowers, the buds, the leaves, the
+> petals, and the lotus stems are almost without a rival in the whole
+> of the civilized world."
 
-	"The work of inlaying with stones and gems is found in the highest
-	perfection in the Taj."
+> "The work of inlaying with stones and gems is found in the highest
+> perfection in the Taj."
 
 Gems, inlaid flowers, buds, and leaves to be found on all sides.  What do
 you see before you?  Is the fairy structure growing?  Is it becoming a
 jewel casket?
 
-	"The whole of the Taj produces a wonderful effect that is equally
-	sublime and beautiful."
+> "The whole of the Taj produces a wonderful effect that is equally
+> sublime and beautiful."
 
 Then Sir William Wilson Hunter:
 
-	"The Taj Mahal with its beautiful domes, 'a dream of marble,' rises
-	on the river bank."
+> "The Taj Mahal with its beautiful domes, 'a dream of marble,' rises
+> on the river bank."
 
-	"The materials are white marble and red sandstone."
+> "The materials are white marble and red sandstone."
 
-	"The complexity of its design and the delicate intricacy of the
-	workmanship baffle description."
+> "The complexity of its design and the delicate intricacy of the
+> workmanship baffle description."
 
 Sir William continues.  I will italicize some of his words:
 
-	"The mausoleum stands on a raised marble platform at each of whose
-	corners rises a tall and slender minaret of graceful proportions and
-	of exquisite beauty.  Beyond the platform stretch the two wings, one
-	of which is itself a mosque of great architectural merit.  In the
-	center of the whole design the mausoleum occupies a square of 186
-	feet, with the angles deeply truncated so as to form an unequal
-	octagon.  The main feature in this central pile is the great dome,
-	which swells upward to nearly two-thirds of a sphere and tapers at
-	its extremity into a pointed spire crowned by a crescent.  Beneath
-	it an enclosure of marble trellis-work surrounds the tomb of the
-	princess and of her husband, the Emperor.  Each corner of the
-	mausoleum is covered by a similar though much smaller dome erected
-	on a pediment pierced with graceful Saracenic arches.  Light is
-	admitted into the interior through a double screen of pierced
-	marble, which tempers the glare of an Indian sky while its whiteness
-	prevents the mellow effect from degenerating into gloom.  The
-	internal decorations consist of inlaid work in precious stones, such
-	as agate, jasper, etc., with which every squandril or salient point
-	in the architecture is richly fretted.  Brown and violet marble is
-	also freely employed in wreaths, scrolls, and lintels to relieve the
-	monotony of white wall.  In regard to color and design, the interior
-	of the Taj may rank first in the world for purely decorative
-	workmanship; while the perfect symmetry of its exterior, once seen
-	can never be forgotten, nor the aerial grace of its domes, rising
-	like marble bubbles into the clear sky.  The Taj represents the most
-	highly elaborated stage of ornamentation reached by the
-	Indo-Mohammedan builders, the stage in which the architect ends and
-	the jeweler begins.  In its magnificent gateway the diagonal
-	ornamentation at the corners, which satisfied the designers of the
-	gateways of Itimad-ud-doulah and Sikandra mausoleums is superseded
-	by fine marble cables, in bold twists, strong and handsome.  The
-	triangular insertions of white marble and large flowers have in like
-	manner given place to fine inlaid work.  Firm perpendicular lines in
-	black marble with well proportioned panels of the same material are
-	effectively used in the interior of the gateway.  On its top the
-	Hindu brackets and monolithic architraves of Sikandra are replaced
-	by Moorish carped arches, usually single blocks of red sandstone, in
-	the Kiosks and pavilions which adorn the roof.  From the pillared
-	pavilions a magnificent view is obtained of the Taj gardens below,
-	with the noble Jumna river at their farther end, and the city and
-	fort of Agra in the distance.  From this beautiful and splendid
-	gateway one passes up a straight alley shaded by evergreen trees
-	cooled by a broad shallow piece of water running along the middle of
-	the path to the Taj itself.  The Taj is entirely of marble and gems.
-	The red sandstone of the other Mohammedan buildings has entirely
-	disappeared, or rather the red sandstone which used to form the
-	thickness of the walls, is in the Taj itself overlaid completely
-	with white marble, and the white marble is itself inlaid with
-	precious stones arranged in lovely patterns of flowers.  A feeling
-	of purity impresses itself on the eye and the mind from the absence
-	of the coarser material which forms so invariable a material in Agra
-	architecture.  The lower wall and panels are covered with tulips,
-	oleanders, and fullblown lilies, in flat carving on the white
-	marble; and although the inlaid work of flowers done in gems is very
-	brilliant when looked at closely, there is on the whole but little
-	color, and the all-prevailing sentiment is one of whiteness,
-	silence, and calm.  The whiteness is broken only by the fine color
-	of the inlaid gems, by lines in black marble, and by delicately
-	written inscriptions, also in black, from the Koran.  Under the dome
-	of the vast mausoleum a high and beautiful screen of open tracery in
-	white marble rises around the two tombs, or rather cenotaphs of the
-	emperor and his princess; and in this marvel of marble the carving
-	has advanced from the old geometrical patterns to a trellis-work of
-	flowers and foliage, handled with great freedom and spirit.  The two
-	cenotaphs in the center of the exquisite enclosure have no carving
-	except the plain Kalamdan or oblong pen-box on the tomb of Emperor
-	Shah Jehan.  But both cenotaphs are inlaid with flowers made of
-	costly gems, and with the ever graceful oleander scroll."
+> "The mausoleum stands on a raised marble platform at each of whose
+> corners rises a tall and slender minaret of graceful proportions and
+> of exquisite beauty.  Beyond the platform stretch the two wings, one
+> of which is itself a mosque of great architectural merit.  In the
+> center of the whole design the mausoleum occupies a square of 186
+> feet, with the angles deeply truncated so as to form an unequal
+> octagon.  The main feature in this central pile is the great dome,
+> which swells upward to nearly two-thirds of a sphere and tapers at
+> its extremity into a pointed spire crowned by a crescent.  Beneath
+> it an enclosure of marble trellis-work surrounds the tomb of the
+> princess and of her husband, the Emperor.  Each corner of the
+> mausoleum is covered by a similar though much smaller dome erected
+> on a pediment pierced with graceful Saracenic arches.  Light is
+> admitted into the interior through a double screen of pierced
+> marble, which tempers the glare of an Indian sky while its whiteness
+> prevents the mellow effect from degenerating into gloom.  The
+> internal decorations consist of inlaid work in precious stones, such
+> as agate, jasper, etc., with which every squandril or salient point
+> in the architecture is richly fretted.  Brown and violet marble is
+> also freely employed in wreaths, scrolls, and lintels to relieve the
+> monotony of white wall.  In regard to color and design, the interior
+> of the Taj may rank first in the world for purely decorative
+> workmanship; while the perfect symmetry of its exterior, once seen
+> can never be forgotten, nor the aerial grace of its domes, rising
+> like marble bubbles into the clear sky.  The Taj represents the most
+> highly elaborated stage of ornamentation reached by the
+> Indo-Mohammedan builders, the stage in which the architect ends and
+> the jeweler begins.  In its magnificent gateway the diagonal
+> ornamentation at the corners, which satisfied the designers of the
+> gateways of Itimad-ud-doulah and Sikandra mausoleums is superseded
+> by fine marble cables, in bold twists, strong and handsome.  The
+> triangular insertions of white marble and large flowers have in like
+> manner given place to fine inlaid work.  Firm perpendicular lines in
+> black marble with well proportioned panels of the same material are
+> effectively used in the interior of the gateway.  On its top the
+> Hindu brackets and monolithic architraves of Sikandra are replaced
+> by Moorish carped arches, usually single blocks of red sandstone, in
+> the Kiosks and pavilions which adorn the roof.  From the pillared
+> pavilions a magnificent view is obtained of the Taj gardens below,
+> with the noble Jumna river at their farther end, and the city and
+> fort of Agra in the distance.  From this beautiful and splendid
+> gateway one passes up a straight alley shaded by evergreen trees
+> cooled by a broad shallow piece of water running along the middle of
+> the path to the Taj itself.  The Taj is entirely of marble and gems.
+> The red sandstone of the other Mohammedan buildings has entirely
+> disappeared, or rather the red sandstone which used to form the
+> thickness of the walls, is in the Taj itself overlaid completely
+> with white marble, and the white marble is itself inlaid with
+> precious stones arranged in lovely patterns of flowers.  A feeling
+> of purity impresses itself on the eye and the mind from the absence
+> of the coarser material which forms so invariable a material in Agra
+> architecture.  The lower wall and panels are covered with tulips,
+> oleanders, and fullblown lilies, in flat carving on the white
+> marble; and although the inlaid work of flowers done in gems is very
+> brilliant when looked at closely, there is on the whole but little
+> color, and the all-prevailing sentiment is one of whiteness,
+> silence, and calm.  The whiteness is broken only by the fine color
+> of the inlaid gems, by lines in black marble, and by delicately
+> written inscriptions, also in black, from the Koran.  Under the dome
+> of the vast mausoleum a high and beautiful screen of open tracery in
+> white marble rises around the two tombs, or rather cenotaphs of the
+> emperor and his princess; and in this marvel of marble the carving
+> has advanced from the old geometrical patterns to a trellis-work of
+> flowers and foliage, handled with great freedom and spirit.  The two
+> cenotaphs in the center of the exquisite enclosure have no carving
+> except the plain Kalamdan or oblong pen-box on the tomb of Emperor
+> Shah Jehan.  But both cenotaphs are inlaid with flowers made of
+> costly gems, and with the ever graceful oleander scroll."
 
 Bayard Taylor, after describing the details of the Taj, goes on to say:
 
-	"On both sides the palm, the banyan, and the feathery bamboo mingle
-	their foliage; the song of birds meets your ears, and the odor of
-	roses and lemon flowers sweetens the air.  Down such a vista and
-	over such a foreground rises the Taj.  There is no mystery, no sense
-	of partial failure about the Taj.  A thing of perfect beauty and of
-	absolute finish in every detail, it might pass for the work of genii
-	who knew naught of the weaknesses and ills with which mankind are
-	beset."
+> "On both sides the palm, the banyan, and the feathery bamboo mingle
+> their foliage; the song of birds meets your ears, and the odor of
+> roses and lemon flowers sweetens the air.  Down such a vista and
+> over such a foreground rises the Taj.  There is no mystery, no sense
+> of partial failure about the Taj.  A thing of perfect beauty and of
+> absolute finish in every detail, it might pass for the work of genii
+> who knew naught of the weaknesses and ills with which mankind are
+> beset."
 
 All of these details are true.  But, taken together, they state a
 falsehood--to you.  You cannot add them up correctly.  Those writers know
@@ -15587,32 +15587,32 @@ reader I will here repeat certain of those words and phrases, and follow
 them with numerals which shall represent those values--then we shall see
 the difference between a writer's ciphering and a mistaken reader's--
 
-	Precious stones, such as agate, jasper, etc.--5.
+> Precious stones, such as agate, jasper, etc.--5.
 
-	With which every salient point is richly fretted--5.
+> With which every salient point is richly fretted--5.
 
-	First in the world for purely decorative workmanship--9.
+> First in the world for purely decorative workmanship--9.
 
-	The Taj represents the stage where the architect ends and the jeweler
-	begins--5.
+> The Taj represents the stage where the architect ends and the jeweler
+> begins--5.
 
-	The Taj is entirely of marble and gems--7.
+> The Taj is entirely of marble and gems--7.
 
-	Inlaid with precious stones in lovely patterns of flowers--5.
+> Inlaid with precious stones in lovely patterns of flowers--5.
 
-	The inlaid work of flowers done in gems is very brilliant
-	(followed by a most important modification which the reader is sure to
-	read too carelessly)--2.
+> The inlaid work of flowers done in gems is very brilliant
+> (followed by a most important modification which the reader is sure to
+> read too carelessly)--2.
 
-	The vast mausoleum--5.
+> The vast mausoleum--5.
 
-	This marvel of marble--5.
+> This marvel of marble--5.
 
-	The exquisite enclosure--5.
+> The exquisite enclosure--5.
 
-	Inlaid with flowers made of costly gems--5.
+> Inlaid with flowers made of costly gems--5.
 
-	A thing of perfect beauty and absolute finish--5.
+> A thing of perfect beauty and absolute finish--5.
 
 Those details are correct; the figures which I have placed after them
 represent quite fairly their individual, values.  Then why, as a whole,
@@ -15621,10 +15621,10 @@ reader--beguiled by his heated imagination--masses them in the wrong
 way.  The writer would mass the first three figures in the following way,
 and they would speak the truth.
 
-	5
-	5
-	9
-	Total--19
+> 5
+> 5
+> 9
+> Total--19
 
 But the reader masses them thus--and then they tell a lie--559.
 
@@ -15635,7 +15635,7 @@ But the reader--always helped by his imagination--would put the figures
 in a row one after the other, and get this sum, which would tell him a
 noble big lie:
 
-	559575255555.
+> 559575255555.
 
 You must put in the commas yourself; I have to go on with my work.
 
@@ -15804,10 +15804,10 @@ scientific truth; and in doing it they succeed to admiration in telling
 CHAPTER LX.
 -----------
 
-	SATAN (impatiently) to NEW-COMER.  The trouble with you Chicago people
-	is, that you think you are the best people down here; whereas you are
-	merely the most numerous.
-		--Pudd'nhead Wilson's New Calendar.
+> SATAN (impatiently) to NEW-COMER.  The trouble with you Chicago people
+> is, that you think you are the best people down here; whereas you are
+> merely the most numerous.
+> --Pudd'nhead Wilson's New Calendar.
 
 We wandered contentedly around here and there in India; to Lahore, among
 other places, where the Lieutenant-Governor lent me an elephant.  This
@@ -16112,9 +16112,9 @@ its like again.
 CHAPTER LXI.
 ------------
 
-	In the first place God made idiots.  This was for practice.  Then He made
-	School Boards.
-		--Pudd'nhead Wilson's New Calendar.
+> In the first place God made idiots.  This was for practice.  Then He made
+> School Boards.
+> --Pudd'nhead Wilson's New Calendar.
 
 Suppose we applied no more ingenuity to the instruction of deaf and dumb
 and blind children than we sometimes apply in our American public schools
@@ -16170,19 +16170,19 @@ contents treated of this matter of over-education.  In the preface occurs
 this paragraph from the Calcutta Review.  For "Government office" read
 "drygoods clerkship" and it will fit more than one region of America:
 
-	"The education that we give makes the boys a little less clownish in
-	their manners, and more intelligent when spoken to by strangers.  On
-	the other hand, it has made them less contented with their lot in
-	life, and less willing to work with their hands.  The form which
-	discontent takes in this country is not of a healthy kind; for, the
-	Natives of India consider that the only occupation worthy of an
-	educated man is that of a writership in some office, and especially
-	in a Government office.  The village schoolboy goes back to the plow
-	with the greatest reluctance; and the town schoolboy carries the
-	same discontent and inefficiency into his father's workshop.
-	Sometimes these ex-students positively refuse at first to work; and
-	more than once parents have openly expressed their regret that they
-	ever allowed their sons to be inveigled to school."
+> "The education that we give makes the boys a little less clownish in
+> their manners, and more intelligent when spoken to by strangers.  On
+> the other hand, it has made them less contented with their lot in
+> life, and less willing to work with their hands.  The form which
+> discontent takes in this country is not of a healthy kind; for, the
+> Natives of India consider that the only occupation worthy of an
+> educated man is that of a writership in some office, and especially
+> in a Government office.  The village schoolboy goes back to the plow
+> with the greatest reluctance; and the town schoolboy carries the
+> same discontent and inefficiency into his father's workshop.
+> Sometimes these ex-students positively refuse at first to work; and
+> more than once parents have openly expressed their regret that they
+> ever allowed their sons to be inveigled to school."
 
 The little book which I am quoting from is called "Indo-Anglian
 Literature," and is well stocked with "baboo" English--clerkly English,
@@ -16208,15 +16208,15 @@ beggar-girl embarrassed me by calling me father, although I knew she was
 mistaken.  I was so new that I did not know that she was merely following
 the custom of the dependent and the supplicant.
 
-	"SIR,
+> "SIR,
 
-	"I pray please to give me some action (work) for I am very poor boy
-	I have no one to help me even so father for it so it seemed in thy
-	good sight, you give the Telegraph Office, and another work what is
-	your wish I am very poor boy, this understand what is your wish you
-	my father I am your son this understand what is your wish.
+> "I pray please to give me some action (work) for I am very poor boy
+> I have no one to help me even so father for it so it seemed in thy
+> good sight, you give the Telegraph Office, and another work what is
+> your wish I am very poor boy, this understand what is your wish you
+> my father I am your son this understand what is your wish.
 
-	"Your Sirvent, P. C. B."
+> "Your Sirvent, P. C. B."
 
 Through ages of debasing oppression suffered by these people at the hands
 of their native rulers, they come legitimately by the attitude and
@@ -16230,24 +16230,24 @@ fail.
 Here is an application for the post of instructor in English to some
 children:
 
-	"My Dear Sir or Gentleman, that your Petitioner has much
-	qualification in the Language of English to instruct the young boys;
-	I was given to understand that your of suitable children has to
-	acquire the knowledge of English language."
+> "My Dear Sir or Gentleman, that your Petitioner has much
+> qualification in the Language of English to instruct the young boys;
+> I was given to understand that your of suitable children has to
+> acquire the knowledge of English language."
 
 As a sample of the flowery Eastern style, I will take a sentence or two
 from a long letter written by a young native to the Lieutenant-Governor
 of Bengal--an application for employment:
 
-	"HONORED AND MUCH RESPECTED SIR,
+> "HONORED AND MUCH RESPECTED SIR,
 
-	"I hope your honor will condescend to hear the tale of this poor
-	creature.  I shall overflow with gratitude at this mark of your
-	royal condescension.  The bird-like happiness has flown away from my
-	nest-like heart and has not hitherto returned from the period whence
-	the rose of my father's life suffered the autumnal breath of death,
-	in plain English he passed through the gates of Grave, and from that
-	hour the phantom of delight has never danced before me."
+> "I hope your honor will condescend to hear the tale of this poor
+> creature.  I shall overflow with gratitude at this mark of your
+> royal condescension.  The bird-like happiness has flown away from my
+> nest-like heart and has not hitherto returned from the period whence
+> the rose of my father's life suffered the autumnal breath of death,
+> in plain English he passed through the gates of Grave, and from that
+> hour the phantom of delight has never danced before me."
 
 It is all school-English, book-English, you see; and good enough, too,
 all things considered.  If the native boy had but that one study he would
@@ -16263,16 +16263,16 @@ them; he is fed upon the husks, not the corn.  From several essays
 written by native schoolboys in answer to the question of how they spend
 their day, I select one--the one which goes most into detail:
 
-	"66.  At the break of day I rises from my own bed and finish my
-	daily duty, then I employ myself till 8 o'clock, after which I
-	employ myself to bathe, then take for my body some sweet meat, and
-	just at 9 1/2 I came to school to attend my class duty, then at
-	2 1/2 P. M.  I return from school and engage myself to do my natural
-	duty, then, I engage for a quarter to take my tiffin, then I study
-	till 5 P. M., after which I began to play anything which comes in
-	my head.  After 8 1/2, half pass to eight we are began to sleep,
-	before sleeping I told a constable just 11 o' he came and rose us
-	from half pass eleven we began to read still morning."
+> "66.  At the break of day I rises from my own bed and finish my
+> daily duty, then I employ myself till 8 o'clock, after which I
+> employ myself to bathe, then take for my body some sweet meat, and
+> just at 9 1/2 I came to school to attend my class duty, then at
+> 2 1/2 P. M.  I return from school and engage myself to do my natural
+> duty, then, I engage for a quarter to take my tiffin, then I study
+> till 5 P. M., after which I began to play anything which comes in
+> my head.  After 8 1/2, half pass to eight we are began to sleep,
+> before sleeping I told a constable just 11 o' he came and rose us
+> from half pass eleven we began to read still morning."
 
 It is not perfectly clear, now that I come to cipher upon it.  He gets up
 at about 5 in the morning, or along there somewhere, and goes to bed
@@ -16483,23 +16483,23 @@ fact, exceedingly so.  I offer here the closing scene.  If you would like
 to sample the rest of the book, it can be had by applying to the
 publishers, Messrs.  Thacker, Spink & Co., Calcutta
 
-	"And having said these words he hermetically sealed his lips not to
-	open them again.  All the well-known doctors of Calcutta that could
-	be procured for a man of his position and wealth were brought,
-	--Doctors Payne, Fayrer, and Nilmadhub Mookerjee and others; they did
-	what they could do, with their puissance and knack of medical
-	knowledge, but it proved after all as if to milk the ram!  His wife
-	and children had not the mournful consolation to hear his last
-	words; he remained sotto voce for a few hours, and then was taken
-	from us at 6.12 P.m.  according to the caprice of God which passeth
-	understanding."
+> "And having said these words he hermetically sealed his lips not to
+> open them again.  All the well-known doctors of Calcutta that could
+> be procured for a man of his position and wealth were brought,
+> --Doctors Payne, Fayrer, and Nilmadhub Mookerjee and others; they did
+> what they could do, with their puissance and knack of medical
+> knowledge, but it proved after all as if to milk the ram!  His wife
+> and children had not the mournful consolation to hear his last
+> words; he remained sotto voce for a few hours, and then was taken
+> from us at 6.12 P.m.  according to the caprice of God which passeth
+> understanding."
 
 
 CHAPTER LXII.
 -------------
 
-	There are no people who are quite so vulgar as the over-refined ones.
-		--Pudd'nhead Wilson's New Calendar.
+> There are no people who are quite so vulgar as the over-refined ones.
+> --Pudd'nhead Wilson's New Calendar.
 
 We sailed from Calcutta toward the end of March; stopped a day at Madras;
 two or three days in Ceylon; then sailed westward on a long flight for
@@ -16534,23 +16534,23 @@ captain brought out the following simple everyday incident, but through
 his infirmity of style managed to tell it in such a way that it got no
 credence.  He said:
 
-	"I went ashore at Naples one voyage when I was in that trade, and
-	stood around helping my passengers, for I could speak a little
-	Italian.  Two or three times, at intervals, the officer asked me if
-	I had anything dutiable about me, and seemed more and more put out
-	and disappointed every time I told him no.  Finally a passenger whom
-	I had helped through asked me to come out and take something.  I
-	thanked him, but excused myself, saying I had taken a whisky just
-	before I came ashore.
+> "I went ashore at Naples one voyage when I was in that trade, and
+> stood around helping my passengers, for I could speak a little
+> Italian.  Two or three times, at intervals, the officer asked me if
+> I had anything dutiable about me, and seemed more and more put out
+> and disappointed every time I told him no.  Finally a passenger whom
+> I had helped through asked me to come out and take something.  I
+> thanked him, but excused myself, saying I had taken a whisky just
+> before I came ashore.
 
-	"It was a fatal admission.  The officer at once made me pay sixpence
-	import-duty on the whisky-just from ship to shore, you see; and he
-	fined me L5 for not declaring the goods, another L5 for falsely
-	denying that I had anything dutiable about me, also L5 for
-	concealing the goods, and L50 for smuggling, which is the maximum
-	penalty for unlawfully bringing in goods under the value of
-	sevenpence ha'penny.  Altogether, sixty-five pounds sixpence for a
-	little thing like that."
+> "It was a fatal admission.  The officer at once made me pay sixpence
+> import-duty on the whisky-just from ship to shore, you see; and he
+> fined me L5 for not declaring the goods, another L5 for falsely
+> denying that I had anything dutiable about me, also L5 for
+> concealing the goods, and L50 for smuggling, which is the maximum
+> penalty for unlawfully bringing in goods under the value of
+> sevenpence ha'penny.  Altogether, sixty-five pounds sixpence for a
+> little thing like that."
 
 The Scot is always believed, yet he never tells anything but lies;
 whereas the captain is never believed, although he never tells a lie, so
@@ -16659,10 +16659,10 @@ would sail on for ever and never go to live on the solid ground again.
 One of Kipling's ballads has delivered the aspect and sentiment of this
 bewitching sea correctly:
 
-	"The Injian Ocean sets an' smiles
-	So sof', so bright, so bloomin' blue;
-	There aren't a wave for miles an' miles
-	Excep' the jiggle from the screw."
+> "The Injian Ocean sets an' smiles
+> So sof', so bright, so bloomin' blue;
+> There aren't a wave for miles an' miles
+> Excep' the jiggle from the screw."
 
 April 14.  It turns out that the astronomical apprentice worked off a
 section of the Milky Way on me for the Magellan Clouds.  A man of more
@@ -16729,89 +16729,89 @@ villages, Port Louis and Curepipe, fall short of heavenly perfection;
 that nobody lives in Port Louis except upon compulsion, and that Curepipe
 is the wettest and rainiest place in the world.  An English citizen said:
 
-	"In the early part of this century Mauritius was used by the French
-	as a basis from which to operate against England's Indian
-	merchantmen; so England captured the island and also the neighbor,
-	Bourbon, to stop that annoyance.  England gave Bourbon back; the
-	government in London did not want any more possessions in the West
-	Indies.  If the government had had a better quality of geography in
-	stock it would not have wasted Bourbon in that foolish way.  A big
-	war will temporarily shut up the Suez Canal some day and the English
-	ships will have to go to India around the Cape of Good Hope again;
-	then England will have to have Bourbon and will take it.
+> "In the early part of this century Mauritius was used by the French
+> as a basis from which to operate against England's Indian
+> merchantmen; so England captured the island and also the neighbor,
+> Bourbon, to stop that annoyance.  England gave Bourbon back; the
+> government in London did not want any more possessions in the West
+> Indies.  If the government had had a better quality of geography in
+> stock it would not have wasted Bourbon in that foolish way.  A big
+> war will temporarily shut up the Suez Canal some day and the English
+> ships will have to go to India around the Cape of Good Hope again;
+> then England will have to have Bourbon and will take it.
 
-	"Mauritius was a crown colony until 20 years ago, with a governor
-	appointed by the Crown and assisted by a Council appointed by
-	himself; but Pope Hennessey came out as Governor then, and he worked
-	hard to get a part of the council made elective, and succeeded.  So
-	now the whole council is French, and in all ordinary matters of
-	legislation they vote together and in the French interest, not the
-	English. The English population is very slender; it has not votes
-	enough to elect a legislator.  Half a dozen rich French families
-	elect the legislature.  Pope Hennessey was an Irishman, a Catholic,
-	a Home Ruler, M.P., a hater of England and the English, a very
-	troublesome person and a serious incumbrance at Westminster; so it
-	was decided to send him out to govern unhealthy countries, in hope
-	that something would happen to him.  But nothing did.  The first
-	experiment was not merely a failure, it was more than a failure.  He
-	proved to be more of a disease himself than any he was sent to
-	encounter.  The next experiment was here.  The dark scheme failed
-	again.  It was an off-season and there was nothing but measles here
-	at the time.  Pope Hennessey's health was not affected.  He worked
-	with the French and for the French and against the English, and he
-	made the English very tired and the French very happy, and lived to
-	have the joy of seeing the flag he served publicly hissed.  His
-	memory is held in worshipful reverence and affection by the French.
+> "Mauritius was a crown colony until 20 years ago, with a governor
+> appointed by the Crown and assisted by a Council appointed by
+> himself; but Pope Hennessey came out as Governor then, and he worked
+> hard to get a part of the council made elective, and succeeded.  So
+> now the whole council is French, and in all ordinary matters of
+> legislation they vote together and in the French interest, not the
+> English. The English population is very slender; it has not votes
+> enough to elect a legislator.  Half a dozen rich French families
+> elect the legislature.  Pope Hennessey was an Irishman, a Catholic,
+> a Home Ruler, M.P., a hater of England and the English, a very
+> troublesome person and a serious incumbrance at Westminster; so it
+> was decided to send him out to govern unhealthy countries, in hope
+> that something would happen to him.  But nothing did.  The first
+> experiment was not merely a failure, it was more than a failure.  He
+> proved to be more of a disease himself than any he was sent to
+> encounter.  The next experiment was here.  The dark scheme failed
+> again.  It was an off-season and there was nothing but measles here
+> at the time.  Pope Hennessey's health was not affected.  He worked
+> with the French and for the French and against the English, and he
+> made the English very tired and the French very happy, and lived to
+> have the joy of seeing the flag he served publicly hissed.  His
+> memory is held in worshipful reverence and affection by the French.
 
-	"It is a land of extraordinary quarantines.  They quarantine a ship
-	for anything or for nothing; quarantine her for 20 and even 30 days.
-	They once quarantined a ship because her captain had had the
-	smallpox when he was a boy.  That and because he was English.
+> "It is a land of extraordinary quarantines.  They quarantine a ship
+> for anything or for nothing; quarantine her for 20 and even 30 days.
+> They once quarantined a ship because her captain had had the
+> smallpox when he was a boy.  That and because he was English.
 
-	"The population is very small; small to insignificance.  The
-	majority is East Indian; then mongrels; then negroes (descendants of
-	the slaves of the French times); then French; then English.  There
-	was an American, but he is dead or mislaid.  The mongrels are the
-	result of all kinds of mixtures; black and white, mulatto and white,
-	quadroon and white, octoroon and white.  And so there is every shade
-	of complexion; ebony, old mahogany, horsechestnut, sorrel,
-	molasses-candy, clouded amber, clear amber, old-ivory white,
-	new-ivory white, fish-belly white--this latter the leprous complexion
-	frequent with the Anglo-Saxon long resident in tropical climates.
+> "The population is very small; small to insignificance.  The
+> majority is East Indian; then mongrels; then negroes (descendants of
+> the slaves of the French times); then French; then English.  There
+> was an American, but he is dead or mislaid.  The mongrels are the
+> result of all kinds of mixtures; black and white, mulatto and white,
+> quadroon and white, octoroon and white.  And so there is every shade
+> of complexion; ebony, old mahogany, horsechestnut, sorrel,
+> molasses-candy, clouded amber, clear amber, old-ivory white,
+> new-ivory white, fish-belly white--this latter the leprous complexion
+> frequent with the Anglo-Saxon long resident in tropical climates.
 
-	"You wouldn't expect a person to be proud of being a Mauritian, now
-	would you?  But it is so.  The most of them have never been out of
-	the island, and haven't read much or studied much, and they think
-	the world consists of three principal countries--Judaea, France, and
-	Mauritius; so they are very proud of belonging to one of the three
-	grand divisions of the globe.  They think that Russia and Germany
-	are in England, and that England does not amount to much.  They have
-	heard vaguely about the United States and the equator, but they
-	think both of them are monarchies.  They think Mount Peter Botte is
-	the highest mountain in the world, and if you show one of them a
-	picture of Milan Cathedral he will swell up with satisfaction and
-	say that the idea of that jungle of spires was stolen from the
-	forest of peg-tops and toothpicks that makes the roofs of Curepipe
-	look so fine and prickly.
+> "You wouldn't expect a person to be proud of being a Mauritian, now
+> would you?  But it is so.  The most of them have never been out of
+> the island, and haven't read much or studied much, and they think
+> the world consists of three principal countries--Judaea, France, and
+> Mauritius; so they are very proud of belonging to one of the three
+> grand divisions of the globe.  They think that Russia and Germany
+> are in England, and that England does not amount to much.  They have
+> heard vaguely about the United States and the equator, but they
+> think both of them are monarchies.  They think Mount Peter Botte is
+> the highest mountain in the world, and if you show one of them a
+> picture of Milan Cathedral he will swell up with satisfaction and
+> say that the idea of that jungle of spires was stolen from the
+> forest of peg-tops and toothpicks that makes the roofs of Curepipe
+> look so fine and prickly.
 
-	"There is not much trade in books.  The newspapers educate and
-	entertain the people.  Mainly the latter.  They have two pages of
-	large-print reading-matter-one of them English, the other French.
-	The English page is a translation of the French one.  The typography
-	is super-extra primitive--in this quality it has not its equal
-	anywhere.  There is no proof-reader now; he is dead.
+> "There is not much trade in books.  The newspapers educate and
+> entertain the people.  Mainly the latter.  They have two pages of
+> large-print reading-matter-one of them English, the other French.
+> The English page is a translation of the French one.  The typography
+> is super-extra primitive--in this quality it has not its equal
+> anywhere.  There is no proof-reader now; he is dead.
 
-	"Where do they get matter to fill up a page in this little island
-	lost in the wastes of the Indian Ocean?  Oh, Madagascar.  They
-	discuss Madagascar and France.  That is the bulk.  Then they chock
-	up the rest with advice to the Government.  Also, slurs upon the
-	English administration.  The papers are all owned and edited by
-	creoles--French.
+> "Where do they get matter to fill up a page in this little island
+> lost in the wastes of the Indian Ocean?  Oh, Madagascar.  They
+> discuss Madagascar and France.  That is the bulk.  Then they chock
+> up the rest with advice to the Government.  Also, slurs upon the
+> English administration.  The papers are all owned and edited by
+> creoles--French.
 
-	"The language of the country is French.  Everybody speaks it--has
-	to.  You have to know French particularly mongrel French, the patois
-	spoken by Tom, Dick, and Harry of the multiform complexions--or you
-	can't get along.
+> "The language of the country is French.  Everybody speaks it--has
+> to.  You have to know French particularly mongrel French, the patois
+> spoken by Tom, Dick, and Harry of the multiform complexions--or you
+> can't get along.
 
 "This was a flourishing country in former days, for it made then and
 still makes the best sugar in the world; but first the Suez Canal severed
@@ -16844,9 +16844,9 @@ greatest story that was ever written about Mauritius, and the only one."
 CHAPTER LXIII.
 --------------
 
-	The principal difference between a cat and a lie is that the cat has only
-	nine lives.
-		--Pudd'nhead Wilson's New Calendar.
+> The principal difference between a cat and a lie is that the cat has only
+> nine lives.
+> --Pudd'nhead Wilson's New Calendar.
 
 April 20.--The cyclone of 1892 killed and crippled hundreds of people;
 it was accompanied by a deluge of rain, which drowned Port Louis and
@@ -16866,12 +16866,12 @@ As to healthiness: I translate from to-day's (April 20) Merchants' and
 Planters' Gazette, from the article of a regular contributor, "Carminge,"
  concerning the death of the nephew of a prominent citizen:
 
-	"Sad and lugubrious existence, this which we lead in Mauritius; I
-	believe there is no other country in the world where one dies more
-	easily than among us.  The least indisposition becomes a mortal
-	malady; a simple headache develops into meningitis; a cold into
-	pneumonia, and presently, when we are least expecting it, death is a
-	guest in our home."
+> "Sad and lugubrious existence, this which we lead in Mauritius; I
+> believe there is no other country in the world where one dies more
+> easily than among us.  The least indisposition becomes a mortal
+> malady; a simple headache develops into meningitis; a cold into
+> pneumonia, and presently, when we are least expecting it, death is a
+> guest in our home."
 
 This daily paper has a meteorological report which tells you what the
 weather was day before yesterday.
@@ -17061,10 +17061,10 @@ attended to; I do not wish to have to speak of it again.
 CHAPTER LXIV.
 -------------
 
-	When your watch gets out of order you have choice of two things to do:
-	throw it in the fire or take it to the watch-tinker.  The former is the
-	quickest.
-		--Pudd'nhead Wilson's New Calendar.
+> When your watch gets out of order you have choice of two things to do:
+> throw it in the fire or take it to the watch-tinker.  The former is the
+> quickest.
+> --Pudd'nhead Wilson's New Calendar.
 
 The Arundel Castle is the finest boat I have seen in these seas.  She is
 thoroughly modern, and that statement covers a great deal of ground.  She
@@ -17119,8 +17119,8 @@ All that I remember about Madagascar is that Thackeray's little Billie
 went up to the top of the mast and there knelt him upon his knee, saying,
 "I see
 
-	"Jerusalem and Madagascar,
-	And North and South Amerikee."
+> "Jerusalem and Madagascar,
+> And North and South Amerikee."
 
 May 3.  Sunday.  Fifteen or twenty Africanders who will end their voyage
 to-day and strike for their several homes from Delagoa Bay to-morrow, sat
@@ -17361,9 +17361,9 @@ Africa.
 CHAPTER LXV.
 ------------
 
-	In statesmanship get the formalities right, never mind about the
-	moralities.
-		--Pudd'nhead Wilson's New Calendar.
+> In statesmanship get the formalities right, never mind about the
+> moralities.
+> --Pudd'nhead Wilson's New Calendar.
 
 FROM DIARY:
 
@@ -17578,8 +17578,8 @@ bull the stock market.
 CHAPTER LXVI.
 -------------
 
-	Every one is a moon, and has a dark side which he never shows to anybody.
-		--Pudd'nhead Wilson's New Calendar.
+> Every one is a moon, and has a dark side which he never shows to anybody.
+> --Pudd'nhead Wilson's New Calendar.
 
 When I scribbled in my note-book a year ago the paragraph which ends the
 preceding chapter, it was meant to indicate, in an extravagant form, two
@@ -17849,8 +17849,8 @@ if it had been a year old it would have done miracles.
 CHAPTER LXVII.
 --------------
 
-	First catch your Boer, then kick him.
-		--Pudd'nhead Wilson's New Calendar.
+> First catch your Boer, then kick him.
+> --Pudd'nhead Wilson's New Calendar.
 
 Those latter days were days of bitter worry and trouble for the harassed
 Reformers.
@@ -18000,10 +18000,10 @@ Bronkhorst Spruit--246 men of the 94th regiment, in command of a colonel,
 the big drum beating, the band playing--and the first battle was fought.
 It lasted ten minutes.  Result:
 
-	British loss, more than 150 officers and men, out of the 246.
-	Surrender of the remnant.
+> British loss, more than 150 officers and men, out of the 246.
+> Surrender of the remnant.
 
-	Boer loss--if any--not stated.
+> Boer loss--if any--not stated.
 
 They are fine marksmen, the Boers.  From the cradle up, they live on
 horseback and hunt wild animals with the rifle.  They have a passion for
@@ -18022,9 +18022,9 @@ Boers for twenty minutes, then the assault was delivered, the 58th
 marching up the slope in solid column.  The battle was soon finished,
 with this result, according to Russell--
 
-	British loss in killed and wounded, 174.
+> British loss in killed and wounded, 174.
 
-	Boer loss, "trifling."
+> Boer loss, "trifling."
 
 Colonel Deane was killed, and apparently every officer above the grade of
 lieutenant was killed or wounded, for the 58th retreated to its camp in
@@ -18041,9 +18041,9 @@ his military chaplain, and in recrossing the now swollen river lost some
 of his men by drowning.  That was the third Boer victory.  Result,
 according to Mr. Russell--
 
-	British loss 150 out of 270 engaged.
+> British loss 150 out of 270 engaged.
 
-	Boer loss, 8 killed, 9 wounded--17.
+> Boer loss, 8 killed, 9 wounded--17.
 
 There was a season of quiet, now, but at the end of about three weeks Sir
 George Colley conceived the idea of climbing, with an infantry and
@@ -18065,9 +18065,9 @@ their ruinous work.  Presently the British "broke and fled for their
 lives down the rugged steep." The Boers had won the battle.  Result in
 killed and wounded, including among the killed the British General:
 
-	British loss, 226, out of 400 engaged.
+> British loss, 226, out of 400 engaged.
 
-	Boer loss, 1 killed, 5 wounded.
+> Boer loss, 1 killed, 5 wounded.
 
 That ended the war.  England listened to reason, and recognized the Boer
 Republic--a government which has never been in any really awful danger
@@ -18077,9 +18077,9 @@ since, until Jameson started after it with his 500 "raw young fellows."
 The Boer farmers and British soldiers fought 4 battles, and the Boers won
 them all.  Result of the 4, in killed and wounded:
 
-	British loss, 700 men.
+> British loss, 700 men.
 
-	Boer loss, so far as known, 23 men.
+> Boer loss, so far as known, 23 men.
 
 It is interesting, now, to note how loyally Jameson and his several
 trained British military officers tried to make their battles conform to
@@ -18299,9 +18299,9 @@ not understand what it means, after they have read it.]
 CHAPTER LXVIII.
 ---------------
 
-	None of us can have as many virtues as the fountain-pen, or half its
-	cussedness; but we can try.
-		--Pudd'nhead Wilson's New Calendar.
+> None of us can have as many virtues as the fountain-pen, or half its
+> cussedness; but we can try.
+> --Pudd'nhead Wilson's New Calendar.
 
 The Duke of Fife has borne testimony that Mr. Rhodes deceived him.  That
 is also what Mr. Rhodes did with the Reformers.  He got them into
@@ -18608,12 +18608,12 @@ prisoner pulled him off, and thrashed the guard himself."
 CHAPTER LXIX.
 -------------
 
-	The very ink with which all history is written is merely fluid prejudice.
-		--Pudd'nhead Wilsons's New Calendar.
+> The very ink with which all history is written is merely fluid prejudice.
+> --Pudd'nhead Wilsons's New Calendar.
 
-	There isn't a Parallel of Latitude but thinks it would have been the
-	Equator if it had had its rights.
-		--Pudd'nhead Wilson's New Calendar.
+> There isn't a Parallel of Latitude but thinks it would have been the
+> Equator if it had had its rights.
+> --Pudd'nhead Wilson's New Calendar.
 
 Next to Mr. Rhodes, to me the most interesting convulsion of nature in
 South Africa was the diamond-crater.  The Rand gold fields are a
@@ -18918,9 +18918,10 @@ piece of the rope for a keepsake.
 CONCLUSION.
 -----------
 
-	I have traveled more than anyone else, and I have noticed that even the
-	angels speak English with an accent.
-		--Pudd'nhead Wilson's New Calendar.
+> I have traveled more than anyone else, and I have noticed that even the
+> angels speak English with an accent.
+>
+> --Pudd'nhead Wilson's New Calendar.
 
 I saw Table Rock, anyway--a majestic pile.  It is 3,000 feet high.  It is
 also 17,000 feet high.  These figures may be relied upon.  I got them in

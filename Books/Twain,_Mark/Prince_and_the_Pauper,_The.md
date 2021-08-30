@@ -20,41 +20,41 @@ credited it.
 CONTENTS
 --------
 
-	I.      The birth of the Prince and the Pauper.
-	II.     Tom's early life.
-	III.    Tom's meeting with the Prince.
-	IV.     The Prince's troubles begin.
-	V.      Tom as a patrician.
-	VI.     Tom receives instructions.
-	VII.    Tom's first royal dinner.
-	VIII.   The question of the Seal.
-	IX.     The river pageant.
-	X.      The Prince in the toils.
-	XI.     At Guildhall.
-	XII.    The Prince and his deliverer.
-	XIII.   The disappearance of the Prince.
-	XIV.    'Le Roi est mort--vive le Roi.'
-	XV.     Tom as King.
-	XVI.    The state dinner.
-	XVII.   Foo-foo the First.
-	XVIII.  The Prince with the tramps.
-	XIX.    The Prince with the peasants.
-	XX.     The Prince and the hermit.
-	XXI.    Hendon to the rescue.
-	XXII.   A victim of treachery.
-	XXIII.  The Prince a prisoner.
-	XXIV.   The escape.
-	XXV.    Hendon Hall.
-	XXVI.   Disowned.
-	XXVII.  In prison.
-	XXVIII. The sacrifice.
-	XXIX.   To London.
-	XXX.    Tom's progress.
-	XXXI.   The Recognition procession.
-	XXXII.  Coronation Day.
-	XXXIII. Edward as King.
-	CONCLUSION. Justice and Retribution.
-	Notes.
+- I.      The birth of the Prince and the Pauper.
+- II.     Tom's early life.
+- III.    Tom's meeting with the Prince.
+- IV.     The Prince's troubles begin.
+- V.      Tom as a patrician.
+- VI.     Tom receives instructions.
+- VII.    Tom's first royal dinner.
+- VIII.   The question of the Seal.
+- IX.     The river pageant.
+- X.      The Prince in the toils.
+- XI.     At Guildhall.
+- XII.    The Prince and his deliverer.
+- XIII.   The disappearance of the Prince.
+- XIV.    'Le Roi est mort--vive le Roi.'
+- XV.     Tom as King.
+- XVI.    The state dinner.
+- XVII.   Foo-foo the First.
+- XVIII.  The Prince with the tramps.
+- XIX.    The Prince with the peasants.
+- XX.     The Prince and the hermit.
+- XXI.    Hendon to the rescue.
+- XXII.   A victim of treachery.
+- XXIII.  The Prince a prisoner.
+- XXIV.   The escape.
+- XXV.    Hendon Hall.
+- XXVI.   Disowned.
+- XXVII.  In prison.
+- XXVIII. The sacrifice.
+- XXIX.   To London.
+- XXX.    Tom's progress.
+- XXXI.   The Recognition procession.
+- XXXII.  Coronation Day.
+- XXXIII. Edward as King.
+- CONCLUSION. Justice and Retribution.
+- Notes.
 
 
 CHAPTER I. The birth of the Prince and the Pauper.

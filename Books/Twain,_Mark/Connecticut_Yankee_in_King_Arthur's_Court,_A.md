@@ -35,9 +35,9 @@ the question in another book.  It is, of course, a thing which
 ought to be settled, and I am not going to have anything particular
 to do next winter anyway.
 
-	MARK TWAIN
+> MARK TWAIN
 
-	HARTFORD, July 21, 1889
+> HARTFORD, July 21, 1889
 
 
 
@@ -102,106 +102,106 @@ the fragrance of its obsolete names, and dreamed again.  Midnight
 being come at length, I read another tale, for a nightcap--this
 which here follows, to wit:
 
-	HOW SIR LAUNCELOT SLEW TWO GIANTS, AND MADE A CASTLE FREE
+> HOW SIR LAUNCELOT SLEW TWO GIANTS, AND MADE A CASTLE FREE
 
-	Anon withal came there upon him two great giants, 
-	well armed, all save the heads, with two horrible 
-	clubs in their hands.  Sir Launcelot put his shield 
-	afore him, and put the stroke away of the one 
-	giant, and with his sword he clave his head asunder. 
-	When his fellow saw that, he ran away as he were 
-	wood [*demented], for fear of the horrible strokes, 
-	and Sir Launcelot after him with all his might, 
-	and smote him on the shoulder, and clave him to 
-	the middle.  Then Sir Launcelot went into the hall, 
-	and there came afore him three score ladies and 
-	damsels, and all kneeled unto him, and thanked 
-	God and him of their deliverance.  For, sir, said 
-	they, the most part of us have been here this 
-	seven year their prisoners, and we have worked all 
-	manner of silk works for our meat, and we are all 
-	great gentle-women born, and blessed be the time, 
-	knight, that ever thou wert born; for thou hast 
-	done the most worship that ever did knight in the 
-	world, that will we bear record, and we all pray 
-	you to tell us your name, that we may tell our 
-	friends who delivered us out of prison.  Fair 
-	damsels, he said, my name is Sir Launcelot du 
-	Lake.  And so he departed from them and betaught 
-	them unto God.  And then he mounted upon his 
-	horse, and rode into many strange and wild 
-	countries, and through many waters and valleys, 
-	and evil was he lodged.  And at the last by 
-	fortune him happened against a night to come to 
-	a fair courtilage, and therein he found an old 
-	gentle-woman that lodged him with a good-will, 
-	and there he had good cheer for him and his horse. 
-	And when time was, his host brought him into a 
-	fair garret over the gate to his bed. There 
-	Sir Launcelot unarmed him, and set his harness 
-	by him, and went to bed, and anon he fell on 
-	sleep. So, soon after there came one on 
-	horseback, and knocked at the gate in great 
-	haste.  And when Sir Launcelot heard this he rose 
-	up, and looked out at the window, and saw by the 
-	moonlight three knights come riding after that 
-	one man, and all three lashed on him at once 
-	with swords, and that one knight turned on them 
-	knightly again and defended him. Truly, said 
-	Sir Launcelot, yonder one knight shall I help, 
-	for it were shame for me to see three knights 
-	on one, and if he be slain I am partner of his 
-	death.  And therewith he took his harness and 
-	went out at a window by a sheet down to the four 
-	knights, and then Sir Launcelot said on high, 
-	Turn you knights unto me, and leave your 
-	fighting with that knight. And then they all 
-	three left Sir Kay, and turned unto Sir Launcelot, 
-	and there began great battle, for they alight 
-	all three, and strake many strokes at Sir 
-	Launcelot, and assailed him on every side. Then 
-	Sir Kay dressed him for to have holpen Sir 
-	Launcelot.  Nay, sir, said he, I will none of 
-	your help, therefore as ye will have my help 
-	let me alone with them.  Sir Kay for the pleasure 
-	of the knight suffered him for to do his will, 
-	and so stood aside. And then anon within six 
-	strokes Sir Launcelot had stricken them to the earth. 
+> Anon withal came there upon him two great giants, 
+> well armed, all save the heads, with two horrible 
+> clubs in their hands.  Sir Launcelot put his shield 
+> afore him, and put the stroke away of the one 
+> giant, and with his sword he clave his head asunder. 
+> When his fellow saw that, he ran away as he were 
+> wood [*demented], for fear of the horrible strokes, 
+> and Sir Launcelot after him with all his might, 
+> and smote him on the shoulder, and clave him to 
+> the middle.  Then Sir Launcelot went into the hall, 
+> and there came afore him three score ladies and 
+> damsels, and all kneeled unto him, and thanked 
+> God and him of their deliverance.  For, sir, said 
+> they, the most part of us have been here this 
+> seven year their prisoners, and we have worked all 
+> manner of silk works for our meat, and we are all 
+> great gentle-women born, and blessed be the time, 
+> knight, that ever thou wert born; for thou hast 
+> done the most worship that ever did knight in the 
+> world, that will we bear record, and we all pray 
+> you to tell us your name, that we may tell our 
+> friends who delivered us out of prison.  Fair 
+> damsels, he said, my name is Sir Launcelot du 
+> Lake.  And so he departed from them and betaught 
+> them unto God.  And then he mounted upon his 
+> horse, and rode into many strange and wild 
+> countries, and through many waters and valleys, 
+> and evil was he lodged.  And at the last by 
+> fortune him happened against a night to come to 
+> a fair courtilage, and therein he found an old 
+> gentle-woman that lodged him with a good-will, 
+> and there he had good cheer for him and his horse. 
+> And when time was, his host brought him into a 
+> fair garret over the gate to his bed. There 
+> Sir Launcelot unarmed him, and set his harness 
+> by him, and went to bed, and anon he fell on 
+> sleep. So, soon after there came one on 
+> horseback, and knocked at the gate in great 
+> haste.  And when Sir Launcelot heard this he rose 
+> up, and looked out at the window, and saw by the 
+> moonlight three knights come riding after that 
+> one man, and all three lashed on him at once 
+> with swords, and that one knight turned on them 
+> knightly again and defended him. Truly, said 
+> Sir Launcelot, yonder one knight shall I help, 
+> for it were shame for me to see three knights 
+> on one, and if he be slain I am partner of his 
+> death.  And therewith he took his harness and 
+> went out at a window by a sheet down to the four 
+> knights, and then Sir Launcelot said on high, 
+> Turn you knights unto me, and leave your 
+> fighting with that knight. And then they all 
+> three left Sir Kay, and turned unto Sir Launcelot, 
+> and there began great battle, for they alight 
+> all three, and strake many strokes at Sir 
+> Launcelot, and assailed him on every side. Then 
+> Sir Kay dressed him for to have holpen Sir 
+> Launcelot.  Nay, sir, said he, I will none of 
+> your help, therefore as ye will have my help 
+> let me alone with them.  Sir Kay for the pleasure 
+> of the knight suffered him for to do his will, 
+> and so stood aside. And then anon within six 
+> strokes Sir Launcelot had stricken them to the earth. 
  
-	And then they all three cried, Sir Knight, we 
-	yield us unto you as man of might matchless.  As 
-	to that, said Sir Launcelot, I will not take 
-	your yielding unto me, but so that ye yield 
-	you unto Sir Kay the seneschal, on that covenant 
-	I will save your lives and else not.  Fair knight, 
-	said they, that were we loath to do; for as for 
-	Sir Kay we chased him hither, and had overcome 
-	him had ye not been; therefore, to yield us unto 
-	him it were no reason.  Well, as to that, said 
-	Sir Launcelot, advise you well, for ye may 
-	choose whether ye will die or live, for an ye be 
-	yielden, it shall be unto Sir Kay.  Fair knight, 
-	then they said, in saving our lives we will do 
-	as thou commandest us.  Then shall ye, said Sir 
-	Launcelot, on Whitsunday next coming go unto the 
-	court of King Arthur, and there shall ye yield 
-	you unto Queen Guenever, and put you all three 
-	in her grace and mercy, and say that Sir Kay 
-	sent you thither to be her prisoners.  On the morn 
-	Sir Launcelot arose early, and left Sir Kay 
-	sleeping; and Sir Launcelot took Sir Kay's armor 
-	and his shield and armed him, and so he went to 
-	the stable and took his horse, and took his leave 
-	of his host, and so he departed.  Then soon after 
-	arose Sir Kay and missed Sir Launcelot; and 
-	then he espied that he had his armor and his 
-	horse. Now by my faith I know well that he will 
-	grieve some of the court of King Arthur; for on 
-	him knights will be bold, and deem that it is I, 
-	and that will beguile them; and because of his 
-	armor and shield I am sure I shall ride in peace. 
-	And then soon after departed Sir Kay, and 
-	thanked his host. 
+> And then they all three cried, Sir Knight, we 
+> yield us unto you as man of might matchless.  As 
+> to that, said Sir Launcelot, I will not take 
+> your yielding unto me, but so that ye yield 
+> you unto Sir Kay the seneschal, on that covenant 
+> I will save your lives and else not.  Fair knight, 
+> said they, that were we loath to do; for as for 
+> Sir Kay we chased him hither, and had overcome 
+> him had ye not been; therefore, to yield us unto 
+> him it were no reason.  Well, as to that, said 
+> Sir Launcelot, advise you well, for ye may 
+> choose whether ye will die or live, for an ye be 
+> yielden, it shall be unto Sir Kay.  Fair knight, 
+> then they said, in saving our lives we will do 
+> as thou commandest us.  Then shall ye, said Sir 
+> Launcelot, on Whitsunday next coming go unto the 
+> court of King Arthur, and there shall ye yield 
+> you unto Queen Guenever, and put you all three 
+> in her grace and mercy, and say that Sir Kay 
+> sent you thither to be her prisoners.  On the morn 
+> Sir Launcelot arose early, and left Sir Kay 
+> sleeping; and Sir Launcelot took Sir Kay's armor 
+> and his shield and armed him, and so he went to 
+> the stable and took his horse, and took his leave 
+> of his host, and so he departed.  Then soon after 
+> arose Sir Kay and missed Sir Launcelot; and 
+> then he espied that he had his armor and his 
+> horse. Now by my faith I know well that he will 
+> grieve some of the court of King Arthur; for on 
+> him knights will be bold, and deem that it is I, 
+> and that will beguile them; and because of his 
+> armor and shield I am sure I shall ride in peace. 
+> And then soon after departed Sir Kay, and 
+> thanked his host. 
 
 As I laid the book down there was a knock at the door, and my
 stranger came in.  I gave him a pipe and a chair, and made him
@@ -1926,72 +1926,72 @@ wording was quaint and sweet and simple, and full of the fragrances
 and flavors of the time, and these little merits made up in a measure
 for its more important lacks.  Here is an extract from it:
 
-	Then Sir Brian de les Isles and Grummore Grummorsum,
-	knights of the castle, encountered with Sir Aglovale and
-	Sir Tor, and Sir Tor smote down Sir Grummore Grummorsum
-	to the earth.  Then came Sir Carados of the dolorous
-	tower, and Sir Turquine, knights of the castle, and
-	there encountered with them Sir Percivale de Galis
-	and Sir Lamorak de Galis, that were two brethren, and
-	there encountered Sir Percivale with Sir Carados, and
-	either brake their spears unto their hands, and then
-	Sir Turquine with Sir Lamorak, and either of them smote
-	down other, horse and all, to the earth, and either
-	parties rescued other and horsed them again.  And Sir
-	Arnold, and Sir Gauter, knights of the castle,
-	encountered with Sir Brandiles and Sir Kay, and these
-	four knights encountered mightily, and brake their
-	spears to their hands.  Then came Sir Pertolope from
-	the castle, and there encountered with him Sir Lionel,
-	and there Sir Pertolope the green knight smote down Sir
-	Lionel, brother to Sir Launcelot.  All this was marked
-	by noble heralds, who bare him best, and their names.
-	Then Sir Bleobaris brake his spear upon Sir Gareth,
-	but of that stroke Sir Bleobaris fell to the earth.
-	When Sir Galihodin saw that, he bad Sir Gareth keep him,
-	and Sir Gareth smote him to the earth.  Then Sir Galihud
-	gat a spear to avenge his brother, and in the same wise
-	Sir Gareth served him, and Sir Dinadan and his brother
-	La Cote Male Taile, and Sir Sagramore le Disirous, and
-	Sir Dodinas le Savage; all these he bare down with one
-	spear.  When King Aswisance of Ireland saw Sir Gareth
-	fare so he marvelled what he might be, that one time
-	seemed green, and another time, at his again coming,
-	he seemed blue.  And thus at every course that he rode
-	to and fro he changed his color, so that there might
-	neither king nor knight have ready cognizance of him.
-	Then Sir Agwisance the King of Ireland encountered
-	with Sir Gareth, and there Sir Gareth smote him from
-	his horse, saddle and all.  And then came King Carados
-	of Scotland, and Sir Gareth smote him down horse and
-	man.  And in the same wise he served King Uriens of the
-	land of Gore.  And then there came in Sir Bagdemagus,
-	and Sir Gareth smote him down horse and man to the
-	earth.  And Bagdemagus's son Meliganus brake a spear
-	upon Sir Gareth mightily and knightly.  And then Sir
-	Galahault the noble prince cried on high, Knight with
-	the many colors, well hast thou justed; now make thee
-	ready that I may just with thee.  Sir Gareth heard him,
-	and he gat a great spear, and so they encountered
-	together, and there the prince brake his spear; but Sir
-	Gareth smote him upon the left side of the helm, that
-	he reeled here and there, and he had fallen down had not
-	his men recovered him.  Truly, said King Arthur, that
-	knight with the many colors is a good knight.  Wherefore
-	the king called unto him Sir Launcelot, and prayed him
-	to encounter with that knight.  Sir, said Launcelot, I
-	may as well find in my heart for to forbear him at
-	this time, for he hath had travail enough this day, and
-	when a good knight doth so well upon some day, it is
-	no good knight's part to let him of his worship, and,
-	namely, when he seeth a knight hath done so great
-	labour; for peradventure, said Sir Launcelot, his
-	quarrel is here this day, and peradventure he is best
-	beloved with this lady of all that be here, for I see
-	well he paineth himself and enforceth him to do great
-	deeds, and therefore, said Sir Launcelot, as for me,
-	this day he shall have the honour; though it lay in my
-	power to put him from it, I would not.
+> Then Sir Brian de les Isles and Grummore Grummorsum,
+> knights of the castle, encountered with Sir Aglovale and
+> Sir Tor, and Sir Tor smote down Sir Grummore Grummorsum
+> to the earth.  Then came Sir Carados of the dolorous
+> tower, and Sir Turquine, knights of the castle, and
+> there encountered with them Sir Percivale de Galis
+> and Sir Lamorak de Galis, that were two brethren, and
+> there encountered Sir Percivale with Sir Carados, and
+> either brake their spears unto their hands, and then
+> Sir Turquine with Sir Lamorak, and either of them smote
+> down other, horse and all, to the earth, and either
+> parties rescued other and horsed them again.  And Sir
+> Arnold, and Sir Gauter, knights of the castle,
+> encountered with Sir Brandiles and Sir Kay, and these
+> four knights encountered mightily, and brake their
+> spears to their hands.  Then came Sir Pertolope from
+> the castle, and there encountered with him Sir Lionel,
+> and there Sir Pertolope the green knight smote down Sir
+> Lionel, brother to Sir Launcelot.  All this was marked
+> by noble heralds, who bare him best, and their names.
+> Then Sir Bleobaris brake his spear upon Sir Gareth,
+> but of that stroke Sir Bleobaris fell to the earth.
+> When Sir Galihodin saw that, he bad Sir Gareth keep him,
+> and Sir Gareth smote him to the earth.  Then Sir Galihud
+> gat a spear to avenge his brother, and in the same wise
+> Sir Gareth served him, and Sir Dinadan and his brother
+> La Cote Male Taile, and Sir Sagramore le Disirous, and
+> Sir Dodinas le Savage; all these he bare down with one
+> spear.  When King Aswisance of Ireland saw Sir Gareth
+> fare so he marvelled what he might be, that one time
+> seemed green, and another time, at his again coming,
+> he seemed blue.  And thus at every course that he rode
+> to and fro he changed his color, so that there might
+> neither king nor knight have ready cognizance of him.
+> Then Sir Agwisance the King of Ireland encountered
+> with Sir Gareth, and there Sir Gareth smote him from
+> his horse, saddle and all.  And then came King Carados
+> of Scotland, and Sir Gareth smote him down horse and
+> man.  And in the same wise he served King Uriens of the
+> land of Gore.  And then there came in Sir Bagdemagus,
+> and Sir Gareth smote him down horse and man to the
+> earth.  And Bagdemagus's son Meliganus brake a spear
+> upon Sir Gareth mightily and knightly.  And then Sir
+> Galahault the noble prince cried on high, Knight with
+> the many colors, well hast thou justed; now make thee
+> ready that I may just with thee.  Sir Gareth heard him,
+> and he gat a great spear, and so they encountered
+> together, and there the prince brake his spear; but Sir
+> Gareth smote him upon the left side of the helm, that
+> he reeled here and there, and he had fallen down had not
+> his men recovered him.  Truly, said King Arthur, that
+> knight with the many colors is a good knight.  Wherefore
+> the king called unto him Sir Launcelot, and prayed him
+> to encounter with that knight.  Sir, said Launcelot, I
+> may as well find in my heart for to forbear him at
+> this time, for he hath had travail enough this day, and
+> when a good knight doth so well upon some day, it is
+> no good knight's part to let him of his worship, and,
+> namely, when he seeth a knight hath done so great
+> labour; for peradventure, said Sir Launcelot, his
+> quarrel is here this day, and peradventure he is best
+> beloved with this lady of all that be here, for I see
+> well he paineth himself and enforceth him to do great
+> deeds, and therefore, said Sir Launcelot, as for me,
+> this day he shall have the honour; though it lay in my
+> power to put him from it, I would not.
 
 There was an unpleasant little episode that day, which for reasons
 of state I struck out of my priest's report.  You will have noticed
@@ -2943,7 +2943,7 @@ sheep, but took him aside and talked matter of another sort to him.
 After I had finished, I got him to lend me a little ink from his
 veins; and with this and a sliver I wrote on a piece of bark--
 
-	Put him in the Man-factory--
+> Put him in the Man-factory--
 
 and gave it to him, and said:
 
@@ -3481,7 +3481,7 @@ addition also--a stiff square garment like a herald's tabard.
 However, I had to smile at my own forgetfulness when I got nearer
 and read this sign on his tabard:
 
-	"Persimmon's Soap -- All the Prime-Donna Use It."
+> "Persimmon's Soap -- All the Prime-Donna Use It."
 
 That was a little idea of my own, and had several wholesome purposes
 in view toward the civilizing and uplifting of this nation.  In the
@@ -4569,7 +4569,7 @@ was cursing and swearing; yet nevertheless was I glad of his
 coming, for that I saw he bore a bulletin-board whereon in letters
 all of shining gold was writ:
 
-	"USE PETERSON'S PROPHYLACTIC TOOTH-BRUSH--ALL THE GO."
+> "USE PETERSON'S PROPHYLACTIC TOOTH-BRUSH--ALL THE GO."
 
 I was glad of his coming, for even by this token I knew him for
 knight of mine.  It was Sir Madok de la Montaine, a burly great
@@ -5700,10 +5700,10 @@ When I saw him that first time--however, his personal condition
 will not quite bear description here.  You can read it in the
 Lives of the Saints.*
 
-	[*All the details concerning the hermits, in this chapter, are from
-	Lecky--but greatly modified.  This book not being a history but
-	only a tale, the majority of the historian's frank details were too
-	strong for reproduction in it.--_Editor_]
+> [*All the details concerning the hermits, in this chapter, are from
+> Lecky--but greatly modified.  This book not being a history but
+> only a tale, the majority of the historian's frank details were too
+> strong for reproduction in it.--_Editor_]
 
 
 
@@ -7125,38 +7125,38 @@ atmosphere of reverence, respect, deference, so long that they
 sent a quivery little cold wave through me:
 
 
-	HIGH TIMES IN THE VALLEY
+> HIGH TIMES IN THE VALLEY
 
-	OF HOLINESS!
+> OF HOLINESS!
 
-	----
+> ----
 
-	THE WATER-WORKS CORKED!
+> THE WATER-WORKS CORKED!
 
-	----
+> ----
 
-	BRER MERLIN WORKS HIS ARTS, BUT GETS
-	LEFT?
+> BRER MERLIN WORKS HIS ARTS, BUT GETS
+> LEFT?
 
-	----
+> ----
 
-	But the Boss scores on his first Innings!
+> But the Boss scores on his first Innings!
 
-	----
+> ----
 
-	The Miraculous Well Uncorked amid
-	awful outbursts of
+> The Miraculous Well Uncorked amid
+> awful outbursts of
 
-	INFERNAL FIRE AND SMOKE
-	ATHUNDER!
+> INFERNAL FIRE AND SMOKE
+> ATHUNDER!
 
-	----
+> ----
 
-	THE BUZZARD-ROOST ASTONISHED!
+> THE BUZZARD-ROOST ASTONISHED!
 
-	----
+> ----
 
-	UNPARALLELED REJOIBINGS!
+> UNPARALLELED REJOIBINGS!
 
 
 --and so on, and so on.  Yes, it was too loud.  Once I could have
@@ -7171,69 +7171,69 @@ pert little irreverencies which would have seemed but proper and
 airy graces of speech at an earlier period of my life.  There was an
 abundance of the following breed of items, and they discomforted me:
 
-	LOCAL SMOKE AND CINDERS.
+> LOCAL SMOKE AND CINDERS.
 
-	Sir Launcelot met up with old King
-	Agrivance of Ireland unexpectedly last
-	weok over on the moor south of Sir
-	Balmoral le Merveilleuse's hog dasture.
-	The widow has been notified.
+> Sir Launcelot met up with old King
+> Agrivance of Ireland unexpectedly last
+> weok over on the moor south of Sir
+> Balmoral le Merveilleuse's hog dasture.
+> The widow has been notified.
 
-	Expedition No. 3 will start adout the
-	first of mext month on a search f8r Sir
-	Sagramour le Desirous. It is in com-
-	and of the renowned Knight of the Red
-	Lawns, assissted by Sir Persant of Inde,
-	who is compete9t. intelligent, courte-
-	ous, and in every way a brick, and fur-
-	tHer assisted by Sir Palamides the Sara-
-	cen, who is no huckleberry hinself.
-	This is no pic-nic, these boys mean
-	busine&s.
+> Expedition No. 3 will start adout the
+> first of mext month on a search f8r Sir
+> Sagramour le Desirous. It is in com-
+> and of the renowned Knight of the Red
+> Lawns, assissted by Sir Persant of Inde,
+> who is compete9t. intelligent, courte-
+> ous, and in every way a brick, and fur-
+> tHer assisted by Sir Palamides the Sara-
+> cen, who is no huckleberry hinself.
+> This is no pic-nic, these boys mean
+> busine&s.
 
-	The readers of the Hosannah will re-
-	gret to learn that the hadndsome and
-	popular Sir Charolais of Gaul, who dur-
-	ing his four weeks' stay at the Bull and
-	Halibut, this city, has won every heart
-	by his polished manners and elegant
-	cPnversation, will pUll out to-day for
-	home. Give us another call, Charley!
+> The readers of the Hosannah will re-
+> gret to learn that the hadndsome and
+> popular Sir Charolais of Gaul, who dur-
+> ing his four weeks' stay at the Bull and
+> Halibut, this city, has won every heart
+> by his polished manners and elegant
+> cPnversation, will pUll out to-day for
+> home. Give us another call, Charley!
 
-	The bdsiness end of the funeral of
-	the late Sir Dalliance the duke's son of
-	Cornwall, killed in an encounter with
-	the Giant of the Knotted Bludgeon last
-	Tuesday on the borders of the Plain of
-	Enchantment was in the hands of the
-	ever affable and efficient Mumble,
-	prince of un3ertakers, then whom there
-	exists none by whom it were a more
-	satisfying pleasure to have the last sad
-	offices performed. Give him a trial.
+> The bdsiness end of the funeral of
+> the late Sir Dalliance the duke's son of
+> Cornwall, killed in an encounter with
+> the Giant of the Knotted Bludgeon last
+> Tuesday on the borders of the Plain of
+> Enchantment was in the hands of the
+> ever affable and efficient Mumble,
+> prince of un3ertakers, then whom there
+> exists none by whom it were a more
+> satisfying pleasure to have the last sad
+> offices performed. Give him a trial.
 
-	The cordial thanks of the Hosannah
-	office are due, from editor down to
-	devil, to the ever courteous and thought-
-	ful Lord High Stew d of the Palace's
-	Third Assistant V  t for several sau-
-	ceTs of ice crEam a quality calculated
-	to make the ey of the recipients hu-
-	mid with grt  ude; and it done it.
-	When this  administration wants to
-	chalk up a desirable name for early
-	promotion, the Hosannah would like a
-	chance to sudgest.
+> The cordial thanks of the Hosannah
+> office are due, from editor down to
+> devil, to the ever courteous and thought-
+> ful Lord High Stew d of the Palace's
+> Third Assistant V  t for several sau-
+> ceTs of ice crEam a quality calculated
+> to make the ey of the recipients hu-
+> mid with grt  ude; and it done it.
+> When this  administration wants to
+> chalk up a desirable name for early
+> promotion, the Hosannah would like a
+> chance to sudgest.
 
-	The Demoiselle Irene Dewlap, of
-	South Astolat, is visiting her uncle, the
-	popular host of the Cattlemen's Board-
-	ing Ho&se, Liver Lane, this city.
+> The Demoiselle Irene Dewlap, of
+> South Astolat, is visiting her uncle, the
+> popular host of the Cattlemen's Board-
+> ing Ho&se, Liver Lane, this city.
 
-	Young Barker the bellows-mender is
-	hoMe again, and looks much improved
-	by his vacation round-up among the out-
-	lying smithies. See his ad.
+> Young Barker the bellows-mender is
+> hoMe again, and looks much improved
+> by his vacation round-up among the out-
+> lying smithies. See his ad.
 
 Of course it was good enough journalism for a beginning; I knew
 that quite well, and yet it was somehow disappointing.  The
@@ -7254,15 +7254,15 @@ out of a single bean.  Clarence's way was good, it was simple,
 it was dignified, it was direct and business-like; all I say is,
 it was not the best way:
 
-	COURT CIRCULAR.
+> COURT CIRCULAR.
 
-	On Monday, the king rode in the park.
-	"  Tuesday,      "      "        "
-	"  Wendesday     "      "        "
-	"  Thursday      "      "        "
-	"  Friday,       "      "        "
-	"  Saturday      "      "        "
-	"  Sunday,       "      "        "
+> On Monday, the king rode in the park.
+> "  Tuesday,      "      "        "
+> "  Wendesday     "      "        "
+> "  Thursday      "      "        "
+> "  Friday,       "      "        "
+> "  Saturday      "      "        "
+> "  Sunday,       "      "        "
 
 However, take the paper by and large, I was vastly pleased with it.
 Little crudities of a mechanical sort were observable here and
@@ -8921,26 +8921,26 @@ Then he read off this bill, while those three amazed men listened,
 and serene waves of satisfaction rolled over my soul and alternate
 waves of terror and admiration surged over Marco's:
 
-	2 pounds salt . . . . . . . . . . . . . .   200
-	8 dozen pints beer, in the wood . . . . .   800
-	3 bushels wheat . . . . . . . . . . . . . 2,700
-	2 pounds fish . . . . . . . . . . . . . .   100
-	3 hens  . . . . . . . . . . . . . . . . .   400
-	1 goose . . . . . . . . . . . . . . . . .   400
-	3 dozen eggs  . . . . . . . . . . . . . .   150
-	1 roast of beef . . . . . . . . . . . . .   450
-	1 roast of mutton . . . . . . . . . . . .   400
-	1 ham . . . . . . . . . . . . . . . . . .   800
-	1 sucking pig . . . . . . . . . . . . . .   500
-	2 crockery dinner sets  . . . . . . . . . 6,000
-	2 men's suits and underwear . . . . . . . 2,800
-	1 stuff and 1 linsey-woolsey gown
-	 and underwear . . . . . . . . . . . . . 1,600
-	8 wooden goblets  . . . . . . . . . . . .   800
-	Various table furniture . . . . . . . . .10,000
-	1 deal table  . . . . . . . . . . . . . . 3,000
-	8 stools  . . . . . . . . . . . . . . . . 4,000
-	2 miller guns, loaded . . . . . . . . . . 3,000
+> 2 pounds salt . . . . . . . . . . . . . .   200
+> 8 dozen pints beer, in the wood . . . . .   800
+> 3 bushels wheat . . . . . . . . . . . . . 2,700
+> 2 pounds fish . . . . . . . . . . . . . .   100
+> 3 hens  . . . . . . . . . . . . . . . . .   400
+> 1 goose . . . . . . . . . . . . . . . . .   400
+> 3 dozen eggs  . . . . . . . . . . . . . .   150
+> 1 roast of beef . . . . . . . . . . . . .   450
+> 1 roast of mutton . . . . . . . . . . . .   400
+> 1 ham . . . . . . . . . . . . . . . . . .   800
+> 1 sucking pig . . . . . . . . . . . . . .   500
+> 2 crockery dinner sets  . . . . . . . . . 6,000
+> 2 men's suits and underwear . . . . . . . 2,800
+> 1 stuff and 1 linsey-woolsey gown
+>  and underwear . . . . . . . . . . . . . 1,600
+> 8 wooden goblets  . . . . . . . . . . . .   800
+> Various table furniture . . . . . . . . .10,000
+> 1 deal table  . . . . . . . . . . . . . . 3,000
+> 8 stools  . . . . . . . . . . . . . . . . 4,000
+> 2 miller guns, loaded . . . . . . . . . . 3,000
 
 He ceased.  There was a pale and awful silence.  Not a limb stirred.
 Not a nostril betrayed the passage of breath.
@@ -9205,13 +9205,13 @@ another flyer:
 "Let us suppose a case.  Suppose one of your journeymen goes out
 and buys the following articles:
 
-	"1 pound of salt;
-	1 dozen eggs;
-	1 dozen pints of beer;
-	1 bushel of wheat;
-	1 tow-linen suit;
-	5 pounds of beef;
-	5 pounds of mutton.
+> "1 pound of salt;
+> 1 dozen eggs;
+> 1 dozen pints of beer;
+> 1 bushel of wheat;
+> 1 tow-linen suit;
+> 5 pounds of beef;
+> 5 pounds of mutton.
 
 "The lot will cost him 32 cents.  It takes him 32 working days
 to earn the money--5 weeks and 2 days.  Let him come to us and
@@ -10780,66 +10780,66 @@ damp from the press, by my plate at the breakfast table.  I turned
 to the advertising columns, knowing I should find something of
 personal interest to me there.  It was this:
 
-	DE PAR LE ROI.
+> DE PAR LE ROI.
 
-	Know that the great lord and illus-
-	trious Kni8ht, SIR SAGRAMOR LE
-	DESIROUS having condescended to
-	meet the King's Minister, Hank Mor-
-	gan, the which is surnamed The Boss,
-	for satisfgction of offence anciently given,
-	these wilL engage in the lists by
-	Camelot about the fourth hour of the
-	morning of the sixteenth day of this
-	next succeeding month. The battle
-	will be a l outrance, sith the said offence
-	was of a deadly sort, admitting of no
-	comPosition.
+> Know that the great lord and illus-
+> trious Kni8ht, SIR SAGRAMOR LE
+> DESIROUS having condescended to
+> meet the King's Minister, Hank Mor-
+> gan, the which is surnamed The Boss,
+> for satisfgction of offence anciently given,
+> these wilL engage in the lists by
+> Camelot about the fourth hour of the
+> morning of the sixteenth day of this
+> next succeeding month. The battle
+> will be a l outrance, sith the said offence
+> was of a deadly sort, admitting of no
+> comPosition.
 
-	DE PAR LE ROI
+> DE PAR LE ROI
 
 
 Clarence's editorial reference to this affair was to this effect:
 
-	It will be observed, by a gl7nce at our
-	advertising columns, that the commu-
-	nity is to be favored with a treat of un-
-	usual interest in the tournament line.
-	The names of the artists are warrant of
-	good enterrainment. The box-office
-	will be open at noon of the 13th; ad-
-	mission 3 cents, reserved seatsh 5; pro-
-	ceeds to go to the hospital fund  The
-	royal pair and all the Court will be pres-
-	ent. With these exceptions, and the
-	press and the clergy, the free list is strict-
-	ly susPended. Parties are hereby warn-
-	ed against buying tickets of speculators;
-	they will not be good at the door.
-	Everybody knows and likes The Boss,
-	everybody knows and likes Sir Sag.;
-	come, let us give the lads a good send-
-	off. ReMember, the proceeds go to a
-	great and free charity, and one whose
-	broad begevolence stretches out its help-
-	ing hand, warm with the blood of a lov-
-	ing heart, to all that suffer, regardless of
-	race, creed, condition or color--the
-	only charity yet established in the earth
-	which has no politico-religious stop-
-	cock on its compassion, but says Here
-	flows the stream, let ALL come and
-	drink! Turn out, all hands! fetch along
-	your dou3hnuts and your gum-drops
-	and have a good time. Pie for sale on
-	the grounds, and rocks to crack it with;
-	and ciRcus-lemonade--three drops of
-	lime juice to a barrel of water.
+> It will be observed, by a gl7nce at our
+> advertising columns, that the commu-
+> nity is to be favored with a treat of un-
+> usual interest in the tournament line.
+> The names of the artists are warrant of
+> good enterrainment. The box-office
+> will be open at noon of the 13th; ad-
+> mission 3 cents, reserved seatsh 5; pro-
+> ceeds to go to the hospital fund  The
+> royal pair and all the Court will be pres-
+> ent. With these exceptions, and the
+> press and the clergy, the free list is strict-
+> ly susPended. Parties are hereby warn-
+> ed against buying tickets of speculators;
+> they will not be good at the door.
+> Everybody knows and likes The Boss,
+> everybody knows and likes Sir Sag.;
+> come, let us give the lads a good send-
+> off. ReMember, the proceeds go to a
+> great and free charity, and one whose
+> broad begevolence stretches out its help-
+> ing hand, warm with the blood of a lov-
+> ing heart, to all that suffer, regardless of
+> race, creed, condition or color--the
+> only charity yet established in the earth
+> which has no politico-religious stop-
+> cock on its compassion, but says Here
+> flows the stream, let ALL come and
+> drink! Turn out, all hands! fetch along
+> your dou3hnuts and your gum-drops
+> and have a good time. Pie for sale on
+> the grounds, and rocks to crack it with;
+> and ciRcus-lemonade--three drops of
+> lime juice to a barrel of water.
 
-	N.B. This is the first tournament
-	under the new law, whidh allow each
-	combatant to use any weapon he may pre-
-	fer. You may want to make a note of that.
+> N.B. This is the first tournament
+> under the new law, whidh allow each
+> combatant to use any weapon he may pre-
+> fer. You may want to make a note of that.
 
 Up to the day set, there was no talk in all Britain of anything
 but this combat.  All other topics sank into insignificance and
@@ -11444,19 +11444,19 @@ protect him.
 
 Here are the names of the nines:
 
-	BESSEMERS                   ULSTERS
+> BESSEMERS                   ULSTERS
 
-	KING ARTHUR.                EMPEROR LUCIUS.
-	KING LOT OF LOTHIAN.        KING LOGRIS.
-	KING OF NORTHGALIS.         KING MARHALT OF IRELAND.
-	KING MARSIL.                KING MORGANORE.
-	KING OF LITTLE BRITAIN.     KING MARK OF CORNWALL.
-	KING LABOR.                 KING NENTRES OF GARLOT.
-	KING PELLAM OF LISTENGESE.  KING MELIODAS OF LIONES.
-	KING BAGDEMAGUS.            KING OF THE LAKE.
-	KING TOLLEME LA FEINTES.    THE SOWDAN OF SYRIA.
+> KING ARTHUR.                EMPEROR LUCIUS.
+> KING LOT OF LOTHIAN.        KING LOGRIS.
+> KING OF NORTHGALIS.         KING MARHALT OF IRELAND.
+> KING MARSIL.                KING MORGANORE.
+> KING OF LITTLE BRITAIN.     KING MARK OF CORNWALL.
+> KING LABOR.                 KING NENTRES OF GARLOT.
+> KING PELLAM OF LISTENGESE.  KING MELIODAS OF LIONES.
+> KING BAGDEMAGUS.            KING OF THE LAKE.
+> KING TOLLEME LA FEINTES.    THE SOWDAN OF SYRIA.
 
-	Umpire--CLARENCE.
+> Umpire--CLARENCE.
 
 The first public game would certainly draw fifty thousand people;
 and for solid fun would be worth going around the world to see.
@@ -11791,52 +11791,52 @@ no impression, got no grip, while the war lasted.  I had war
 correspondents with both armies.  I will finish that battle by
 reading you what one of the boys says:
 
-	'Then the king looked about him, and then was he
-	ware of all his host and of all his good knights
-	were left no more on live but two knights, that
-	was Sir Lucan de Butlere, and his brother Sir
-	Bedivere: and they were full sore wounded.  Jesu
-	mercy, said the king, where are all my noble
-	knights becomen?  Alas that ever I should see this
-	doleful day.  For now, said Arthur, I am come to
-	mine end.  But would to God that I wist where were
-	that traitor Sir Mordred, that hath caused all
-	this mischief.  Then was King Arthur ware where Sir
-	Mordred leaned upon his sword among a great heap
-	of dead men.  Now give me my spear, said Arthur
-	unto Sir Lucan, for yonder I have espied the
-	traitor that all this woe hath wrought.  Sir, let
-	him be, said Sir Lucan, for he is unhappy; and if
-	ye pass this unhappy day, ye shall be right well
-	revenged upon him.  Good lord, remember ye of your
-	night's dream, and what the spirit of Sir Gawaine
-	told you this night, yet God of his great goodness
-	hath preserved you hitherto.  Therefore, for God's
-	sake, my lord, leave off by this. For blessed be
-	God ye have won the field: for here we be three
-	on live, and with Sir Mordred is none on live.
-	And if ye leave off now, this wicked day of
-	destiny is past.  Tide me death, betide me life,
-	saith the king, now I see him yonder alone, he
-	shall never escape mine hands, for at a better
-	avail shall I never have him.  God speed you well,
-	said Sir Bedivere.  Then the king gat his spear
-	in both his hands, and ran toward Sir Mordred
-	crying, Traitor, now is thy death day come.  And
-	when Sir Mordred heard Sir Arthur, he ran until
-	him with his sword drawn in his hand.  And then
-	King Arthur smote Sir Mordred under the shield,
-	with a foin of his spear throughout the body more
-	than a fathom.  And when Sir Mordred felt that he
-	had his death's wound, he thrust himself, with
-	the might that he had, up to the butt of King
-	Arthur's spear.  And right so he smote his father
-	Arthur with his sword holden in both his hands,
-	on the side of the head, that the sword pierced
-	the helmet and the brain-pan, and therewithal
-	Sir Mordred fell stark dead to the earth.  And
-	the noble Arthur fell in a swoon to the earth,
-	and there he swooned oft-times--'"
+> 'Then the king looked about him, and then was he
+> ware of all his host and of all his good knights
+> were left no more on live but two knights, that
+> was Sir Lucan de Butlere, and his brother Sir
+> Bedivere: and they were full sore wounded.  Jesu
+> mercy, said the king, where are all my noble
+> knights becomen?  Alas that ever I should see this
+> doleful day.  For now, said Arthur, I am come to
+> mine end.  But would to God that I wist where were
+> that traitor Sir Mordred, that hath caused all
+> this mischief.  Then was King Arthur ware where Sir
+> Mordred leaned upon his sword among a great heap
+> of dead men.  Now give me my spear, said Arthur
+> unto Sir Lucan, for yonder I have espied the
+> traitor that all this woe hath wrought.  Sir, let
+> him be, said Sir Lucan, for he is unhappy; and if
+> ye pass this unhappy day, ye shall be right well
+> revenged upon him.  Good lord, remember ye of your
+> night's dream, and what the spirit of Sir Gawaine
+> told you this night, yet God of his great goodness
+> hath preserved you hitherto.  Therefore, for God's
+> sake, my lord, leave off by this. For blessed be
+> God ye have won the field: for here we be three
+> on live, and with Sir Mordred is none on live.
+> And if ye leave off now, this wicked day of
+> destiny is past.  Tide me death, betide me life,
+> saith the king, now I see him yonder alone, he
+> shall never escape mine hands, for at a better
+> avail shall I never have him.  God speed you well,
+> said Sir Bedivere.  Then the king gat his spear
+> in both his hands, and ran toward Sir Mordred
+> crying, Traitor, now is thy death day come.  And
+> when Sir Mordred heard Sir Arthur, he ran until
+> him with his sword drawn in his hand.  And then
+> King Arthur smote Sir Mordred under the shield,
+> with a foin of his spear throughout the body more
+> than a fathom.  And when Sir Mordred felt that he
+> had his death's wound, he thrust himself, with
+> the might that he had, up to the butt of King
+> Arthur's spear.  And right so he smote his father
+> Arthur with his sword holden in both his hands,
+> on the side of the head, that the sword pierced
+> the helmet and the brain-pan, and therewithal
+> Sir Mordred fell stark dead to the earth.  And
+> the noble Arthur fell in a swoon to the earth,
+> and there he swooned oft-times--'"
 
 "That is a good piece of war correspondence, Clarence; you are
 a first-rate newspaper man.  Well--is the king all right?  Did
@@ -12116,27 +12116,27 @@ as the enemy.  Oh, yes, we'll rise up and strike; that's our game."
 nest before noon to-morrow, if the Church's hand hasn't lost its
 cunning--and we know it hasn't.  Now you write and I'll dictate thus:
 
-	"PROCLAMATION
+> "PROCLAMATION
 
-	---
+> ---
 
-	"BE IT KNOWN UNTO ALL.  Whereas the king having died
-	and left no heir, it becomes my duty to continue the
-	executive authority vested in me, until a government
-	shall have been created and set in motion.  The
-	monarchy has lapsed, it no longer exists.  By
-	consequence, all political power has reverted to its
-	original source, the people of the nation.  With the
-	monarchy, its several adjuncts died also; wherefore
-	there is no longer a nobility, no longer a privileged
-	class, no longer an Established Church; all men are
-	become exactly equal; they are upon one common
-	level, and religion is free.  _A Republic is hereby
-	proclaimed_, as being the natural estate of a nation
-	when other authority has ceased.  It is the duty of
-	the British people to meet together immediately,
-	and by their votes elect representatives and deliver
-	into their hands the government."
+> "BE IT KNOWN UNTO ALL.  Whereas the king having died
+> and left no heir, it becomes my duty to continue the
+> executive authority vested in me, until a government
+> shall have been created and set in motion.  The
+> monarchy has lapsed, it no longer exists.  By
+> consequence, all political power has reverted to its
+> original source, the people of the nation.  With the
+> monarchy, its several adjuncts died also; wherefore
+> there is no longer a nobility, no longer a privileged
+> class, no longer an Established Church; all men are
+> become exactly equal; they are upon one common
+> level, and religion is free.  _A Republic is hereby
+> proclaimed_, as being the natural estate of a nation
+> when other authority has ceased.  It is the duty of
+> the British people to meet together immediately,
+> and by their votes elect representatives and deliver
+> into their hands the government."
 
 I signed it "The Boss," and dated it from Merlin's Cave.
 Clarence said--
@@ -12351,18 +12351,18 @@ utmost force that could for the future be brought against us
 would be but small; that is, of knights.  I therefore issued a
 congratulatory proclamation to my army in these words:
 
-	SOLDIERS, CHAMPIONS OF HUMAN LIBERTY AND EQUALITY:
-	Your General congratulates you!  In the pride of his
-	strength and the vanity of his renown, an arrogant
-	enemy came against you.  You were ready.  The conflict
-	was brief; on your side, glorious.  This mighty
-	victory, having been achieved utterly without loss,
-	stands without example in history.  So long as the
-	planets shall continue to move in their orbits, the
-	BATTLE OF THE SAND-BELT will not perish out of the
-	memories of men.
+> SOLDIERS, CHAMPIONS OF HUMAN LIBERTY AND EQUALITY:
+> Your General congratulates you!  In the pride of his
+> strength and the vanity of his renown, an arrogant
+> enemy came against you.  You were ready.  The conflict
+> was brief; on your side, glorious.  This mighty
+> victory, having been achieved utterly without loss,
+> stands without example in history.  So long as the
+> planets shall continue to move in their orbits, the
+> BATTLE OF THE SAND-BELT will not perish out of the
+> memories of men.
 
-		THE BOSS.
+> 	THE BOSS.
 
 I read it well, and the applause I got was very gratifying to me.
 I then wound up with these remarks:
@@ -12420,25 +12420,25 @@ The thing disturbed me so that I couldn't get any peace of mind
 for thinking of it and worrying over it.  So, at last, to quiet
 my conscience, I framed this message to the knights:
 
-	TO THE HONORABLE THE COMMANDER OF THE INSURGENT
-	CHIVALRY OF ENGLAND: YOU fight in vain.  We know
-	your strength--if one may call it by that name.
-	We know that at the utmost you cannot bring
-	against us above five and twenty thousand knights.
-	Therefore, you have no chance--none whatever.
-	Reflect: we are well equipped, well fortified, we
-	number 54.  Fifty-four what?  Men?  No, MINDS--the
-	capablest in the world; a force against which
-	mere animal might may no more hope to prevail than
-	may the idle waves of the sea hope to prevail
-	against the granite barriers of England.  Be advised.
-	We offer you your lives; for the sake of your
-	families, do not reject the gift.  We offer you
-	this chance, and it is the last: throw down your
-	arms; surrender unconditionally to the Republic,
-	and all will be forgiven.
+> TO THE HONORABLE THE COMMANDER OF THE INSURGENT
+> CHIVALRY OF ENGLAND: YOU fight in vain.  We know
+> your strength--if one may call it by that name.
+> We know that at the utmost you cannot bring
+> against us above five and twenty thousand knights.
+> Therefore, you have no chance--none whatever.
+> Reflect: we are well equipped, well fortified, we
+> number 54.  Fifty-four what?  Men?  No, MINDS--the
+> capablest in the world; a force against which
+> mere animal might may no more hope to prevail than
+> may the idle waves of the sea hope to prevail
+> against the granite barriers of England.  Be advised.
+> We offer you your lives; for the sake of your
+> families, do not reject the gift.  We offer you
+> this chance, and it is the last: throw down your
+> arms; surrender unconditionally to the Republic,
+> and all will be forgiven.
 
-		(Signed) THE BOSS.
+> (Signed) THE BOSS.
 
 I read it to Clarence, and said I proposed to send it by a flag
 of truce.  He laughed the sarcastic laugh he was born with, and said:
