@@ -105,7 +105,7 @@ Messenger.
 Chorus of Danites.  
 
 
-The Scene:
+The Scene:  
 ----------  
 
 Before the Prison in Gaza.  
@@ -114,7 +114,7 @@ Before the Prison in Gaza.
 Samson Agonistes  
 ================  
 
-Samson:
+Samson:  
 A little onward lend thy guiding hand  
 To these dark steps, a little further on;  
 For yonder bank hath choice of Sun or shade,  
@@ -176,7 +176,7 @@ God, when he gave me strength, to shew withal
 How slight the gift was, hung it in my Hair.  
 But peace, I must not quarrel with the will  
 Of highest dispensation, which herein  
-Happ'ly had ends above my reach to know:
+Happ'ly had ends above my reach to know:  
 Suffices that to me strength is my bane,  
 And proves the sourse of all my miseries;  
 So many, and so huge, that each apart  
@@ -230,7 +230,7 @@ Perhaps my enemies who come to stare
 At my affliction, and perhaps to insult,  
 Thir daily practice to afflict me more.  
 
-Chorus:
+Chorus:  
 This, this is he; softly a while,  
 Let us not break in upon him;  
 O change beyond report, thought, or belief!  
@@ -261,7 +261,7 @@ Or grovling soild thir crested helmets in the dust.
 Then with what trivial weapon came to Hand,  
 The Jaw of a dead Ass, his sword of bone,  
 A thousand fore-skins fell, the flower of Palestin  
-In Ramath-lechi famous to this day:
+In Ramath-lechi famous to this day:  
 Then by main force pull'd up, and on his shoulders bore  
 The Gates of Azza, Post, and massie Bar  
 Up to the Hill by Hebron, seat of Giants old,  
@@ -293,11 +293,11 @@ But thee whose strength, while vertue was her mate
 Might have subdu'd the Earth,  
 Universally crown'd with highest praises.  
 
-Samson:
+Samson:  
 I hear the sound of words, thir sense the air  
 Dissolves unjointed e're it reach my ear.  
 
-Chorus:
+Chorus:  
 Hee speaks, let us draw nigh.Matchless in might,  
 The glory late of Israel, now the grief;  
 We come thy friends and neighbours not unknown  
@@ -308,7 +308,7 @@ Salve to thy Sores, apt words have power to swage
 The tumors of a troubl'd mind,  
 And are as Balm to fester'd wounds.  
 
-Samson:
+Samson:  
 Your coming, Friends, revives me, for I learn  
 Now of my own experience, not by talk,  
 How counterfeit a coin they are who friends  
@@ -333,7 +333,7 @@ In me, of wisdom nothing more then mean;
 This with the other should, at least, have paird,  
 These two proportiond ill drove me transverse.  
 
-Chorus:
+Chorus:  
 Tax not divine disposal, wisest Men  
 Have err'd, and by bad Women been deceiv'd;  
 And shall again, pretend they ne're so wise.  
@@ -344,7 +344,7 @@ Why thou shouldst wed Philistian women rather
 Then of thine own Tribe fairer, or as fair,  
 At least of thy own Nation, and as noble.  
 
-Samson:
+Samson:  
 The first I saw at Timna, and she pleas'd  
 Mee, not my Parents, that I sought to wed,  
 The daughter of an Infidel: they knew not  
@@ -364,13 +364,13 @@ She was not the prime cause, but I my self,
 Who vanquisht with a peal of words (O weakness!)  
 Gave up my fort of silence to a Woman.  
 
-Chorus:
+Chorus:  
 In seeking just occasion to provoke  
 The Philistine, thy Countries Enemy,  
-Thou never wast remiss, I hear thee witness:
+Thou never wast remiss, I hear thee witness:  
 Yet Israel still serves with all his Sons.  
 
-Samson:
+Samson:  
 That fault I take not on me, but transfer  
 On Israel's Governours, and Heads of Tribes,  
 Who seeing those great acts which God had done  
@@ -408,7 +408,7 @@ As thir Deliverer; if he aught begin,
 How frequent to desert him, and at last  
 To heap ingratitude on worthiest deeds?  
 
-Chorus:
+Chorus:  
 Thy words to my remembrance bring  
 How Succoth and the Fort of Penuel  
 Thir great Deliverer contemn'd,  
@@ -423,12 +423,12 @@ In that sore battel when so many dy'd
 Without Reprieve adjudg'd to death,  
 For want of well pronouncing Shibboleth.  
 
-Samson:
+Samson:  
 Of such examples adde mee to the roul,  
 Mee easily indeed mine may neglect,  
 But Gods propos'd deliverance not so.  
 
-Chorus:
+Chorus:  
  Just are the ways of God,  
 And justifiable to Men;  
 Unless there be who think not God at all,  
@@ -460,18 +460,18 @@ To seek in marriage that fallacious Bride,
 Unclean, unchaste.  
 Down Reason then, at least vain reasonings down,  
 Though Reason here aver  
-That moral verdit quits her of unclean:
+That moral verdit quits her of unclean:  
 Unchaste was subsequent, her stain not his.  
 But see here comes thy reverend Sire  
 With careful step, Locks white as doune,  
 Old Manoah: advise  
 Forthwith how thou oughtst to receive him.  
 
-Samson:
+Samson:  
 Ay me, another inward grief awak't,   
 With mention of that name renews th' assault.  
 
-Manoa:
+Manoa:  
 Brethren and men of Dan, for such ye seem,  
 Though in this uncouth place; if old respect,  
 As I suppose, towards your once gloried friend,  
@@ -479,11 +479,11 @@ My Son now Captive, hither hath inform'd
 Your younger feet, while mine cast back with age  
 Came lagging after; say if he be here.  
 
-Chorus:
+Chorus:  
 As signal now in low dejected state,  
 As earst in highest; behold him where he lies.  
 
-Manoa:
+Manoa:  
 O miserable change! is this the man,  
 That invincible Samson, far renown'd,  
 The dread of Israel's foes, who with a strength  
@@ -518,7 +518,7 @@ He should not so o'rewhelm, and as a thrall
 Subject him to so foul indignities,  
 Be it but for honours sake of former deeds.  
 
-Samson:
+Samson:  
 Appoint not heavenly disposition, Father,  
 Nothing of all these evils hath befall'n me  
 But justly; I my self have brought them on,  
@@ -541,7 +541,7 @@ Her spurious first-born; Treason against me?
 Thrice she assay'd with flattering prayers and sighs,  
 And amorous reproaches to win from me  
 My capital secret, in what part my strength  
-Lay stor'd in what part summ'd, that she might know:
+Lay stor'd in what part summ'd, that she might know:  
 Thrice I deluded her, and turn'd to sport  
 Her importunity, each time perceiving  
 How openly, and with what impudence  
@@ -555,7 +555,7 @@ To storm me over-watch't, and wearied out.
 At times when men seek most repose and rest,  
 I yielded, and unlock'd her all my heart,  
 Who with a grain of manhood well resolv'd  
-Might easily have shook off all her snares:
+Might easily have shook off all her snares:  
 But foul effeminacy held me yok't   
 Her Bond-slave; O indignity, O blot  
 To Honour and Religion! servil mind  
@@ -567,7 +567,7 @@ Unmanly, ignominious, infamous,
 True slavery, and that blindness worse then this,  
 That saw not how degeneratly I serv'd.  
 
-Manoa:
+Manoa:  
 I cannot praise thy Marriage choises, Son,  
 Rather approv'd them not; but thou didst plead  
 Divine impulsion prompting how thou might'st  
@@ -597,7 +597,7 @@ Samson, of all thy sufferings think the heaviest,
 Of all reproach the most with shame that ever  
 Could have befall'n thee and thy Fathers house.  
 
-Samson:
+Samson:  
 Father, I do acknowledge and confess  
 That I this honour, I this pomp have brought  
 To Dagon, and advanc'd his praises high   
@@ -606,7 +606,7 @@ Dishonour, obloquie, and op't the mouths
 Of Idolists, and Atheists; have brought scandal  
 To Israel diffidence of God, and doubt  
 In feeble hearts, propense anough before  
-To waver, or fall off and joyn with Idols:
+To waver, or fall off and joyn with Idols:  
 Which is my chief affliction, shame and sorrow,  
 The anguish of my Soul, that suffers not  
 Mine eie to harbour sleep, or thoughts to rest.  
@@ -617,13 +617,13 @@ Me overthrown, to enter lists with God,
 His Deity comparing and preferring  
 Before the God of Abraham. He, be sure,  
 Will not connive, or linger, thus provok'd,  
-But will arise and his great name assert:
+But will arise and his great name assert:  
 Dagon must stoop, and shall e're long receive  
 Such a discomfit, as shall quite despoil him  
 Of all these boasted Trophies won on me,  
 And with confusion blank his Worshippers.  
 
-Manoa:
+Manoa:  
  With cause this hope relieves thee, and these words  
 I as a Prophecy receive: for God,  
 Nothing more certain, will not long defer  
@@ -640,7 +640,7 @@ Have satisfi'd thir utmost of revenge
 By pains and slaveries, worse then death inflicted  
 On thee, who now no more canst do them harm.  
 
-Samson:
+Samson:  
 Spare that proposal, Father, spare the trouble  
 Of that sollicitation; let me here,  
 As I deserve, pay on my punishment;  
@@ -657,7 +657,7 @@ Weakly at least, and shamefully: A sin
 That Gentiles in thir Parables condemn  
 To thir abyss and horrid pains confin'd.  
 
-Manoa:
+Manoa:  
 Be penitent and for thy fault contrite,  
 But act not in thy own affliction, Son,  
 Repent the sin, but if the punishment  
@@ -678,7 +678,7 @@ Home to thy countrey and his sacred house,
 Where thou mayst bring thy off'rings, to avert  
 His further ire, with praiers and vows renew'd.   
 
-Samson:
+Samson:  
 His pardon I implore; but as for life,  
 To what end should I seek it? when in strength  
 All mortals I excell'd, and great in hopes  
@@ -754,11 +754,11 @@ Miraculous yet remaining in those locks?
 His might continues in thee not for naught,  
 Nor shall his wondrous gifts be frustrate thus.  
 
-Samson:
+Samson:  
 All otherwise to me my thoughts portend,  
 That these dark orbs no more shall treat with light,  
 Nor th' other light of life continue long,  
-But yield to double darkness nigh at hand:
+But yield to double darkness nigh at hand:  
 So much I feel my genial spirits droop,  
 My hopes all flat, nature within me seems  
 In all her functions weary of herself;  
@@ -820,7 +820,7 @@ This one prayer yet remains, might I be heard,
 No long petition, speedy death,   
 The close of all my miseries, and the balm.  
 
-Chorus:
+Chorus:  
 Many are the sayings of the wise  
 In antient and in modern books enroll'd;  
 Extolling Patience as the truest fortitude;  
@@ -850,7 +850,7 @@ Heads without name no more rememberd,
 But such as thou hast solemnly elected,  
 With gifts and graces eminently adorn'd  
 To some great work, thy glory,  
-And peoples safety, which in part they effect:
+And peoples safety, which in part they effect:  
 Yet toward these thus dignifi'd, thou oft  
 Amidst thir highth of noon,  
 Changest thy countenance, and thy hand with no regard  
@@ -863,7 +863,7 @@ Unseemly falls in human eie,
 Too grievous for the trespass or omission,  
 Oft leav'st them to the hostile sword  
 Of Heathen and prophane, thir carkasses  
-To dogs and fowls a prey, or else captiv'd:
+To dogs and fowls a prey, or else captiv'd:  
 Or to the unjust tribunals, under change of times,  
 And condemnation of the ingrateful multitude.  
 If these they scape, perhaps in poverty  
@@ -895,7 +895,7 @@ Some rich Philistian Matron she may seem,
 And now at nearer view, no other certain  
 Than Dalila thy wife.  
 
-Samson:
+Samson:  
 My Wife, my Traytress, let her not come near me.  
 
 Cho:Yet on she moves, now stands & eies thee fixt,  
@@ -905,7 +905,7 @@ And words addrest seem into tears dissolv'd,
 Wetting the borders of her silk'n veil:   
 But now again she makes address to speak.  
 
-Dalila:
+Dalila:  
 With doubtful feet and wavering resolution  
 I came, still dreading thy displeasure, Samson,  
 Which to have merited, without excuse,  
@@ -923,7 +923,7 @@ Thy mind with what amends is in my power,
 Though late, yet in some part to recompense  
 My rash but more unfortunate misdeed.  
 
-Samson:
+Samson:  
 Out, out Hyaena; these are thy wonted arts,  
 And arts of every woman false like thee,  
 To break all faith, all vows, deceive, betray,  
@@ -932,7 +932,7 @@ And reconcilement move with feign'd remorse,
 Confess, and promise wonders in her change,  
 Not truly penitent, but chief to try  
 Her husband, how far urg'd his patience bears,  
-His vertue or weakness which way to assail:
+His vertue or weakness which way to assail:  
 Then with more cautious and instructed skill  
 Again transgresses, and again submits;  
 That wisest and best men full oft beguil'd  
@@ -943,7 +943,7 @@ Entangl'd with a poysnous bosom snake,
 If not by quick destruction soon cut off  
 As I by thee, to Ages an example.  
 
-Dalila:
+Dalila:  
  Yet hear me Samson; not that I endeavour  
 To lessen or extenuate my offence,  
 But that on th' other side if it be weigh'd  
@@ -955,7 +955,7 @@ First granting, as I do, it was a weakness
 In me, but incident to all our sex,  
 Curiosity, inquisitive, importune  
 Of secrets, then with like infirmity  
-To publish them, both common female faults:
+To publish them, both common female faults:  
 Was it not weakness also to make known  
 For importunity, that is for naught,  
 Wherein consisted all thy strength and safety?  
@@ -974,13 +974,13 @@ In human hearts, nor less in mine towards thee,
 Caus'd what I did? I saw thee mutable  
 Of fancy, feard lest one day thou wouldst leave me  
 As her at Timna, sought by all means therefore  
-How to endear, and hold thee to me firmest:
+How to endear, and hold thee to me firmest:  
 No better way I saw then by importuning  
 To learn thy secrets, get into my power  
 Thy key of strength and safety: thou wilt say,  
 Why then reveal'd? I was assur'd by those   
 Who tempted me, that nothing was design'd  
-Against thee but safe custody, and hold:
+Against thee but safe custody, and hold:  
 That made for me, I knew that liberty  
 Would draw thee forth to perilous enterprises,  
 While I at home sate full of cares and fears  
@@ -990,7 +990,7 @@ Mine and Loves prisoner, not the Philistines,
 Whole to my self, unhazarded abroad,  
 Fearless at home of partners in my love.  
 These reasons in Loves law have past for good,  
-Though fond and reasonless to some perhaps:
+Though fond and reasonless to some perhaps:  
 And Love hath oft, well meaning, wrought much wo,  
 Yet always pity or pardon hath obtain'd.  
 Be not unlike all others, not austere  
@@ -998,7 +998,7 @@ As thou art strong, inflexible as steel.
 If thou in strength all mortals dost exceed,  
 In uncompassionate anger do not so.  
 
-Samson:
+Samson:  
 How cunningly the sorceress displays  
 Her own transgressions, to upbraid me mine!   
 That malice not repentance brought thee hither,  
@@ -1024,7 +1024,7 @@ Knowing, as needs I must, by thee betray'd?
 In vain thou striv'st to cover shame with shame,  
 Or by evasions thy crime uncoverst more.  
 
-Dalila:
+Dalila:  
 Since thou determinst weakness for no plea  
 In man or woman, though to thy own condemning,  
 Hear what assaults I had, what snares besides,  
@@ -1054,7 +1054,7 @@ Private respects must yield; with grave authority'
 Took full possession of me and prevail'd;  
 Vertue, as I thought, truth, duty so enjoyning.   
 
-Samson:
+Samson:  
 I thought where all thy circling wiles would end;  
 In feign'd Religion, smooth hypocrisie.  
 But had thy love, still odiously pretended,  
@@ -1068,7 +1068,7 @@ Not out of levity, but over-powr'd
 By thy request, who could deny thee nothing;  
 Yet now am judg'd an enemy.Why then  
 Didst thou at first receive me for thy husband?  
-Then, as since then, thy countries foe profest:
+Then, as since then, thy countries foe profest:  
 Being once a wife, for me thou wast to leave  
 Parents and countrey; nor was I their subject,  
 Nor under their protection but my own,  
@@ -1083,20 +1083,20 @@ Not therefore to be obey'd.But zeal mov'd thee;
 To please thy gods thou didst it; gods unable  
 To acquit themselves and prosecute their foes  
 But by ungodly deeds, the contradiction  
-Of their own deity, Gods cannot be:
+Of their own deity, Gods cannot be:  
 Less therefore to be pleas'd, obey'd, or fear'd,  
 These false pretexts and varnish'd colours failing,  
 Bare in thy guilt how foul must thou appear?  
 
-Dalila:
+Dalila:  
 In argument with men a woman ever  
 Goes by the worse, whatever be her cause.  
 
-Samson:
+Samson:  
 For want of words no doubt, or lack of breath,  
 Witness when I was worried with thy peals.  
 
-Dalila:
+Dalila:  
 I was a fool, too rash, and quite mistaken  
 In what I thought would have succeeded best.  
 Let me obtain forgiveness of thee, Samson,  
@@ -1119,7 +1119,7 @@ May ever tend about thee to old age
 With all things grateful chear'd, and so suppli'd,  
 That what by me thou hast lost thou least shalt miss.  
 
-Samson:
+Samson:  
 No, no, of my condition take no care;  
 It fits not; thou and I long since are twain;  
 Nor think me so unwary or accurst   
@@ -1144,23 +1144,23 @@ To gloss upon, and censuring, frown or smile?
 This Gaol I count the house of Liberty  
 To thine whose doors my feet shall never enter.   
 
-Dalila:
+Dalila:  
 Let me approach at least, and touch thy hand.  
 
-Samson:
+Samson:  
 Not for thy life, lest fierce remembrance wake  
 My sudden rage to tear thee joint by joint.  
 At distance I forgive thee, go with that;  
 Bewail thy falshood, and the pious works  
 It hath brought forth to make thee memorable  
-Among illustrious women, faithful wives:
+Among illustrious women, faithful wives:  
 Cherish thy hast'n'd widowhood with the gold  
 Of Matrimonial treason: so farewel.  
 
-Dalila:
+Dalila:  
 I see thou art implacable, more deaf  
 To prayers, then winds and seas, yet winds to seas  
-Are reconcil'd at length, and Sea to Shore:
+Are reconcil'd at length, and Sea to Shore:  
 Thy anger, unappeasable, still rages,  
 Eternal tempest never to be calm'd.  
 Why do I humble thus my self, and suing  
@@ -1196,28 +1196,28 @@ Which to my countrey I was judg'd to have shewn.
 At this who ever envies or repines  
 I leave him to his lot, and like my own.  
 
-Chorus:
+Chorus:  
 She's gone, a manifest Serpent by her sting  
 Discover'd in the end, till now conceal'd.  
 
-Samson:
+Samson:  
 So let her go, God sent her to debase me,  
 And aggravate my folly who committed   
 To such a viper his most sacred trust  
 Of secresie, my safety, and my life.  
 
-Chorus:
+Chorus:  
 Yet beauty, though injurious, hath strange power,  
 After offence returning, to regain  
 Love once possest, nor can be easily  
 Repuls't, without much inward passion felt  
 And secret sting of amorous remorse.  
 
-Samson:
+Samson:  
 Love-quarrels oft in pleasing concord end,  
 Not wedlock-trechery endangering life.  
 
-Chorus:
+Chorus:  
 It is not vertue, wisdom, valour, wit,  
 Strength, comliness of shape, or amplest merit  
 That womans love can win or long inherit;  
@@ -1256,8 +1256,8 @@ What Pilot so expert but needs must wreck
 Embarqu'd with such a Stears-mate at the Helm?  
 Favour'd of Heav'n who finds  
 One vertuous rarely found,  
-That in domestic good combines:
-Happy that house! his way to peace is smooth:
+That in domestic good combines:  
+Happy that house! his way to peace is smooth:  
 But vertue which breaks through all opposition,  
 And all temptation can remove,  
 Most shines and most is acceptable above.  
@@ -1265,22 +1265,22 @@ Therefore Gods universal Law
 Gave to the man despotic power  
 Over his female in due awe,  
 Nor from that right to part an hour,  
-Smile she or lowre:
+Smile she or lowre:  
 So shall he least confusion draw  
 On his whole life, not sway'd  
 By female usurpation, nor dismay'd.  
 But had we best retire, I see a storm?  
 
-Samson:
+Samson:  
 Fair days have oft contracted wind and rain.  
 
-Chorus:
+Chorus:  
 But this another kind of tempest brings.  
 
-Samson:
+Samson:  
 Be less abstruse, my riddling days are past.  
 
-Chorus:
+Chorus:  
 Look now for no inchanting voice, nor fear  
 The bait of honied words; a rougher tongue  
 Draws hitherward, I know him by his stride,  
@@ -1288,16 +1288,16 @@ The Giant Harapha of Gath, his look
 Haughty as is his pile high-built and proud.  
 Comes he in peace? what wind hath blown him hither   
 I less conjecture then when first I saw  
-The sumptuous Dalila floating this way:
+The sumptuous Dalila floating this way:  
 His habit carries peace, his brow defiance.  
 
-Samson:
+Samson:  
 Or peace or not, alike to me he comes.  
 
-Chorus:
+Chorus:  
 His fraught we soon shall know, he now arrives.  
 
-Harapha:
+Harapha:  
 I come not Samson, to condole thy chance,  
 As these perhaps, yet wish it had not been,  
 Though for no friendly intent.I am of Gath,  
@@ -1309,21 +1309,21 @@ Of thy prodigious might and feats perform'd
 Incredible to me, in this displeas'd,  
 That I was never present on the place  
 Of those encounters, where we might have tri'd  
-Each others force in camp or listed field:
+Each others force in camp or listed field:  
 And now am come to see of whom such noise  
 Hath walk'd about, and each limb to survey,  
 If thy appearance answer loud report.  
 
-Samson:
+Samson:  
 The way to know were not to see but taste.  
 
-Harapha:
+Harapha:  
 Dost thou already single me; I thought  
 Gives and the Mill had tam'd thee? O that fortune  
 Had brought me to the field where thou art fam'd  
 To have wrought such wonders with an Asses Jaw;  
 I should have forc'd thee soon with other arms,  
-Or left thy carkass where the Ass lay thrown:
+Or left thy carkass where the Ass lay thrown:  
 So had the glory of Prowess been recover'd  
 To Palestine, won by a Philistine  
 From the unforeskinn'd race, of whom thou hear'st  
@@ -1331,15 +1331,15 @@ The highest name for valiant Acts, that honour
 Certain to have won by mortal duel from thee,  
 I lose, prevented by thy eyes put out.  
 
-Samson:
+Samson:  
 Boast not of what thou wouldst have done, but do  
 What then thou would'st, thou seest it in thy hand.  
 
-Harapha:
+Harapha:  
 To combat with a blind man I disdain  
 And thou hast need much washing to be toucht.  
 
-Samson:
+Samson:  
 Such usage as your honourable Lords  
 Afford me assassinated and betray'd,  
 Who durst not with thir whole united powers  
@@ -1363,7 +1363,7 @@ Thou oft shalt wish thy self at Gath to boast
 Again in safety what thou wouldst have done  
 To Samson, but shalt never see Gath more.  
 
-Harapha:
+Harapha:  
  Thou durst not thus disparage glorious arms   
 Which greatest Heroes have in battel worn,  
 Thir ornament and safety, had not spells  
@@ -1374,7 +1374,7 @@ Where strength can least abide, though all thy hairs
 Were bristles rang'd like those that ridge the back  
 Of chaf't wild Boars, or ruffl'd Porcupines.  
 
-Samson:
+Samson:  
 I know no Spells, use no forbidden Arts;  
 My trust is in the living God who gave me  
 At my Nativity this strength, diffus'd  
@@ -1389,11 +1389,11 @@ To frustrate and dissolve these Magic spells,
 Which I to be the power of Israel's God  
 Avow, and challenge Dagon to the test,  
 Offering to combat thee his Champion bold,  
-With th' utmost of his Godhead seconded:
+With th' utmost of his Godhead seconded:  
 Then thou shalt see, or rather to thy sorrow  
 Soon feel, whose God is strongest, thine or mine.  
 
-Harapha:
+Harapha:  
 Presume not on thy God, what e're he be,  
 Thee he regards not, owns not, hath cut off  
 Quite from his people, and delivered up  
@@ -1407,7 +1407,7 @@ For valour to assail, nor by the sword
 Of noble Warriour, so to stain his honour,  
 But by the Barbers razor best subdu'd.  
 
-Samson:
+Samson:  
 All these indignities, for such they are  
 From thine, these evils I deserve and more,  
 Acknowledge them from God inflicted on me  
@@ -1419,15 +1419,15 @@ Defie thee to the trial of mortal fight,
 By combat to decide whose god is God,  
 Thine or whom I with Israel's Sons adore.  
 
-Harapha:
+Harapha:  
 Fair honour that thou dost thy God, in trusting  
 He will accept thee to defend his cause,  
 A Murtherer, a Revolter, and a Robber.   
 
-Samson:
+Samson:  
  Tongue-doubtie Giant, how dost thou prove me these?  
 
-Harapha:
+Harapha:  
 Is not thy Nation subject to our Lords?  
 Thir Magistrates confest it, when they took thee  
 As a League-breaker and deliver'd bound  
@@ -1439,10 +1439,10 @@ The Philistines, when thou hadst broke the league,
 Went up with armed powers thee only seeking,   
 To others did no violence nor spoil.  
 
-Samson:
+Samson:  
 Among the Daughters of the Philistines  
 I chose a Wife, which argu'd me no foe;  
-And in your City held my Nuptial Feast:
+And in your City held my Nuptial Feast:  
 But your ill-meaning Politician Lords,  
 Under pretence of Bridal friends and guests,  
 Appointed to await me thirty spies,  
@@ -1467,61 +1467,61 @@ But to thir Masters gave me up for nought,
 Th' unworthier they; whence to this day they serve.  
 I was to do my part from Heav'n assign'd,  
 And had perform'd it if my known offence  
-Had not disabl'd me, not all your force:
+Had not disabl'd me, not all your force:  
 These shifts refuted, answer thy appellant   
 Though by his blindness maim'd for high attempts,  
 Who now defies thee thrice to single fight,  
 As a petty enterprise of small enforce.  
 
-Harapha:
+Harapha:  
 With thee a Man condemn'd, a Slave enrol'd,  
 Due by the Law to capital punishment?  
 To fight with thee no man of arms will deign.  
 
-Samson:
+Samson:  
 Cam'st thou for this, vain boaster, to survey me,  
 To descant on my strength, and give thy verdit?  
 Come nearer, part not hence so slight inform'd;  
 But take good heed my hand survey not thee.  
-Harapha:
+Harapha:  
 O Baal-zebub! can my ears unus'd  
 Hear these dishonours, and not render death?  
 
-Samson:
+Samson:  
 No man with-holds thee, nothing from thy hand  
 Fear I incurable; bring up thy van,  
 My heels are fetter'd, but my fist is free.  
 
-Harapha:
+Harapha:  
 This insolence other kind of answer fits.  
 
-Samson:
+Samson:  
 Go baffl'd coward, lest I run upon thee,  
 Though in these chains, bulk without spirit vast,  
 And with one buffet lay thy structure low,  
 Or swing thee in the Air, then dash thee down  
 To the hazard of thy brains and shatter'd sides.  
 
-Harapha:
+Harapha:  
 By Astaroth e're long thou shalt lament  
 These braveries in Irons loaden on thee.  
 
-Chorus:
+Chorus:  
 His Giantship is gone somewhat crestfall'n,  
 Stalking with less unconsci'nable strides,  
 And lower looks, but in a sultrie chafe.  
 
-Samson:
+Samson:  
  I dread him not, nor all his Giant-brood,  
 Though Fame divulge him Father of five Sons  
 All of Gigantic size, Goliah chief.  
 
-Chorus:
+Chorus:  
 He will directly to the Lords, I fear,  
 And with malitious counsel stir them up  
 Some way or other yet further to afflict thee.  
 
-Samson:
+Samson:  
 He must allege some cause, and offer'd fight  
 Will not dare mention, lest a question rise  
 Whether he durst accept the offer or not,  
@@ -1538,7 +1538,7 @@ Yet so it may fall out, because thir end
 Is hate, not help to me, it may with mine  
 Draw thir own ruin who attempt the deed.  
 
-Chorus:
+Chorus:  
 Oh how comely it is and how reviving  
 To the Spirits of just men long opprest!  
 When God into the hands of thir deliverer  
@@ -1580,13 +1580,13 @@ By his habit I discern him now
 A Public Officer, and now at hand.  
 His message will be short and voluble.  
 
-Officer:
+Officer:  
  Ebrews, the Pris'ner Samson here I seek.  
 
-Chorus:
+Chorus:  
 His manacles remark him, there he sits.  
 
-Officer:
+Officer:  
  Samson, to thee our Lords thus bid me say;  
 This day to Dagon is a solemn Feast,  
 With Sacrifices, Triumph, Pomp, and Games;  
@@ -1597,15 +1597,15 @@ Rise therefore with all speed and come along,
 Where I will see thee heartn'd and fresh clad  
 To appear as fits before th' illustrious Lords.  
 
-Samson:
+Samson:  
 Thou knowst I am an Ebrew, therefore tell them,  
 Our Law forbids at thir Religious Rites  
 My presence; for that cause I cannot come.  
 
-Officer:
+Officer:  
  This answer, be assur'd, will not content them.  
 
-Samson:
+Samson:  
 Have they not Sword-players, and ev'ry sort  
 Of Gymnic Artists, Wrestlers, Riders, Runners,  
 Juglers and Dancers, Antics, Mummers, Mimics,  
@@ -1617,10 +1617,10 @@ On my refusal to distress me more,
 Or make a game of my calamities?  
 Return the way thou cam'st, I will not come.  
 
-Officer:
+Officer:  
 Regard thy self, this will offend them highly.  
 
-Samson:
+Samson:  
  My self? my conscience and internal peace.  
 Can they think me so broken, so debas'd  
 With corporal servitude, that my mind ever  
@@ -1631,20 +1631,20 @@ To shew them feats, and play before thir god,
 The worst of all indignities, yet on me  
 Joyn'd with extream contempt? I will not come.  
 
-Officer:
+Officer:  
  My message was impos'd on me with speed,  
 Brooks no delay: is this thy resolution?  
 
-Samson:
+Samson:  
 So take it with what speed thy message needs.  
 
-Officer:
+Officer:  
  I am sorry what this stoutness will produce.  
 
-Samson:
+Samson:  
 Perhaps thou shalt have cause to sorrow indeed.  
 
-Chorus:
+Chorus:  
 Consider, Samson; matters now are strain'd  
 Up to the highth, whether to bold or break;  
 He's gone, and who knows how he may report   
@@ -1652,7 +1652,7 @@ Thy words by adding fuel to the flame?
 Expect another message more imperious,  
 More Lordly thund'ring then thou well wilt bear.  
 
-Samson:
+Samson:  
 Shall I abuse this Consecrated gift  
 Of strength, again returning with my hair  
 After my great transgression, so requite  
@@ -1663,20 +1663,20 @@ Vaunting my strength in honour to thir Dagon?
 Besides, how vile, contemptible, ridiculous,  
 What act more execrably unclean, prophane?  
 
-Chorus:
+Chorus:  
 Yet with this strength thou serv'st the Philistines,  
 Idolatrous, uncircumcis'd, unclean.  
 
-Samson:
+Samson:  
 Not in thir Idol-worship, but by labour  
 Honest and lawful to deserve my food  
 Of those who have me in thir civil power.  
 
-Chorus:
+Chorus:  
 Where the heart joins not, outward acts defile not  
 
-Samson:
- Where outward force constrains, the sentence holds:
+Samson:  
+ Where outward force constrains, the sentence holds:  
 But who constrains me to the Temple of Dagon,  
 Not dragging? the Philistian Lords command.  
 Commands are no constraints.If I obey them,  
@@ -1688,10 +1688,10 @@ Yet that he may dispense with me or thee
 Present in Temples at Idolatrous Rites  
 For some important cause, thou needst not doubt.  
 
-Chorus:
+Chorus:  
 How thou wilt here come off surmounts my reach.   
 
-Samson:
+Samson:  
 Be of good courage, I begin to feel  
 Some rouzing motions in me which dispose  
 To something extraordinary my thoughts.  
@@ -1702,10 +1702,10 @@ If there be aught of presage in the mind,
 This day will be remarkable in my life  
 By some great act, or of my days the last.  
 
-Chorus:
+Chorus:  
 In time thou hast resolv'd, the man returns.  
 
-Officer:
+Officer:  
  Samson, this second message from our Lords  
 To thee I am bid say. Art thou our Slave,  
 Our Captive, at the public Mill our drudge,  
@@ -1715,7 +1715,7 @@ Or we shall find such Engines to assail
 And hamper thee, as thou shalt come of force,  
 Though thou wert firmlier fastn'd then a rock.  
 
-Samson:
+Samson:  
 I could be well content to try thir Art,  
 Which to no few of them would prove pernicious.  
 Yet knowing thir advantages too many,  
@@ -1728,12 +1728,12 @@ And for a life who will not change his purpose?
 Yet this be sure, in nothing to comply  
 Scandalous or forbidden in our Law.  
 
-Officer:
+Officer:  
 I praise thy resolution, doff these links:   
 By this compliance thou wilt win the Lords  
 To favour, and perhaps to set thee free.  
 
-Samson:
+Samson:  
 Brethren farewel, your company along  
 I will not wish, lest it perhaps offend them  
 To see me girt with Friends; and how the sight  
@@ -1749,7 +1749,7 @@ Nothing dishonourable, impure, unworthy
 Our God, our Law, my Nation, or my self,  
 The last of me or no I cannot warrant.  
 
-Chorus:
+Chorus:  
 Go, and the Holy One  
 Of Israel be thy guide  
 To what may serve his glory best, & spread his name  
@@ -1769,7 +1769,7 @@ With youthful steps? much livelier than e're while
 He seems: supposing here to find his Son,  
 Or of him bringing to us some glad news?  
 
-Manoa:
+Manoa:  
 Peace with you brethren; my inducement hither  
 Was not at present here to find my Son,  
 By order of the Lords new parted hence  
@@ -1781,11 +1781,11 @@ But that which moved my coming now, was chiefly
 To give ye part with me what hope I have  
 With good success to work his liberty.  
 
-Chorus:
+Chorus:  
 That hope would much rejoyce us to partake  
 With thee; say reverend Sire, we thirst to hear.  
 
-Manoa:
+Manoa:  
 I have attempted one by one the Lords  
 Either at home, or through the high street passing,  
 With supplication prone and Fathers tears  
@@ -1803,12 +1803,12 @@ The rest was magnanimity to remit,
 If some convenient ransom were propos'd.  
 What noise or shout was that? it tore the Skie.  
 
-Chorus:
+Chorus:  
 Doubtless the people shouting to behold  
 Thir once great dread, captive, & blind before them,  
 Or at some proof of strength before them shown.  
 
-Manoa:
+Manoa:  
 His ransom, if my whole inheritance  
 May compass it, shall willingly be paid  
 And numberd down: much rather I shall chuse  
@@ -1819,19 +1819,19 @@ For his redemption all my Patrimony,
 If need be, I am ready to forgo  
 And quit: not wanting him, I shall want nothing.  
 
-Chorus:
+Chorus:  
 Fathers are wont to lay up for thir Sons,  
 Thou for thy Son art bent to lay out all;  
 Sons wont to nurse thir Parents in old age,  
 Thou in old age car'st how to nurse thy Son,  
 Made older then thy age through eye-sight lost.  
 
-Manoa:
+Manoa:  
  It shall be my delight to tend his eyes,  
 And view him sitting in the house, enobl'd  
 With all those high exploits by him atchiev'd,  
 And on his shoulders waving down those locks,  
-That of a Nation arm'd the strength contain'd:
+That of a Nation arm'd the strength contain'd:  
 And I perswade me God had not permitted  
 His strength again to grow up with his hair  
 Garrison'd round about him like a Camp  
@@ -1842,36 +1842,36 @@ Useless, and thence ridiculous about him.
 And since his strength with eye-sight was not lost,  
 God will restore him eye-sight to his strength.  
 
-Chorus:
+Chorus:  
 Thy hopes are not ill founded nor seem vain  
 Of his delivery, and thy joy thereon  
 Conceiv'd, agreeable to a Fathers love,  
 In both which we, as next participate.  
 
-Manoa:
+Manoa:  
 I know your friendly minds and--O what noise!  
 Mercy of Heav'n what hideous noise was that!  
 Horribly loud unlike the former shout.   
 
-Chorus:
+Chorus:  
 Noise call you it or universal groan  
 As if the whole inhabitation perish'd,  
 Blood, death, and deathful deeds are in that noise,  
 Ruin, destruction at the utmost point.  
 
-Manoa:
+Manoa:  
 Of ruin indeed methought I heard the noise,  
 Oh it continues, they have slain my Son.  
 
-Chorus:
+Chorus:  
 Thy Son is rather slaying them, that outcry  
 From slaughter of one foe could not ascend.  
 
-Manoa:
+Manoa:  
 Some dismal accident it needs must be;  
 What shall we do, stay here or run and see?  
 
-Chorus:
+Chorus:  
 Best keep together here, lest running thither  
 We unawares run into dangers mouth.  
 This evil on the Philistines is fall'n  
@@ -1883,25 +1883,25 @@ Nothing is hard) by miracle restor'd,
 He now be dealing dole among his foes,  
 And over heaps of slaughter'd walk his way?  
 
-Manoa:
+Manoa:  
 That were a joy presumptuous to be thought.  
 
-Chorus:
+Chorus:  
 Yet God hath wrought things as incredible  
 For his people of old; what hinders now?  
 
-Manoa:
+Manoa:  
 He can I know, but doubt to think he will;  
 Yet Hope would fain subscribe, and tempts Belief.  
 A little stay will bring some notice hither.  
 
-Chorus:
+Chorus:  
 Of good or bad so great, of bad the sooner;  
 For evil news rides post, while good news baits.  
 And to our wish I see one hither speeding,  
 An Ebrew, as I guess, and of our Tribe.  
 
-Messenger:
+Messenger:  
 O whither shall I run, or which way flie  
 The sight of this so horrid spectacle  
 Which earst my eyes beheld and yet behold;  
@@ -1914,52 +1914,52 @@ My Countreymen, whom here I knew remaining,
 As at some distance from the place of horrour,   
 So in the sad event too much concern'd.  
 
-Manoa:
+Manoa:  
 The accident was loud, & here before thee  
 With rueful cry, yet what it was we hear not,  
 No Preface needs, thou seest we long to know.  
 
-Messenger:
+Messenger:  
 It would burst forth, but I recover breath  
 And sense distract, to know well what I utter.  
 
-Manoa:
+Manoa:  
 Tell us the sum, the circumstance defer.  
 
-Messenger:
+Messenger:  
 Gaza yet stands, but all her Sons are fall'n,  
 All in a moment overwhelm'd and fall'n.  
 
-Manoa:
+Manoa:  
  Sad, but thou knowst to Israelites not saddest  
 The desolation of a Hostile City.  
 
-Messenger:
+Messenger:  
 Feed on that first, there may in grief be surfet.  
 
-Manoa:
+Manoa:  
 Relate by whom.  
 
-Messenger:
+Messenger:  
 By Samson.  
 
-Manoa:
+Manoa:  
 That still lessens  
 The sorrow, and converts it nigh to joy.  
 
-Messenger:
+Messenger:  
 Ah Manoa I refrain, too suddenly  
 To utter what will come at last too soon;  
 Lest evil tidings with too rude irruption  
 Hitting thy aged ear should pierce too deep.  
 
-Manoa:
+Manoa:  
 Suspense in news is torture, speak them out.  
 
-Messenger:
+Messenger:  
 Then take the worst in brief, Samson is dead.   
 
-Manoa:
+Manoa:  
 The worst indeed, O all my hope's defeated  
 To free him hence! but death who sets all free  
 Hath paid his ransom now and full discharge.  
@@ -1972,27 +1972,27 @@ How dy'd he? death to life is crown or shame.
 All by him fell thou say'st, by whom fell he,  
 What glorious band gave Samson his deaths wound?  
 
-Messenger:
+Messenger:  
 Unwounded of his enemies he fell.  
 
-Manoa:
+Manoa:  
 Wearied with slaughter then or how? explain.  
 
-Messenger:
+Messenger:  
  By his own hands.  
 
-Manoa:
+Manoa:  
 Self-violence? what cause  
 Brought him so soon at variance with himself  
 Among his foes?  
 
-Messenger:
+Messenger:  
 Inevitable cause  
 At once both to destroy and be destroy'd;  
 The Edifice where all were met to see him  
 Upon thir heads and on his own he pull'd.  
 
-Manoa:
+Manoa:  
 O lastly over-strong against thy self!   
 A dreadful way thou took'st to thy revenge.  
 More than anough we know; but while things yet  
@@ -2000,7 +2000,7 @@ Are in confusion, give us if thou canst,
 Eye-witness of what first or last was done,  
 Relation more particular and distinct.  
 
-Messenger:
+Messenger:  
 Occasions drew me early to this City,  
 And as the gates I enter'd with Sun-rise,  
 The morning Trumpets Festival proclaim'd  
@@ -2066,7 +2066,7 @@ Samson with these immixt, inevitably
 Pulld down the same destruction on himself;  
 The vulgar only scap'd who stood without.  
 
-Chorus:
+Chorus:  
 O dearly-bought revenge, yet glorious!  
 Living or dying thou hast fulfill'd  
 The work for which thou wast foretold  
@@ -2077,13 +2077,13 @@ Of dire necessity, whose law in death conjoin'd
 Thee with thy slaughter'd foes in number more  
 Then all thy life had slain before.  
 
-Semichorus:
+Semichorus:  
 While thir hearts were jocund and sublime  
 Drunk with Idolatry, drunk with Wine,  
 And fat regorg'd of Bulls and Goats,  
 Chaunting thir Idol, and preferring  
 Before our living Dread who dwells  
-In Silo his bright Sanctuary:
+In Silo his bright Sanctuary:  
 Among them he a spirit of phrenzie sent,  
 Who hurt thir minds,  
 And urg'd them on with mad desire  
@@ -2097,7 +2097,7 @@ As thir own ruin on themselves to invite,
 Insensate left, or to sense reprobate,  
 And with blindness internal struck.  
 
-Semichorus:
+Semichorus:  
 But he though blind of sight,  
 Despis'd and thought extinguish't quite,  
 With inward eyes illuminated  
@@ -2120,7 +2120,7 @@ When most unactive deem'd,
 And though her body die, her fame survives,  
 A secular bird ages of lives.  
 
-Manoa:
+Manoa:  
 Come, come, no time for lamentation now,  
 Nor much more cause, Samson hath quit himself  
 Like Samson, and heroicly hath finish'd  
@@ -2153,13 +2153,13 @@ With all his Trophies hung, and Acts enroll'd
 In copious Legend, or sweet Lyric Song.  
 Thither shall all the valiant youth resort,  
 And from his memory inflame thir breasts  
-To matchless valour, and adventures high:
+To matchless valour, and adventures high:  
 The Virgins also shall on feastful days  
 Visit his Tomb with flowers, only bewailing  
 His lot unfortunate in nuptial choice,  
 From whence captivity and loss of eyes.  
 
-Chorus:
+Chorus:  
 All is best, though we oft doubt,  
 What th' unsearchable dispose  
 Of highest wisdom brings about,  
