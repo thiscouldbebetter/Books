@@ -6,6 +6,9 @@ Contenant sept Planches.
 
 PLANCHE Iere.
 -------------
+
+[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
+
 Le haut de la Planche ou la vignette montre la boutique du plombier qui coule le plomb en tables.
 
 Fig.
@@ -64,6 +67,8 @@ Fig.
 PLANCHE II.
 -----------
 
+[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
+
 Le haut de la Planche ou la vignette montre la boutique du plombier qui coule le plomb en tuyaux.
 
 Fig.
@@ -106,6 +111,8 @@ Fig. 8. 9. 10. Fourneau.
 
 PLANCHE III.
 ------------
+
+[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
 
 Le haut de la Planche ou la vignette montre la cour ou le hangard du plombier qui travaille du plomb en tables, & qui pese des tuyaux.
 
@@ -157,6 +164,8 @@ Fig.
 PLANCHE IV.
 -----------
 
+[![Planche 4](Planche_4.jpeg)](Planche_4.jpeg)
+
 Fig.
 16. &
 17. &
@@ -197,6 +206,8 @@ Fig.
 
 PLANCHE V.
 ----------
+
+[![Planche 5](Planche_5.jpeg)](Planche_5.jpeg)
 
 Fig.
 25. Table de toile à couler le plomb dit plomb coulé sur toile.
@@ -240,6 +251,8 @@ Fig.
 
 PLANCHE VI.
 -----------
+
+[![Planche 6](Planche_6.jpeg)](Planche_6.jpeg)
 
 Fig.
 39. &
@@ -291,6 +304,8 @@ Fig.
 
 PLANCHE VII.
 ------------
+
+[![Planche 7](Planche_7.jpeg)](Planche_7.jpeg)
 
 Fig.
 52. Batte plate.
