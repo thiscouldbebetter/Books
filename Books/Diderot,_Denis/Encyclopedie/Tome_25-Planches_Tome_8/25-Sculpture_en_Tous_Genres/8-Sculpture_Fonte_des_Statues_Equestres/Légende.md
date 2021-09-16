@@ -198,11 +198,11 @@ Fig.
 Fig.
 2. La figure équestre couverte du moule de potée, recouvert du bandage de fer.
 
-- 1. Grille de fer sous les quatre jambes & sous la queue du cheval, auxquelles grilles les fers du bandage sont accrochés.
-- 2. Fer au milieu desdites grilles, lequel passe à-travers les jambes & la queue du cheval.
-- 3. Jets.
-- 4. Egoûts des cires.
-- 5. Events.
+	-1. Grille de fer sous les quatre jambes & sous la queue du cheval, auxquelles grilles les fers du bandage sont accrochés.
+	-2. Fer au milieu desdites grilles, lequel passe à-travers les jambes & la queue du cheval.
+	-3. Jets.
+	-4. Egoûts des cires.
+	-5. Events.
 
 Nota.
 -----
