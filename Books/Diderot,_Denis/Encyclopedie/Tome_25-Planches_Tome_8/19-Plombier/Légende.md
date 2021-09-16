@@ -1,214 +1,350 @@
-PEINTURES EN HUILE, EN MINIATURE ET ENCAUSTIQUE
-===============================================
+PLOMBIER
+========
 
-Contenant huit Planches.
+Contenant sept Planches.
 
 
 PLANCHE Iere.
 -------------
-
-[![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
-
-VIgnette. Cette vignette représente un attelier dans lequel on a tâché de réunir plusieurs genres de peintures.
-
-La fig.
-1. représente le peintre d'histoire.
-	- a, son marchepié.
-	- b, le pincellier ou grande boîte à couleurs.
-	- c, pierre à broyer les couleurs.
-
-La fig.
-2. représente le peintre de portraits.
-	- d, sa boîte à couleurs.
-
-La fig.
-3. représente un peintre occupé à réduire un tableau dont il veut faire une copie.
-	- e, le tableau qui lui sert de modele.
-	- f, la toile sur laquelle il a tracé autant de carreaux qu'il en a fait sur celui qu'il se propose de réduire (ou de copier).
-
-La fig.
-4. représente le peintre de portrait en miniature.
-
-On apperçoit dans le fond de l'attelier deux figures antiques, un globe, une équerre & des livres qui sont autant de choses utiles aux peintres, & qui désignent l'étude des antiques, l'histoire, la géographie & l'architecture.
-
-Bas de la Planche.
+Le haut de la Planche ou la vignette montre la boutique du plombier qui coule le plomb en tables.
 
 Fig.
-1. Appui-main.
+1. &
+2. Ouvriers qui coulent le plomb en tables.
 
-2. &
-3. &
-4. Couteaux de différentes formes.
+1. Ouvrier qui tient la poële à verser.
 
-5. & 5. Brosses.
+2. Ouvrier qui reçoit le plomb sur le rable.
 
-6. Bléreau dont on se sert pour fondre les couleurs.
+3. Moule.
 
-7. &
-8. &
-9. Pinceaux.
+4. Fourneau.
 
-10. &
-11. &
-12. Palettes de différentes formes.
+5. Ouvrier qui met du plomb au fourneau.
+
+6. Hote ou cheminée du fourneau.
+
+7. Tas de saumons.
+
+8. Leviers.
+
+9. Rable.
+
+10. Planches.
+
+11. Rouleaux de plomb.
+
+12. &
+13. &
+14. &
+15. Tablettes où sont des cordes, des maillets, des battes, &c.
+
+Explication du bas de la Planche.
+
+Fig.
+1. Plomb en navette.
+
+2. Plomb en saumon.
+
+3. Cuillere de fer.
+
+4. Marmite de fer.
+	- A A, les anneaux.
+
+5. Poële de fer.
+	- A, l'anneau.
+
+6. Polastre.
+	- A A, les lumieres.
+
+7. Autre polastre.
+	- A A, les lumieres.
 
 
 PLANCHE II.
 -----------
 
-[![Planche 2](Planche_2.jpeg)](Planche_2.jpeg)
+Le haut de la Planche ou la vignette montre la boutique du plombier qui coule le plomb en tuyaux.
 
 Fig.
-1. Boîte à couleurs.
+1. Ouvrier qui coule le plomb moulé en tuyaux.
 
-2. Coupe de cette boîte.
+2. &
+3. Table sur laquelle on coule les tuyaux.
 
-3. Son plan.
+4. Ouvrier qui puise du plomb pour le couler.
 
-4. Boîte de fer blanc pour contenir les pinceaux & les vessies. a le pincelier.
-	- b, quarré pour mettre les vessies.
-	- c, quarré dans lequel on met l'huile d'olive pour détremper les pinceaux.
+5. &
+6. Le fourneau & sa hote ou cheminée.
 
-5. Coupe du pincelier.
+7. Tuyaux moulés.
 
-6. Coupe du quarré qui sert à faire tremper les pinceaux.
+8. Cuilleres à couler.
 
-7. Autre boîte de fer-blanc pour mettre les couleurs en poudre.
+9. &
+10. Tablettes.
 
-8. Vessie pour mettre les couleurs brouillées.
+11. Vieux plombs.
+
+12. Une batte.
+
+13. Plomb en saumon. Explication du bas de la Planche.
+
+Fig. 8. 9. 10. Fourneau.
+
+8. en est la coupe.
+
+9. en est le plan géométral.
+
+10. en est l'élévation perspective.
+	- A A, le fourneau.
+	- B, la chaudiere.
+	- C, l'âtre.
+	- D, la cheminée.
+	- E, la hote.
 
 
 PLANCHE III.
 ------------
 
-[![Planche 3](Planche_3.jpeg)](Planche_3.jpeg)
+Le haut de la Planche ou la vignette montre la cour ou le hangard du plombier qui travaille du plomb en tables, & qui pese des tuyaux.
 
 Fig.
-1. Grand échaffaud à roulettes pour les grands tableaux.
+1. Ouvrier qui bat du plomb en tables pour l'arrondir en tuyaux.
 
-2. Grande échelle avec son banc pour le même usage.
+2. Ouvrier qui soude.
 
-3. Petit marche-pié.
+3. Ouvrier qui pese des tuyaux.
 
-4. Roulettes de l'échaffaud, fig. 1.
+4. La balance.
 
-5. Banc qui s'accroche aux échellons de la fig. 2.
+5. Polastre où l'on fait fondre le plomb & chauffer les fers.
+
+6. Charrette à l'usage du plombier.
+
+7. Saumons entassés.
+
+8. Vieux plombs.
+
+Explication du bas de la Planche.
+
+Fig.
+11. Moule ou table à couler le plomb en tables.
+	- A A, les tréteaux.
+	- B B, la caisse à couler.
+	- C C, le plomb coulé.
+	- D D, la cloison mobile.
+	- E, le rable.
+	- F, la cavité pour le surplus du plomb.
+
+12. Rable.
+	- A, le rable.
+	- B B, les échancrures.
+	- C, le manche.
+
+13. Plane.
+	- A, la plane de cuivre.
+	- B, la poignée.
+
+14. Poële à verser.
+	- A, l'auget.
+	- B B, l'armature.
+	- C, le manche.
+
+15. Crampon.
 
 
 PLANCHE IV.
 -----------
 
-[![Planche 4](Planche_4.jpeg)](Planche_4.jpeg)
-
 Fig.
-1. Chevalet dont la barre se monte sans cheville par le moyen du ressort 5 qui appuie sur les dentures. 6 le montant de ce chevalet qui sert à retenir les grandes toiles à volonté, à la hauteur convenable.
+16. &
+17. &
+18. &
+19. &
+20. &
+21. Moule à faire les tuyaux, avec toutes les parties qui lui appartiennent, vues séparément.
+	- A, le moule.
+	- B, la partie du tuyau moulé.
+	- C, l'entonnoir ou jet.
+	- D D, les goujons pour arrêter les brides.
+	- E E, les boulons des brides.
+	- F F, les queues des brides.
+	- G H, le mandrin.
+	- I, la patte du mandrin.
+	- K, le boulon pour l'arrêter au tirage.
+	- L, le tirage.
+	- M N, les bouchons du moule.
+	- O, extrémité du moule.
 
-2. Toile tendue sur un chassis commun.
+22. Table sur laquelle on fait les tuyaux moulés.
+	- A, le dessus de la table.
+	- B B, les tréteaux.
+	- C, le rouleau à tirer le mandrin.
+	- D, les coussinets.
+	- E, le moulinet.
+	- F, le bandage.
+	- G, le mandrin.
+	- K, le crochet du bandage.
 
-3. Gode miché double pour contenir l'huile grasse & l'huile d'oeillet.
+23. Poële à marons, ou cuillere percée à écumer.
+	- A, la queue.
+	- B, la douille.
 
-4. Gode-miché simple.
+24. Rouleau de plomb en table.
+	- A A, la partie roulée.
 
 
 PLANCHE V.
 ----------
 
-[![Planche 5](Planche_5.jpeg)](Planche_5.jpeg)
-
 Fig.
-1. Vue d'angle du chevalet, fig. 1. de la Pl. précédente, chiffre
-2. cheville qui empêche de remuer la queue.
+25. Table de toile à couler le plomb dit plomb coulé sur toile.
+	- A A, le dessus de la table couvert en toile.
+	- B B, les deux extrémités.
+	- C C, les deux tréteaux.
+	- D, le rable à main.
 
-3. Plan du ressort.
+26. Fragmens de table soudés à côte.
+	- A A, les deux parties de table.
+	- B, la soudure à côte.
 
-4. Chappe du même ressort avec les dentures.
+27. Table de plomb recourbée sur elle-même en forme de tuyau, & soudée à côte.
+	- B, la soudure à côte.
 
-5. Toile tendue sur un chassis à clé.
+28. Bouts de tuyaux amincis & prêts à être soudés à noeuds.
+	- A B, les bouts préparés & grattés.
+
+29. Les mêmes bouts soudés à noeuds.
+	- B, la soudure à noeuds.
+
+30. Noeud de soudure qui joint un bout de tuyau avec une calotte de cuivre, à l'usage des pompes.
+	- A, le bout d'un tuyau.
+	- B, le noeud de soudure.
+	- C, la calotte de cuivre.
+
+31. &
+33. Deux manches de bois à prendre les fers à souder.
+
+32. &
+34. Fers à souder.
+
+35. Grattoir.
+	- A, le grattoir.
+
+36. &
+37. Grattoirs à deux tranchans.
+
+38. Porte-soudure.
 
 
 PLANCHE VI.
 -----------
 
-[![Planche 6](Planche_6.jpeg)](Planche_6.jpeg)
+Fig.
+39. &
+40. Polastres de tôle de différentes longueurs On les glisse dans les tuyaux à souder pour les échauffer ; ils sont percés de trous.
+
+41. Tranchet.
+	- A, le taillant.
+	- B, le manche.
+	- C, le dos.
+
+42. Serpe.
+	- A, le taillant.
+	- B, le manche.
+
+43. Rape.
+
+44. Gouge.
+	- A, le taillant.
+	- B, le manche.
+
+45. Ciseau.
+	- A, la tête.
+
+46. Batte.
+	- A, le manche.
+
+47. &
+48. &
+49. Machines à travailler au sommet des bâtimens sans échelle & sans échaffaud.
+
+49. Corde nouée.
+
+48. Jambette ou assemblage de différentes courroies.
+	- A, l'esse.
+	- B, le lien de la courroie.
+	- C C, les courroies de traverse.
+	- D, la place du pié.
+
+47. Sellette.
+	- A, la sellette.
+	- B B, les cordages pour la suspendre.
+	- C, l'esse.
+
+50. Bâton à labourer.
+	- A, le bout.
+
+51. Levier.
+
+
+PLANCHE VII.
+------------
 
 Fig.
-1. Chevalet vu de face, & qui se ploie du sens que l'on veut.
+52. Batte plate.
+	- A, la batte.
+	- B, le manche.
 
-2. Vue perspective du même chevalet.
+53. Autre batte.
+	- A, la batte.
 
-3. Partie du même chevalet vue par derriere avec emmanchemens.
+54. Troisieme sorte de batte.
 
-4. Profil du même chevalet.
+55. Marteau du plombier.
+	- A A, les platines du manche.
+	- B, la tête.
+	- C, la panne.
 
-5. Appui-main.
+56. Compas.
 
-6. Chevalet ordinaire.
+57. Plane.
+	- A, le taillant.
+	- B B, les coudes.
 
-7. Partie du même chevalet vue par derriere.
+58. Niveau.
+	- A A, les piés.
+	- B, le chal du plomb.
 
-8. Chevilles.
+59. Débordoir.
+	- A, le taillant.
 
-9. Barre pour poser les toiles que l'on peint.
+60. Plomb à jauger.
+	- A, le chal.
+	- B, le fouet.
 
-10. Pierre à broyer les pastels.
+61. &
+62. &
+63. &
+64. &
+65. &
+66. Divers ouvrages de plomberie.
 
-11. Boîte au pastel.
+61. Ce qu'on appelle communément plomb dans les maisons.
 
+62. Chaineau ou échénal.
 
-PLANCHE VII. Ustensiles à l'usage du peintre en miniature.
-----------------------------------------------------------
+63. Gouttiere.
 
-[![Planche 7](Planche_7.jpeg)](Planche_7.jpeg)
+64. Autre gouttiere.
 
-Fig.
-1. &
-2. &
-3. Différentes palettes d'ivoire.
+65. Lucarne.
 
-4. &
-5. Petits pots d'ivoire pour mettre les couleurs, & que l'on renferme dans une boîte d'ivoire.
-
-6. Différentes sortes de pinceaux.
-
-7. &
-8. &
-9. Trois sortes de couteaux qui servent à broyer les couleurs.
-
-10. Forme de palette dans laquelle sont creusés différens trous pour contenir les couleurs.
-
-11. Loupe.
-
-12. Pierre à brouiller les couleurs.
-
-13. Boîte d'ivoire pour mettre les petits pots à couleurs.
-
-14. Boîte pour renfermer tous les ustensiles du peintre, lorsqu'il va en ville.
-
-15. Pierre de ponce.
-
-
-PLANCHE VIII. Ustensiles à l'usage de la peinture encaustique.
---------------------------------------------------------------
-
-[![Planche 8](Planche_8.jpeg)](Planche_8.jpeg)
-
-Fig.
-1. &
-2. &
-3. Différentes palettes.
-
-4. Différens pinceaux.
-
-5. Couteau à brouiller les couleurs sur les palettes.
-
-6. Forme de boîte, dans laquelle on met de l'eau chaude pour fondre les couleurs.
-
-7. Pierre à broyer les couleurs, & que l'on place sur la fig. 8.
-
-8. Boîte dans laquelle sont les places des godets qui contiennent les couleurs que l'on fait chauffer.
-
-9. &
-10. Maniere dont on doit faire les godets à couleurs.
+66. Portion de comble.
+	- A, la partie du faîtage.
+	- B, celle de la croupe.
+	- C, celle du poinçon.
 
 
 [->](../20-Laminage_du_Plomb/Légende.md)
