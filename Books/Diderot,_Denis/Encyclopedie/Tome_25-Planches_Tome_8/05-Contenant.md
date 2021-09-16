@@ -30,4 +30,4 @@ Pages d'explications.
 Nota Qu'à l'exception de quelques Arts peu importans, les Explications sont des Dessinateurs mêmes dont les noms sont au bas des Planches à gauche.
 
 
-[->](06-Miroitier_Metteur_au_Tent/1-Miroitier_Metteur_au_Tent/Légende.md)
+[->](06-Miroitier_Metteur_au_Teint/1-Miroitier_Metteur_au_Teint/Légende.md)
