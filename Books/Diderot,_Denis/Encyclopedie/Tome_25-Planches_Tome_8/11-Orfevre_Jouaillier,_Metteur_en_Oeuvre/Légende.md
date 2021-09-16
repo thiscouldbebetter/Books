@@ -10,19 +10,22 @@ PLANCHE Iere.
 [![Planche 1](Planche_01.jpeg)](Planche_01.jpeg)
 
 Le haut de la Planche représente un attelier où sont plusieurs ouvriers occupés à divers ouvrages de cette profession ; l'un en
-	- a à souder au chalumeau ; un autre en
-	- b à monter des diamans, un autre en
-	- c à ajuster des montures ; & un autre en
-	- d à choisir les outils qui lui sont nécessaires.
+
+- a à souder au chalumeau ; un autre en
+- b à monter des diamans, un autre en
+- c à ajuster des montures ; & un autre en
+- d à choisir les outils qui lui sont nécessaires.
 
 L'établi est garni de plusieurs outils relatifs à cet art, tel que bocaux
-	- e, poignées à ciment
-	- f, & autres choses semblables ;
+
+- e, poignées à ciment
+- f, & autres choses semblables ;
 
 le reste de l'attelier est aussi garni d'outils tels qu'en
-	- g des forets, scies, &c. en
-	- h, des planches garnies, & en
-	- i une forge propre à fondre, souder, &c.
+
+- g des forets, scies, &c. en
+- h, des planches garnies, & en
+- i une forge propre à fondre, souder, &c.
 
 Fig.
 1. Elévation,
@@ -341,13 +344,14 @@ PLANCHE VIII.
 [![Planche 8](Planche_08.jpeg)](Planche_08.jpeg)
 
 Le haut de cette Planche représente un établi de Metteur en oeuvre.
-	- A, l'établi.
-	- B B, &c. les pointes.
-	- C C, les piés.
-	- D D, les tasseaux.
-	- E E, les tiroirs.
-	- F F, les tabliers.
-	- G G, le grillage.
+
+- A, l'établi.
+- B B, &c. les pointes.
+- C C, les piés.
+- D D, les tasseaux.
+- E E, les tiroirs.
+- F F, les tabliers.
+- G G, le grillage.
 
 Fig.
 1. Boule à sertir.

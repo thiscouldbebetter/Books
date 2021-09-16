@@ -115,6 +115,7 @@ Fig.
 	- c, d, femmes qui ont tendu leur filet.
 	- e, f, g, h, même filet & autres femmes occupées à le tendre.
 
+
 PLANCHE IV.
 -----------
 
@@ -773,9 +774,9 @@ PLANCHE XXVIII.
 
 La vignette représente un païsage où l'on voit une riviere sur laquelle un pêcheur placé dans un bateau est occupé à pêcher à la ligne volante & à la ligne de fond.
 
-	- A B, un des deux pieux fichés dans le fond de la riviere pour affermir la claie, composée de perches, à l'aval de laquelle il appâte le poisson.
-	- C D E F, la claie.
-	- D C, les deux traverses entre lesquelles, comme entre deux moises, les perches qui composent la claie sont placés.
+- A B, un des deux pieux fichés dans le fond de la riviere pour affermir la claie, composée de perches, à l'aval de laquelle il appâte le poisson.
+- C D E F, la claie.
+- D C, les deux traverses entre lesquelles, comme entre deux moises, les perches qui composent la claie sont placés.
 
 Le bateau dans lequel le pêcheur est placé contient une boutique à poissons, c'est-à-dire un retranchement dans lequel l'eau de la riviere communique ; & sur la levée de derriere un étui f g, pour placer les lignes & autres équipages nécessaires à cette pêche : la ligne volante que le pêcheur tient à la main est représentée en grand au bas de la Planche.
 
@@ -894,13 +895,14 @@ Le filet mobile i p m, placé en-travers du courant à l'amont du filet sédenta
 Pour pêcher avec ces filets, après que le filet sédentaire est tendu, les pêcheurs s'éloignent en remontant leurs bateaux à cent ou deux cens brasses, plus ou moins, au-dessus ou à l'amont du filet sédentaire, & là ils se séparent & tendent le filet mobile en-travers du courant, & nagent ensuite avalant avec plus de vîtesse que le courant ; ils ramenent les deux extrémités de leur filet aux affiches a & c ; le filet mobile qui pendant toute la marche étoit convexe du côté d'amont, comme on le voit en p q, parce que la vîtesse des bateaux qui le tiroient étoit plus grande que celle du courant, change alors de figure & devient convexe du sens opposé, puisque le courant continuant d'agir sur son milieu, continue à le faire descendre pour le faire appliquer au filet sédentaire : tout le poisson qui s'est trouvé dans le chemin du filet mobile est ainsi forcé de se jetter dans le sac du filet sédentaire. Bas de la Planche.
 
 Il représente le plan de la même pêche.
-	-A, C, les affiches auxquelles le filet est attaché.
-	- A G H, C E F, les aîles du filet sédentaire.
-	- G E F H, l'ouverture du sac.
-	- X, le fond du sac.
-	- C E G A, la corde du liége.
-	- C F H A, la corde du plomb.
-	- C Z A, le filet mobile plissé & près de s'appliquer au moyen de la force du courant au filet sédentaire pour fermer l'ouverture du sac dans lequel le poisson est entré.
+
+- A, C, les affiches auxquelles le filet est attaché.
+- A G H, C E F, les aîles du filet sédentaire.
+- G E F H, l'ouverture du sac.
+- X, le fond du sac.
+- C E G A, la corde du liége.
+- C F H A, la corde du plomb.
+- C Z A, le filet mobile plissé & près de s'appliquer au moyen de la force du courant au filet sédentaire pour fermer l'ouverture du sac dans lequel le poisson est entré.
 
 Le filet mobile P Q est tiré avalant par les deux bateaux L l, O o, ainsi que le fait connoître la fleche placée entre les deux filets ; elle sert à indiquer la direction du courant les lignes ponctuées depuis les bateaux jusqu'aux affiches A & C, font connoître la marche des mêmes bateaux, qui sont arrêtés aux affiches par le touret auquel la corde P du liége est fixée ; la corde du plomb l Q o reste un peu à l'arriere ou amont pendant la marche du filet.
 

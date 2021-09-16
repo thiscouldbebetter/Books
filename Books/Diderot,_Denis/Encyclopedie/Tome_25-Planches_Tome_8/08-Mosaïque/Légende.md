@@ -9,7 +9,7 @@ PLANCHE Iere.
 
 [![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
-LE haut de cette Planche représente un attelier où sont plusieurs ouvriers travaillans à la mosaïque ; les uns a occupés à tracer les petites pieces de marbre selon les endroits où elles doivent être employées, un autre b à les polir & un autre c à les assembler pour en faire des tableaux, portraits, &c. Cet attelier est semé çà & là de différens ouvrages de mosaïque.
+Le haut de cette Planche représente un attelier où sont plusieurs ouvriers travaillans à la mosaïque ; les uns a occupés à tracer les petites pieces de marbre selon les endroits où elles doivent être employées, un autre b à les polir & un autre c à les assembler pour en faire des tableaux, portraits, &c. Cet attelier est semé çà & là de différens ouvrages de mosaïque.
 
 La fig.
 1. est un paysage représentant un pêcheur sur une barque parcourant les bords du Nil.
@@ -51,18 +51,19 @@ PLANCHE IV.
 [![Planche 4](Planche_4.jpeg)](Planche_4.jpeg)
 
 Cette Planche trouvée en la ville de Palestrine représente une portion de la haute Egypte où le Nil est débordé.
-	- A est un temple au-dessous duquel est l'empereur Adrien suivi d'officiers & de soldats.
-	- B semble être la demeure des prêtres de ce temple.
-	- C est un autre temple où sont des prêtres égyptiens, près desquels est la figure d'Anubis.
-	- D est la maison d'un pere de famille.
-	- E représente une fête de l'Egypte, où sont des figures assises sous un berceau chargé de raisin.
-	- F est une cabanne.
-	- G sont des égyptiens sur une barque.
-	- H & I sont des hyppopotames.
-	- K sont des figures qui semblent être les ministres du temple voisin.
-	- L est un autre temple.
-	- M sont deux maisons en tours quarrées, une en tour ronde & deux cabannes.
-	- N est un grand édifice semblable aux palais d'Egypte. Le haut de cette Planche représente des éthyopiens occupés de la chasse pendant les inondations du Nil.
+
+- A est un temple au-dessous duquel est l'empereur Adrien suivi d'officiers & de soldats.
+- B semble être la demeure des prêtres de ce temple.
+- C est un autre temple où sont des prêtres égyptiens, près desquels est la figure d'Anubis.
+- D est la maison d'un pere de famille.
+- E représente une fête de l'Egypte, où sont des figures assises sous un berceau chargé de raisin.
+- F est une cabanne.
+- G sont des égyptiens sur une barque.
+- H & I sont des hyppopotames.
+- K sont des figures qui semblent être les ministres du temple voisin.
+- L est un autre temple.
+- M sont deux maisons en tours quarrées, une en tour ronde & deux cabannes.
+- N est un grand édifice semblable aux palais d'Egypte. Le haut de cette Planche représente des éthyopiens occupés de la chasse pendant les inondations du Nil.
 
 
 PLANCHE V.

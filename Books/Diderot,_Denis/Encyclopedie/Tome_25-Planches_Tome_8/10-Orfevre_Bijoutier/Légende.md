@@ -9,12 +9,14 @@ PLANCHE Iere.
 
 [![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
-LE haut de cette Planche représente une boutique où plusieurs ouvriers sont occupés à divers ouvrages de bijouterie. Les uns en
-	- a & en
-	- b, à monter des bijoux ; un autre en
-	- c, à forger le métal ; un autre en
-	- d, à le chauffer ou souder à la forge ; un autre en
-	- e, à souder au chalumeau ou à la lampe, tandis que la maîtresse au comptoir pese & vend les marchandises de bijouterie :
+Le haut de cette Planche représente une boutique où plusieurs ouvriers sont occupés à divers ouvrages de bijouterie. Les uns en
+
+- a & en
+- b, à monter des bijoux ; un autre en
+- c, à forger le métal ; un autre en
+- d, à le chauffer ou souder à la forge ; un autre en
+- e, à souder au chalumeau ou à la lampe, tandis que la maîtresse au comptoir pese & vend les marchandises de bijouterie :
+
 le reste de l'attelier est semé de plusieurs outils propres à ces sortes d'ouvrages.
 
 Fig.

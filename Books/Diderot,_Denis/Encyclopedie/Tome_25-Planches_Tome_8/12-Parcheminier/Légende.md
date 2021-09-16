@@ -10,12 +10,13 @@ PLANCHE Iere.
 [![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
 Le haut de cette Planche représente un attelier de parcheminier, où plusieurs ouvriers sont diversement occupés ; un en
-	- a, à passer les peaux fraîches dans un bassin d'eau pour les nettoyer ; un en
-	- b, à poncer une peau de parchemin ; un en
-	- c, à mettre les peaux dans le plein ; un en
-	- d, à raturer sur la herse ; un en
-	- e, à peler les peaux ; & un autre en
-	- f, à tailler le parchemin suivant les modeles.
+
+- a, à passer les peaux fraîches dans un bassin d'eau pour les nettoyer ; un en
+- b, à poncer une peau de parchemin ; un en
+- c, à mettre les peaux dans le plein ; un en
+- d, à raturer sur la herse ; un en
+- e, à peler les peaux ; & un autre en
+- f, à tailler le parchemin suivant les modeles.
 
 Fig.
 1. Morceau de peau qui démontre à-peu-près la forme des fibres aponévrotiques s'entrelaçant les unes dans les autres dont le tissu est composé.

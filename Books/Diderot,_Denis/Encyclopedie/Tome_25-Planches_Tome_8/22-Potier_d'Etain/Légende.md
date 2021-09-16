@@ -9,12 +9,14 @@ PLANCHE Iere.
 
 [![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
-LE haut de cette Planche représente un attelier de potier d'étain, où plusieurs ouvriers sont occupés à divers ouvrages ; un en
-	- a, à tourner au tour ; un en
-	- b, à tourner la roue du tour ; un en
-	- c, à ajuster des charnieres, couvercles de pots, &c. un en
-	- d, à souder les mêmes charnieres, pots & autres vases ; un autre enfin en
-	- e à couler dans des moules :
+Le haut de cette Planche représente un attelier de potier d'étain, où plusieurs ouvriers sont occupés à divers ouvrages ; un en
+
+- a, à tourner au tour ; un en
+- b, à tourner la roue du tour ; un en
+- c, à ajuster des charnieres, couvercles de pots, &c. un en
+- d, à souder les mêmes charnieres, pots & autres vases ; un autre enfin en
+- e à couler dans des moules :
+
 le reste de l'attelier est parsemé de differens ustensiles de potier d'étain, comme moules, cuilleres, marmites, vases, & autres ouvrages.
 
 Fig.

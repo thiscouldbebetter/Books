@@ -9,11 +9,13 @@ PLANCHE Iere.
 
 [![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
-LE haut de cette Planche représente un attelier de reliure, où plusieurs ouvriers sont occupés, l'un en
-	- a, à battre les reliures ; une ouvriere en
-	- b, appellée couseuse ou brocheuse, à coudre ou brocher un livre ; un autre ouvrier en
-	- c, à couper la tranche sur la presse, un autre en
-	- d, à serrer la grande presse :
+Le haut de cette Planche représente un attelier de reliure, où plusieurs ouvriers sont occupés, l'un en
+
+- a, à battre les reliures ; une ouvriere en
+- b, appellée couseuse ou brocheuse, à coudre ou brocher un livre ; un autre ouvrier en
+- c, à couper la tranche sur la presse, un autre en
+- d, à serrer la grande presse :
+
 le reste de l'attelier est employé à divers ouvrages de reliure.
 
 Fig.
@@ -314,9 +316,10 @@ PLANCHE V.
 [![Planche 5](Planche_5.jpeg)](Planche_5.jpeg)
 
 Le haut de cette Planche représente un attelier de relieur-doreur, où plusieurs ouvriers sont occupés ; l'un en
-	- a, à dorer sur tranche ; un autre en
-	- b, à pousser la roulette sur le plat d'un volume ; près de lui est le fourneau à faire chauffer les fers : une ouvriere en
-	- c, à coucher l'or sur le dos des volumes.
+
+- a, à dorer sur tranche ; un autre en
+- b, à pousser la roulette sur le plat d'un volume ; près de lui est le fourneau à faire chauffer les fers : une ouvriere en
+- c, à coucher l'or sur le dos des volumes.
 
 Fig.
 1. Table à dorer sur les livres.

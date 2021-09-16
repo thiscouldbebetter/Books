@@ -9,7 +9,7 @@ PLANCHE Iere.
 
 [![Planche 1](Planche_01.jpeg)](Planche_01.jpeg)
 
-LE haut de cette Planche représente un attelier où plusieurs ouvriers sont employés à différentes choses. Les uns en a, à mouler ; un autre en b, à plotter ; un autre en c, à faire fondre l'or dans le fourneau. Cet attelier est garni d'enclumes d, de cisoirs e, d'établis à plotter f, de table g à ajuster les flaons, & de toutes choses nécessaires à la fonte de l'or.
+Le haut de cette Planche représente un attelier où plusieurs ouvriers sont employés à différentes choses. Les uns en a, à mouler ; un autre en b, à plotter ; un autre en c, à faire fondre l'or dans le fourneau. Cet attelier est garni d'enclumes d, de cisoirs e, d'établis à plotter f, de table g à ajuster les flaons, & de toutes choses nécessaires à la fonte de l'or.
 
 Fig.
 1. Etabli à plotter.
@@ -195,11 +195,11 @@ PLANCHE IV.
 
 Le haut de cette Planche représente un fourneau à soufflet pour fondre l'or.
 
-	- a est un ouvrier qui découvre le creuset.
-	- B, le fourneau.
-	- c, la cheminée.
-	- d, le soufflet.
-	- e, la branloire du soufflet.
+- a est un ouvrier qui découvre le creuset.
+- B, le fourneau.
+- c, la cheminée.
+- d, le soufflet.
+- e, la branloire du soufflet.
 
 Le reste de l'attelier est semé de différens outils propres à la fonte de l'or.
 
@@ -306,15 +306,17 @@ PLANCHE VII.
 [![Planche 7](Planche_07.jpeg)](Planche_07.jpeg)
 
 Le haut de cette Planche représente le manege des laminoirs.
-	- A, le rouet.
-	- B B, les lanternes.
-	- C C, les leviers.
+
+- A, le rouet.
+- B B, les lanternes.
+- C C, les leviers.
 
 Le bas de cette Planche représente le plan de différens laminoirs montés sur leur charpente.
-	- A, le dégrossi.
-	- B B, les laminoirs.
-	- C C, les lanternes.
-	- D D, le rouet.
+
+- A, le dégrossi.
+- B B, les laminoirs.
+- C C, les lanternes.
+- D D, le rouet.
 
 
 PLANCHE VIII.
@@ -428,17 +430,18 @@ PLANCHE X.
 [![Planche 10](Planche_10.jpeg)](Planche_10.jpeg)
 
 Le haut de cette Planche représente l'attelier & le fourneau à recuire l'or.
-	- a est le fourneau,
-	- b la cheminée,
-	- c c un petit mur en brique,
-	- d la grille du fourneau,
-	- e le cendrier du fourneau,
-	- f des lames,
-	- g un bacquet,
-	- h une sébille,
-	- i une paire de pinces,
-	- k une pelle de fer,
-	- l un rateau.
+
+- a est le fourneau,
+- b la cheminée,
+- c c un petit mur en brique,
+- d la grille du fourneau,
+- e le cendrier du fourneau,
+- f des lames,
+- g un bacquet,
+- h une sébille,
+- i une paire de pinces,
+- k une pelle de fer,
+- l un rateau.
 
 Fig.
 1. Tenailles droites.
@@ -610,30 +613,32 @@ PLANCHE XIII.
 [![Planche 13](Planche_13.jpeg)](Planche_13.jpeg)
 
 Le haut de cette Planche représente l'élévation perspective du fourneau pour le blanchiment.
-	- A A, le fourneau.
-	- B, la porte du cendrier.
-	- C C, les ventouses.
-	- D, la bouche.
-	- E, la soupate.
-	- F, la case aux flaons.
-	- G représente un tisonnier,
-	- H un rable,
-	- I la porte de la bouche du fourneau,
-	- K un creuset de fer,
-	- L plusieurs creusets de terre.
+
+- A A, le fourneau.
+- B, la porte du cendrier.
+- C C, les ventouses.
+- D, la bouche.
+- E, la soupate.
+- F, la case aux flaons.
+- G représente un tisonnier,
+- H un rable,
+- I la porte de la bouche du fourneau,
+- K un creuset de fer,
+- L plusieurs creusets de terre.
 
 Le bas de cette Planche représente la coupe du même fourneau.
-	- A A, le fourneau.
-	- B, la porte du cendrier.
-	- C, le cendrier.
-	- D, la grille du fourneau.
-	- E, la case aux flaons.
-	- F, la voûte du fourneau.
-	- G G représentent deux crochets de cuivre,
-	- K un bouilloir de cuivre,
-	- L un mortier & son pilon,
-	- M un crible,
-	- N un marteau.
+
+- A A, le fourneau.
+- B, la porte du cendrier.
+- C, le cendrier.
+- D, la grille du fourneau.
+- E, la case aux flaons.
+- F, la voûte du fourneau.
+- G G représentent deux crochets de cuivre,
+- K un bouilloir de cuivre,
+- L un mortier & son pilon,
+- M un crible,
+- N un marteau.
 
 
 PLANCHE XIV.
@@ -642,10 +647,11 @@ PLANCHE XIV.
 [![Planche 14](Planche_14.jpeg)](Planche_14.jpeg)
 
 Le haut de cette Planche représente un autre fourneau pour le blanchiment.
-	- A A, les fourneaux.
-	- B B, les portes des cendriers.
-	- C, la cheminée.
-	- D, des pinces, tisonniers & autres ustensiles.
+
+- A A, les fourneaux.
+- B B, les portes des cendriers.
+- C, la cheminée.
+- D, des pinces, tisonniers & autres ustensiles.
 
 Fig.
 1. Canne de fer à faire chauffer les flaons.
@@ -689,22 +695,23 @@ PLANCHE XV.
 [![Planche 15](Planche_15.jpeg)](Planche_15.jpeg)
 
 Le haut de cette Planche représente le balancier des monnoies mû en
-	- A & en
-	- B par des hommes; celui en
-	- C est occupé à faire marquer les flaons.
-	- D D, le balancier.
-	- E, la clé du balancier.
-	- G G, les cordages.
-	- F F, les contre-poids du balancier.
-	- H, la presse.
-	- I, la vis.
-	- K, la tige de conduite.
-	- L, le crampon.
-	- M M, les platines de conduite.
-	- N, la matrice de l'effigie.
-	- O, la matrice de l'écusson.
-	- P, la manne aux flaons non marqués.
-	- Q, la manne aux flaons marqués.
+
+- A & en
+- B par des hommes; celui en
+- C est occupé à faire marquer les flaons.
+- D D, le balancier.
+- E, la clé du balancier.
+- G G, les cordages.
+- F F, les contre-poids du balancier.
+- H, la presse.
+- I, la vis.
+- K, la tige de conduite.
+- L, le crampon.
+- M M, les platines de conduite.
+- N, la matrice de l'effigie.
+- O, la matrice de l'écusson.
+- P, la manne aux flaons non marqués.
+- Q, la manne aux flaons marqués.
 
 Fig.
 1. Vis.

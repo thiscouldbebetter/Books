@@ -9,16 +9,17 @@ PLANCHE Iere.
 
 [![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
-LE haut de cette Planche représente un jeu de paume où plusieurs particuliers en
-	- a, b, c & d sont occupés au jeu, tandis que le garçon de paume ou marqueur en
-	- e, marque le jeu, ramasse les balles, &c.
-	- f représente la corde du jeu,
-	- g la galerie d'en-bas,
-	- h h la galerie d'en-haut,
-	- i la joue d'en-haut,
-	- k la grille,
-	- l le trou,
-	- m m les carreaux.
+Le haut de cette Planche représente un jeu de paume où plusieurs particuliers en
+
+- a, b, c & d sont occupés au jeu, tandis que le garçon de paume ou marqueur en
+- e, marque le jeu, ramasse les balles, &c.
+- f représente la corde du jeu,
+- g la galerie d'en-bas,
+- h h la galerie d'en-haut,
+- i la joue d'en-haut,
+- k la grille,
+- l le trou,
+- m m les carreaux.
 
 Fig.
 1. Echalas disposé pour une raquette.

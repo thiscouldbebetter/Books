@@ -9,13 +9,14 @@ PLANCHE Iere.
 
 [![Planche 1](Planche_01.jpeg)](Planche_01.jpeg)
 
-LE haut de cette Planche représente un attelier ou boutique de perruquier où plusieurs garçons sont occupés à divers ouvrages de cet art ; un en
-	- a, à faire la barbe ; un en
-	- b, à accommoder une perruque ; une femme en
-	- c, à tresser ; deux ouvriers en
-	- d, à monter des perruques ; un autre en
-	- e, à faire chauffer les fers à friser, tandis qu'un particulier en
-	- f ôte la poudre de dessus son visage.
+Le haut de cette Planche représente un attelier ou boutique de perruquier où plusieurs garçons sont occupés à divers ouvrages de cet art ; un en
+
+- a, à faire la barbe ; un en
+- b, à accommoder une perruque ; une femme en
+- c, à tresser ; deux ouvriers en
+- d, à monter des perruques ; un autre en
+- e, à faire chauffer les fers à friser, tandis qu'un particulier en
+- f ôte la poudre de dessus son visage.
 
 Bas de la Planche.
 

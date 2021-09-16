@@ -9,14 +9,15 @@ PLANCHE Iere.
 
 [![Planche 1](Planche_01.jpeg)](Planche_01.jpeg)
 
-LE haut de cette Planche représente un attelier d'orfévrerie, où plusieurs ouvriers sont diversement occupés ; l'un en
-	- a à couler le métal dans la lingotiere ; un en
-	- b à rétreindre un vase ; un en
-	- c à planer une assiette ou un plat ; un autre en
-	- d à rétreindre une burette, & les autres en e à forger une plaque. Près de-là en
-	- f est un fourneau à fonte, en
-	- g une forge, en
-	- h une lampe à souder, chalumeau, soufflet, panier à charbon, tenailles, & autres ustensiles nécessaires à l'usage du fourneau.
+Le haut de cette Planche représente un attelier d'orfévrerie, où plusieurs ouvriers sont diversement occupés ; l'un en
+
+- a à couler le métal dans la lingotiere ; un en
+- b à rétreindre un vase ; un en
+- c à planer une assiette ou un plat ; un autre en
+- d à rétreindre une burette, & les autres en e à forger une plaque. Près de-là en
+- f est un fourneau à fonte, en
+- g une forge, en
+- h une lampe à souder, chalumeau, soufflet, panier à charbon, tenailles, & autres ustensiles nécessaires à l'usage du fourneau.
 
 Fig.
 1. Burette sans anse.
@@ -254,7 +255,10 @@ Fig.
 	- A, le vase.
 	- B, le couvercle.
 
-8. & 9. Coffres de toilette. A A, &c. les coffres. B B, les couvercles.
+8. &
+9. Coffres de toilette.
+	- A A, &c. les coffres.
+	- B B, les couvercles.
 
 
 PLANCHE VII.
@@ -1084,31 +1088,32 @@ PLANCHE XVII.
 [![Planche 17](Planche_17.jpeg)](Planche_17.jpeg)
 
 Tour à tourner la vaisselle contournée.
-	- A A, l'établi.
-	- A A, &c. les piés.
-	- B, le support.
-	- C, l'assiette ou plat.
-	- D, la grande roue de conduite.
-	- E, l'arbre.
-	- F, la poupée.
-	- G, la grande poulie.
-	- H H, les rayons.
-	- I, l'ouverture de la poulie dans l'établi.
-	- K, la premiere roue.
-	- L L, les rayons.
-	- M, la petite roue.
-	- N N, les jumelles du chassis de support.
-	- O, le chapeau.
-	- P, le sommier.
-	- Q Q, les contre fiches.
-	- R R, la seconde roue.
-	- S S, les rayons.
-	- T, la petite roue.
-	- U, la manivelle.
-	- V V, les jumelles du support.
-	- X X, &c. les contre fiches.
-	- Y Y, les sommiers.
-	- Z Z, les traverses des sommiers.
+
+- A A, l'établi.
+- A A, &c. les piés.
+- B, le support.
+- C, l'assiette ou plat.
+- D, la grande roue de conduite.
+- E, l'arbre.
+- F, la poupée.
+- G, la grande poulie.
+- H H, les rayons.
+- I, l'ouverture de la poulie dans l'établi.
+- K, la premiere roue.
+- L L, les rayons.
+- M, la petite roue.
+- N N, les jumelles du chassis de support.
+- O, le chapeau.
+- P, le sommier.
+- Q Q, les contre fiches.
+- R R, la seconde roue.
+- S S, les rayons.
+- T, la petite roue.
+- U, la manivelle.
+- V V, les jumelles du support.
+- X X, &c. les contre fiches.
+- Y Y, les sommiers.
+- Z Z, les traverses des sommiers.
 
 
 PLANCHE XVIII. Développement du support.
@@ -1199,43 +1204,43 @@ PLANCHE XIX.
 
 Cette Planche représente une vue perspective d'une machine aux lavures, le dessus sert à faire les lavures, & le dessous à piler les cendres.
 
-	- A, le fourneau.
-	- B, le soufflet.
-	- C, l'arbre de la machine mûe par le courant d'une riviere.
-	- D, le support de l'arbre.
-	- E, la roue.
-	- F F, les rouleaux.
-	- G G G, les bascules des pilons.
-	- H H H, les supports des bascules.
-	- I I I, les pilons.
-	- K K K, les mortiers.
-	- L, la manivelle.
-	- M, la tringle.
-	- N, la bascule de la pompe.
-	- O, l'arbre de la bascule.
-	- O O, le support de l'arbre.
-	- P, la bascule du soufflet.
-	- Q, la tringle du piston de la pompe.
-	- R, la pompe.
-	- S, le tuyau de conduite.
-	- T, la lanterne.
-	- V, le pivot de la lanterne.
-	- U, l'arbre de la lanterne.
-	- X X, le premier plancher portant tous les baquets aux lavures.
-	- Y Y, le second plancher portant le renvoi du mouvement.
-	- a a, &c. baquets aux lavures.
-	- b b, &c. robinets pour les vuider:
-	- c c les canaux pour la conduite des eaux.
-	- d d, &c. les supports des baquets.
-	- e, réservoir d'eau.
-	- f f, tuyaux pour conduire l'eau dans les baquets.
-	- g g, &c. robinets des tuyaux.
-	- h h, &c. tringles des triangles.
-	- i i, &c. boîte des tringles.
-	- k k, &c. roues à manivelle.
-	- l l chassis pour le mouvement des roues à manivelle.
-	- m, manivelle de l'arbre de la lanterne.
-	- n n, support des roues à manivelle.
+- A, le fourneau.
+- B, le soufflet.
+- C, l'arbre de la machine mûe par le courant d'une riviere.
+- D, le support de l'arbre.
+- E, la roue.
+- F F, les rouleaux.
+- G G G, les bascules des pilons.
+- H H H, les supports des bascules.
+- I I I, les pilons.
+- K K K, les mortiers.
+- L, la manivelle.
+- M, la tringle.
+- N, la bascule de la pompe.
+- O, l'arbre de la bascule.
+- O O, le support de l'arbre.
+- P, la bascule du soufflet.
+- Q, la tringle du piston de la pompe.
+- R, la pompe.
+- S, le tuyau de conduite.
+- T, la lanterne.
+- V, le pivot de la lanterne.
+- U, l'arbre de la lanterne.
+- X X, le premier plancher portant tous les baquets aux lavures.
+- Y Y, le second plancher portant le renvoi du mouvement.
+- a a, &c. baquets aux lavures.
+- b b, &c. robinets pour les vuider:
+- c c les canaux pour la conduite des eaux.
+- d d, &c. les supports des baquets.
+- e, réservoir d'eau.
+- f f, tuyaux pour conduire l'eau dans les baquets.
+- g g, &c. robinets des tuyaux.
+- h h, &c. tringles des triangles.
+- i i, &c. boîte des tringles.
+- k k, &c. roues à manivelle.
+- l l chassis pour le mouvement des roues à manivelle.
+- m, manivelle de l'arbre de la lanterne.
+- n n, support des roues à manivelle.
 
 
 [->](../10-Orfevre_Bijoutier/Légende.md)

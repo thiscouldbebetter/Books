@@ -14,18 +14,19 @@ Plan général de la fonderie & de deux laminoirs renfermés dans le même attel
 La halle dans laquelle est placé cet établissement est construite entre deux coursiers X Y Z AE, x y z oe, revêtus de maçonnerie, elle a environ vingt toises de long sur huit de large ; à un des bouts est la fonderie en face de la porte d'entrée M, & au long des côtés les deux laminoirs S T, s t ; le premier a cinq piés & demi de large, & le second seulement cinq piés ; chacun de ces deux laminoirs est mis en mouvement par une roue à aubes Y Z, y z, de dix-huit piés de rayon, y compris les aubes qui sont au nombre de trente-six à chaque rone. N & n, portes pour aller sur les ponts qui sont sur les coursiers où on manoeuvre les pelles Y, y, pour donner ou supprimer l'eau à la roue.
 
 La fonderie qui est à une des extrémités de l'attelier, est composée du fourneau, sur lequel est monté la chaudiere E, dans laquelle on fait fondre le plomb, & du moule ou table H, sur laquelle on le coule ; le fourneau est élevé au-dessus des palliers D D, sur lesquels on monte par quatre marches C C.
-	- e, cheminée du fourneau.
-	- 1, 2, chevalet qui retient le tampon de la chaudiere.
-	- G K, auge dans laquelle s'écoule le plomb contenu dans la chaudiere, & de laquelle on le verse sur la table du moule V G K R.
-	- u g k r, emplacement sur lequel on empile les tables de plomb à mesure qu'elles sont moulées.
-	- n, anneau pratiqué à l'extrémité de la table, pour recevoir un crochet attaché à la poulie mobile de la grue tournante, au au moyen de laquelle on éleve les tables pour les porter sur les laminoirs.
-	- P, crapaudine ou pivot de la grue tournante, dont le bras décrit l'arc de cercle S s, qui se termine à l'extrémité des établis des deux laminoirs ; les établis sont garnis de rouleaux comme on le voit dans l'une & l'autre figure. Le premier laminoir S T est couvert de sa bascule & de la charpente qui la porte, & maintient en même tems les roues.
-	- a b, c d, longrines sur lesquelles reposent les tourillons de la bascule.
-	- a e, b f, traversines servant de support aux longrines & de chapeau à deux des six montans qui composent la cage du laminoir ; le second laminoir est découvert.
-	- 1 & 2, poteaux montans qui soutiennent les deux traversines semblables à celles cotées a e, b f du laminoir précédent.
-	- 3 & 4, poteaux montans qui sont assemblés dans la longrine c d.
-	- 5 & 6, deux autres poteaux montans, dans lesquels & dans les précédens sont assemblées les traverses 3, 5:
-	- 4, 6, qui reçoivent l'entre-toise 7, 8; c'est sur cette entre-toise & une autre 3, 4 qui lui est parallele, que portent les tourillons de l'axe de l'étoile de cuivre qui sert de renvoi & de communication aux deux lanternes, dont on parlera dans la suite.
+
+- e, cheminée du fourneau.
+- 1, 2, chevalet qui retient le tampon de la chaudiere.
+- G K, auge dans laquelle s'écoule le plomb contenu dans la chaudiere, & de laquelle on le verse sur la table du moule V G K R.
+- u g k r, emplacement sur lequel on empile les tables de plomb à mesure qu'elles sont moulées.
+- n, anneau pratiqué à l'extrémité de la table, pour recevoir un crochet attaché à la poulie mobile de la grue tournante, au au moyen de laquelle on éleve les tables pour les porter sur les laminoirs.
+- P, crapaudine ou pivot de la grue tournante, dont le bras décrit l'arc de cercle S s, qui se termine à l'extrémité des établis des deux laminoirs ; les établis sont garnis de rouleaux comme on le voit dans l'une & l'autre figure. Le premier laminoir S T est couvert de sa bascule & de la charpente qui la porte, & maintient en même tems les roues.
+- a b, c d, longrines sur lesquelles reposent les tourillons de la bascule.
+- a e, b f, traversines servant de support aux longrines & de chapeau à deux des six montans qui composent la cage du laminoir ; le second laminoir est découvert.
+- 1 & 2, poteaux montans qui soutiennent les deux traversines semblables à celles cotées a e, b f du laminoir précédent.
+- 3 & 4, poteaux montans qui sont assemblés dans la longrine c d.
+- 5 & 6, deux autres poteaux montans, dans lesquels & dans les précédens sont assemblées les traverses 3, 5:
+- 4, 6, qui reçoivent l'entre-toise 7, 8; c'est sur cette entre-toise & une autre 3, 4 qui lui est parallele, que portent les tourillons de l'axe de l'étoile de cuivre qui sert de renvoi & de communication aux deux lanternes, dont on parlera dans la suite.
 
 
 PLANCHE II.
@@ -34,28 +35,31 @@ PLANCHE II.
 [![Planche 2](Planche_02.jpeg)](Planche_02.jpeg)
 
 Cette Planche représente la coupe longitudinale de l'attelier du laminoir, le profil de la fonderie, & l'élévation géométrale de l'un des deux laminoirs contenus au plan général représente par la Planche précédente ; on voit par cette coupe que l'intérieur de l'attelier est éclairé par huit grandes croisées, & que le comble est soutenu par huit fermes espacées de quinze piés les unes des autres de milieu en milieu.
-	- M, porte de l'attelier.
-	- N, porte pour aller sur le coursier & donner l'eau à la roue.
-	- T t, établi du laminoir ; le dessus de l'établi est élevé de trois piés au-dessus du rez-de-chaussée.
-	- 1 & 2, deux poteaux montans sur lesquels les traversines sont assemblées.
-	- a b, une des deux longrines assemblées à entailles sur les traversines.
-	- 3 c, 4 d, deux des quatre montans qui composent la cage du rouage, ils sont assemblés dans la longrine postérieure qui leur sert de chapeau.
-	- 10, poids de la bascule, dont les tourillons o reposent sur le milieu des longrines ; on voit entre toutes ces pieces le profil du laminoir qui sera développé plus en grand dans les Planches suivantes.
+
+- M, porte de l'attelier.
+- N, porte pour aller sur le coursier & donner l'eau à la roue.
+- T t, établi du laminoir ; le dessus de l'établi est élevé de trois piés au-dessus du rez-de-chaussée.
+- 1 & 2, deux poteaux montans sur lesquels les traversines sont assemblées.
+- a b, une des deux longrines assemblées à entailles sur les traversines.
+- 3 c, 4 d, deux des quatre montans qui composent la cage du rouage, ils sont assemblés dans la longrine postérieure qui leur sert de chapeau.
+- 10, poids de la bascule, dont les tourillons o reposent sur le milieu des longrines ; on voit entre toutes ces pieces le profil du laminoir qui sera développé plus en grand dans les Planches suivantes.
 
 A l'extrémité de l'attelier est placée la fonderie représentée en profil.
-	- A, le fourneau de briques.
-	- B, le cendrier.
-	- C, escalier pour servir la chaudiere.
-	- e, cheminée du foyer.
-	- h, hotte de la cheminée du fourneau.
-	- m, ouverture de cette cheminée au-dessus du comble de l'attelier ; cette cheminée est adossée à un des pignons du bâtiment ; sa hotte h est soutenue par des ferremens qui sont suspendus à la premiere ferme de la charpente du comble ; ces ferrures portent aussi les pivots de la bascule a b, par le moyen de laquelle on renverse le plomb contenu dans l'auge sur la table du moule qui est au-devant du fourneau.
-	- H, la table.
-	- R K, patins enterrés dans le sol, & auxquels sont assemblés les piés de la table ; l'arc de cercle a H a pour centre le pivot de la bascule ou le centre des demi-poulies sur lesquelles s'enroulent les chaînes qui enlevent l'auge & la font tourner autour du point k, ainsi que l'arc de cercle ponctué l'indique.
+
+- A, le fourneau de briques.
+- B, le cendrier.
+- C, escalier pour servir la chaudiere.
+- e, cheminée du foyer.
+- h, hotte de la cheminée du fourneau.
+- m, ouverture de cette cheminée au-dessus du comble de l'attelier ; cette cheminée est adossée à un des pignons du bâtiment ; sa hotte h est soutenue par des ferremens qui sont suspendus à la premiere ferme de la charpente du comble ; ces ferrures portent aussi les pivots de la bascule a b, par le moyen de laquelle on renverse le plomb contenu dans l'auge sur la table du moule qui est au-devant du fourneau.
+- H, la table.
+- R K, patins enterrés dans le sol, & auxquels sont assemblés les piés de la table ; l'arc de cercle a H a pour centre le pivot de la bascule ou le centre des demi-poulies sur lesquelles s'enroulent les chaînes qui enlevent l'auge & la font tourner autour du point k, ainsi que l'arc de cercle ponctué l'indique.
 
 Plus loin est la potence ou grue tournante P R S.
-	- P, crapaudine du pivot inférieur scellée dans une grosse pierre qui affleure le sol de l'attelier.
-	- R, pivot supérieur fixé à une des fermes.
-	- S, extrémité du bras auquel la corde est arrêtée ; cette corde après avoir passé sous une poulie mobile remonte & passe au-dessus d'une poulie fixe placée dans une mortoise pratiquée vers l'extrémité du bras, & de-là va passer sur une autre poulie fixe placée dans une mortoise de l'arbre tournant de la grue pour redescendre & s'enrouler sur le treuil du cric t, composé d'une roue dentée & d'un pignon, sur l'axe duquel sont enarbrées deux manivelles ; on verra dans les vignettes des Planches IV. & VII. l'usage de cette grue.
+
+- P, crapaudine du pivot inférieur scellée dans une grosse pierre qui affleure le sol de l'attelier.
+- R, pivot supérieur fixé à une des fermes.
+- S, extrémité du bras auquel la corde est arrêtée ; cette corde après avoir passé sous une poulie mobile remonte & passe au-dessus d'une poulie fixe placée dans une mortoise pratiquée vers l'extrémité du bras, & de-là va passer sur une autre poulie fixe placée dans une mortoise de l'arbre tournant de la grue pour redescendre & s'enrouler sur le treuil du cric t, composé d'une roue dentée & d'un pignon, sur l'axe duquel sont enarbrées deux manivelles ; on verra dans les vignettes des Planches IV. & VII. l'usage de cette grue.
 
 
 PLANCHE III.
@@ -64,24 +68,26 @@ PLANCHE III.
 [![Planche 3](Planche_03.jpeg)](Planche_03.jpeg)
 
 Cette Planche représente la coupe transversale de l'attelier des laminoirs ; on voit dans le fond entre les deux laminoirs la fonderie en élévation, & on a supprimé pour la laisser voir la grue tournante de la Planche précédente.
-	- A, le fourneau ; au-dessous de cette lettre on apperçoit l'orifice du gouleau de la chaudiere.
-	- 1 & 2, chevalet pour assujettir le tampon ou robinet de la chaudiere.
-	- e, cheminée du foyer.
-	- D D, palliers sur lesquels les ouvriers montent pour servir la chaudiere.
-	- V R, la table ou le moule, placé au-devant du fourneau.
-	- h m, cheminée du fourneau ; on voit au-dessous de h la bascule, au moyen de laquelle & des chaînes qui y pendent on verse le plomb de l'auge sur la table, & comment cette bascule est suspendue à une des fermes du comble ; le laminoir T sur la gauche est vû en élévation & antérieurement à l'extrémité de son établi, dont l'extrémité est projettée sur le laminoir ; dans le second laminoir on a supprimé la partie antérieure de l'établi, pour le laisser voir à découvert.
-	- Y Z, roue à aubes placée dans son coursier, sa circonférence est indiquée par une ligne ponctuée dans la Planche précédente, ainsi que le fond du coursier par la ligne Y AE.
-	- T, sol de la partie antérieure de l'établi arasée au rez-de chaussée.
-	- 1, poteau montant qui reçoit en chapeau la traversine a e, scellée en e dans l'épaisseur du mur.
-	- a & c, extrémités des longrines qui portent les tourillons de la bascule 10.
-	- 3, poteau montant qui s'assemble au-dessous de la longrine c.
-	- 5, autre poteau montant, qui avec leurs semblables & plusieurs entre-toises & traverses, forment la cage du rouage.
+
+- A, le fourneau ; au-dessous de cette lettre on apperçoit l'orifice du gouleau de la chaudiere.
+- 1 & 2, chevalet pour assujettir le tampon ou robinet de la chaudiere.
+- e, cheminée du foyer.
+- D D, palliers sur lesquels les ouvriers montent pour servir la chaudiere.
+- V R, la table ou le moule, placé au-devant du fourneau.
+- h m, cheminée du fourneau ; on voit au-dessous de h la bascule, au moyen de laquelle & des chaînes qui y pendent on verse le plomb de l'auge sur la table, & comment cette bascule est suspendue à une des fermes du comble ; le laminoir T sur la gauche est vû en élévation & antérieurement à l'extrémité de son établi, dont l'extrémité est projettée sur le laminoir ; dans le second laminoir on a supprimé la partie antérieure de l'établi, pour le laisser voir à découvert.
+- Y Z, roue à aubes placée dans son coursier, sa circonférence est indiquée par une ligne ponctuée dans la Planche précédente, ainsi que le fond du coursier par la ligne Y AE.
+- T, sol de la partie antérieure de l'établi arasée au rez-de chaussée.
+- 1, poteau montant qui reçoit en chapeau la traversine a e, scellée en e dans l'épaisseur du mur.
+- a & c, extrémités des longrines qui portent les tourillons de la bascule 10.
+- 3, poteau montant qui s'assemble au-dessous de la longrine c.
+- 5, autre poteau montant, qui avec leurs semblables & plusieurs entre-toises & traverses, forment la cage du rouage.
 
 Le second laminoir, duquel on a supprimé la partie antérieure de l'établi & les montans antérieurs de la cage, a pour moteur, ainsi que le premier, une roue à aubes y z.
-	- 2, poteau montant qui reçoit en chapeau la traversine b f.
-	- 4, poteau montant qui s'assemble au-dessous de la seconde longrine.
-	- 6, autre poteau montant, qui avec les autres poteaux, traverses & entretoises, forme la cage du rouage de ce second laminoir.
-	- 10, extrémité de la bascule chargée d'un poids convenable pour faire équilibre avec le cylindre supérieur & toute son armature.
+
+- 2, poteau montant qui reçoit en chapeau la traversine b f.
+- 4, poteau montant qui s'assemble au-dessous de la seconde longrine.
+- 6, autre poteau montant, qui avec les autres poteaux, traverses & entretoises, forme la cage du rouage de ce second laminoir.
+- 10, extrémité de la bascule chargée d'un poids convenable pour faire équilibre avec le cylindre supérieur & toute son armature.
 
 
 PLANCHE IV.
@@ -92,12 +98,13 @@ PLANCHE IV.
 La vignette de cette Planche représente l'opération de couler le plomb en tables, pour ensuite être laminées & réduites à l'épaisseur convenable pour les différens emplois que l'on fait de cette matiere.
 
 La partie de l'attelier qui contient la fonderie, est celle que la vignette représente.
-	- A, le fourneau ; cette lettre indique aussi le gouleau de la chaudiere que l'on doit supposer ouvert pendant l'opération du coulage.
-	- E, la chaudiere.
-	- B, cendrier.
-	- B B, porte du foyer.
-	- e, cheminée du foyer placée sous la hotte h de la cheminée de la fonderie.
-	- c, escalier pour monter sur le pallier D où les ouvriers se placent pour servir la chaudiere ; on voit sur ce pallier une écumoire m, servant à retirer les crasses ou scories de dessus le plomb fondu, & près du même pallier le rable du tiseur pour débraser le cendrier.
+
+- A, le fourneau ; cette lettre indique aussi le gouleau de la chaudiere que l'on doit supposer ouvert pendant l'opération du coulage.
+- E, la chaudiere.
+- B, cendrier.
+- B B, porte du foyer.
+- e, cheminée du foyer placée sous la hotte h de la cheminée de la fonderie.
+- c, escalier pour monter sur le pallier D où les ouvriers se placent pour servir la chaudiere ; on voit sur ce pallier une écumoire m, servant à retirer les crasses ou scories de dessus le plomb fondu, & près du même pallier le rable du tiseur pour débraser le cendrier.
 
 La table V R G K est placée au-devant du fourneau, elle est composée de plusieurs assemblages de charpente supportés par des montans & contre-fiches qui sont assemblés dans les soles qui affleurent le rez-de-chaussée : sur cette table, dont la longueur & les autres dimensions peuvent facilement se déduire des échelles qui sont au bas des Planches sur l'exactitude desquelles on peut compter, sont placées & chevillées trois pieces de bois V G, G K, K R, qui forment les rebords du moule ; c'est entre ces trois rebords qu'on met le sable dont il est formé, de la maniere que l'on expliquera ci-après ; il faut que la face supérieure de ces trois rebords soit parfaitement de niveau.
 
@@ -121,15 +128,16 @@ Près la muraille & entre les deux croisées on voit un réservoir de plomb plei
 Bas de la Planche.
 
 Coupe du fourneau de la chaudiere & de l'auge.
-	- B, le cendrier au-dessus duquel est la grille sur laquelle on met le bois qui sert à chauffer la chaudiere.
-	- E, la chaudiere.
-	- e, la cheminée du foyer.
-	- A, gouleau de la chaudiere.
-	- A 3 4, le tampon du robinet dont la queue est coudée & est retenue par une ou deux vis dans la fourche du chevalet.
-	- C, plaque ou gouttiere de tôle passée sous le chevalet, & appuyée d'un bout sur l'auge ; elle sert à diriger le plomb fondu dans l'auge.
-	- G n g, l'auge de fer forgé revêtue intérieurement de plaque de tôle.
-	- G, centre de mouvement ou charnieres de l'auge.
-	- n, fond de l'auge qui appuye sur le seuil du fourneau.
+
+- B, le cendrier au-dessus duquel est la grille sur laquelle on met le bois qui sert à chauffer la chaudiere.
+- E, la chaudiere.
+- e, la cheminée du foyer.
+- A, gouleau de la chaudiere.
+- A 3 4, le tampon du robinet dont la queue est coudée & est retenue par une ou deux vis dans la fourche du chevalet.
+- C, plaque ou gouttiere de tôle passée sous le chevalet, & appuyée d'un bout sur l'auge ; elle sert à diriger le plomb fondu dans l'auge.
+- G n g, l'auge de fer forgé revêtue intérieurement de plaque de tôle.
+- G, centre de mouvement ou charnieres de l'auge.
+- n, fond de l'auge qui appuye sur le seuil du fourneau.
 
 Fig.
 1. Représentation perspective du tampon du robinet & de la gouttiere dessinés sur une échelle double.

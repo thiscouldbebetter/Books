@@ -9,12 +9,14 @@ PLANCHE Iere.
 
 [![Planche 1](Planche_01.jpeg)](Planche_01.jpeg)
 
-LE haut de cette Planche représente un attelier de potier de terre, où pluseurs ouvriers sont occupés à divers ouvrages ; l'un en
-	- a, à tourner au tour ; un autre en
-	- b, à fabriquer des réchauds ; un autre en
-	- c, à fabriquer des poëles & des fourneaux chimiques, & un autre en
-	- d, à fabriquer des pipes.
-	- e représente le four pour la cuisson des ouvrages ;
+Le haut de cette Planche représente un attelier de potier de terre, où pluseurs ouvriers sont occupés à divers ouvrages ; l'un en
+
+- a, à tourner au tour ; un autre en
+- b, à fabriquer des réchauds ; un autre en
+- c, à fabriquer des poëles & des fourneaux chimiques, & un autre en
+- d, à fabriquer des pipes.
+- e représente le four pour la cuisson des ouvrages ;
+
 le reste de l'attelier est occupé par différentes sorts d'ouvrages de poterie. Façon d'un réchaud, qui est à-peu-près la même pour toutes sortes d'ouvrages en terre.
 
 Fig.

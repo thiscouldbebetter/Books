@@ -9,12 +9,13 @@ PLANCHE Iere.
 
 [![Planche 1](Planche_1.jpeg)](Planche_1.jpeg)
 
-LE haut de cette Planche représente un attelier où plusieurs ouvriers sont occupés à la fabrique des patenôtres ; l'un en
-	- a, à fendre un os sur un billot avec un coin ; un autre en
-	- b, à dresser à la serpe un fragment d'os ; un autre en
-	- c, à arranger ces fragmens en pentes paralleles pour en faire des grains ; un autre en
-	- d, à percer ces paralleles au rouet ; & un autre en
-	- e enfin, à les tourner.
+Le haut de cette Planche représente un attelier où plusieurs ouvriers sont occupés à la fabrique des patenôtres ; l'un en
+
+- a, à fendre un os sur un billot avec un coin ; un autre en
+- b, à dresser à la serpe un fragment d'os ; un autre en
+- c, à arranger ces fragmens en pentes paralleles pour en faire des grains ; un autre en
+- d, à percer ces paralleles au rouet ; & un autre en
+- e enfin, à les tourner.
 
 Fig.
 1. Os entier.
