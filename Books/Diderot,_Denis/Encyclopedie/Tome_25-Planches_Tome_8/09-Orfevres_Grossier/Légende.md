@@ -1198,6 +1198,7 @@ PLANCHE XIX.
 [![Planche 19](Planche_19.jpeg)](Planche_19.jpeg)
 
 Cette Planche représente une vue perspective d'une machine aux lavures, le dessus sert à faire les lavures, & le dessous à piler les cendres.
+
 	- A, le fourneau.
 	- B, le soufflet.
 	- C, l'arbre de la machine mûe par le courant d'une riviere.
@@ -1237,4 +1238,4 @@ Cette Planche représente une vue perspective d'une machine aux lavures, le dess
 	- n n, support des roues à manivelle.
 
 
-[->](../10-Orfevres_Bijoutier/Légende.md)
+[->](../10-Orfevre_Bijoutier/Légende.md)
