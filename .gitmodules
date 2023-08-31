@@ -1,9 +1,0 @@
-[submodule "Books/Diderot,_Denis/Encyclopedie"]
-	path = Books/Diderot,_Denis/Encyclopedie
-	url = https://github.com/thiscouldbebetter/Books-Diderot_Denis-Encyclopedie
-[submodule "Books/Wagner,_Rudolph/Handbuch_der_chemischen_Technologie"]
-	path = Books/Wagner,_Rudolph/Handbuch_der_chemischen_Technologie
-	url = https://github.com/thiscouldbebetter/Books-Wagner_Rudolph-Handbuch_der_chemischen_Technologie
-[submodule "Books/Euclid/Elements"]
-	path = Books/Euclid/Elements
-	url = https://github.com/thiscouldbebetter/Books-Euclid-Elements
