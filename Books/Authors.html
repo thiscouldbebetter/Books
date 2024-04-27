@@ -1,0 +1,709 @@
+<html>
+<body>
+
+<div>
+	<h3>Books by Author</h3>
+
+	<p>
+		Below is a listing of books by author.
+	</p>
+
+	<ul id="ulAuthors">
+	</ul>
+
+</div>
+
+<script type="text/javascript">
+
+// Main.
+
+function main()
+{
+	var authors = authorsGet();
+
+	var d = document;
+
+	var ulAuthors = d.getElementById("ulAuthors");
+
+	authors.forEach(x => ulAuthors.appendChild(x.toDomElement() ) );
+}
+
+function authorsGet()
+{
+	var a = (name, bookNames) => new Author(name, bookNames);
+
+	var b = (name, parts) => new Book(name, parts);
+
+	var p = (name, children) => new BookPart(name, children);
+
+	var noteNotYetAccessible =
+		"Not yet accessible through this interface.";
+
+	var authors = 
+	[
+		a(
+			"Aeschylus",
+			[
+				b("Agamemnon-Greek.txt"),
+				b("Eumenides,_The-Greek.txt"),
+				b("Libation_Bearers,_The-Greek.txt"),
+				b("Lyrical_Dramas_of_Aeschylus-English.txt"),
+				b("Persians,_The-Greek.txt"),
+				b("Prometheus_Bound-Greek.txt"),
+				b("Seven_Against_Thebes-Greek.txt")
+			]
+		),
+		a(
+			"Agricola,_Georgius",
+			[
+				b("De_Re_Metallica.epub")
+			]
+		),
+		a(
+			"Alighieri,_Dante",
+			[
+				b("Divina_Commedia,_La.md"),
+				b("Divine_Comedy,_The-English.txt")
+			]
+		),
+		a(
+			"Aquinas,_Thomas",
+			[
+				b("Summa_Theologica_Part_1.txt"),
+				b("Summa_Theologica_Part_2-1.txt"),
+				b("Summa_Theologica_Part_2-2.txt"),
+				b("Summa_Theologica_Part_3.txt")
+			]
+		),
+		a("Archimedes", [ b("Geometrical_Solutions_Derived_from_Mechanics.pdf") ] ),
+		a(
+			"Aristophanes",
+			[
+				b("Batrakhoi-Greek.txt"),
+				b("Birds,_The-Greek.txt"),
+				b("Clouds,_The-Greek.txt"),
+				b("Ecclesiazousae-Greek.txt"),
+				b("Eleven_Comedies,_The-Volume_1-English.txt"),
+				b("Eleven_Comedies,_The-Volume_2-English.txt"),
+				b("Lysistrata-Greek.txt")
+			]
+		),
+		a(
+			"Aristotle",
+			[
+				b("Athenian_Constitution,_The-English.txt"),
+				b("Categories-English.txt"),
+				b("Ethics-English.txt"),
+				b("Poetics-English.txt"),
+				b("Politics-English.txt")
+			]
+		),
+		a("Augustine_of_Hippo", [ b("Confessions-English.txt") ]),
+		a("Brown,_Charles_et_al", [ b("Most_Common_English_Words.txt") ]),
+		a("Brown,_Francis", [ b("A_Hebrew_and_English_lexicon_of_the_Old_Testament.epub") ]),
+		a("Cassell_and_Company", [ b("Latin_Dictionary.epub") ]),
+		a(
+			"Cervantes_Saavedra,_Miguel_de",
+			[
+				b("Don_Quixote-English.epub"),
+				b(
+					"Don_Quixote-Spanish",
+					[
+						p("00-Notes.md"),
+						p(
+							"01-Primera_Parte",
+							[
+								p("00-Índice,_Tasa_y_Prólogo.md"),
+								p("01-Capítulo_1.md"),
+								p("02-Capítulo_2.md"),
+								p("03-Capítulo_3.md"),
+								p("04-Capítulo_4.md"),
+								p("05-Capítulo_5.md"),
+								p("06-Capítulo_6.md"),
+								p("07-Capítulo_7.md"),
+								p("08-Capítulo_8.md"),
+								p("09-Capítulo_9.md"),
+								p("10-Capítulo_10.md"),
+								p("11-Capítulo_11.md"),
+								p("12-Capítulo_12.md"),
+								p("13-Capítulo_13.md"),
+								p("14-Capítulo_14.md"),
+								p("15-Capítulo_15.md"),
+								p("16-Capítulo_16.md"),
+								p("17-Capítulo_17.md"),
+								p("18-Capítulo_18.md"),
+								p("19-Capítulo_19.md"),
+								p("20-Capítulo_20.md"),
+								p("21-Capítulo_21.md"),
+								p("22-Capítulo_22.md"),
+								p("23-Capítulo_23.md"),
+								p("24-Capítulo_24.md"),
+								p("25-Capítulo_25.md"),
+								p("26-Capítulo_26.md"),
+								p("27-Capítulo_27.md"),
+								p("28-Capítulo_28.md"),
+								p("29-Capítulo_29.md"),
+								p("30-Capítulo_30.md"),
+								p("31-Capítulo_31.md"),
+								p("32-Capítulo_32.md"),
+								p("33-Capítulo_33.md"),
+								p("34-Capítulo_34.md"),
+								p("35-Capítulo_35.md"),
+								p("36-Capítulo_36.md"),
+								p("37-Capítulo_37.md"),
+								p("38-Capítulo_38.md"),
+								p("39-Capítulo_39.md"),
+								p("40-Capítulo_40.md"),
+								p("41-Capítulo_41.md"),
+								p("42-Capítulo_42.md"),
+								p("43-Capítulo_43.md"),
+								p("44-Capítulo_44.md"),
+								p("45-Capítulo_45.md"),
+								p("46-Capítulo_46.md"),
+								p("47-Capítulo_47.md"),
+								p("48-Capítulo_48.md"),
+								p("49-Capítulo_49.md"),
+								p("50-Capítulo_50.md"),
+								p("51-Capítulo_51.md"),
+								p("52-Capítulo_52.md")
+							]
+						),
+						p
+						(
+							"02-Segunda_Parte",
+							[
+								p("00-Índice_y_Prólogo.md"),
+								p("01-Capítulo_01.md"),
+								p("02-Capítulo_02.md"),
+								p("03-Capítulo_03.md"),
+								p("04-Capítulo_04.md"),
+								p("05-Capítulo_05.md"),
+								p("06-Capítulo_06.md"),
+								p("07-Capítulo_07.md"),
+								p("08-Capítulo_08.md"),
+								p("09-Capítulo_09.md"),
+								p("10-Capítulo_10.md"),
+								p("11-Capítulo_11.md"),
+								p("12-Capítulo_12.md"),
+								p("13-Capítulo_13.md"),
+								p("14-Capítulo_14.md"),
+								p("15-Capítulo_15.md"),
+								p("16-Capítulo_16.md"),
+								p("17-Capítulo_17.md"),
+								p("18-Capítulo_18.md"),
+								p("19-Capítulo_19.md"),
+								p("20-Capítulo_20.md"),
+								p("21-Capítulo_21.md"),
+								p("22-Capítulo_22.md"),
+								p("23-Capítulo_23.md"),
+								p("24-Capítulo_24.md"),
+								p("25-Capítulo_25.md"),
+								p("26-Capítulo_26.md"),
+								p("27-Capítulo_27.md"),
+								p("28-Capítulo_28.md"),
+								p("29-Capítulo_29.md"),
+								p("30-Capítulo_30.md"),
+								p("31-Capítulo_31.md"),
+								p("32-Capítulo_32.md"),
+								p("33-Capítulo_33.md"),
+								p("34-Capítulo_34.md"),
+								p("35-Capítulo_35.md"),
+								p("36-Capítulo_36.md"),
+								p("37-Capítulo_37.md"),
+								p("38-Capítulo_38.md"),
+								p("39-Capítulo_39.md"),
+								p("40-Capítulo_40.md"),
+								p("41-Capítulo_41.md"),
+								p("42-Capítulo_42.md"),
+								p("43-Capítulo_43.md"),
+								p("44-Capítulo_44.md"),
+								p("45-Capítulo_45.md"),
+								p("46-Capítulo_46.md"),
+								p("47-Capítulo_47.md"),
+								p("48-Capítulo_48.md"),
+								p("49-Capítulo_49.md"),
+								p("50-Capítulo_50.md"),
+								p("51-Capítulo_51.md"),
+								p("52-Capítulo_52.md"),
+								p("53-Capítulo_53.md"),
+								p("54-Capítulo_54.md"),
+								p("55-Capítulo_55.md"),
+								p("56-Capítulo_56.md"),
+								p("57-Capítulo_57.md"),
+								p("58-Capítulo_58.md"),
+								p("59-Capítulo_59.md"),
+								p("60-Capítulo_60.md"),
+								p("61-Capítulo_61.md"),
+								p("62-Capítulo_62.md"),
+								p("63-Capítulo_63.md"),
+								p("64-Capítulo_64.md"),
+								p("65-Capítulo_65.md"),
+								p("66-Capítulo_66.md"),
+								p("67-Capítulo_67.md"),
+								p("68-Capítulo_68.md"),
+								p("69-Capítulo_69.md"),
+								p("70-Capítulo_70.md"),
+								p("71-Capítulo_71.md"),
+								p("72-Capítulo_72.md"),
+								p("73-Capítulo_73.md"),
+								p("74-Capítulo_74.md")
+							]
+						)
+					]
+				)
+			]
+		),
+		a(
+			"Chaucer,_Geoffrey",
+			[
+				b("Chaucer's_Works-Volume_1_of_7.txt"),
+				b("Chaucer's_Works-Volume_2_of_7.txt"),
+				b("Chaucer's_Works-Volume_3_of_7.txt"),
+				b("Chaucer's_Works-Volume_4_of_7.txt"),
+				b("Chaucer's_Works-Volume_5_of_7.txt"),
+				b("Chaucer's_Works-Volume_6_of_7.txt")
+			]
+		),
+		a(
+			"DC_Heath_and_Company",
+			[
+				b("French_and_English_Dictionary.epub")
+			]
+		),
+		/*
+		a(
+			"Diderot,_Denis",
+			[
+				b("Encyclopedie", [])
+			]
+		),
+		*/
+		a(
+			"Epictetus",
+			[
+				b("Selection_from_the_Discourses_of_Epictetus_with_the_Encheiridion,_A-English.txt")
+			]
+		),
+		// a("Euclid", [ b("Elements", []) ]),
+		a(
+			"Euripides",
+			[
+				b("Alcestis-Greek.txt"),
+				b("Andromache-Greek.txt"),
+				b("Cyclops-Greek.txt"),
+				b("Elektra-Greek.txt"),
+				b("Ion-Greek.txt"),
+				b("Iphigenia_in_Aulis-Greek.txt"),
+				b("Orestes-Greek.txt"),
+				b("Tragedies_of_Euripedes,_The-English-Volume_1.txt")
+			]
+		),
+		a(
+			"Freese,_JH",
+			[
+				b("New_Pocket_Dictionary_of_the_English_and_Russian_Languages,_A.epub")
+			]
+		),
+		a("Galen", [ b("On_the_Natural_Faculties-English.txt") ]),
+		a(
+			"Herodotus",
+			[
+				b("History-Volume_1-English.txt"),
+				b("History-Volume_2-English.txt"),
+				b("Istoriai-Tomos_1-Greek.txt"),
+				b("Istoriai-Tomos_2-Greek.txt")
+			]
+		),
+		a("Hobbes,_Thomas", [ b("Leviathan.txt") ]),
+		a(
+			"Homer",
+			[
+				b(
+					"Iliad,_The",
+					[
+						p("Homer-Iliad,_The-Greek-With_Transliteration.txt"),
+						p("Homer-Iliad,_The-Greek.txt"),
+						p("Iliad,_The-English.epub"),
+					]
+				),
+				b(
+					"Odyssey,_The",
+					[
+						p("Homer-Odyssey,_The-Greek-Transliterated.txt"),
+						p("Homer-Odyssey,_The-Greek.txt"),
+						p("Odyssey,_The-English.epub")
+					]
+				)
+			]
+		),
+		a("Lucretius", [ b("On_the_Nature_of_Things-English.txt") ]),
+		a("Machiavelli,_Niccolo", [ b("Prince,_The-English.txt") ]),
+		a(
+			"Malory,_Thomas",
+			[
+				b
+				(
+					"Le_Morte_d'Arthur",
+					[
+						p("00-Introduction.md"),
+						p("01-Book_01.md"),
+						p("02-Book_02.md"),
+						p("03-Book_03.md"),
+						p("04-Book_04.md"),
+						p("05-Book_05.md"),
+						p("06-Book_06.md"),
+						p("07-Book_07.md"),
+						p("08-Book_08.md"),
+						p("09-Book_09.md"),
+						p("10-Book_10.md"),
+						p("11-Book_11.md"),
+						p("12-Book_12.md"),
+						p("13-Book_13.md"),
+						p("14-Book_14.md"),
+						p("15-Book_15.md"),
+						p("16-Book_16.md"),
+						p("17-Book_17.md"),
+						p("18-Book_18.md"),
+						p("19-Book_19.md"),
+						p("20-Book_20.md"),
+						p("21-Book_21.md"),
+						p("22-Notes.md")
+					]
+				)
+			]
+		),
+		a("Marcus_Aurelius", [ b("Meditations-English.txt") ]),
+		a(
+			"Melville,_Herman",
+			[
+				b("Bartleby,_The_Scrivener.md"),
+				b("Moby_Dick.md"),
+				b("Typee.md")
+			]
+		),
+		a(
+			"Milton,_John",
+			[
+				b("Paradise_Lost.md"),
+				b("Paradise_Regain'd.md"),
+				b("Samson_Agonistes.md")
+			]
+		),
+		a(
+			"Montaigne,_Michel_de",
+			[
+				b("Essais-Volume_1-French.txt"),
+				b("Essais-Volume_2-French.txt"),
+				b("Essais-Volume_3-French.txt"),
+				b("Essais-Volume_4-French.txt"),
+				b("Essays-English.txt")
+			]
+		),
+		a("Moxon,_Joseph", [ b("Mechanick_Exercises.pdf") ]),
+		a("Owen,_William_Bishop_et_al", [ b("Homeric_Vocabularies.epub") ]),
+		a(
+			"Plato",
+			[
+				b("Alcibiades_1-English.txt"),
+				b("Apologia_Sokratous.md"),
+				b("Apology-English.txt"),
+				b("Charmides-English.txt"),
+				b("Cratylus-English.txt"),
+				b("Critias-English.txt"),
+				b("Crito-English.txt"),
+				b("Eryxias,_Axiokhos,_Alkyon.md"),
+				b("Euthofron.md"),
+				b("Euthydemus-English.txt"),
+				b("Euthydemus.md"),
+				b("Euthyphro-English.txt"),
+				b("Gorgias-English.txt"),
+				b("Hippias,_Meizon,_kai_Elasson.md"),
+				b("Ion-English.txt"),
+				b("Kratylus.md"),
+				b("Kritias,_Hipparkhos,_Anterastai.md"),
+				b("Laches-English.txt"),
+				b("Laws-English.txt"),
+				b("Lesser_Hippias-English.txt"),
+				b("Lysis-English.txt"),
+				b("Menexenos.md"),
+				b("Menexenus-English.txt"),
+				b("Meno-English.txt"),
+				b("Menon.md"),
+				b("Nomoi_kai_Epinomis-Tomos_A.md"),
+				b("Nomoi_kai_Epinomis-Tomos_B.md"),
+				b("Nomoi_kai_Epinomis-Tomos_C.md"),
+				b("Nomoi_kai_Epinomis-Tomos_D.md"),
+				b("Nomoi_kai_Epinomis-Tomos_E.md"),
+				b("O_Agios_Dimitrios.md"),
+				b("Parmenides-English.txt"),
+				b("Phaedo-English.txt"),
+				b("Phaidon.md"),
+				b("Phaidros.md"),
+				b("Philebus-English.txt"),
+				b("Philibos.md"),
+				b("Protagoras-English.txt"),
+				b("Republic,_The-English.txt"),
+				b("Sophist-English.txt"),
+				b("Sophistis.md"),
+				b("Statesman-English.txt"),
+				b("Symposium-English.txt"),
+				b("Theaetetus-English.txt"),
+				b("Timaeus-English.txt")
+			]
+		),
+		a(
+			"Plutarch",
+			[
+				b("Bioi_Paralleloi-Tomos_1-(Greek).md"),
+				b("Bioi_Paralleloi-Tomos_2-(Greek).md"),
+				b("Bioi_Paralleloi-Tomos_3-(Greek).md"),
+				b("Lives-Volume_1_of_4-English.txt"),
+				b("Lives-Volume_2_of_4-English.txt"),
+				b("Lives-Volume_3_of_4-English.txt"),
+				b("Lives-Volume_4_of_4-English.txt"),
+				b("Selected_Essays-Volume_1-English.txt"),
+				b("Selected_Essays-Volume_2-English.txt")
+			]
+		),
+		a(
+			"Rabelais,_Francois",
+			[
+				b("Gargantua_and_Pantagruel-English.txt")
+			]
+		),
+		a(
+			"Shakespeare,_William",
+			[
+				b("01-Contents.txt"),
+				b("02-Poems.txt"),
+				b("03-All's_Well_that_Ends_Well.txt"),
+				b("04-Antony_and_Cleopatra.txt"),
+				b("05-As_You_Like_It.txt"),
+				b("06-Comedy_of_Errors,_The.txt"),
+				b("07-Coriolanus.txt"),
+				b("08-Cymbeline.txt"),
+				b("09-Hamlet,_Prince_of_Denmark.txt"),
+				b("10-Henry_the_4th,_Part_1.txt"),
+				b("11-Henry_the_4th,_Part_2.txt"),
+				b("12-Henry_the_5th.txt"),
+				b("13-Henry_the_6th,_Part_1.txt"),
+				b("14-Henry_the_6th,_Part_2.txt"),
+				b("15-Henry_the_6th,_Part_3.txt"),
+				b("16-Henry_the_8th.txt"),
+				b("17-King_John.txt"),
+				b("18-Julius_Caesar.txt"),
+				b("19-King_Lear.txt"),
+				b("20-Love's_Labour's_Lost.txt"),
+				b("21-Macbeth.txt"),
+				b("22-Measure_for_Measure.txt"),
+				b("23-Merchant_of_Venice,_The.txt"),
+				b("24-Merry_Wives_of_Windsor,_The.txt"),
+				b("25-Midsummer_Night's_Dream,_A.txt"),
+				b("26-Much_Ado_About_Nothing.txt"),
+				b("27-Othello,_The_Moor_of_Venice.txt"),
+				b("28-Pericles,_Prince_of_Tyre.txt"),
+				b("29-Richard_the_2nd.txt"),
+				b("30-Richard_the_3rd.txt"),
+				b("31-Romeo_and_Juliet.txt"),
+				b("32-Taming_of_the_Shrew,_The.txt"),
+				b("33-Tempest,_The.txt"),
+				b("34-Timon_of_Athens.txt"),
+				b("35-Titus_Andronicus.txt"),
+				b("36-Troilus_and_Cressida.txt"),
+				b("37-Twelfth_Night,_or,_What_You_Will.txt"),
+				b("38-Two_Gentlemen_of_Verona,_The.txt"),
+				b("39-Two_Noble_Kinsmen,_The.txt"),
+				b("40-Winter's_Tale,_The.txt")
+			]
+		),
+		a(
+			"Sophocles",
+			[
+				b("Antigone-Greek.txt"),
+				b("Oedipus_at_Colonus-Greek.txt"),
+				b("Oediups_Rex-Greek.txt"),
+				b("Seven_Plays_in_English_Verse,_The.txt")
+			]
+		),
+		a("Sun_Tzu", [ b("Art_of_War,_The-English.txt") ]),
+		a("Tacitus", [ b("Histories_The-Volumes_1_and_2-English.txt") ]),
+		a(
+			"Thucydides",
+			[
+				b("History_of_the_Peloponnesian_War-English.txt"),
+				b("History_of_the_Peloponnesian_War-Volume_1-Greek.txt"),
+				b("History_of_the_Peloponnesian_War-Volume_2-Greek.txt"),
+				b("History_of_the_Peloponnesian_War-Volume_3-Greek.txt"),
+				b("History_of_the_Peloponnesian_War-Volume_4-Greek.txt")
+			]
+		),
+		a(
+			"Twain,_Mark",
+			[
+				b("Adventures_of_Huckleberry_Finn,_The.md"),
+				b("Adventures_of_Tom_Sawyer,_The.md"),
+				b("Connecticut_Yankee_in_King_Arthur's_Court,_A.md"),
+				b("Eve's_Diary.md"),
+				b("Following_the_Equator-A_Journey_Around_the_World.md"),
+				b("Innocents_Abroad,_The.md"),
+				b("Life_on_the_Mississippi.md"),
+				b("Prince_and_the_Pauper,_The.md"),
+				b("Roughing_It.md"),
+				b("Speeches.md"),
+				b("Tragedy_of_Puddinhead_Wilson.md"),
+				b("Tramp_Abroad,_A.md")
+			]
+		),
+		a("Various", [ b("Holy_Bible,_The-King_James_Version.txt") ]),
+		a(
+			"Virgil",
+			[
+				b("Aeneidos.md"),
+				b("Aenid,_The-English.txt"),
+				b("Bucolics_and_Eclogues,_The-English.txt"),
+				b("Bucolics_and_Eclogues,_The-Latin.txt"),
+				b("Georgicon-Latin.txt"),
+				b("Georgics,_The-English.txt")
+			]
+		),
+		/*
+		a(
+			"Wagner,_Rudolph",
+			[
+				b(
+					"Handbuch_der_chemischen_Technologie"
+					[
+						
+					]
+				)
+			]
+		)
+		*/
+	];
+
+	return authors;
+}
+
+// Classes.
+
+class Author
+{
+	constructor(name, books)
+	{
+		this.name = name;
+		this.books = books;
+	}
+
+	toDomElement()
+	{
+		var d = document;
+
+		var liAuthor = d.createElement("li");
+
+		liAuthor.innerHTML = this.name;
+
+		var author = this;
+		var booksAsLiElements = this.books.map(x => x.toDomElement(author) )
+
+		var ulBooks = d.createElement("ul");
+		booksAsLiElements.forEach(x => ulBooks.appendChild(x) );
+
+		liAuthor.appendChild(ulBooks);
+
+		return liAuthor;
+	}
+}
+
+class Book
+{
+	constructor(name, parts)
+	{
+		this.name = name;
+		this.parts = parts;
+	}
+
+	toDomElement(author)
+	{
+		var d = document;
+
+		var liBook = d.createElement("li");
+
+		if (this.parts == null)
+		{
+			var linkToBook = d.createElement("a");
+			linkToBook.innerHTML = this.name;
+			linkToBook.href = author.name + "/" + this.name;
+			liBook.appendChild(linkToBook);
+		}
+		else
+		{
+			var bookNameAsElement = d.createElement("div");
+			bookNameAsElement.innerHTML = this.name;
+			liBook.appendChild(bookNameAsElement);
+
+			var partsAsLiElements =
+				this.parts.map(x => x.toDomElement(author, this, []) );
+			var ulParts = d.createElement("ul");
+			partsAsLiElements.forEach(x => ulParts.appendChild(x) );
+
+			liBook.appendChild(ulParts);
+		}
+
+		return liBook;
+	}
+}
+
+class BookPart
+{
+	constructor(name, children)
+	{
+		this.name = name;
+		this.children = children;
+	}
+
+	toDomElement(author, book, partsAncestors)
+	{
+		var d = document;
+
+		var liPart = d.createElement("li");
+
+		if (this.children == null)
+		{
+			var linkToPart = d.createElement("a");
+			linkToPart.innerHTML = this.name;
+			linkToPart.href =
+				author.name + "/"
+				+ book.name + "/"
+				+ partsAncestors.map(x => x.name).join("/") + "/"
+				+ this.name;
+			liPart.appendChild(linkToPart);
+		}
+		else
+		{
+			var partNameAsElement = d.createElement("div");
+			partNameAsElement.innerHTML = this.name;
+			liPart.appendChild(partNameAsElement);
+
+			partsAncestors = partsAncestors.map(x => x);
+			partsAncestors.push(this);
+
+			var childrenAsLiElements = this.children.map
+			(
+				x => x.toDomElement(author, book, partsAncestors)
+			);
+			var ulChildren = d.createElement("ul");
+			childrenAsLiElements.forEach(x => ulChildren.appendChild(x) );
+			liPart.appendChild(ulChildren);
+		}
+
+		return liPart;
+	}
+}
+
+// Run.
+
+main();
+
+</script>
+</body>
+</html>
