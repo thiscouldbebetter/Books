@@ -7,3 +7,6 @@
 [submodule "Books/Euclid/Elements"]
 	path = Books/Euclid/Elements
 	url = https://github.com/thiscouldbebetter/Books-Euclid-Elements
+[submodule "Books/Hasluck,_Paul_N"]
+	path = Books/Hasluck,_Paul_N
+	url = https://github.com/thiscouldbebetter/Books-Hasluck_Paul_N
